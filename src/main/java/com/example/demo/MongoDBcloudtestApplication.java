@@ -1,5 +1,9 @@
 package com.example.demo;
 
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.http.HttpClient;
 import java.util.Scanner;
 
 import org.springframework.boot.SpringApplication;
@@ -12,21 +16,9 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 @EnableMongoRepositories("com.persistance")
 public class MongoDBcloudtestApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		SpringApplication.run(MongoDBcloudtestApplication.class, args);
 		
-	/*	Scanner keyboard = new Scanner(System.in);
-
-		String sss = "";
-		
-		while(true) {
-			System.out.println("Type something");
-			sss = keyboard.next();
-			switch(sss) {
-			default:
-				System.out.println("You typed:" +sss);
-			}
-		}*/
 		
 	}
 
