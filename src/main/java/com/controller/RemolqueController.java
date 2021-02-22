@@ -9,34 +9,32 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.model.Camion;
-import com.persistance.CamionRepository;
-
+import com.model.Remolque;
+import com.persistance.RemolqueRepository;
 
 @RestController
-@RequestMapping("camion")
-public class CamionController {
+@RequestMapping("remolque")
+public class RemolqueController {
 	
 	@Autowired
-	private CamionRepository camionRepository;
+	private RemolqueRepository remolqueRepository;
 	
 	
 	@GetMapping(value="getAll")
-    public List<Camion> getAll(){
+    public List<Remolque> getAll(){
         
-        return this.camionRepository.findAll();
+        return this.remolqueRepository.findAll();
     }
 	
 	@PostMapping("create")
-	public List<Camion> create(@RequestBody List<Camion> camion) {
+	public List<Remolque> create(@RequestBody List<Remolque> remolque) {
 		
-		return this.camionRepository.insert(camion);
+		return this.remolqueRepository.insert(remolque);
 		
 	}
-	
 	@PostMapping("deleteAll")
 	public void delete_all() {
-		this.camionRepository.deleteAll();
+		this.remolqueRepository.deleteAll();
 		
 	}
 }

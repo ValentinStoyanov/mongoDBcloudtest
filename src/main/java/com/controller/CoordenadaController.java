@@ -9,34 +9,34 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.model.Camion;
-import com.persistance.CamionRepository;
+import com.model.Coordenada;
+import com.persistance.CoordenadaRepository;
+
 
 
 @RestController
-@RequestMapping("camion")
-public class CamionController {
+@RequestMapping("coordenada")
+public class CoordenadaController {
 	
 	@Autowired
-	private CamionRepository camionRepository;
+	private CoordenadaRepository coordenadaRepository;
 	
 	
 	@GetMapping(value="getAll")
-    public List<Camion> getAll(){
+    public List<Coordenada> getAll(){
         
-        return this.camionRepository.findAll();
+        return this.coordenadaRepository.findAll();
     }
 	
 	@PostMapping("create")
-	public List<Camion> create(@RequestBody List<Camion> camion) {
+	public List<Coordenada> create(@RequestBody List<Coordenada> coordenada) {
 		
-		return this.camionRepository.insert(camion);
+		return this.coordenadaRepository.insert(coordenada);
 		
 	}
-	
 	@PostMapping("deleteAll")
 	public void delete_all() {
-		this.camionRepository.deleteAll();
+		this.coordenadaRepository.deleteAll();
 		
 	}
 }
