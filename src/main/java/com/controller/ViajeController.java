@@ -32,6 +32,15 @@ public class ViajeController {
 		return this.viajeRepository.insert(viaje);
 		
 	}
+	
+	
+	@PostMapping("createone")
+	public Viaje createone(@RequestBody Viaje viaje) {
+		
+		return this.viajeRepository.insert(viaje);
+		
+	}
+	
 	@PostMapping("deleteAll")
 	public void delete_all() {
 		this.viajeRepository.deleteAll();

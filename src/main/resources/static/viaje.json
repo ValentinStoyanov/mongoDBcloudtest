@@ -1,0 +1,2512 @@
+[
+  {
+    "idConductor": "a47bd042-72ce-4ae8-89ab-a95a109986ac",
+    "idCamion": "1782b2b3-d5ff-4988-9617-21254c2be3f3",
+    "idRemolque": "a5860c48-ffba-45a3-95ef-f99ed34341ba"
+  },
+  {
+    "idConductor": "0622aa57-3572-44e8-876e-6953fb877e46",
+    "idCamion": "c3b4abb6-e493-45d2-aad2-0032d5d891d5",
+    "idRemolque": "9c4f8de7-5a06-4461-9782-da9d7941648b"
+  },
+  {
+    "idConductor": "8f31e68f-7d46-42f8-b413-ef5559cd5458",
+    "idCamion": "1bf71df7-cd7d-4b58-809f-76bdaffbd2f0",
+    "idRemolque": "bf9fff37-73ec-41d1-b228-5186d3f83e71"
+  },
+  {
+    "idConductor": "8db92a7c-ff6b-40b9-b907-a500c5adcb5c",
+    "idCamion": "e18655b8-f9ac-4291-bc20-318781d9a730",
+    "idRemolque": "1faa23c0-232f-4ba2-933d-be962a3e0b85"
+  },
+  {
+    "idConductor": "0c0c1066-18af-4155-89d2-ddbbaceb3293",
+    "idCamion": "e8f237fa-608e-48d6-b346-0564a741a09f",
+    "idRemolque": "28b68536-29cb-45f3-b47f-3afb1d68c5a5"
+  },
+  {
+    "idConductor": "6c94fa28-59c6-4673-bc0b-125cbe41a54a",
+    "idCamion": "c0554224-7224-4d1f-bc64-c9505206aa8f",
+    "idRemolque": "77707cf7-12f7-4cec-b33f-7edfb851ebb1"
+  },
+  {
+    "idConductor": "8e56e8bf-bdb4-4e72-ac6e-a27d3822ea38",
+    "idCamion": "ac151976-32aa-421d-90b4-2d9a980fefd2",
+    "idRemolque": "106a1ced-e23f-44be-8618-0e13f11f5488"
+  },
+  {
+    "idConductor": "3a37f99a-cfd4-4566-80a7-c9b71d62a8e5",
+    "idCamion": "785930f9-a3d4-42d1-81f7-097bdb690fe0",
+    "idRemolque": "68062873-6d36-4885-8b49-27a8c80916b9"
+  },
+  {
+    "idConductor": "af16a10b-d815-4c08-a72b-766b2c8abf31",
+    "idCamion": "d2bc407a-51e3-4d9c-9ffd-0333ec49c08c",
+    "idRemolque": "cc39cb20-512d-4a9b-abca-648dcf7d9eaa"
+  },
+  {
+    "idConductor": "9fde9edb-d609-4eaa-8d6d-a0346edd8de8",
+    "idCamion": "e766f6db-d0b4-47be-aba3-9e268df90b4f",
+    "idRemolque": "fb799e1e-da2a-49cb-ab2e-1861e1d37415"
+  },
+  {
+    "idConductor": "4a3237b0-520d-445c-8a44-222a4eba684e",
+    "idCamion": "8b2f093e-ef19-41ed-8a73-b17d1680e113",
+    "idRemolque": "89955b8a-dad7-4195-ba90-5de700625c2a"
+  },
+  {
+    "idConductor": "a2e0065a-7fed-4a9c-b06d-bd092bd44cab",
+    "idCamion": "060fa4a7-db72-43be-b9f1-2223df9e98e2",
+    "idRemolque": "b2b767af-167f-4b2c-8717-02310f084fae"
+  },
+  {
+    "idConductor": "996e7056-3d1d-4973-a127-838bcb2f17ef",
+    "idCamion": "03ec65eb-9eac-4de2-843b-44e0ef53fbde",
+    "idRemolque": "be5f7174-f2c5-4943-98fd-ecfee649aa2c"
+  },
+  {
+    "idConductor": "82a62db1-62d6-4a7c-9a35-1e83dac071f1",
+    "idCamion": "fc146fbc-7a16-4800-926c-5896120f163e",
+    "idRemolque": "428c52cc-9b00-4244-9634-7c9bfe7ecdb8"
+  },
+  {
+    "idConductor": "b25f802a-f53a-451a-97da-23731f16d597",
+    "idCamion": "65afdbd5-d1a6-4abe-b0ce-d6e1df2554ce",
+    "idRemolque": "3559799a-e789-4b4a-afed-b68e9cc23164"
+  },
+  {
+    "idConductor": "394047ec-0dd6-453a-9777-f023de4a4985",
+    "idCamion": "5c43f944-bdda-448d-868d-2e05a99341a0",
+    "idRemolque": "0bc49fe4-f9ec-4105-84bb-d084c852be86"
+  },
+  {
+    "idConductor": "d8ba783a-f86a-4f84-8382-21baf9190f32",
+    "idCamion": "dab1740f-46b7-48ce-be31-a72b07f9eddf",
+    "idRemolque": "3cdfeb1e-e82d-42ea-846c-08a297c58596"
+  },
+  {
+    "idConductor": "8f109dca-a336-4980-a2d1-4ab47a5dc639",
+    "idCamion": "aa0488d3-f4a9-482e-a5a1-82c7bec6e349",
+    "idRemolque": "628a82a2-40be-4567-8dd7-3bc693255403"
+  },
+  {
+    "idConductor": "b110028a-bad6-44b0-b739-9a7aa95ca26a",
+    "idCamion": "49b2f169-7505-4d79-a6a1-05f459c56c03",
+    "idRemolque": "a32918ae-1e80-4bfb-9c83-660c6df9ba36"
+  },
+  {
+    "idConductor": "b96bd8ea-ab89-4730-956f-8f1d059a2a4e",
+    "idCamion": "8147aea7-260c-4c6d-a7ba-84854c363a33",
+    "idRemolque": "7fa7fb33-5fb1-4727-871d-78aeb6541a78"
+  },
+  {
+    "idConductor": "fd249e00-08b6-406e-9e45-85e0f33559f5",
+    "idCamion": "43d662e3-0cd4-4491-9648-4865813f970d",
+    "idRemolque": "f7f0240c-1c65-4a02-8130-45be372e2475"
+  },
+  {
+    "idConductor": "00233ea3-b8fe-4a06-80ef-f1c1d6303db9",
+    "idCamion": "1354d0e5-2b79-4b4c-95c6-985970afe5b1",
+    "idRemolque": "4ffcf95e-a0db-434f-a75d-5c65181de974"
+  },
+  {
+    "idConductor": "b5bc0cbb-8172-4a04-ab28-b0947a52d81e",
+    "idCamion": "b30a5179-66d6-4d6b-a483-085fd8744481",
+    "idRemolque": "0b495e7c-1a1d-4ed4-9731-f97c1f1b90ca"
+  },
+  {
+    "idConductor": "ab0a82ab-e657-4ef9-b769-8665c66965a9",
+    "idCamion": "85e7cda8-923b-447e-896f-377d108f3902",
+    "idRemolque": "d0d16253-05b2-4cff-8510-cbee1b8a5ff1"
+  },
+  {
+    "idConductor": "fb0ce22b-cea7-44af-ae30-229c32e67b60",
+    "idCamion": "e2edf544-272b-43ca-bf34-fe0b240954ab",
+    "idRemolque": "fb500d32-b31a-4d14-b14a-242a985e7794"
+  },
+  {
+    "idConductor": "8b95c222-4b24-4d11-92fb-34dc744f0acd",
+    "idCamion": "0f5b0a1d-4448-4563-aa5e-5d058b5d0885",
+    "idRemolque": "a215446b-d5f7-48ba-8714-aae44186b319"
+  },
+  {
+    "idConductor": "b02355ce-b66b-4cf8-aa91-7d64e784b8d0",
+    "idCamion": "cca8560f-860a-44d6-90f7-a7edfc95e108",
+    "idRemolque": "620f3693-c7c5-47c1-8970-3eb14e96192e"
+  },
+  {
+    "idConductor": "8538b87a-1a92-4d3d-b19e-108842d6355f",
+    "idCamion": "158f3ce4-5be0-47ca-a3ed-d12b0a433d42",
+    "idRemolque": "d1483351-75a2-4fa9-9f1f-208d07379915"
+  },
+  {
+    "idConductor": "46a8b974-0aec-42d8-8af5-9fbfe934d534",
+    "idCamion": "d475c9b5-5c6a-42cd-9f03-07b9145cba71",
+    "idRemolque": "8dab2766-909d-4d47-bd28-02149acb9f09"
+  },
+  {
+    "idConductor": "39bb081e-7e8b-4893-ac2b-106aec453fb5",
+    "idCamion": "dc48c8c5-cb84-4c42-a2ed-a864e0d2c880",
+    "idRemolque": "26137567-3230-46f3-a84a-95f896395218"
+  },
+  {
+    "idConductor": "2aacc1fc-1b7b-4322-8028-91f305965c7b",
+    "idCamion": "4dbfff8b-8e4c-4367-ae9f-6ed916134ea0",
+    "idRemolque": "068ab681-5cdc-4d95-b8e2-0a802567ecd9"
+  },
+  {
+    "idConductor": "90d17e3a-fb5f-4f45-ae01-337c75bbd606",
+    "idCamion": "24c82fa3-537e-4270-92e1-2f6d53753989",
+    "idRemolque": "61f1f7a3-471f-49b8-8a50-fea99e9dd6ef"
+  },
+  {
+    "idConductor": "bfa94f58-8cf9-45e2-9ac1-fb552a4ce115",
+    "idCamion": "f22be547-cbd9-45a2-ba2d-6e23850dce8d",
+    "idRemolque": "62675677-1774-4686-aa74-fadf4a8e173d"
+  },
+  {
+    "idConductor": "a29f4319-eec8-4bda-b05f-b391b1212892",
+    "idCamion": "50fac4c8-3403-4994-8069-31a6d6dc5f08",
+    "idRemolque": "8ae8b8eb-ba57-4e81-b2e8-7714fc847342"
+  },
+  {
+    "idConductor": "b25f80b8-0c11-4725-86c2-0ec50988fee7",
+    "idCamion": "b6d940a4-4ab7-4901-8bcd-4dfed364505d",
+    "idRemolque": "c49ddeb9-fda5-4ad6-ae05-f44c46c900a9"
+  },
+  {
+    "idConductor": "eecc2c8c-d98c-403d-8965-4b202d4631cd",
+    "idCamion": "b37dc0c9-b293-4c61-b510-631537dbe3a3",
+    "idRemolque": "d3145fc7-18dd-4640-9911-47e797d8a322"
+  },
+  {
+    "idConductor": "bb4d8340-85f3-439c-aca1-7768a4d65c10",
+    "idCamion": "558db41f-88b0-48f2-8934-4beb165be091",
+    "idRemolque": "56d27d0f-baaf-46b5-9d5b-7338fb863ec6"
+  },
+  {
+    "idConductor": "86f4fc4a-6ce3-415e-9bc9-0d6960dafef9",
+    "idCamion": "a685a3cb-0a2a-45ff-a16a-f1613c62869a",
+    "idRemolque": "540e6493-3bde-44b8-8c78-2efca67594ab"
+  },
+  {
+    "idConductor": "128acca6-fb0b-4e14-8312-96ce61d3a011",
+    "idCamion": "8eb9b559-5c64-4fa3-a0a4-be01cf5059dc",
+    "idRemolque": "0c00dc3d-4c49-4fcf-b641-aa6e65bdfc0d"
+  },
+  {
+    "idConductor": "5bb27fde-0a92-4408-b77a-dad4fd16275f",
+    "idCamion": "03b554be-30d7-4eca-8a93-85038c028f0b",
+    "idRemolque": "2c7429e3-7fe2-4102-93f0-022547ff2929"
+  },
+  {
+    "idConductor": "1b4bad59-1cea-494f-b7b4-af7f995e07d1",
+    "idCamion": "dbece317-5092-4dc0-b586-8d93ca533a9c",
+    "idRemolque": "3ebf663d-ffcf-46bb-b520-298379e7ddc2"
+  },
+  {
+    "idConductor": "5b157621-a99b-46c7-9430-b3aba5f12416",
+    "idCamion": "0f32b0c8-56b0-4cd0-a605-a97287390acc",
+    "idRemolque": "5aa1086f-6d9a-468c-8b44-896c3741e79a"
+  },
+  {
+    "idConductor": "af5a0ab7-b0bb-4096-aa16-82e7114136f2",
+    "idCamion": "4589ec15-7cf5-4c03-bef9-1b58994f8569",
+    "idRemolque": "66669559-81c8-470d-ba42-bb909bd9a29f"
+  },
+  {
+    "idConductor": "677b43be-c87f-43d7-8608-388e87ed529b",
+    "idCamion": "dae294cd-fdf2-4e47-a81c-bc7ca26a7fac",
+    "idRemolque": "85254494-b663-42c0-a25f-5feb472b32dc"
+  },
+  {
+    "idConductor": "567051fa-b28a-427d-9821-75f32beecf57",
+    "idCamion": "4c1ec654-7ff8-4c0d-b534-80e9083354f8",
+    "idRemolque": "c640c580-3af8-4974-925f-596f90804ef6"
+  },
+  {
+    "idConductor": "4fa7cb13-8a17-4955-bb11-597e4a597dd8",
+    "idCamion": "e2928299-85ee-45fe-a2b2-fc741830cb14",
+    "idRemolque": "07256dc1-4e32-46c5-bcbd-e5917b5cfe5c"
+  },
+  {
+    "idConductor": "6fd522fc-02a3-4d21-afb3-3031790f7468",
+    "idCamion": "2040acbc-6ca8-46c7-af32-13aec7059b18",
+    "idRemolque": "106316f1-4a06-4831-b1d5-c70fba049a68"
+  },
+  {
+    "idConductor": "7d1a2d86-98ad-42eb-8412-2dfdd7322818",
+    "idCamion": "4f781401-bab9-486e-a284-aae3c4dfd9e9",
+    "idRemolque": "882eb8be-ea35-4bf3-a974-90c64232a49f"
+  },
+  {
+    "idConductor": "188a28e8-dc57-4ad2-9ca8-d781ee601aea",
+    "idCamion": "30382dce-49db-4a5b-9638-3af70ddaa8b8",
+    "idRemolque": "f2efe7af-61d4-4338-ab72-ecbd3104de5f"
+  },
+  {
+    "idConductor": "7c7fe079-2613-49f4-acb4-cf3fb9d35a18",
+    "idCamion": "22d5cb31-068e-49ee-a9d6-3668169737ef",
+    "idRemolque": "4d582801-8967-43b4-b828-88d5892d0609"
+  },
+  {
+    "idConductor": "33b1d077-1f05-4a7f-95b6-8af51e800f9e",
+    "idCamion": "2bd16672-eba0-4e78-99ab-e31b3b0307b2",
+    "idRemolque": "6ccc02b4-bc12-43ef-a110-ed61eb0c06fe"
+  },
+  {
+    "idConductor": "7e23677a-2efb-4e60-bf6d-720e8667489c",
+    "idCamion": "6d7ef569-a300-46e3-926c-5d7aba2403b6",
+    "idRemolque": "e2fe3ee5-ac5f-4af0-80ee-e0f94443599f"
+  },
+  {
+    "idConductor": "012704a2-e8b3-487a-b925-c3904462428c",
+    "idCamion": "876ff402-f274-4828-9d31-4145eac2a07e",
+    "idRemolque": "da82ec75-0deb-4fb2-87f1-a909b526fdda"
+  },
+  {
+    "idConductor": "8d6e323e-1d3c-40a7-b9fb-afc4f72ccecd",
+    "idCamion": "809c76ca-9f5d-445c-8027-04b856090793",
+    "idRemolque": "977dcd38-82a1-43ee-838a-84d00aea8e6c"
+  },
+  {
+    "idConductor": "633b32b5-59aa-4046-a1c1-b8c90c0c6165",
+    "idCamion": "f66320ed-736b-4d01-8f65-b392c798c522",
+    "idRemolque": "56c39e6b-0687-4aa5-8d4f-a977ac24a10b"
+  },
+  {
+    "idConductor": "d9df51da-e1f3-4c20-b4c7-a65b1e64b8f9",
+    "idCamion": "a3102ce9-f005-475b-97c3-c525c1c14fc8",
+    "idRemolque": "1bb7ea09-7989-4b26-bd38-c9613b77a6a5"
+  },
+  {
+    "idConductor": "bf560f11-b7b7-4bb8-a2cb-d51bbc5b533f",
+    "idCamion": "160bc151-883e-4d6a-9c26-e6bd2d75b327",
+    "idRemolque": "d6849e38-7838-46f1-a216-c3f929e9d86a"
+  },
+  {
+    "idConductor": "c9f64aeb-b7e0-4e56-ad69-bc02e173c1e0",
+    "idCamion": "659355cb-d585-4470-8d36-7fb1d778600d",
+    "idRemolque": "30412067-c452-4b7b-85c7-9103a2f0938b"
+  },
+  {
+    "idConductor": "da8755cc-08a6-4e92-b4e3-b5d7949daef0",
+    "idCamion": "a9facc9e-611f-49ce-b408-0e37cbe748c0",
+    "idRemolque": "90485b90-4bb1-4faf-a888-87120f2d462d"
+  },
+  {
+    "idConductor": "9fec70ea-a48b-4537-ae6a-0652e7dad2ba",
+    "idCamion": "c4b1ecdc-f1e4-4602-86a6-7dcd3e1341a6",
+    "idRemolque": "53c2dc0d-ca15-42cd-b9c9-98d0654b6b59"
+  },
+  {
+    "idConductor": "863a8bc5-fcfe-4a58-b2a6-d2262926219f",
+    "idCamion": "2b2f6303-ad38-4f02-b2eb-254edd125769",
+    "idRemolque": "cccc5213-400e-4115-abe2-114ef8d7d94d"
+  },
+  {
+    "idConductor": "aac2a780-0d28-4eff-9c56-61d94d356383",
+    "idCamion": "5b7834eb-14e3-4740-9ab3-c8c52f63bf3b",
+    "idRemolque": "7a502d5a-61e2-41c7-b9d5-5b49c79ba2bb"
+  },
+  {
+    "idConductor": "82dd97cb-da4c-445a-b75f-bf93e32f5ae5",
+    "idCamion": "cf2a67b3-481b-46d5-98d3-a7c4bca2f65e",
+    "idRemolque": "2a04680f-300b-40a4-8005-053a71992121"
+  },
+  {
+    "idConductor": "91e14647-585a-4e20-a21c-569df4ddb9cd",
+    "idCamion": "fb552454-d967-46d5-996d-e7a2fb81258e",
+    "idRemolque": "33ab6fd1-05ed-4c08-84e5-2c64397c603e"
+  },
+  {
+    "idConductor": "e3a97bb8-e27c-46c3-a23a-0b06446c32e1",
+    "idCamion": "48a98470-d224-4f92-9d62-85cbd8c9458e",
+    "idRemolque": "c4535f6b-5a0a-4f80-9584-4ffdd523aca4"
+  },
+  {
+    "idConductor": "ebf72cb3-5a29-42e5-ac53-d031565f2054",
+    "idCamion": "cbd35447-536a-40d5-bbad-f5ff3d27c436",
+    "idRemolque": "ff703af4-b508-4366-a0af-117eadb81dae"
+  },
+  {
+    "idConductor": "49fe1dec-920d-4e7e-bfb2-c2d4366e3a1d",
+    "idCamion": "af2e0f6d-98b8-4c08-a4d5-4ac8615b3315",
+    "idRemolque": "8aba4802-506d-4c05-87f2-96e3c4c8b2f5"
+  },
+  {
+    "idConductor": "161a4e2c-71cd-4d64-96a7-725370f53d0e",
+    "idCamion": "f1553858-648c-44d1-bdda-70042c379863",
+    "idRemolque": "00cd1581-5eb4-49bd-8296-1ee1572a044d"
+  },
+  {
+    "idConductor": "ad81f805-2c26-4ff0-9c39-843e02503cbb",
+    "idCamion": "bd42d7e8-b5d0-4ba7-a824-4a71c93a9cde",
+    "idRemolque": "cd0d47cd-419b-4c76-9648-eafded123faf"
+  },
+  {
+    "idConductor": "2fe7a947-4328-4758-ba1a-8f39c08b749c",
+    "idCamion": "fec50927-c0d8-4482-9f37-72f37c582338",
+    "idRemolque": "55122198-3fb3-4dd0-972c-27fff91baf36"
+  },
+  {
+    "idConductor": "073a2c65-40b4-44c0-88ab-563f788dea2e",
+    "idCamion": "e6cb3b47-d851-44f4-8050-ff3ccd1c3c3c",
+    "idRemolque": "30aa4c6e-6758-4a4b-9121-87e68e3beb4e"
+  },
+  {
+    "idConductor": "78c76ec3-7ff9-4d30-97af-2086a17630aa",
+    "idCamion": "130807c3-7553-4578-8687-0f9b099eee1b",
+    "idRemolque": "c0ab7a63-50d8-4c23-bd80-b78f8aeffc0d"
+  },
+  {
+    "idConductor": "a30e6795-b306-4785-937f-1b01cc1fe9ed",
+    "idCamion": "310b7c09-7113-47b5-b743-ad3a64086a11",
+    "idRemolque": "480bea18-3da0-48a6-8891-fe55d0bca489"
+  },
+  {
+    "idConductor": "add95039-a64a-4d59-bb98-5e0727bb8927",
+    "idCamion": "24270fa1-45f7-47ef-9c7b-93d7bb86020e",
+    "idRemolque": "8a379287-8aea-4cc0-a4f4-d27fd29cda82"
+  },
+  {
+    "idConductor": "dcbe6829-cc48-49e6-828d-69484b78337a",
+    "idCamion": "cb8bde75-907d-4bd9-afa0-3fa28bf44b41",
+    "idRemolque": "43cb6bee-c107-47fc-a884-3bdd34f35d3d"
+  },
+  {
+    "idConductor": "77569419-5225-4e07-a503-ed1f05459077",
+    "idCamion": "3bfb43e4-de8c-44f7-be99-2520170e877c",
+    "idRemolque": "059ef36f-11ef-4b31-98b4-bf62a1dfe8bb"
+  },
+  {
+    "idConductor": "c6eae4db-ac92-4157-99d0-37fdb69c1d75",
+    "idCamion": "2791c6b5-3fc5-4f99-a4cb-70e3386c4e06",
+    "idRemolque": "277d3d9c-fdbb-4e5e-901f-0cc2e4621b78"
+  },
+  {
+    "idConductor": "a3d82099-1d29-46f7-a636-9faad91094ce",
+    "idCamion": "fe77378e-7cc3-4484-8ed4-eea2a3f0fae5",
+    "idRemolque": "d00f426d-44c5-445a-a409-7270354cd3cb"
+  },
+  {
+    "idConductor": "ccf7c54b-88fe-4c72-aa68-a0e5fe1dd6f3",
+    "idCamion": "3be316a2-ed6b-484b-b868-79acd0c9843c",
+    "idRemolque": "e7b5b239-7541-4235-a1e8-1b2a30d0d1c3"
+  },
+  {
+    "idConductor": "cd2924d4-a946-45c5-bed0-bead728cbc8b",
+    "idCamion": "afe9d455-b12f-45d7-886b-5ddecd80599c",
+    "idRemolque": "db2de503-ed3b-43df-8500-d05626344db4"
+  },
+  {
+    "idConductor": "a8039aa1-73b7-448e-936c-6fbc36c281d5",
+    "idCamion": "f6cef41f-89f1-43d6-81ff-9ec1c7f59a29",
+    "idRemolque": "94c02e6e-e6e5-4369-9424-97cc6471f455"
+  },
+  {
+    "idConductor": "3b7ce227-aae1-43d0-8bf2-ef2940523744",
+    "idCamion": "b1edfa03-b4a3-4593-b6f7-76fc239801b1",
+    "idRemolque": "85fcff60-820e-4fa5-a0d4-c4ea2339c86e"
+  },
+  {
+    "idConductor": "fb1d42e7-2542-4bb8-a8de-ab26b25d54c3",
+    "idCamion": "9ae1ba6e-4157-43c0-9f57-b87ab2768c70",
+    "idRemolque": "47402238-5fc0-4317-90eb-6513d3b6de64"
+  },
+  {
+    "idConductor": "369c82e2-1d53-43f5-8b8f-1b24386251a4",
+    "idCamion": "aa692f23-854b-4051-a3f3-87b6b4d28c11",
+    "idRemolque": "54d98ef7-b191-41f0-a7e6-a04ad67a5d9c"
+  },
+  {
+    "idConductor": "f033dff4-d5a7-4370-8a03-6ea9f82b82fe",
+    "idCamion": "48d27fe7-a0da-4b9f-accc-805e2eaaea1b",
+    "idRemolque": "20e3a4fd-b3b7-4c53-a007-3e7c6d925629"
+  },
+  {
+    "idConductor": "7c84755a-6a51-4130-8507-7c5167c9c05e",
+    "idCamion": "7404a8b7-e46e-4726-8b40-6cecb410a4c8",
+    "idRemolque": "35d6696c-9b9e-452f-80ef-7defbf63a898"
+  },
+  {
+    "idConductor": "6e5419f1-dd31-457f-a81a-37dba4ba9401",
+    "idCamion": "8803f623-4feb-4a00-8960-7b1f05ae2deb",
+    "idRemolque": "6f622094-f7b4-455b-b13e-7ce140099298"
+  },
+  {
+    "idConductor": "83e65212-cc07-4c59-9b00-3732c6342057",
+    "idCamion": "a9bad7f7-97ee-40c4-b544-e73ec0ab6a37",
+    "idRemolque": "611b8edc-9d22-4990-9e49-1520845edc68"
+  },
+  {
+    "idConductor": "b099a64a-30a0-4ccd-825b-478a1c485fc0",
+    "idCamion": "6bc0bba4-283a-45cb-b5e0-c0b27717e86d",
+    "idRemolque": "d5025c15-8ab9-41af-b1fd-3ff502cf1e8d"
+  },
+  {
+    "idConductor": "21460077-f2c2-4081-94c2-35498eff0db6",
+    "idCamion": "6a6db14e-babb-4d05-b052-f9aa3da019f5",
+    "idRemolque": "82da7a6f-b9f5-44ea-9e1f-8a2afa3cb966"
+  },
+  {
+    "idConductor": "f74ce371-10d8-48a7-a0ed-5bcfd119e88e",
+    "idCamion": "f2319c07-71aa-460c-9139-5065eee8f079",
+    "idRemolque": "97ba5fba-3270-4b4c-a2da-1faa3d078143"
+  },
+  {
+    "idConductor": "b04ba198-95b6-4af1-9d67-2034cf2530d3",
+    "idCamion": "dc0a9d95-644b-4af4-aeaa-521ffdbe67c7",
+    "idRemolque": "124c1566-015f-4e74-88dd-48511965a7dc"
+  },
+  {
+    "idConductor": "4d1095b3-af31-46d4-9040-847d9cbf4801",
+    "idCamion": "3a475328-f41d-45c2-af30-4a55a8dbec43",
+    "idRemolque": "dc1b78bb-af2a-40ff-9632-902e18edb032"
+  },
+  {
+    "idConductor": "959f7ada-3610-4a4b-828a-652466681c0b",
+    "idCamion": "6529bb8a-f923-404d-aa5d-3658321d0f3d",
+    "idRemolque": "65d99b50-e77f-48c4-b261-395deac6cec3"
+  },
+  {
+    "idConductor": "8ff9bf50-ab96-4375-896b-c825e81dec50",
+    "idCamion": "2f68ef06-91d4-4557-ab21-f0cd50206661",
+    "idRemolque": "13b81e92-fd4e-4319-b695-cf69aecb2311"
+  },
+  {
+    "idConductor": "431bbfa4-f099-433b-a170-5cfc58fd868a",
+    "idCamion": "e6ec69fe-930c-4fd2-8899-ac86149d5535",
+    "idRemolque": "60149d99-27c3-4fe0-9147-f466d85b7389"
+  },
+  {
+    "idConductor": "b5bfd450-79fa-4bf7-b2b5-87385fbfda26",
+    "idCamion": "7d4d686c-5778-446e-8a59-60d52d0c13f6",
+    "idRemolque": "889260ca-8b7a-466c-9a5a-814ba2e10e69"
+  },
+  {
+    "idConductor": "adc43cd7-59f1-4747-aa36-7d77345b2e05",
+    "idCamion": "87bf2054-6527-451f-a9a1-74c145d74eeb",
+    "idRemolque": "99fa86ff-0ef9-4323-94f0-6a4d8981d89c"
+  },
+  {
+    "idConductor": "c1e4e179-4663-4062-9cf6-dfc05e298096",
+    "idCamion": "b7ddc961-8c0d-4e53-9028-9aa6836b04b6",
+    "idRemolque": "760ceb68-0588-4612-a443-fc1f1a9d9a76"
+  },
+  {
+    "idConductor": "1dd8701d-eae0-45ac-9d29-2d19595ae686",
+    "idCamion": "5b93a3ba-ccf0-415b-8053-4d252fd4938f",
+    "idRemolque": "f3db0c2c-5d34-4496-a22a-15051572a63f"
+  },
+  {
+    "idConductor": "bfaf28d0-4b4a-4e46-bb4b-6e23aac3a577",
+    "idCamion": "76bce036-17cb-4f7e-818c-b53bfe2b1fc5",
+    "idRemolque": "43e56217-fc25-415a-a414-3e369e6197c2"
+  },
+  {
+    "idConductor": "21a768db-bbc8-4435-b41d-1a604722214c",
+    "idCamion": "8c1c6f5a-cf43-41c4-8ae5-8bbc62a30506",
+    "idRemolque": "5dc5b8d1-3c2a-4f5b-adfb-e706794b7a7e"
+  },
+  {
+    "idConductor": "8c856b2e-8d77-432a-9989-5aca9a85df1c",
+    "idCamion": "7f69d8b0-202e-4908-b80c-1369a387dfa5",
+    "idRemolque": "730742de-dd49-4799-a13c-22749fd3bb58"
+  },
+  {
+    "idConductor": "1a0f7774-1e3e-492b-9131-4c165d25dde8",
+    "idCamion": "c7c40042-0440-4c63-87a1-85ecf02c2d3f",
+    "idRemolque": "7ffd33ab-cd66-457b-a563-3aad68ea3e03"
+  },
+  {
+    "idConductor": "ce91054e-a734-4b75-af4f-b4fc91b4807c",
+    "idCamion": "884fd6f5-8c25-4ecb-a3ad-25681bd79c4d",
+    "idRemolque": "3014fa25-67ea-4f11-95e4-1edb5e5e477d"
+  },
+  {
+    "idConductor": "a743aa05-9165-46de-bba8-a95353eda66e",
+    "idCamion": "76f64aa7-d1a9-4ee4-bb3b-79457565cd05",
+    "idRemolque": "7961eb81-4790-4f8c-9d63-b50ced1f6814"
+  },
+  {
+    "idConductor": "c735f19d-ffd2-4ac8-8af6-16dbf5b4af0f",
+    "idCamion": "3946b405-99b7-45c0-a1a5-3e5f4f80955e",
+    "idRemolque": "265b540d-61fb-478d-8396-8170c4477e0e"
+  },
+  {
+    "idConductor": "7205157d-7a9d-4175-ae8c-8ee9800e137f",
+    "idCamion": "e4f5e522-d7d6-46bf-830e-37a6f678c862",
+    "idRemolque": "2d681782-e5ad-4f01-a680-cf20f13402c8"
+  },
+  {
+    "idConductor": "08ed4c6e-bc3a-4631-a9c1-6048e5887533",
+    "idCamion": "31f61581-ce79-4b52-a2d0-f34e9dbba8b1",
+    "idRemolque": "bba6182b-de62-4a8b-99f0-285207c5cd11"
+  },
+  {
+    "idConductor": "064579f1-4d28-4371-b6b4-94b2ed03c11a",
+    "idCamion": "3de4f200-4e99-4672-9e7e-a0ce6da4d6f2",
+    "idRemolque": "66cf047d-d22b-4498-8bbe-26578392f4ad"
+  },
+  {
+    "idConductor": "f6226ac7-3f8a-49d4-a704-60a10106edd7",
+    "idCamion": "5399f670-bffc-4d1f-b753-23e4eefec093",
+    "idRemolque": "225e9135-0289-4e33-80a2-f3faf08b64b8"
+  },
+  {
+    "idConductor": "39fd2ebd-fe4f-4428-ba44-376a2e09b177",
+    "idCamion": "bfa458de-702b-4b13-a239-af9d07aa6789",
+    "idRemolque": "57e75549-7704-4dbd-8c24-c8ac9868c302"
+  },
+  {
+    "idConductor": "d8fbcb43-a4da-466d-876e-33e64f0440e1",
+    "idCamion": "3a17a404-0bb5-45ee-b56b-36a07874f697",
+    "idRemolque": "ec341c38-5c0e-4deb-8db3-b4680bcf54c8"
+  },
+  {
+    "idConductor": "8d3a052f-0380-450b-8e6f-c61f1400d980",
+    "idCamion": "1fe9d41f-d5fa-41d0-a433-67eedbe93d48",
+    "idRemolque": "89df1817-b5c6-4056-8c82-1d9b6c6e990c"
+  },
+  {
+    "idConductor": "0a953ca8-02b1-4bb2-a32e-c24d4d9a0285",
+    "idCamion": "98540deb-a4b6-41df-b6a3-e45965093572",
+    "idRemolque": "b4c2a83d-3fa4-489e-b809-2168321e0ff9"
+  },
+  {
+    "idConductor": "053f81ef-2d19-4007-8293-3a8d68e425d3",
+    "idCamion": "f2933b77-eec3-4192-917d-bc763e2487d4",
+    "idRemolque": "66cb8dfd-30e4-4a9e-a5c3-ef6941ebd168"
+  },
+  {
+    "idConductor": "3192e5c2-e1e0-40c5-b328-a4df1d8c3622",
+    "idCamion": "da1b221d-c99e-4b1f-9cb9-8399d71d05e8",
+    "idRemolque": "9e04fb69-3e24-4b60-93e1-93ef955c1edf"
+  },
+  {
+    "idConductor": "fb793f06-624d-4284-bdf1-f5958dde53cb",
+    "idCamion": "9735c358-61fd-4567-973e-1965970f6092",
+    "idRemolque": "45b066f8-8221-4ce1-98a3-ddfee1220f3a"
+  },
+  {
+    "idConductor": "55fef76b-41a2-422d-ba34-b3418c25083f",
+    "idCamion": "273f8510-3def-4d65-9a93-821995468b5d",
+    "idRemolque": "931e272b-6d17-4cd7-9689-7984916b41e5"
+  },
+  {
+    "idConductor": "6161df64-f057-4d8e-82fe-d30d8f2d5093",
+    "idCamion": "065b6333-faf4-4ea0-a08e-d8848fc77ac8",
+    "idRemolque": "b9990e6e-8c9c-44ff-88a0-f6da3e365b46"
+  },
+  {
+    "idConductor": "8e89c82c-d95d-477a-ba24-c54c01c9c878",
+    "idCamion": "86bb4e3c-843d-425c-9ce6-84ece9106e53",
+    "idRemolque": "82c1dbf0-8c6a-4594-8a64-026208b5e5dc"
+  },
+  {
+    "idConductor": "24c1447b-0036-42b4-93a6-d211a535005a",
+    "idCamion": "9d16a3ee-5c8a-433f-9ea0-6bd64b5f834d",
+    "idRemolque": "bbd57c1c-8e89-4825-898b-814628798112"
+  },
+  {
+    "idConductor": "ade1e248-9043-4794-b95f-317443d5e13e",
+    "idCamion": "82068a90-c4d5-41d6-a36d-538861495169",
+    "idRemolque": "a61902e7-3531-492a-ba5f-3e890cbf4bfc"
+  },
+  {
+    "idConductor": "423e3996-43c6-49ad-8dc7-02cdca84b51c",
+    "idCamion": "bc7430c6-872b-41dc-9eef-a629e0031b22",
+    "idRemolque": "42abceac-f202-4875-a42b-af45cc2074f9"
+  },
+  {
+    "idConductor": "10b3e5b9-03ac-42e7-a999-70a462e00c5f",
+    "idCamion": "5c2af71c-3c87-426c-9150-1a6bbf8251a6",
+    "idRemolque": "f2befc63-613d-45ea-8960-cc7b735f9103"
+  },
+  {
+    "idConductor": "5dd28135-0931-453d-86f1-6d2595822969",
+    "idCamion": "393747d2-2d41-4cb7-8e77-fdd157a36881",
+    "idRemolque": "6b0a8043-3b79-4eab-b721-1543c70e5726"
+  },
+  {
+    "idConductor": "37b97f33-1358-4dca-a276-0c13dc19638e",
+    "idCamion": "20072b98-3780-44f9-bcd0-010c3525f528",
+    "idRemolque": "835bd08c-a011-4093-a6e3-6a888782e12a"
+  },
+  {
+    "idConductor": "ed584239-6caf-4f9d-84ab-3bf892e6bc54",
+    "idCamion": "eacf61b2-89ad-4951-84a5-3b715665fc50",
+    "idRemolque": "4d47e6a4-06ac-4dc4-8990-d2cf3ef6a438"
+  },
+  {
+    "idConductor": "0bf283cd-a124-4982-8156-3976e0b01339",
+    "idCamion": "13873cc3-e159-4da6-9a7d-b5249403626f",
+    "idRemolque": "7d32b532-87be-483d-8846-04c2fbf0512a"
+  },
+  {
+    "idConductor": "97e482b5-ecea-4722-9124-e68e12244553",
+    "idCamion": "8b6ccc55-7dc0-4027-a33d-f8d6837295e5",
+    "idRemolque": "024b5cb4-914d-474e-a894-fd78db67bef3"
+  },
+  {
+    "idConductor": "c36c4180-aed7-4e52-9eb7-915212b16d08",
+    "idCamion": "4485de11-29d7-4443-9141-d381d8f0772d",
+    "idRemolque": "cb21093f-bd58-413c-8e94-ca81bd07b4db"
+  },
+  {
+    "idConductor": "f6422b6f-fe54-4d81-8cd2-eeec5fb9295b",
+    "idCamion": "696c3e2d-2ea8-4c17-a25e-ccb3a3bdea31",
+    "idRemolque": "70a03ba9-6d08-4cd8-8b10-7119d52ddce6"
+  },
+  {
+    "idConductor": "49604197-c7fb-465b-a717-bf1531d21429",
+    "idCamion": "b077b1cd-98e4-457c-a4b9-f5e608447c14",
+    "idRemolque": "bf529a68-a86b-46a7-9bee-09f21ae9b618"
+  },
+  {
+    "idConductor": "2351b249-0719-45bf-abd1-e812ef9d70af",
+    "idCamion": "22e5c042-4ada-495c-af27-e3d6453ae9aa",
+    "idRemolque": "621ef3fd-2566-4c9f-9da6-4cc9185b49aa"
+  },
+  {
+    "idConductor": "90f48bed-aae4-409d-9fae-a12d2b3aec3f",
+    "idCamion": "1d315376-06dd-4d2f-8c57-f0472d104e68",
+    "idRemolque": "b42609fd-1ceb-4c83-9ac2-2985a0c2e4aa"
+  },
+  {
+    "idConductor": "d92e1731-d5d7-4fc0-a10b-dee6e39d6231",
+    "idCamion": "77fd1cc4-078f-4e90-a796-05aef6f573a7",
+    "idRemolque": "a398b091-ea36-4c6c-a9ff-8a9fc3200769"
+  },
+  {
+    "idConductor": "3fb5f11f-85ed-4a14-a4c0-26c0a1fc71e0",
+    "idCamion": "7429f74f-9e0d-48a6-b61b-367ee8cca09c",
+    "idRemolque": "1875164f-0987-44f1-8d76-36fd1662c5ba"
+  },
+  {
+    "idConductor": "5bda1b16-7415-4056-95fd-74b5939fe8be",
+    "idCamion": "3b4b467f-8e84-4666-8ba4-4d137d69baee",
+    "idRemolque": "276a3e7d-1d6d-4440-a800-4a0a2de36570"
+  },
+  {
+    "idConductor": "c69db167-f071-4fd0-8010-93d7faa06af6",
+    "idCamion": "f639e380-84f1-4536-adc7-80ffe1c0ff83",
+    "idRemolque": "48b955d7-9ea9-4812-b6b3-b3a06b67f388"
+  },
+  {
+    "idConductor": "f9da3d37-b5a4-4dcb-980c-e99f83beeeee",
+    "idCamion": "f7d11b7d-b7e8-4cab-8011-4cfe7cb4ef1c",
+    "idRemolque": "20dc0ee0-596f-4a3f-9e3f-eaca2e9f5e27"
+  },
+  {
+    "idConductor": "4b8e6fc7-ff15-436d-9b1c-7fd2baf047b1",
+    "idCamion": "77c7eb74-57e7-4cca-8d28-06fec961bf69",
+    "idRemolque": "f8f326f3-4ed5-4890-bc98-c67d1c478713"
+  },
+  {
+    "idConductor": "2adadd37-c58f-4aab-b54e-fa5059674a79",
+    "idCamion": "cd4c2c26-4b05-45fd-9364-572bf5e60b99",
+    "idRemolque": "66ad54ec-c1db-4c6b-84df-72ffdcd0c6fd"
+  },
+  {
+    "idConductor": "b31b0594-ba73-4a26-8472-5c3911ef0436",
+    "idCamion": "e48948e5-6b41-4c69-9803-4522c2107e1f",
+    "idRemolque": "b89ad34f-36de-4f20-9a4f-9f9eddec72af"
+  },
+  {
+    "idConductor": "8e88be11-ca84-4716-895e-17841f0b25f4",
+    "idCamion": "ee6a27c6-d5dc-46ba-a41e-e1ded4c1c316",
+    "idRemolque": "e3a55c92-cce4-472c-a0d8-3b93ec2f8465"
+  },
+  {
+    "idConductor": "79792f6d-4c01-4331-845b-eea09b615d10",
+    "idCamion": "2d35bf56-22b5-4783-843b-9f1040020818",
+    "idRemolque": "c25f272f-3451-411a-ad82-a8d6e910c1f5"
+  },
+  {
+    "idConductor": "4bf91e2a-eef4-4585-be8d-9181c646e163",
+    "idCamion": "eae04163-9159-424b-8ba5-51df2d7b5bdc",
+    "idRemolque": "16780f8d-e778-4d42-bb81-c1d817ea8d85"
+  },
+  {
+    "idConductor": "0ab812f1-2a2e-4fa9-a31e-39ac8bc6632d",
+    "idCamion": "cf11d18e-90f3-46f4-8611-461e6d6d7077",
+    "idRemolque": "ba07d4f3-b183-47ce-8a2c-8d62ff8d5948"
+  },
+  {
+    "idConductor": "b5c2f279-b076-4211-b1d2-977bb4c62109",
+    "idCamion": "3972eb01-a096-46fa-ad1b-d00cbe8b9bd8",
+    "idRemolque": "537506f5-c46c-474a-b958-5229b9d8435e"
+  },
+  {
+    "idConductor": "d19616df-978d-4a8a-9dbe-bf8ff8d20fdd",
+    "idCamion": "dce95923-017d-4363-8454-26b3a3a0f0bb",
+    "idRemolque": "0c82e5ec-a584-458d-a703-1101c40173f1"
+  },
+  {
+    "idConductor": "8ea24fd4-d0d4-40ad-a789-fcd26ab24426",
+    "idCamion": "4282100a-8952-47f4-b23c-c6fdefa22ec4",
+    "idRemolque": "91039a27-93c0-442e-a337-334bcae4fcec"
+  },
+  {
+    "idConductor": "22da90ae-4ff0-464e-965d-3b160222e343",
+    "idCamion": "aad5efce-883c-4e8d-a103-b229e2f22abb",
+    "idRemolque": "cb675aa6-f74d-4b67-8f52-78585f56b812"
+  },
+  {
+    "idConductor": "93e5b3d9-d928-43bf-8406-75c65938592d",
+    "idCamion": "51d898ff-4a88-4fa9-be0f-83830376f6a5",
+    "idRemolque": "028de0a2-19dd-419b-9601-b9c7ec403296"
+  },
+  {
+    "idConductor": "4cddb91c-82f7-4dab-b79d-a2797d614164",
+    "idCamion": "81afa225-cc61-4d58-96e4-ad529cac18ab",
+    "idRemolque": "cbc7a375-0588-4aca-a521-034d18f019a4"
+  },
+  {
+    "idConductor": "22749b59-f985-4f38-a45f-96529bf77256",
+    "idCamion": "bc25effe-0ca3-4499-93a1-3f769b44d594",
+    "idRemolque": "ee163cad-1a01-47e7-98a7-a0053288300c"
+  },
+  {
+    "idConductor": "fab4c949-d216-46ea-8337-1b7e65bd6b3f",
+    "idCamion": "dbc05852-a5eb-415e-a9f7-645c2be281ab",
+    "idRemolque": "b97ac2bb-3332-46f9-bf78-ff2b4ff024f1"
+  },
+  {
+    "idConductor": "d32dd257-ba4c-452c-8560-86b7d163847b",
+    "idCamion": "7a0d7124-656c-4c93-bb4b-bb254849b210",
+    "idRemolque": "720f4c19-c94e-44bd-8bc4-fdd2611f7566"
+  },
+  {
+    "idConductor": "caf3965e-365c-4897-81fc-0ae5422be4db",
+    "idCamion": "cf8f967e-ccab-4c87-8c6b-2e755c726c2f",
+    "idRemolque": "663c1fa6-455a-48af-83c0-e5d7ad04c7f9"
+  },
+  {
+    "idConductor": "ccb30dbc-b6de-4379-bb7d-5a456ae5dd3b",
+    "idCamion": "208e6ca7-dfb6-4867-80bf-348c3a9c7ca8",
+    "idRemolque": "bad7f90c-1882-497e-8fd5-de1a41f29b84"
+  },
+  {
+    "idConductor": "b3dd27c2-6947-4b10-a52f-e94df6d40eb6",
+    "idCamion": "f217a885-c888-4117-8acf-843293fec022",
+    "idRemolque": "eb08af0f-80f7-4434-abdf-0936388dab4f"
+  },
+  {
+    "idConductor": "7711468c-7b96-4fb4-b241-a4f314c3d08a",
+    "idCamion": "e0e21263-0bf1-4a8b-9ce4-3324b30bceda",
+    "idRemolque": "00ca9213-5373-4b2c-9ec8-02be061fd36f"
+  },
+  {
+    "idConductor": "2b193f27-d206-4744-a51d-5cac2f1b192f",
+    "idCamion": "de43d215-83f3-452d-a485-5b2f7c922af9",
+    "idRemolque": "8ca44a42-3a91-4d99-aa38-e0ad8d649b2e"
+  },
+  {
+    "idConductor": "42b66d76-ed17-401e-8686-f900d8da4f3d",
+    "idCamion": "e1b6def0-3e8d-4700-be1a-54d6082553c3",
+    "idRemolque": "e825c34e-538d-4bc3-8e2b-0bf1708d4e52"
+  },
+  {
+    "idConductor": "9ddc8761-0062-4e02-88f5-66bb4290af04",
+    "idCamion": "dd08a047-e289-4c1a-9218-4bd020cc3cc1",
+    "idRemolque": "11245e4e-bce3-4154-8713-50a4b5cb5bc2"
+  },
+  {
+    "idConductor": "53e6b7de-19b8-4553-a697-4655cebd5994",
+    "idCamion": "a1c5e697-585f-4f49-a6f5-ed142609a37e",
+    "idRemolque": "6fcb90fa-4118-4c1c-ad94-78590e5127f9"
+  },
+  {
+    "idConductor": "2c359ed9-6a4e-4512-8b63-fc7f75309b6a",
+    "idCamion": "b1c27718-6aec-4797-8bf8-9f2d68ab2295",
+    "idRemolque": "cbbc1513-71b5-4d65-9916-7470b423ede6"
+  },
+  {
+    "idConductor": "98747b77-659b-4492-9ac6-6e4b63ab7d67",
+    "idCamion": "b7c5e732-00b1-422a-aac0-3ffb94cdcd1d",
+    "idRemolque": "2643bf12-9fc0-4f21-ad3e-fb619c445905"
+  },
+  {
+    "idConductor": "14429456-04eb-4678-b345-7befe19a9dc0",
+    "idCamion": "e589833b-81f1-48ec-bac6-a0490d89c16b",
+    "idRemolque": "e9b81ba0-795c-4a71-9dfc-1f54b8011a8b"
+  },
+  {
+    "idConductor": "a38513d7-5c1a-41e8-b6e0-695d7e75b456",
+    "idCamion": "fdebe21d-17fe-4486-b563-4897b0ad44e1",
+    "idRemolque": "87568434-ce73-4135-817b-33d425db3617"
+  },
+  {
+    "idConductor": "631bba0e-3faa-4466-a356-a4c3c15a86c5",
+    "idCamion": "8d0a8f55-ecbb-4925-8df9-87eb8e43adff",
+    "idRemolque": "12eaeefd-b285-4fff-a141-858c7e6d2060"
+  },
+  {
+    "idConductor": "e08de149-a748-4052-82b8-aa3a858225b0",
+    "idCamion": "f5053cf0-4ae3-4c70-b3c8-50aa74b8ec23",
+    "idRemolque": "f29d7416-bd80-4554-9de4-e862b7553251"
+  },
+  {
+    "idConductor": "cb4ca1b2-0772-43ef-8e70-e07d27b98968",
+    "idCamion": "9b70136e-95df-4c41-8531-566903115dbb",
+    "idRemolque": "aeea65e2-5c7c-42d3-923c-3a30af75abbd"
+  },
+  {
+    "idConductor": "c3de79ce-f011-4a52-b5a5-17de906631c3",
+    "idCamion": "a9f03ca4-4aa7-4892-9e98-abc26d232008",
+    "idRemolque": "5b0dac08-a4f9-43c9-a0d0-0b877c11cdc9"
+  },
+  {
+    "idConductor": "ce48b4b6-9091-4efa-a58a-4995f7f22534",
+    "idCamion": "a07b1c12-d886-46a2-af73-bddb501f93b2",
+    "idRemolque": "ca34c1be-1a13-48dd-ab66-f654a67bfc24"
+  },
+  {
+    "idConductor": "38b219e2-1708-4f7b-9532-8baef97a03c5",
+    "idCamion": "95ae8683-20c5-432d-ab17-1e924d708606",
+    "idRemolque": "00bd94b6-203f-4dff-bb8c-038d8b266612"
+  },
+  {
+    "idConductor": "68c2c54c-de03-4060-9bc3-9038df71e76f",
+    "idCamion": "5fb30faa-16f6-4d5f-90fc-8ee8707b9f73",
+    "idRemolque": "a6b5b53b-2362-4874-935a-74a2febcce33"
+  },
+  {
+    "idConductor": "46266cc9-c389-4083-9144-cbab8e506a5f",
+    "idCamion": "2c38397b-b41a-4b15-85bc-9e71deec4a31",
+    "idRemolque": "7b97f713-4063-4af2-b2c2-758a7bfa1702"
+  },
+  {
+    "idConductor": "d50ad6da-bd1a-49e0-b32a-4dc0f89cad91",
+    "idCamion": "662f67d7-bfc5-4bd3-92ef-7e762447a3b8",
+    "idRemolque": "a5b5ce49-d9c0-480a-8cea-531c311c2271"
+  },
+  {
+    "idConductor": "14f75156-6172-4281-a665-f0bfde307a2f",
+    "idCamion": "44c6b8a2-6b83-4c2f-a099-9112d58697b9",
+    "idRemolque": "aa435664-a6e9-4c49-ae7e-54329e6f88f3"
+  },
+  {
+    "idConductor": "8229c6d2-36be-46a1-ba4f-ed92f896de92",
+    "idCamion": "e586c01f-a24a-47b5-a2f8-c565591eb319",
+    "idRemolque": "39741c6c-bcdf-4d91-9cb4-5bf226b5f897"
+  },
+  {
+    "idConductor": "a0689548-cc55-4f37-b473-aed26c76bbf6",
+    "idCamion": "efd1053f-510b-442b-bd17-be78ebf46560",
+    "idRemolque": "19c43cd5-c6a7-4a06-a4e9-b35aa36adfe7"
+  },
+  {
+    "idConductor": "e7b11f3a-0368-49bb-8742-0f1d1a295c0d",
+    "idCamion": "27652f57-a58f-4a43-8dad-744523d264b1",
+    "idRemolque": "823c696e-8cdb-4e11-9fb4-de14e63b8dfb"
+  },
+  {
+    "idConductor": "d913acaf-c162-4d14-8e9a-af37fe2d15a5",
+    "idCamion": "1cb06dd8-2094-4517-b926-fefd14f7deb0",
+    "idRemolque": "fa74905d-060d-4ff4-b78a-ad20d4d14ba7"
+  },
+  {
+    "idConductor": "1e75658e-eefa-460f-acf4-4a07a294e4b1",
+    "idCamion": "50fad330-5b1e-4dba-8ef0-b0147d3ade9b",
+    "idRemolque": "b4db32c1-2603-442c-8deb-3601ecbed66a"
+  },
+  {
+    "idConductor": "55ac02d0-6a9a-4eb9-85eb-0722a0da7b46",
+    "idCamion": "53913a59-812c-4bf9-8755-35c3da25d92b",
+    "idRemolque": "b1996116-24dd-4c69-9d89-e7fac701c184"
+  },
+  {
+    "idConductor": "ad7b39ae-6983-4954-8004-4abe6e29c455",
+    "idCamion": "267a6420-53da-45d1-b9df-7c09e293f1ee",
+    "idRemolque": "156600b7-c443-48a7-bcb0-68b340cec88c"
+  },
+  {
+    "idConductor": "18018999-5a3b-447f-a199-1c6bfd1e5124",
+    "idCamion": "69e8bbdc-579f-4489-b4c3-bae59a29fbd5",
+    "idRemolque": "a1adc9bd-f74d-476f-b5d5-cb9ddc8e69c4"
+  },
+  {
+    "idConductor": "c86d96cb-6543-4ff3-9ca2-7579b8e31cc0",
+    "idCamion": "ef1bab44-5770-4019-84bb-322c54cfc8e3",
+    "idRemolque": "f69a63dd-d5e4-4545-a532-6fc1f4d1f486"
+  },
+  {
+    "idConductor": "d9bd123d-28d9-41d8-b0a2-4d2da08bf899",
+    "idCamion": "b23a37b0-ef0a-49e8-9fd0-a892c06bdff0",
+    "idRemolque": "44ea566c-74af-4120-a4b7-6ed52811822a"
+  },
+  {
+    "idConductor": "b55c44d1-033a-46c3-89df-d3c6076badf9",
+    "idCamion": "0eadacc3-0588-46e8-a0c1-c2de3af25cb3",
+    "idRemolque": "e0033c20-737e-4a16-9911-6e865b1595bb"
+  },
+  {
+    "idConductor": "359291dc-5fd3-4805-bd9d-5547129633eb",
+    "idCamion": "cdab0b69-7ec0-44a4-972b-756507447d66",
+    "idRemolque": "363f7a15-20cd-481f-a734-2d7fe04f11ce"
+  },
+  {
+    "idConductor": "acdb58fd-e31a-417c-a181-bd845c0f9ff5",
+    "idCamion": "7d545436-5aa6-460d-a32c-7caa2a27082d",
+    "idRemolque": "f3b29aa6-8449-4a60-8f9b-9099886763e5"
+  },
+  {
+    "idConductor": "4c068421-34be-44ca-b1e4-50caec08cdd1",
+    "idCamion": "f95d27d1-7211-46d9-b31d-8b2e50e03976",
+    "idRemolque": "3a91f1dc-dd25-4ad2-aeda-f545a7cfb00b"
+  },
+  {
+    "idConductor": "bbe5b4a1-7ef7-43b2-8dc2-d6f166f795e3",
+    "idCamion": "e4751016-7dbc-4525-a094-519c40a482fb",
+    "idRemolque": "b41f9995-146c-44e6-8ab0-79ce46d2beef"
+  },
+  {
+    "idConductor": "5d299e41-68b9-4ba2-baf8-54bf960be693",
+    "idCamion": "5e29fefc-57b7-40b2-a13f-1bf586fb1d56",
+    "idRemolque": "99e95643-43c8-474b-beca-7aa39d80cab8"
+  },
+  {
+    "idConductor": "414b5c39-9292-4c7b-945e-4f52a0702be5",
+    "idCamion": "39e717a5-ceab-4a79-8332-23706caad7de",
+    "idRemolque": "5c1a62fd-0ade-42f9-b87c-73c6bc907c9c"
+  },
+  {
+    "idConductor": "681f2641-c4c9-444d-a467-54fac301105a",
+    "idCamion": "a53a50e1-2f8b-4f85-bc2c-5ba4f346cab3",
+    "idRemolque": "052532b1-7817-4c00-9e44-5aaf9074725e"
+  },
+  {
+    "idConductor": "5f7d602a-adca-451e-8986-7818b5e4ad18",
+    "idCamion": "242ccc52-7edb-42bf-a25a-007c600f04d1",
+    "idRemolque": "4d2ea317-305a-45a0-97b0-e34c322bd25e"
+  },
+  {
+    "idConductor": "981d42bd-56ee-4808-b9fb-2490e1dfb4c1",
+    "idCamion": "9ccc6a62-6637-4a09-af39-5b478b0d6c59",
+    "idRemolque": "898aad35-9c9b-4168-9a2a-36506c1d7a8c"
+  },
+  {
+    "idConductor": "dfd25ed4-2766-4394-af9a-0f2d90e3e21f",
+    "idCamion": "6b568fe4-3eb1-4c22-9379-1e4de96b8018",
+    "idRemolque": "1c9813e7-f1e2-4bd9-b901-127884078df7"
+  },
+  {
+    "idConductor": "de04d37e-7ee9-4290-9e16-fa09db1f1d85",
+    "idCamion": "bc4de0ae-9794-4af1-ab77-87d87fc05040",
+    "idRemolque": "2d26cb04-6a08-49a2-ab4e-8c48135150ee"
+  },
+  {
+    "idConductor": "61bba228-126c-4855-9e82-61c64cc27068",
+    "idCamion": "30263d8f-ede4-4f09-9f48-2061158d6562",
+    "idRemolque": "93208a10-9067-477e-8345-eddbb5078421"
+  },
+  {
+    "idConductor": "ee0dfda3-9cf8-4dcb-b22b-543a81245781",
+    "idCamion": "32492ac2-a397-4e90-b077-68f0e2e9cca0",
+    "idRemolque": "31100604-4283-4a52-8496-922bad42692b"
+  },
+  {
+    "idConductor": "f8cfa61c-e0c6-4ede-b9f9-db043e02e336",
+    "idCamion": "c3779e96-ed67-49d8-946d-0c0c075b605c",
+    "idRemolque": "21975bd2-f892-4926-a2ee-a781726917f5"
+  },
+  {
+    "idConductor": "07be805a-0d15-4f47-b818-234fa1a18a87",
+    "idCamion": "851ca425-a048-4591-99eb-665aa15a9049",
+    "idRemolque": "9f71e776-0a02-40a5-bb00-010830f36335"
+  },
+  {
+    "idConductor": "b2803ea3-48df-44a4-ad80-81ad9dc2d89d",
+    "idCamion": "2a61eb1f-bfb8-4a26-b307-d2d09a396c59",
+    "idRemolque": "5a84124f-3556-470b-9287-5a6c2d088775"
+  },
+  {
+    "idConductor": "33b28690-c91b-4d42-aadf-03db6b9f2516",
+    "idCamion": "9b5a0346-9357-4e27-9440-127a80401f41",
+    "idRemolque": "4cce7c6a-371e-47f7-92d6-e1467f3fcc73"
+  },
+  {
+    "idConductor": "88d80c01-ce85-46d5-85f8-9b6a1b42bc9f",
+    "idCamion": "de21bcf4-5abf-45ea-8c39-a8601911d2cd",
+    "idRemolque": "33f88744-d506-49b9-ba32-6b3823ffb27a"
+  },
+  {
+    "idConductor": "f5e5236f-107c-4597-a8f4-ede42d2ff08d",
+    "idCamion": "60b74ac9-d14d-4ef3-9254-0f370b2e9452",
+    "idRemolque": "78d675f9-dcd8-416b-bbdc-dcda33713511"
+  },
+  {
+    "idConductor": "2138b179-07f8-4be8-a413-9d8f61455012",
+    "idCamion": "37176a57-cba3-4c8b-a89f-f43c5a2132b2",
+    "idRemolque": "96ca094b-e26b-405d-a87e-5c40bd491847"
+  },
+  {
+    "idConductor": "380b7127-6315-4259-b7c5-336d61dbec07",
+    "idCamion": "7ac2ecfa-c7e8-476e-a79e-c2d52d284eff",
+    "idRemolque": "9904f10d-19f3-4639-a973-aa94812ae753"
+  },
+  {
+    "idConductor": "87cf475d-de79-4c19-bd34-7ad2db112c42",
+    "idCamion": "18b95032-f990-423a-bce0-6c01e37524ab",
+    "idRemolque": "88eddd3c-1f06-478e-9036-2faf38c41fa5"
+  },
+  {
+    "idConductor": "45aa08c5-8f8d-489d-9cbb-7056f04d3977",
+    "idCamion": "3d0dfa51-5e10-4b27-aeb3-cc1704210a0b",
+    "idRemolque": "b6f57f65-e08c-41ec-bf89-c8f343b0ded7"
+  },
+  {
+    "idConductor": "0ea971f4-82a8-42c7-8868-97fbb612e989",
+    "idCamion": "bc5ac1d4-75e0-42e2-883a-f35a9f528198",
+    "idRemolque": "7842b9d8-d0ac-49c4-8775-9a4778895741"
+  },
+  {
+    "idConductor": "b72f89c0-87c6-4784-98ad-e30a508b8ea8",
+    "idCamion": "5e439b04-2ca5-4377-b927-e71fe9312088",
+    "idRemolque": "8c7450c3-c39a-4a4f-9a22-8cb6b6433ee7"
+  },
+  {
+    "idConductor": "26dafba8-bd73-469c-bf97-a86e55d78fb7",
+    "idCamion": "1c806aa0-4769-4364-9d71-d8261a1c1d79",
+    "idRemolque": "10b148bb-6ebb-4e55-89ad-22c8cde47378"
+  },
+  {
+    "idConductor": "19858c74-c548-4783-a682-62686ede938e",
+    "idCamion": "05f13a79-ccc7-4c64-85f0-ec14734f961a",
+    "idRemolque": "448c69f9-d866-4221-b73a-c40b66c2c519"
+  },
+  {
+    "idConductor": "f9261ccd-0c02-444a-b80b-7bbab9a60254",
+    "idCamion": "76ab4e63-ad89-4d2a-bf25-b6a9d3175e16",
+    "idRemolque": "176e9c1a-2097-482b-b2fe-36ad6503e96d"
+  },
+  {
+    "idConductor": "6d42b792-5a4a-48a8-8e6b-c5edee645427",
+    "idCamion": "f017097f-e8e8-411d-ba13-99f7b736e970",
+    "idRemolque": "67940973-33f1-4d5b-a1eb-75c567db1b28"
+  },
+  {
+    "idConductor": "18a54b89-0cfd-4cf4-a06c-ce57eec14ad2",
+    "idCamion": "360ec84b-fc39-4479-9f55-8928e7f6dce4",
+    "idRemolque": "614a3924-e232-4c0d-8d7e-249b25629b05"
+  },
+  {
+    "idConductor": "602815e5-8d19-429d-9679-2864d0b2eb53",
+    "idCamion": "b331b0a6-253e-40ef-bec2-02c95f213f91",
+    "idRemolque": "d051a4ec-560e-4828-b792-eb8d338780c2"
+  },
+  {
+    "idConductor": "a67f3c75-bfe5-4dac-9f56-9b336ca68e85",
+    "idCamion": "17e46bdc-5bc8-4e8b-a1fb-6b6002cb17b1",
+    "idRemolque": "ed699ca5-a83d-4ddd-9815-57f975938ea8"
+  },
+  {
+    "idConductor": "64b41127-5167-45e9-94ac-b60ac2c1fa9d",
+    "idCamion": "47a2d08f-5c2b-4d7a-b6d8-574b9c6ba8a9",
+    "idRemolque": "a658f46d-a337-4a1c-a8ed-2e12809aca0d"
+  },
+  {
+    "idConductor": "c701246e-4afe-4cdd-878a-fee714766a4d",
+    "idCamion": "4260f8f7-3535-4be7-bcc7-66712814b819",
+    "idRemolque": "c7405244-96b1-4573-b1af-f858fe90cc0b"
+  },
+  {
+    "idConductor": "0af41381-1b5d-452c-bf19-e07be71cb37e",
+    "idCamion": "cf340c6e-95d1-4ba6-9b28-05659bd6010e",
+    "idRemolque": "5ab1a820-50d8-4063-a740-f659b1b87310"
+  },
+  {
+    "idConductor": "7ca5fd02-3430-4038-b349-9c7977b8b188",
+    "idCamion": "c721092e-9877-44e1-8770-146c40f31ed8",
+    "idRemolque": "31ce5379-bccf-49f9-9f7d-3ad6d3fd9225"
+  },
+  {
+    "idConductor": "c2ad97cb-241a-4532-bc73-a052a5d5aa2d",
+    "idCamion": "35720764-4a42-4215-896d-3f4e30b917f4",
+    "idRemolque": "87ae547b-a6d4-48ce-b070-3f4559c418cd"
+  },
+  {
+    "idConductor": "cd1bac66-a699-49c3-974b-c9345efc2881",
+    "idCamion": "b57fa736-9b1b-4adf-bad3-9626e93fa12b",
+    "idRemolque": "76cf3945-4592-4820-9039-8f1831c49f5b"
+  },
+  {
+    "idConductor": "5a3fa09d-490b-4e28-9b6d-0033a2e862aa",
+    "idCamion": "d87ba42b-d30f-4a96-a296-5255cc2fd36b",
+    "idRemolque": "7b8168da-bfb8-44c3-96f4-4257547a7991"
+  },
+  {
+    "idConductor": "387b9a02-2026-48ce-9d7f-b5fc3f920edc",
+    "idCamion": "33733122-212a-40d2-a2e2-44bf1d268ba2",
+    "idRemolque": "cabcd36b-cd2d-4501-9697-5e9d87199365"
+  },
+  {
+    "idConductor": "757e2b90-9596-41ad-9ba6-b36a696a6dfc",
+    "idCamion": "ed018491-3074-4490-b06f-9b31a2cc1596",
+    "idRemolque": "6de981a5-f376-424c-ba35-621f165f8056"
+  },
+  {
+    "idConductor": "f70d5546-a9cd-4c80-86ce-6a06f8c5b6aa",
+    "idCamion": "a07cb67d-c635-4709-9ecc-f5acba73111a",
+    "idRemolque": "c4bd2333-8d58-4cb5-ae9a-e24b9af51cab"
+  },
+  {
+    "idConductor": "d55721a9-e1eb-422d-992c-24d531c281cc",
+    "idCamion": "dfb144d3-8150-4cd5-a8f6-1588b1444dfa",
+    "idRemolque": "58a92f1d-964a-4828-9711-d164a3fb1263"
+  },
+  {
+    "idConductor": "12761839-31c4-4b06-aeb2-58490fb50397",
+    "idCamion": "b13d5c6d-66a1-43b3-9dfa-f838515a9166",
+    "idRemolque": "02de9f33-b413-4f0c-bd7c-b5b3cca21022"
+  },
+  {
+    "idConductor": "08f19945-943c-4782-8180-d29efb75f4cd",
+    "idCamion": "563ef433-b680-4dd6-a932-4f6d87e45ba1",
+    "idRemolque": "6dbfdf5d-3a83-4fd8-b4f0-872d11f566ac"
+  },
+  {
+    "idConductor": "2d43dd72-e8ad-42c3-818f-6d5921a48b36",
+    "idCamion": "155e4ab4-7eed-48a1-8d87-e605e5f6275b",
+    "idRemolque": "65c8593d-cb59-4cc1-8b64-0c6287913552"
+  },
+  {
+    "idConductor": "a836662f-4136-4759-98e7-048c4accdae2",
+    "idCamion": "ad2bdbba-be29-43b3-999a-4dee423c5c96",
+    "idRemolque": "2ee8fa7b-47c1-41e0-ac70-8326d8e5636c"
+  },
+  {
+    "idConductor": "7ac300af-2efe-4699-847f-7647f3e4c59b",
+    "idCamion": "4e1cb930-6512-4e47-ab45-a7b9f5376deb",
+    "idRemolque": "fc973fd4-ef98-4978-850b-dd981c0932c0"
+  },
+  {
+    "idConductor": "a7317457-7a64-4057-8de8-daabd1d2e36e",
+    "idCamion": "0b5a0123-fcfa-4ffe-818a-e689deee2e77",
+    "idRemolque": "8d4d484a-a837-41ca-a32b-cb4f67484400"
+  },
+  {
+    "idConductor": "e99e65cc-15c4-441b-8e8e-38c92fdf4604",
+    "idCamion": "5b8b343a-8c9a-4bef-9b4a-ecbb73c4c17a",
+    "idRemolque": "980abac0-0fc2-4468-957c-751b136bb7c8"
+  },
+  {
+    "idConductor": "93a0d0dd-90e5-40a9-9448-cdd91d28fabb",
+    "idCamion": "fd2a5885-c0bf-4cfd-8eed-1f6850faf379",
+    "idRemolque": "66a83a44-3aae-42b6-b1f2-8740ea3bb9f3"
+  },
+  {
+    "idConductor": "c24fb516-1566-4151-853b-283b86a480e3",
+    "idCamion": "a48f9524-bd12-48dc-8556-497343367366",
+    "idRemolque": "70701a6a-d0e8-4204-a3d0-5912fab5e666"
+  },
+  {
+    "idConductor": "d21b151d-3a0b-42ce-ba8d-bbe1cc5265ec",
+    "idCamion": "2a9e1f8b-2d85-425d-b2ad-e84d63fc8559",
+    "idRemolque": "3030d436-3db0-49cf-9a68-f7c42201af61"
+  },
+  {
+    "idConductor": "6eda0807-b77c-4c72-a0d6-20d37a98f7d0",
+    "idCamion": "216c854a-03b1-4b3c-a58d-af44e9bebc7b",
+    "idRemolque": "9406dffd-62b9-4d0b-8f06-f7ca37825db5"
+  },
+  {
+    "idConductor": "289451d3-05e9-4330-ba0c-3553532ef38c",
+    "idCamion": "9b0146ee-557c-4775-9d9b-f9e88e5d3806",
+    "idRemolque": "0d1d58be-0c06-48d3-9622-cbd5a947c8e3"
+  },
+  {
+    "idConductor": "0e5223b8-b9fb-4c93-9979-e54bd1a4698f",
+    "idCamion": "e8e49cd8-6369-4314-84d1-93f481a40ec2",
+    "idRemolque": "7eb68e0c-523d-42bd-8d50-5a90de199313"
+  },
+  {
+    "idConductor": "535f57b9-8449-4a0b-ac96-eedc69d73af3",
+    "idCamion": "ea5ba713-342e-459b-8dac-a1f440e6ab72",
+    "idRemolque": "50c48eb0-2654-4add-a990-53c912fc87fd"
+  },
+  {
+    "idConductor": "80bf70a2-e4c8-41e2-bd6c-1512501711ea",
+    "idCamion": "199d8c22-d3da-49c6-910a-6f725bc02432",
+    "idRemolque": "963e16e1-a657-4431-8ed7-7f50995c4561"
+  },
+  {
+    "idConductor": "88064857-9425-445e-881c-ae7e2798b277",
+    "idCamion": "4783ad30-2f5d-4b71-980e-71033d11048d",
+    "idRemolque": "e13dc2e2-b06e-401c-9083-b9897c5d3438"
+  },
+  {
+    "idConductor": "154c9d73-1a54-44a2-aed2-e2555c05a336",
+    "idCamion": "08f360c8-0072-4f5b-868e-65afd8494a6b",
+    "idRemolque": "368aef9b-7e25-4c51-927f-ea86de20d99d"
+  },
+  {
+    "idConductor": "4b72a39c-dce3-4bb5-b478-181d6eeb572f",
+    "idCamion": "f2547452-b2f5-4d15-a4ae-92b326e4ee05",
+    "idRemolque": "8046278a-3df8-4cbd-ad54-840555a6dde3"
+  },
+  {
+    "idConductor": "7a5252de-0393-44b3-8e17-c8789c164054",
+    "idCamion": "8b2e87df-3b4a-4196-b986-b0813649a05c",
+    "idRemolque": "453e902b-1424-4618-85fe-8c984a5cf72c"
+  },
+  {
+    "idConductor": "a47bd042-72ce-4ae8-89ab-a95a109986ac",
+    "idCamion": "1782b2b3-d5ff-4988-9617-21254c2be3f3",
+    "idRemolque": "a5860c48-ffba-45a3-95ef-f99ed34341ba"
+  },
+  {
+    "idConductor": "0622aa57-3572-44e8-876e-6953fb877e46",
+    "idCamion": "c3b4abb6-e493-45d2-aad2-0032d5d891d5",
+    "idRemolque": "9c4f8de7-5a06-4461-9782-da9d7941648b"
+  },
+  {
+    "idConductor": "8f31e68f-7d46-42f8-b413-ef5559cd5458",
+    "idCamion": "1bf71df7-cd7d-4b58-809f-76bdaffbd2f0",
+    "idRemolque": "bf9fff37-73ec-41d1-b228-5186d3f83e71"
+  },
+  {
+    "idConductor": "8db92a7c-ff6b-40b9-b907-a500c5adcb5c",
+    "idCamion": "e18655b8-f9ac-4291-bc20-318781d9a730",
+    "idRemolque": "1faa23c0-232f-4ba2-933d-be962a3e0b85"
+  },
+  {
+    "idConductor": "0c0c1066-18af-4155-89d2-ddbbaceb3293",
+    "idCamion": "e8f237fa-608e-48d6-b346-0564a741a09f",
+    "idRemolque": "28b68536-29cb-45f3-b47f-3afb1d68c5a5"
+  },
+  {
+    "idConductor": "6c94fa28-59c6-4673-bc0b-125cbe41a54a",
+    "idCamion": "c0554224-7224-4d1f-bc64-c9505206aa8f",
+    "idRemolque": "77707cf7-12f7-4cec-b33f-7edfb851ebb1"
+  },
+  {
+    "idConductor": "8e56e8bf-bdb4-4e72-ac6e-a27d3822ea38",
+    "idCamion": "ac151976-32aa-421d-90b4-2d9a980fefd2",
+    "idRemolque": "106a1ced-e23f-44be-8618-0e13f11f5488"
+  },
+  {
+    "idConductor": "3a37f99a-cfd4-4566-80a7-c9b71d62a8e5",
+    "idCamion": "785930f9-a3d4-42d1-81f7-097bdb690fe0",
+    "idRemolque": "68062873-6d36-4885-8b49-27a8c80916b9"
+  },
+  {
+    "idConductor": "af16a10b-d815-4c08-a72b-766b2c8abf31",
+    "idCamion": "d2bc407a-51e3-4d9c-9ffd-0333ec49c08c",
+    "idRemolque": "cc39cb20-512d-4a9b-abca-648dcf7d9eaa"
+  },
+  {
+    "idConductor": "9fde9edb-d609-4eaa-8d6d-a0346edd8de8",
+    "idCamion": "e766f6db-d0b4-47be-aba3-9e268df90b4f",
+    "idRemolque": "fb799e1e-da2a-49cb-ab2e-1861e1d37415"
+  },
+  {
+    "idConductor": "4a3237b0-520d-445c-8a44-222a4eba684e",
+    "idCamion": "8b2f093e-ef19-41ed-8a73-b17d1680e113",
+    "idRemolque": "89955b8a-dad7-4195-ba90-5de700625c2a"
+  },
+  {
+    "idConductor": "a2e0065a-7fed-4a9c-b06d-bd092bd44cab",
+    "idCamion": "060fa4a7-db72-43be-b9f1-2223df9e98e2",
+    "idRemolque": "b2b767af-167f-4b2c-8717-02310f084fae"
+  },
+  {
+    "idConductor": "996e7056-3d1d-4973-a127-838bcb2f17ef",
+    "idCamion": "03ec65eb-9eac-4de2-843b-44e0ef53fbde",
+    "idRemolque": "be5f7174-f2c5-4943-98fd-ecfee649aa2c"
+  },
+  {
+    "idConductor": "82a62db1-62d6-4a7c-9a35-1e83dac071f1",
+    "idCamion": "fc146fbc-7a16-4800-926c-5896120f163e",
+    "idRemolque": "428c52cc-9b00-4244-9634-7c9bfe7ecdb8"
+  },
+  {
+    "idConductor": "b25f802a-f53a-451a-97da-23731f16d597",
+    "idCamion": "65afdbd5-d1a6-4abe-b0ce-d6e1df2554ce",
+    "idRemolque": "3559799a-e789-4b4a-afed-b68e9cc23164"
+  },
+  {
+    "idConductor": "394047ec-0dd6-453a-9777-f023de4a4985",
+    "idCamion": "5c43f944-bdda-448d-868d-2e05a99341a0",
+    "idRemolque": "0bc49fe4-f9ec-4105-84bb-d084c852be86"
+  },
+  {
+    "idConductor": "d8ba783a-f86a-4f84-8382-21baf9190f32",
+    "idCamion": "dab1740f-46b7-48ce-be31-a72b07f9eddf",
+    "idRemolque": "3cdfeb1e-e82d-42ea-846c-08a297c58596"
+  },
+  {
+    "idConductor": "8f109dca-a336-4980-a2d1-4ab47a5dc639",
+    "idCamion": "aa0488d3-f4a9-482e-a5a1-82c7bec6e349",
+    "idRemolque": "628a82a2-40be-4567-8dd7-3bc693255403"
+  },
+  {
+    "idConductor": "b110028a-bad6-44b0-b739-9a7aa95ca26a",
+    "idCamion": "49b2f169-7505-4d79-a6a1-05f459c56c03",
+    "idRemolque": "a32918ae-1e80-4bfb-9c83-660c6df9ba36"
+  },
+  {
+    "idConductor": "b96bd8ea-ab89-4730-956f-8f1d059a2a4e",
+    "idCamion": "8147aea7-260c-4c6d-a7ba-84854c363a33",
+    "idRemolque": "7fa7fb33-5fb1-4727-871d-78aeb6541a78"
+  },
+  {
+    "idConductor": "fd249e00-08b6-406e-9e45-85e0f33559f5",
+    "idCamion": "43d662e3-0cd4-4491-9648-4865813f970d",
+    "idRemolque": "f7f0240c-1c65-4a02-8130-45be372e2475"
+  },
+  {
+    "idConductor": "00233ea3-b8fe-4a06-80ef-f1c1d6303db9",
+    "idCamion": "1354d0e5-2b79-4b4c-95c6-985970afe5b1",
+    "idRemolque": "4ffcf95e-a0db-434f-a75d-5c65181de974"
+  },
+  {
+    "idConductor": "b5bc0cbb-8172-4a04-ab28-b0947a52d81e",
+    "idCamion": "b30a5179-66d6-4d6b-a483-085fd8744481",
+    "idRemolque": "0b495e7c-1a1d-4ed4-9731-f97c1f1b90ca"
+  },
+  {
+    "idConductor": "ab0a82ab-e657-4ef9-b769-8665c66965a9",
+    "idCamion": "85e7cda8-923b-447e-896f-377d108f3902",
+    "idRemolque": "d0d16253-05b2-4cff-8510-cbee1b8a5ff1"
+  },
+  {
+    "idConductor": "fb0ce22b-cea7-44af-ae30-229c32e67b60",
+    "idCamion": "e2edf544-272b-43ca-bf34-fe0b240954ab",
+    "idRemolque": "fb500d32-b31a-4d14-b14a-242a985e7794"
+  },
+  {
+    "idConductor": "8b95c222-4b24-4d11-92fb-34dc744f0acd",
+    "idCamion": "0f5b0a1d-4448-4563-aa5e-5d058b5d0885",
+    "idRemolque": "a215446b-d5f7-48ba-8714-aae44186b319"
+  },
+  {
+    "idConductor": "b02355ce-b66b-4cf8-aa91-7d64e784b8d0",
+    "idCamion": "cca8560f-860a-44d6-90f7-a7edfc95e108",
+    "idRemolque": "620f3693-c7c5-47c1-8970-3eb14e96192e"
+  },
+  {
+    "idConductor": "8538b87a-1a92-4d3d-b19e-108842d6355f",
+    "idCamion": "158f3ce4-5be0-47ca-a3ed-d12b0a433d42",
+    "idRemolque": "d1483351-75a2-4fa9-9f1f-208d07379915"
+  },
+  {
+    "idConductor": "46a8b974-0aec-42d8-8af5-9fbfe934d534",
+    "idCamion": "d475c9b5-5c6a-42cd-9f03-07b9145cba71",
+    "idRemolque": "8dab2766-909d-4d47-bd28-02149acb9f09"
+  },
+  {
+    "idConductor": "39bb081e-7e8b-4893-ac2b-106aec453fb5",
+    "idCamion": "dc48c8c5-cb84-4c42-a2ed-a864e0d2c880",
+    "idRemolque": "26137567-3230-46f3-a84a-95f896395218"
+  },
+  {
+    "idConductor": "2aacc1fc-1b7b-4322-8028-91f305965c7b",
+    "idCamion": "4dbfff8b-8e4c-4367-ae9f-6ed916134ea0",
+    "idRemolque": "068ab681-5cdc-4d95-b8e2-0a802567ecd9"
+  },
+  {
+    "idConductor": "90d17e3a-fb5f-4f45-ae01-337c75bbd606",
+    "idCamion": "24c82fa3-537e-4270-92e1-2f6d53753989",
+    "idRemolque": "61f1f7a3-471f-49b8-8a50-fea99e9dd6ef"
+  },
+  {
+    "idConductor": "bfa94f58-8cf9-45e2-9ac1-fb552a4ce115",
+    "idCamion": "f22be547-cbd9-45a2-ba2d-6e23850dce8d",
+    "idRemolque": "62675677-1774-4686-aa74-fadf4a8e173d"
+  },
+  {
+    "idConductor": "a29f4319-eec8-4bda-b05f-b391b1212892",
+    "idCamion": "50fac4c8-3403-4994-8069-31a6d6dc5f08",
+    "idRemolque": "8ae8b8eb-ba57-4e81-b2e8-7714fc847342"
+  },
+  {
+    "idConductor": "b25f80b8-0c11-4725-86c2-0ec50988fee7",
+    "idCamion": "b6d940a4-4ab7-4901-8bcd-4dfed364505d",
+    "idRemolque": "c49ddeb9-fda5-4ad6-ae05-f44c46c900a9"
+  },
+  {
+    "idConductor": "eecc2c8c-d98c-403d-8965-4b202d4631cd",
+    "idCamion": "b37dc0c9-b293-4c61-b510-631537dbe3a3",
+    "idRemolque": "d3145fc7-18dd-4640-9911-47e797d8a322"
+  },
+  {
+    "idConductor": "bb4d8340-85f3-439c-aca1-7768a4d65c10",
+    "idCamion": "558db41f-88b0-48f2-8934-4beb165be091",
+    "idRemolque": "56d27d0f-baaf-46b5-9d5b-7338fb863ec6"
+  },
+  {
+    "idConductor": "86f4fc4a-6ce3-415e-9bc9-0d6960dafef9",
+    "idCamion": "a685a3cb-0a2a-45ff-a16a-f1613c62869a",
+    "idRemolque": "540e6493-3bde-44b8-8c78-2efca67594ab"
+  },
+  {
+    "idConductor": "128acca6-fb0b-4e14-8312-96ce61d3a011",
+    "idCamion": "8eb9b559-5c64-4fa3-a0a4-be01cf5059dc",
+    "idRemolque": "0c00dc3d-4c49-4fcf-b641-aa6e65bdfc0d"
+  },
+  {
+    "idConductor": "5bb27fde-0a92-4408-b77a-dad4fd16275f",
+    "idCamion": "03b554be-30d7-4eca-8a93-85038c028f0b",
+    "idRemolque": "2c7429e3-7fe2-4102-93f0-022547ff2929"
+  },
+  {
+    "idConductor": "1b4bad59-1cea-494f-b7b4-af7f995e07d1",
+    "idCamion": "dbece317-5092-4dc0-b586-8d93ca533a9c",
+    "idRemolque": "3ebf663d-ffcf-46bb-b520-298379e7ddc2"
+  },
+  {
+    "idConductor": "5b157621-a99b-46c7-9430-b3aba5f12416",
+    "idCamion": "0f32b0c8-56b0-4cd0-a605-a97287390acc",
+    "idRemolque": "5aa1086f-6d9a-468c-8b44-896c3741e79a"
+  },
+  {
+    "idConductor": "af5a0ab7-b0bb-4096-aa16-82e7114136f2",
+    "idCamion": "4589ec15-7cf5-4c03-bef9-1b58994f8569",
+    "idRemolque": "66669559-81c8-470d-ba42-bb909bd9a29f"
+  },
+  {
+    "idConductor": "677b43be-c87f-43d7-8608-388e87ed529b",
+    "idCamion": "dae294cd-fdf2-4e47-a81c-bc7ca26a7fac",
+    "idRemolque": "85254494-b663-42c0-a25f-5feb472b32dc"
+  },
+  {
+    "idConductor": "567051fa-b28a-427d-9821-75f32beecf57",
+    "idCamion": "4c1ec654-7ff8-4c0d-b534-80e9083354f8",
+    "idRemolque": "c640c580-3af8-4974-925f-596f90804ef6"
+  },
+  {
+    "idConductor": "4fa7cb13-8a17-4955-bb11-597e4a597dd8",
+    "idCamion": "e2928299-85ee-45fe-a2b2-fc741830cb14",
+    "idRemolque": "07256dc1-4e32-46c5-bcbd-e5917b5cfe5c"
+  },
+  {
+    "idConductor": "6fd522fc-02a3-4d21-afb3-3031790f7468",
+    "idCamion": "2040acbc-6ca8-46c7-af32-13aec7059b18",
+    "idRemolque": "106316f1-4a06-4831-b1d5-c70fba049a68"
+  },
+  {
+    "idConductor": "7d1a2d86-98ad-42eb-8412-2dfdd7322818",
+    "idCamion": "4f781401-bab9-486e-a284-aae3c4dfd9e9",
+    "idRemolque": "882eb8be-ea35-4bf3-a974-90c64232a49f"
+  },
+  {
+    "idConductor": "188a28e8-dc57-4ad2-9ca8-d781ee601aea",
+    "idCamion": "30382dce-49db-4a5b-9638-3af70ddaa8b8",
+    "idRemolque": "f2efe7af-61d4-4338-ab72-ecbd3104de5f"
+  },
+  {
+    "idConductor": "7c7fe079-2613-49f4-acb4-cf3fb9d35a18",
+    "idCamion": "22d5cb31-068e-49ee-a9d6-3668169737ef",
+    "idRemolque": "4d582801-8967-43b4-b828-88d5892d0609"
+  },
+  {
+    "idConductor": "33b1d077-1f05-4a7f-95b6-8af51e800f9e",
+    "idCamion": "2bd16672-eba0-4e78-99ab-e31b3b0307b2",
+    "idRemolque": "6ccc02b4-bc12-43ef-a110-ed61eb0c06fe"
+  },
+  {
+    "idConductor": "7e23677a-2efb-4e60-bf6d-720e8667489c",
+    "idCamion": "6d7ef569-a300-46e3-926c-5d7aba2403b6",
+    "idRemolque": "e2fe3ee5-ac5f-4af0-80ee-e0f94443599f"
+  },
+  {
+    "idConductor": "012704a2-e8b3-487a-b925-c3904462428c",
+    "idCamion": "876ff402-f274-4828-9d31-4145eac2a07e",
+    "idRemolque": "da82ec75-0deb-4fb2-87f1-a909b526fdda"
+  },
+  {
+    "idConductor": "8d6e323e-1d3c-40a7-b9fb-afc4f72ccecd",
+    "idCamion": "809c76ca-9f5d-445c-8027-04b856090793",
+    "idRemolque": "977dcd38-82a1-43ee-838a-84d00aea8e6c"
+  },
+  {
+    "idConductor": "633b32b5-59aa-4046-a1c1-b8c90c0c6165",
+    "idCamion": "f66320ed-736b-4d01-8f65-b392c798c522",
+    "idRemolque": "56c39e6b-0687-4aa5-8d4f-a977ac24a10b"
+  },
+  {
+    "idConductor": "d9df51da-e1f3-4c20-b4c7-a65b1e64b8f9",
+    "idCamion": "a3102ce9-f005-475b-97c3-c525c1c14fc8",
+    "idRemolque": "1bb7ea09-7989-4b26-bd38-c9613b77a6a5"
+  },
+  {
+    "idConductor": "bf560f11-b7b7-4bb8-a2cb-d51bbc5b533f",
+    "idCamion": "160bc151-883e-4d6a-9c26-e6bd2d75b327",
+    "idRemolque": "d6849e38-7838-46f1-a216-c3f929e9d86a"
+  },
+  {
+    "idConductor": "c9f64aeb-b7e0-4e56-ad69-bc02e173c1e0",
+    "idCamion": "659355cb-d585-4470-8d36-7fb1d778600d",
+    "idRemolque": "30412067-c452-4b7b-85c7-9103a2f0938b"
+  },
+  {
+    "idConductor": "da8755cc-08a6-4e92-b4e3-b5d7949daef0",
+    "idCamion": "a9facc9e-611f-49ce-b408-0e37cbe748c0",
+    "idRemolque": "90485b90-4bb1-4faf-a888-87120f2d462d"
+  },
+  {
+    "idConductor": "9fec70ea-a48b-4537-ae6a-0652e7dad2ba",
+    "idCamion": "c4b1ecdc-f1e4-4602-86a6-7dcd3e1341a6",
+    "idRemolque": "53c2dc0d-ca15-42cd-b9c9-98d0654b6b59"
+  },
+  {
+    "idConductor": "863a8bc5-fcfe-4a58-b2a6-d2262926219f",
+    "idCamion": "2b2f6303-ad38-4f02-b2eb-254edd125769",
+    "idRemolque": "cccc5213-400e-4115-abe2-114ef8d7d94d"
+  },
+  {
+    "idConductor": "aac2a780-0d28-4eff-9c56-61d94d356383",
+    "idCamion": "5b7834eb-14e3-4740-9ab3-c8c52f63bf3b",
+    "idRemolque": "7a502d5a-61e2-41c7-b9d5-5b49c79ba2bb"
+  },
+  {
+    "idConductor": "82dd97cb-da4c-445a-b75f-bf93e32f5ae5",
+    "idCamion": "cf2a67b3-481b-46d5-98d3-a7c4bca2f65e",
+    "idRemolque": "2a04680f-300b-40a4-8005-053a71992121"
+  },
+  {
+    "idConductor": "91e14647-585a-4e20-a21c-569df4ddb9cd",
+    "idCamion": "fb552454-d967-46d5-996d-e7a2fb81258e",
+    "idRemolque": "33ab6fd1-05ed-4c08-84e5-2c64397c603e"
+  },
+  {
+    "idConductor": "e3a97bb8-e27c-46c3-a23a-0b06446c32e1",
+    "idCamion": "48a98470-d224-4f92-9d62-85cbd8c9458e",
+    "idRemolque": "c4535f6b-5a0a-4f80-9584-4ffdd523aca4"
+  },
+  {
+    "idConductor": "ebf72cb3-5a29-42e5-ac53-d031565f2054",
+    "idCamion": "cbd35447-536a-40d5-bbad-f5ff3d27c436",
+    "idRemolque": "ff703af4-b508-4366-a0af-117eadb81dae"
+  },
+  {
+    "idConductor": "49fe1dec-920d-4e7e-bfb2-c2d4366e3a1d",
+    "idCamion": "af2e0f6d-98b8-4c08-a4d5-4ac8615b3315",
+    "idRemolque": "8aba4802-506d-4c05-87f2-96e3c4c8b2f5"
+  },
+  {
+    "idConductor": "161a4e2c-71cd-4d64-96a7-725370f53d0e",
+    "idCamion": "f1553858-648c-44d1-bdda-70042c379863",
+    "idRemolque": "00cd1581-5eb4-49bd-8296-1ee1572a044d"
+  },
+  {
+    "idConductor": "ad81f805-2c26-4ff0-9c39-843e02503cbb",
+    "idCamion": "bd42d7e8-b5d0-4ba7-a824-4a71c93a9cde",
+    "idRemolque": "cd0d47cd-419b-4c76-9648-eafded123faf"
+  },
+  {
+    "idConductor": "2fe7a947-4328-4758-ba1a-8f39c08b749c",
+    "idCamion": "fec50927-c0d8-4482-9f37-72f37c582338",
+    "idRemolque": "55122198-3fb3-4dd0-972c-27fff91baf36"
+  },
+  {
+    "idConductor": "073a2c65-40b4-44c0-88ab-563f788dea2e",
+    "idCamion": "e6cb3b47-d851-44f4-8050-ff3ccd1c3c3c",
+    "idRemolque": "30aa4c6e-6758-4a4b-9121-87e68e3beb4e"
+  },
+  {
+    "idConductor": "78c76ec3-7ff9-4d30-97af-2086a17630aa",
+    "idCamion": "130807c3-7553-4578-8687-0f9b099eee1b",
+    "idRemolque": "c0ab7a63-50d8-4c23-bd80-b78f8aeffc0d"
+  },
+  {
+    "idConductor": "a30e6795-b306-4785-937f-1b01cc1fe9ed",
+    "idCamion": "310b7c09-7113-47b5-b743-ad3a64086a11",
+    "idRemolque": "480bea18-3da0-48a6-8891-fe55d0bca489"
+  },
+  {
+    "idConductor": "add95039-a64a-4d59-bb98-5e0727bb8927",
+    "idCamion": "24270fa1-45f7-47ef-9c7b-93d7bb86020e",
+    "idRemolque": "8a379287-8aea-4cc0-a4f4-d27fd29cda82"
+  },
+  {
+    "idConductor": "dcbe6829-cc48-49e6-828d-69484b78337a",
+    "idCamion": "cb8bde75-907d-4bd9-afa0-3fa28bf44b41",
+    "idRemolque": "43cb6bee-c107-47fc-a884-3bdd34f35d3d"
+  },
+  {
+    "idConductor": "77569419-5225-4e07-a503-ed1f05459077",
+    "idCamion": "3bfb43e4-de8c-44f7-be99-2520170e877c",
+    "idRemolque": "059ef36f-11ef-4b31-98b4-bf62a1dfe8bb"
+  },
+  {
+    "idConductor": "c6eae4db-ac92-4157-99d0-37fdb69c1d75",
+    "idCamion": "2791c6b5-3fc5-4f99-a4cb-70e3386c4e06",
+    "idRemolque": "277d3d9c-fdbb-4e5e-901f-0cc2e4621b78"
+  },
+  {
+    "idConductor": "a3d82099-1d29-46f7-a636-9faad91094ce",
+    "idCamion": "fe77378e-7cc3-4484-8ed4-eea2a3f0fae5",
+    "idRemolque": "d00f426d-44c5-445a-a409-7270354cd3cb"
+  },
+  {
+    "idConductor": "ccf7c54b-88fe-4c72-aa68-a0e5fe1dd6f3",
+    "idCamion": "3be316a2-ed6b-484b-b868-79acd0c9843c",
+    "idRemolque": "e7b5b239-7541-4235-a1e8-1b2a30d0d1c3"
+  },
+  {
+    "idConductor": "cd2924d4-a946-45c5-bed0-bead728cbc8b",
+    "idCamion": "afe9d455-b12f-45d7-886b-5ddecd80599c",
+    "idRemolque": "db2de503-ed3b-43df-8500-d05626344db4"
+  },
+  {
+    "idConductor": "a8039aa1-73b7-448e-936c-6fbc36c281d5",
+    "idCamion": "f6cef41f-89f1-43d6-81ff-9ec1c7f59a29",
+    "idRemolque": "94c02e6e-e6e5-4369-9424-97cc6471f455"
+  },
+  {
+    "idConductor": "3b7ce227-aae1-43d0-8bf2-ef2940523744",
+    "idCamion": "b1edfa03-b4a3-4593-b6f7-76fc239801b1",
+    "idRemolque": "85fcff60-820e-4fa5-a0d4-c4ea2339c86e"
+  },
+  {
+    "idConductor": "fb1d42e7-2542-4bb8-a8de-ab26b25d54c3",
+    "idCamion": "9ae1ba6e-4157-43c0-9f57-b87ab2768c70",
+    "idRemolque": "47402238-5fc0-4317-90eb-6513d3b6de64"
+  },
+  {
+    "idConductor": "369c82e2-1d53-43f5-8b8f-1b24386251a4",
+    "idCamion": "aa692f23-854b-4051-a3f3-87b6b4d28c11",
+    "idRemolque": "54d98ef7-b191-41f0-a7e6-a04ad67a5d9c"
+  },
+  {
+    "idConductor": "f033dff4-d5a7-4370-8a03-6ea9f82b82fe",
+    "idCamion": "48d27fe7-a0da-4b9f-accc-805e2eaaea1b",
+    "idRemolque": "20e3a4fd-b3b7-4c53-a007-3e7c6d925629"
+  },
+  {
+    "idConductor": "7c84755a-6a51-4130-8507-7c5167c9c05e",
+    "idCamion": "7404a8b7-e46e-4726-8b40-6cecb410a4c8",
+    "idRemolque": "35d6696c-9b9e-452f-80ef-7defbf63a898"
+  },
+  {
+    "idConductor": "6e5419f1-dd31-457f-a81a-37dba4ba9401",
+    "idCamion": "8803f623-4feb-4a00-8960-7b1f05ae2deb",
+    "idRemolque": "6f622094-f7b4-455b-b13e-7ce140099298"
+  },
+  {
+    "idConductor": "83e65212-cc07-4c59-9b00-3732c6342057",
+    "idCamion": "a9bad7f7-97ee-40c4-b544-e73ec0ab6a37",
+    "idRemolque": "611b8edc-9d22-4990-9e49-1520845edc68"
+  },
+  {
+    "idConductor": "b099a64a-30a0-4ccd-825b-478a1c485fc0",
+    "idCamion": "6bc0bba4-283a-45cb-b5e0-c0b27717e86d",
+    "idRemolque": "d5025c15-8ab9-41af-b1fd-3ff502cf1e8d"
+  },
+  {
+    "idConductor": "21460077-f2c2-4081-94c2-35498eff0db6",
+    "idCamion": "6a6db14e-babb-4d05-b052-f9aa3da019f5",
+    "idRemolque": "82da7a6f-b9f5-44ea-9e1f-8a2afa3cb966"
+  },
+  {
+    "idConductor": "f74ce371-10d8-48a7-a0ed-5bcfd119e88e",
+    "idCamion": "f2319c07-71aa-460c-9139-5065eee8f079",
+    "idRemolque": "97ba5fba-3270-4b4c-a2da-1faa3d078143"
+  },
+  {
+    "idConductor": "b04ba198-95b6-4af1-9d67-2034cf2530d3",
+    "idCamion": "dc0a9d95-644b-4af4-aeaa-521ffdbe67c7",
+    "idRemolque": "124c1566-015f-4e74-88dd-48511965a7dc"
+  },
+  {
+    "idConductor": "4d1095b3-af31-46d4-9040-847d9cbf4801",
+    "idCamion": "3a475328-f41d-45c2-af30-4a55a8dbec43",
+    "idRemolque": "dc1b78bb-af2a-40ff-9632-902e18edb032"
+  },
+  {
+    "idConductor": "959f7ada-3610-4a4b-828a-652466681c0b",
+    "idCamion": "6529bb8a-f923-404d-aa5d-3658321d0f3d",
+    "idRemolque": "65d99b50-e77f-48c4-b261-395deac6cec3"
+  },
+  {
+    "idConductor": "8ff9bf50-ab96-4375-896b-c825e81dec50",
+    "idCamion": "2f68ef06-91d4-4557-ab21-f0cd50206661",
+    "idRemolque": "13b81e92-fd4e-4319-b695-cf69aecb2311"
+  },
+  {
+    "idConductor": "431bbfa4-f099-433b-a170-5cfc58fd868a",
+    "idCamion": "e6ec69fe-930c-4fd2-8899-ac86149d5535",
+    "idRemolque": "60149d99-27c3-4fe0-9147-f466d85b7389"
+  },
+  {
+    "idConductor": "b5bfd450-79fa-4bf7-b2b5-87385fbfda26",
+    "idCamion": "7d4d686c-5778-446e-8a59-60d52d0c13f6",
+    "idRemolque": "889260ca-8b7a-466c-9a5a-814ba2e10e69"
+  },
+  {
+    "idConductor": "adc43cd7-59f1-4747-aa36-7d77345b2e05",
+    "idCamion": "87bf2054-6527-451f-a9a1-74c145d74eeb",
+    "idRemolque": "99fa86ff-0ef9-4323-94f0-6a4d8981d89c"
+  },
+  {
+    "idConductor": "c1e4e179-4663-4062-9cf6-dfc05e298096",
+    "idCamion": "b7ddc961-8c0d-4e53-9028-9aa6836b04b6",
+    "idRemolque": "760ceb68-0588-4612-a443-fc1f1a9d9a76"
+  },
+  {
+    "idConductor": "1dd8701d-eae0-45ac-9d29-2d19595ae686",
+    "idCamion": "5b93a3ba-ccf0-415b-8053-4d252fd4938f",
+    "idRemolque": "f3db0c2c-5d34-4496-a22a-15051572a63f"
+  },
+  {
+    "idConductor": "bfaf28d0-4b4a-4e46-bb4b-6e23aac3a577",
+    "idCamion": "76bce036-17cb-4f7e-818c-b53bfe2b1fc5",
+    "idRemolque": "43e56217-fc25-415a-a414-3e369e6197c2"
+  },
+  {
+    "idConductor": "21a768db-bbc8-4435-b41d-1a604722214c",
+    "idCamion": "8c1c6f5a-cf43-41c4-8ae5-8bbc62a30506",
+    "idRemolque": "5dc5b8d1-3c2a-4f5b-adfb-e706794b7a7e"
+  },
+  {
+    "idConductor": "8c856b2e-8d77-432a-9989-5aca9a85df1c",
+    "idCamion": "7f69d8b0-202e-4908-b80c-1369a387dfa5",
+    "idRemolque": "730742de-dd49-4799-a13c-22749fd3bb58"
+  },
+  {
+    "idConductor": "1a0f7774-1e3e-492b-9131-4c165d25dde8",
+    "idCamion": "c7c40042-0440-4c63-87a1-85ecf02c2d3f",
+    "idRemolque": "7ffd33ab-cd66-457b-a563-3aad68ea3e03"
+  },
+  {
+    "idConductor": "ce91054e-a734-4b75-af4f-b4fc91b4807c",
+    "idCamion": "884fd6f5-8c25-4ecb-a3ad-25681bd79c4d",
+    "idRemolque": "3014fa25-67ea-4f11-95e4-1edb5e5e477d"
+  },
+  {
+    "idConductor": "a743aa05-9165-46de-bba8-a95353eda66e",
+    "idCamion": "76f64aa7-d1a9-4ee4-bb3b-79457565cd05",
+    "idRemolque": "7961eb81-4790-4f8c-9d63-b50ced1f6814"
+  },
+  {
+    "idConductor": "c735f19d-ffd2-4ac8-8af6-16dbf5b4af0f",
+    "idCamion": "3946b405-99b7-45c0-a1a5-3e5f4f80955e",
+    "idRemolque": "265b540d-61fb-478d-8396-8170c4477e0e"
+  },
+  {
+    "idConductor": "7205157d-7a9d-4175-ae8c-8ee9800e137f",
+    "idCamion": "e4f5e522-d7d6-46bf-830e-37a6f678c862",
+    "idRemolque": "2d681782-e5ad-4f01-a680-cf20f13402c8"
+  },
+  {
+    "idConductor": "08ed4c6e-bc3a-4631-a9c1-6048e5887533",
+    "idCamion": "31f61581-ce79-4b52-a2d0-f34e9dbba8b1",
+    "idRemolque": "bba6182b-de62-4a8b-99f0-285207c5cd11"
+  },
+  {
+    "idConductor": "064579f1-4d28-4371-b6b4-94b2ed03c11a",
+    "idCamion": "3de4f200-4e99-4672-9e7e-a0ce6da4d6f2",
+    "idRemolque": "66cf047d-d22b-4498-8bbe-26578392f4ad"
+  },
+  {
+    "idConductor": "f6226ac7-3f8a-49d4-a704-60a10106edd7",
+    "idCamion": "5399f670-bffc-4d1f-b753-23e4eefec093",
+    "idRemolque": "225e9135-0289-4e33-80a2-f3faf08b64b8"
+  },
+  {
+    "idConductor": "39fd2ebd-fe4f-4428-ba44-376a2e09b177",
+    "idCamion": "bfa458de-702b-4b13-a239-af9d07aa6789",
+    "idRemolque": "57e75549-7704-4dbd-8c24-c8ac9868c302"
+  },
+  {
+    "idConductor": "d8fbcb43-a4da-466d-876e-33e64f0440e1",
+    "idCamion": "3a17a404-0bb5-45ee-b56b-36a07874f697",
+    "idRemolque": "ec341c38-5c0e-4deb-8db3-b4680bcf54c8"
+  },
+  {
+    "idConductor": "8d3a052f-0380-450b-8e6f-c61f1400d980",
+    "idCamion": "1fe9d41f-d5fa-41d0-a433-67eedbe93d48",
+    "idRemolque": "89df1817-b5c6-4056-8c82-1d9b6c6e990c"
+  },
+  {
+    "idConductor": "0a953ca8-02b1-4bb2-a32e-c24d4d9a0285",
+    "idCamion": "98540deb-a4b6-41df-b6a3-e45965093572",
+    "idRemolque": "b4c2a83d-3fa4-489e-b809-2168321e0ff9"
+  },
+  {
+    "idConductor": "053f81ef-2d19-4007-8293-3a8d68e425d3",
+    "idCamion": "f2933b77-eec3-4192-917d-bc763e2487d4",
+    "idRemolque": "66cb8dfd-30e4-4a9e-a5c3-ef6941ebd168"
+  },
+  {
+    "idConductor": "3192e5c2-e1e0-40c5-b328-a4df1d8c3622",
+    "idCamion": "da1b221d-c99e-4b1f-9cb9-8399d71d05e8",
+    "idRemolque": "9e04fb69-3e24-4b60-93e1-93ef955c1edf"
+  },
+  {
+    "idConductor": "fb793f06-624d-4284-bdf1-f5958dde53cb",
+    "idCamion": "9735c358-61fd-4567-973e-1965970f6092",
+    "idRemolque": "45b066f8-8221-4ce1-98a3-ddfee1220f3a"
+  },
+  {
+    "idConductor": "55fef76b-41a2-422d-ba34-b3418c25083f",
+    "idCamion": "273f8510-3def-4d65-9a93-821995468b5d",
+    "idRemolque": "931e272b-6d17-4cd7-9689-7984916b41e5"
+  },
+  {
+    "idConductor": "6161df64-f057-4d8e-82fe-d30d8f2d5093",
+    "idCamion": "065b6333-faf4-4ea0-a08e-d8848fc77ac8",
+    "idRemolque": "b9990e6e-8c9c-44ff-88a0-f6da3e365b46"
+  },
+  {
+    "idConductor": "8e89c82c-d95d-477a-ba24-c54c01c9c878",
+    "idCamion": "86bb4e3c-843d-425c-9ce6-84ece9106e53",
+    "idRemolque": "82c1dbf0-8c6a-4594-8a64-026208b5e5dc"
+  },
+  {
+    "idConductor": "24c1447b-0036-42b4-93a6-d211a535005a",
+    "idCamion": "9d16a3ee-5c8a-433f-9ea0-6bd64b5f834d",
+    "idRemolque": "bbd57c1c-8e89-4825-898b-814628798112"
+  },
+  {
+    "idConductor": "ade1e248-9043-4794-b95f-317443d5e13e",
+    "idCamion": "82068a90-c4d5-41d6-a36d-538861495169",
+    "idRemolque": "a61902e7-3531-492a-ba5f-3e890cbf4bfc"
+  },
+  {
+    "idConductor": "423e3996-43c6-49ad-8dc7-02cdca84b51c",
+    "idCamion": "bc7430c6-872b-41dc-9eef-a629e0031b22",
+    "idRemolque": "42abceac-f202-4875-a42b-af45cc2074f9"
+  },
+  {
+    "idConductor": "10b3e5b9-03ac-42e7-a999-70a462e00c5f",
+    "idCamion": "5c2af71c-3c87-426c-9150-1a6bbf8251a6",
+    "idRemolque": "f2befc63-613d-45ea-8960-cc7b735f9103"
+  },
+  {
+    "idConductor": "5dd28135-0931-453d-86f1-6d2595822969",
+    "idCamion": "393747d2-2d41-4cb7-8e77-fdd157a36881",
+    "idRemolque": "6b0a8043-3b79-4eab-b721-1543c70e5726"
+  },
+  {
+    "idConductor": "37b97f33-1358-4dca-a276-0c13dc19638e",
+    "idCamion": "20072b98-3780-44f9-bcd0-010c3525f528",
+    "idRemolque": "835bd08c-a011-4093-a6e3-6a888782e12a"
+  },
+  {
+    "idConductor": "ed584239-6caf-4f9d-84ab-3bf892e6bc54",
+    "idCamion": "eacf61b2-89ad-4951-84a5-3b715665fc50",
+    "idRemolque": "4d47e6a4-06ac-4dc4-8990-d2cf3ef6a438"
+  },
+  {
+    "idConductor": "0bf283cd-a124-4982-8156-3976e0b01339",
+    "idCamion": "13873cc3-e159-4da6-9a7d-b5249403626f",
+    "idRemolque": "7d32b532-87be-483d-8846-04c2fbf0512a"
+  },
+  {
+    "idConductor": "97e482b5-ecea-4722-9124-e68e12244553",
+    "idCamion": "8b6ccc55-7dc0-4027-a33d-f8d6837295e5",
+    "idRemolque": "024b5cb4-914d-474e-a894-fd78db67bef3"
+  },
+  {
+    "idConductor": "c36c4180-aed7-4e52-9eb7-915212b16d08",
+    "idCamion": "4485de11-29d7-4443-9141-d381d8f0772d",
+    "idRemolque": "cb21093f-bd58-413c-8e94-ca81bd07b4db"
+  },
+  {
+    "idConductor": "f6422b6f-fe54-4d81-8cd2-eeec5fb9295b",
+    "idCamion": "696c3e2d-2ea8-4c17-a25e-ccb3a3bdea31",
+    "idRemolque": "70a03ba9-6d08-4cd8-8b10-7119d52ddce6"
+  },
+  {
+    "idConductor": "49604197-c7fb-465b-a717-bf1531d21429",
+    "idCamion": "b077b1cd-98e4-457c-a4b9-f5e608447c14",
+    "idRemolque": "bf529a68-a86b-46a7-9bee-09f21ae9b618"
+  },
+  {
+    "idConductor": "2351b249-0719-45bf-abd1-e812ef9d70af",
+    "idCamion": "22e5c042-4ada-495c-af27-e3d6453ae9aa",
+    "idRemolque": "621ef3fd-2566-4c9f-9da6-4cc9185b49aa"
+  },
+  {
+    "idConductor": "90f48bed-aae4-409d-9fae-a12d2b3aec3f",
+    "idCamion": "1d315376-06dd-4d2f-8c57-f0472d104e68",
+    "idRemolque": "b42609fd-1ceb-4c83-9ac2-2985a0c2e4aa"
+  },
+  {
+    "idConductor": "d92e1731-d5d7-4fc0-a10b-dee6e39d6231",
+    "idCamion": "77fd1cc4-078f-4e90-a796-05aef6f573a7",
+    "idRemolque": "a398b091-ea36-4c6c-a9ff-8a9fc3200769"
+  },
+  {
+    "idConductor": "3fb5f11f-85ed-4a14-a4c0-26c0a1fc71e0",
+    "idCamion": "7429f74f-9e0d-48a6-b61b-367ee8cca09c",
+    "idRemolque": "1875164f-0987-44f1-8d76-36fd1662c5ba"
+  },
+  {
+    "idConductor": "5bda1b16-7415-4056-95fd-74b5939fe8be",
+    "idCamion": "3b4b467f-8e84-4666-8ba4-4d137d69baee",
+    "idRemolque": "276a3e7d-1d6d-4440-a800-4a0a2de36570"
+  },
+  {
+    "idConductor": "c69db167-f071-4fd0-8010-93d7faa06af6",
+    "idCamion": "f639e380-84f1-4536-adc7-80ffe1c0ff83",
+    "idRemolque": "48b955d7-9ea9-4812-b6b3-b3a06b67f388"
+  },
+  {
+    "idConductor": "f9da3d37-b5a4-4dcb-980c-e99f83beeeee",
+    "idCamion": "f7d11b7d-b7e8-4cab-8011-4cfe7cb4ef1c",
+    "idRemolque": "20dc0ee0-596f-4a3f-9e3f-eaca2e9f5e27"
+  },
+  {
+    "idConductor": "4b8e6fc7-ff15-436d-9b1c-7fd2baf047b1",
+    "idCamion": "77c7eb74-57e7-4cca-8d28-06fec961bf69",
+    "idRemolque": "f8f326f3-4ed5-4890-bc98-c67d1c478713"
+  },
+  {
+    "idConductor": "2adadd37-c58f-4aab-b54e-fa5059674a79",
+    "idCamion": "cd4c2c26-4b05-45fd-9364-572bf5e60b99",
+    "idRemolque": "66ad54ec-c1db-4c6b-84df-72ffdcd0c6fd"
+  },
+  {
+    "idConductor": "b31b0594-ba73-4a26-8472-5c3911ef0436",
+    "idCamion": "e48948e5-6b41-4c69-9803-4522c2107e1f",
+    "idRemolque": "b89ad34f-36de-4f20-9a4f-9f9eddec72af"
+  },
+  {
+    "idConductor": "8e88be11-ca84-4716-895e-17841f0b25f4",
+    "idCamion": "ee6a27c6-d5dc-46ba-a41e-e1ded4c1c316",
+    "idRemolque": "e3a55c92-cce4-472c-a0d8-3b93ec2f8465"
+  },
+  {
+    "idConductor": "79792f6d-4c01-4331-845b-eea09b615d10",
+    "idCamion": "2d35bf56-22b5-4783-843b-9f1040020818",
+    "idRemolque": "c25f272f-3451-411a-ad82-a8d6e910c1f5"
+  },
+  {
+    "idConductor": "4bf91e2a-eef4-4585-be8d-9181c646e163",
+    "idCamion": "eae04163-9159-424b-8ba5-51df2d7b5bdc",
+    "idRemolque": "16780f8d-e778-4d42-bb81-c1d817ea8d85"
+  },
+  {
+    "idConductor": "0ab812f1-2a2e-4fa9-a31e-39ac8bc6632d",
+    "idCamion": "cf11d18e-90f3-46f4-8611-461e6d6d7077",
+    "idRemolque": "ba07d4f3-b183-47ce-8a2c-8d62ff8d5948"
+  },
+  {
+    "idConductor": "b5c2f279-b076-4211-b1d2-977bb4c62109",
+    "idCamion": "3972eb01-a096-46fa-ad1b-d00cbe8b9bd8",
+    "idRemolque": "537506f5-c46c-474a-b958-5229b9d8435e"
+  },
+  {
+    "idConductor": "d19616df-978d-4a8a-9dbe-bf8ff8d20fdd",
+    "idCamion": "dce95923-017d-4363-8454-26b3a3a0f0bb",
+    "idRemolque": "0c82e5ec-a584-458d-a703-1101c40173f1"
+  },
+  {
+    "idConductor": "8ea24fd4-d0d4-40ad-a789-fcd26ab24426",
+    "idCamion": "4282100a-8952-47f4-b23c-c6fdefa22ec4",
+    "idRemolque": "91039a27-93c0-442e-a337-334bcae4fcec"
+  },
+  {
+    "idConductor": "22da90ae-4ff0-464e-965d-3b160222e343",
+    "idCamion": "aad5efce-883c-4e8d-a103-b229e2f22abb",
+    "idRemolque": "cb675aa6-f74d-4b67-8f52-78585f56b812"
+  },
+  {
+    "idConductor": "93e5b3d9-d928-43bf-8406-75c65938592d",
+    "idCamion": "51d898ff-4a88-4fa9-be0f-83830376f6a5",
+    "idRemolque": "028de0a2-19dd-419b-9601-b9c7ec403296"
+  },
+  {
+    "idConductor": "4cddb91c-82f7-4dab-b79d-a2797d614164",
+    "idCamion": "81afa225-cc61-4d58-96e4-ad529cac18ab",
+    "idRemolque": "cbc7a375-0588-4aca-a521-034d18f019a4"
+  },
+  {
+    "idConductor": "22749b59-f985-4f38-a45f-96529bf77256",
+    "idCamion": "bc25effe-0ca3-4499-93a1-3f769b44d594",
+    "idRemolque": "ee163cad-1a01-47e7-98a7-a0053288300c"
+  },
+  {
+    "idConductor": "fab4c949-d216-46ea-8337-1b7e65bd6b3f",
+    "idCamion": "dbc05852-a5eb-415e-a9f7-645c2be281ab",
+    "idRemolque": "b97ac2bb-3332-46f9-bf78-ff2b4ff024f1"
+  },
+  {
+    "idConductor": "d32dd257-ba4c-452c-8560-86b7d163847b",
+    "idCamion": "7a0d7124-656c-4c93-bb4b-bb254849b210",
+    "idRemolque": "720f4c19-c94e-44bd-8bc4-fdd2611f7566"
+  },
+  {
+    "idConductor": "caf3965e-365c-4897-81fc-0ae5422be4db",
+    "idCamion": "cf8f967e-ccab-4c87-8c6b-2e755c726c2f",
+    "idRemolque": "663c1fa6-455a-48af-83c0-e5d7ad04c7f9"
+  },
+  {
+    "idConductor": "ccb30dbc-b6de-4379-bb7d-5a456ae5dd3b",
+    "idCamion": "208e6ca7-dfb6-4867-80bf-348c3a9c7ca8",
+    "idRemolque": "bad7f90c-1882-497e-8fd5-de1a41f29b84"
+  },
+  {
+    "idConductor": "b3dd27c2-6947-4b10-a52f-e94df6d40eb6",
+    "idCamion": "f217a885-c888-4117-8acf-843293fec022",
+    "idRemolque": "eb08af0f-80f7-4434-abdf-0936388dab4f"
+  },
+  {
+    "idConductor": "7711468c-7b96-4fb4-b241-a4f314c3d08a",
+    "idCamion": "e0e21263-0bf1-4a8b-9ce4-3324b30bceda",
+    "idRemolque": "00ca9213-5373-4b2c-9ec8-02be061fd36f"
+  },
+  {
+    "idConductor": "2b193f27-d206-4744-a51d-5cac2f1b192f",
+    "idCamion": "de43d215-83f3-452d-a485-5b2f7c922af9",
+    "idRemolque": "8ca44a42-3a91-4d99-aa38-e0ad8d649b2e"
+  },
+  {
+    "idConductor": "42b66d76-ed17-401e-8686-f900d8da4f3d",
+    "idCamion": "e1b6def0-3e8d-4700-be1a-54d6082553c3",
+    "idRemolque": "e825c34e-538d-4bc3-8e2b-0bf1708d4e52"
+  },
+  {
+    "idConductor": "9ddc8761-0062-4e02-88f5-66bb4290af04",
+    "idCamion": "dd08a047-e289-4c1a-9218-4bd020cc3cc1",
+    "idRemolque": "11245e4e-bce3-4154-8713-50a4b5cb5bc2"
+  },
+  {
+    "idConductor": "53e6b7de-19b8-4553-a697-4655cebd5994",
+    "idCamion": "a1c5e697-585f-4f49-a6f5-ed142609a37e",
+    "idRemolque": "6fcb90fa-4118-4c1c-ad94-78590e5127f9"
+  },
+  {
+    "idConductor": "2c359ed9-6a4e-4512-8b63-fc7f75309b6a",
+    "idCamion": "b1c27718-6aec-4797-8bf8-9f2d68ab2295",
+    "idRemolque": "cbbc1513-71b5-4d65-9916-7470b423ede6"
+  },
+  {
+    "idConductor": "98747b77-659b-4492-9ac6-6e4b63ab7d67",
+    "idCamion": "b7c5e732-00b1-422a-aac0-3ffb94cdcd1d",
+    "idRemolque": "2643bf12-9fc0-4f21-ad3e-fb619c445905"
+  },
+  {
+    "idConductor": "14429456-04eb-4678-b345-7befe19a9dc0",
+    "idCamion": "e589833b-81f1-48ec-bac6-a0490d89c16b",
+    "idRemolque": "e9b81ba0-795c-4a71-9dfc-1f54b8011a8b"
+  },
+  {
+    "idConductor": "a38513d7-5c1a-41e8-b6e0-695d7e75b456",
+    "idCamion": "fdebe21d-17fe-4486-b563-4897b0ad44e1",
+    "idRemolque": "87568434-ce73-4135-817b-33d425db3617"
+  },
+  {
+    "idConductor": "631bba0e-3faa-4466-a356-a4c3c15a86c5",
+    "idCamion": "8d0a8f55-ecbb-4925-8df9-87eb8e43adff",
+    "idRemolque": "12eaeefd-b285-4fff-a141-858c7e6d2060"
+  },
+  {
+    "idConductor": "e08de149-a748-4052-82b8-aa3a858225b0",
+    "idCamion": "f5053cf0-4ae3-4c70-b3c8-50aa74b8ec23",
+    "idRemolque": "f29d7416-bd80-4554-9de4-e862b7553251"
+  },
+  {
+    "idConductor": "cb4ca1b2-0772-43ef-8e70-e07d27b98968",
+    "idCamion": "9b70136e-95df-4c41-8531-566903115dbb",
+    "idRemolque": "aeea65e2-5c7c-42d3-923c-3a30af75abbd"
+  },
+  {
+    "idConductor": "c3de79ce-f011-4a52-b5a5-17de906631c3",
+    "idCamion": "a9f03ca4-4aa7-4892-9e98-abc26d232008",
+    "idRemolque": "5b0dac08-a4f9-43c9-a0d0-0b877c11cdc9"
+  },
+  {
+    "idConductor": "ce48b4b6-9091-4efa-a58a-4995f7f22534",
+    "idCamion": "a07b1c12-d886-46a2-af73-bddb501f93b2",
+    "idRemolque": "ca34c1be-1a13-48dd-ab66-f654a67bfc24"
+  },
+  {
+    "idConductor": "38b219e2-1708-4f7b-9532-8baef97a03c5",
+    "idCamion": "95ae8683-20c5-432d-ab17-1e924d708606",
+    "idRemolque": "00bd94b6-203f-4dff-bb8c-038d8b266612"
+  },
+  {
+    "idConductor": "68c2c54c-de03-4060-9bc3-9038df71e76f",
+    "idCamion": "5fb30faa-16f6-4d5f-90fc-8ee8707b9f73",
+    "idRemolque": "a6b5b53b-2362-4874-935a-74a2febcce33"
+  },
+  {
+    "idConductor": "46266cc9-c389-4083-9144-cbab8e506a5f",
+    "idCamion": "2c38397b-b41a-4b15-85bc-9e71deec4a31",
+    "idRemolque": "7b97f713-4063-4af2-b2c2-758a7bfa1702"
+  },
+  {
+    "idConductor": "d50ad6da-bd1a-49e0-b32a-4dc0f89cad91",
+    "idCamion": "662f67d7-bfc5-4bd3-92ef-7e762447a3b8",
+    "idRemolque": "a5b5ce49-d9c0-480a-8cea-531c311c2271"
+  },
+  {
+    "idConductor": "14f75156-6172-4281-a665-f0bfde307a2f",
+    "idCamion": "44c6b8a2-6b83-4c2f-a099-9112d58697b9",
+    "idRemolque": "aa435664-a6e9-4c49-ae7e-54329e6f88f3"
+  },
+  {
+    "idConductor": "8229c6d2-36be-46a1-ba4f-ed92f896de92",
+    "idCamion": "e586c01f-a24a-47b5-a2f8-c565591eb319",
+    "idRemolque": "39741c6c-bcdf-4d91-9cb4-5bf226b5f897"
+  },
+  {
+    "idConductor": "a0689548-cc55-4f37-b473-aed26c76bbf6",
+    "idCamion": "efd1053f-510b-442b-bd17-be78ebf46560",
+    "idRemolque": "19c43cd5-c6a7-4a06-a4e9-b35aa36adfe7"
+  },
+  {
+    "idConductor": "e7b11f3a-0368-49bb-8742-0f1d1a295c0d",
+    "idCamion": "27652f57-a58f-4a43-8dad-744523d264b1",
+    "idRemolque": "823c696e-8cdb-4e11-9fb4-de14e63b8dfb"
+  },
+  {
+    "idConductor": "d913acaf-c162-4d14-8e9a-af37fe2d15a5",
+    "idCamion": "1cb06dd8-2094-4517-b926-fefd14f7deb0",
+    "idRemolque": "fa74905d-060d-4ff4-b78a-ad20d4d14ba7"
+  },
+  {
+    "idConductor": "1e75658e-eefa-460f-acf4-4a07a294e4b1",
+    "idCamion": "50fad330-5b1e-4dba-8ef0-b0147d3ade9b",
+    "idRemolque": "b4db32c1-2603-442c-8deb-3601ecbed66a"
+  },
+  {
+    "idConductor": "55ac02d0-6a9a-4eb9-85eb-0722a0da7b46",
+    "idCamion": "53913a59-812c-4bf9-8755-35c3da25d92b",
+    "idRemolque": "b1996116-24dd-4c69-9d89-e7fac701c184"
+  },
+  {
+    "idConductor": "ad7b39ae-6983-4954-8004-4abe6e29c455",
+    "idCamion": "267a6420-53da-45d1-b9df-7c09e293f1ee",
+    "idRemolque": "156600b7-c443-48a7-bcb0-68b340cec88c"
+  },
+  {
+    "idConductor": "18018999-5a3b-447f-a199-1c6bfd1e5124",
+    "idCamion": "69e8bbdc-579f-4489-b4c3-bae59a29fbd5",
+    "idRemolque": "a1adc9bd-f74d-476f-b5d5-cb9ddc8e69c4"
+  },
+  {
+    "idConductor": "c86d96cb-6543-4ff3-9ca2-7579b8e31cc0",
+    "idCamion": "ef1bab44-5770-4019-84bb-322c54cfc8e3",
+    "idRemolque": "f69a63dd-d5e4-4545-a532-6fc1f4d1f486"
+  },
+  {
+    "idConductor": "d9bd123d-28d9-41d8-b0a2-4d2da08bf899",
+    "idCamion": "b23a37b0-ef0a-49e8-9fd0-a892c06bdff0",
+    "idRemolque": "44ea566c-74af-4120-a4b7-6ed52811822a"
+  },
+  {
+    "idConductor": "b55c44d1-033a-46c3-89df-d3c6076badf9",
+    "idCamion": "0eadacc3-0588-46e8-a0c1-c2de3af25cb3",
+    "idRemolque": "e0033c20-737e-4a16-9911-6e865b1595bb"
+  },
+  {
+    "idConductor": "359291dc-5fd3-4805-bd9d-5547129633eb",
+    "idCamion": "cdab0b69-7ec0-44a4-972b-756507447d66",
+    "idRemolque": "363f7a15-20cd-481f-a734-2d7fe04f11ce"
+  },
+  {
+    "idConductor": "acdb58fd-e31a-417c-a181-bd845c0f9ff5",
+    "idCamion": "7d545436-5aa6-460d-a32c-7caa2a27082d",
+    "idRemolque": "f3b29aa6-8449-4a60-8f9b-9099886763e5"
+  },
+  {
+    "idConductor": "4c068421-34be-44ca-b1e4-50caec08cdd1",
+    "idCamion": "f95d27d1-7211-46d9-b31d-8b2e50e03976",
+    "idRemolque": "3a91f1dc-dd25-4ad2-aeda-f545a7cfb00b"
+  },
+  {
+    "idConductor": "bbe5b4a1-7ef7-43b2-8dc2-d6f166f795e3",
+    "idCamion": "e4751016-7dbc-4525-a094-519c40a482fb",
+    "idRemolque": "b41f9995-146c-44e6-8ab0-79ce46d2beef"
+  },
+  {
+    "idConductor": "5d299e41-68b9-4ba2-baf8-54bf960be693",
+    "idCamion": "5e29fefc-57b7-40b2-a13f-1bf586fb1d56",
+    "idRemolque": "99e95643-43c8-474b-beca-7aa39d80cab8"
+  },
+  {
+    "idConductor": "414b5c39-9292-4c7b-945e-4f52a0702be5",
+    "idCamion": "39e717a5-ceab-4a79-8332-23706caad7de",
+    "idRemolque": "5c1a62fd-0ade-42f9-b87c-73c6bc907c9c"
+  },
+  {
+    "idConductor": "681f2641-c4c9-444d-a467-54fac301105a",
+    "idCamion": "a53a50e1-2f8b-4f85-bc2c-5ba4f346cab3",
+    "idRemolque": "052532b1-7817-4c00-9e44-5aaf9074725e"
+  },
+  {
+    "idConductor": "5f7d602a-adca-451e-8986-7818b5e4ad18",
+    "idCamion": "242ccc52-7edb-42bf-a25a-007c600f04d1",
+    "idRemolque": "4d2ea317-305a-45a0-97b0-e34c322bd25e"
+  },
+  {
+    "idConductor": "981d42bd-56ee-4808-b9fb-2490e1dfb4c1",
+    "idCamion": "9ccc6a62-6637-4a09-af39-5b478b0d6c59",
+    "idRemolque": "898aad35-9c9b-4168-9a2a-36506c1d7a8c"
+  },
+  {
+    "idConductor": "dfd25ed4-2766-4394-af9a-0f2d90e3e21f",
+    "idCamion": "6b568fe4-3eb1-4c22-9379-1e4de96b8018",
+    "idRemolque": "1c9813e7-f1e2-4bd9-b901-127884078df7"
+  },
+  {
+    "idConductor": "de04d37e-7ee9-4290-9e16-fa09db1f1d85",
+    "idCamion": "bc4de0ae-9794-4af1-ab77-87d87fc05040",
+    "idRemolque": "2d26cb04-6a08-49a2-ab4e-8c48135150ee"
+  },
+  {
+    "idConductor": "61bba228-126c-4855-9e82-61c64cc27068",
+    "idCamion": "30263d8f-ede4-4f09-9f48-2061158d6562",
+    "idRemolque": "93208a10-9067-477e-8345-eddbb5078421"
+  },
+  {
+    "idConductor": "ee0dfda3-9cf8-4dcb-b22b-543a81245781",
+    "idCamion": "32492ac2-a397-4e90-b077-68f0e2e9cca0",
+    "idRemolque": "31100604-4283-4a52-8496-922bad42692b"
+  },
+  {
+    "idConductor": "f8cfa61c-e0c6-4ede-b9f9-db043e02e336",
+    "idCamion": "c3779e96-ed67-49d8-946d-0c0c075b605c",
+    "idRemolque": "21975bd2-f892-4926-a2ee-a781726917f5"
+  },
+  {
+    "idConductor": "07be805a-0d15-4f47-b818-234fa1a18a87",
+    "idCamion": "851ca425-a048-4591-99eb-665aa15a9049",
+    "idRemolque": "9f71e776-0a02-40a5-bb00-010830f36335"
+  },
+  {
+    "idConductor": "b2803ea3-48df-44a4-ad80-81ad9dc2d89d",
+    "idCamion": "2a61eb1f-bfb8-4a26-b307-d2d09a396c59",
+    "idRemolque": "5a84124f-3556-470b-9287-5a6c2d088775"
+  },
+  {
+    "idConductor": "33b28690-c91b-4d42-aadf-03db6b9f2516",
+    "idCamion": "9b5a0346-9357-4e27-9440-127a80401f41",
+    "idRemolque": "4cce7c6a-371e-47f7-92d6-e1467f3fcc73"
+  },
+  {
+    "idConductor": "88d80c01-ce85-46d5-85f8-9b6a1b42bc9f",
+    "idCamion": "de21bcf4-5abf-45ea-8c39-a8601911d2cd",
+    "idRemolque": "33f88744-d506-49b9-ba32-6b3823ffb27a"
+  },
+  {
+    "idConductor": "f5e5236f-107c-4597-a8f4-ede42d2ff08d",
+    "idCamion": "60b74ac9-d14d-4ef3-9254-0f370b2e9452",
+    "idRemolque": "78d675f9-dcd8-416b-bbdc-dcda33713511"
+  },
+  {
+    "idConductor": "2138b179-07f8-4be8-a413-9d8f61455012",
+    "idCamion": "37176a57-cba3-4c8b-a89f-f43c5a2132b2",
+    "idRemolque": "96ca094b-e26b-405d-a87e-5c40bd491847"
+  },
+  {
+    "idConductor": "380b7127-6315-4259-b7c5-336d61dbec07",
+    "idCamion": "7ac2ecfa-c7e8-476e-a79e-c2d52d284eff",
+    "idRemolque": "9904f10d-19f3-4639-a973-aa94812ae753"
+  },
+  {
+    "idConductor": "87cf475d-de79-4c19-bd34-7ad2db112c42",
+    "idCamion": "18b95032-f990-423a-bce0-6c01e37524ab",
+    "idRemolque": "88eddd3c-1f06-478e-9036-2faf38c41fa5"
+  },
+  {
+    "idConductor": "45aa08c5-8f8d-489d-9cbb-7056f04d3977",
+    "idCamion": "3d0dfa51-5e10-4b27-aeb3-cc1704210a0b",
+    "idRemolque": "b6f57f65-e08c-41ec-bf89-c8f343b0ded7"
+  },
+  {
+    "idConductor": "0ea971f4-82a8-42c7-8868-97fbb612e989",
+    "idCamion": "bc5ac1d4-75e0-42e2-883a-f35a9f528198",
+    "idRemolque": "7842b9d8-d0ac-49c4-8775-9a4778895741"
+  },
+  {
+    "idConductor": "b72f89c0-87c6-4784-98ad-e30a508b8ea8",
+    "idCamion": "5e439b04-2ca5-4377-b927-e71fe9312088",
+    "idRemolque": "8c7450c3-c39a-4a4f-9a22-8cb6b6433ee7"
+  },
+  {
+    "idConductor": "26dafba8-bd73-469c-bf97-a86e55d78fb7",
+    "idCamion": "1c806aa0-4769-4364-9d71-d8261a1c1d79",
+    "idRemolque": "10b148bb-6ebb-4e55-89ad-22c8cde47378"
+  },
+  {
+    "idConductor": "19858c74-c548-4783-a682-62686ede938e",
+    "idCamion": "05f13a79-ccc7-4c64-85f0-ec14734f961a",
+    "idRemolque": "448c69f9-d866-4221-b73a-c40b66c2c519"
+  },
+  {
+    "idConductor": "f9261ccd-0c02-444a-b80b-7bbab9a60254",
+    "idCamion": "76ab4e63-ad89-4d2a-bf25-b6a9d3175e16",
+    "idRemolque": "176e9c1a-2097-482b-b2fe-36ad6503e96d"
+  },
+  {
+    "idConductor": "6d42b792-5a4a-48a8-8e6b-c5edee645427",
+    "idCamion": "f017097f-e8e8-411d-ba13-99f7b736e970",
+    "idRemolque": "67940973-33f1-4d5b-a1eb-75c567db1b28"
+  },
+  {
+    "idConductor": "18a54b89-0cfd-4cf4-a06c-ce57eec14ad2",
+    "idCamion": "360ec84b-fc39-4479-9f55-8928e7f6dce4",
+    "idRemolque": "614a3924-e232-4c0d-8d7e-249b25629b05"
+  },
+  {
+    "idConductor": "602815e5-8d19-429d-9679-2864d0b2eb53",
+    "idCamion": "b331b0a6-253e-40ef-bec2-02c95f213f91",
+    "idRemolque": "d051a4ec-560e-4828-b792-eb8d338780c2"
+  },
+  {
+    "idConductor": "a67f3c75-bfe5-4dac-9f56-9b336ca68e85",
+    "idCamion": "17e46bdc-5bc8-4e8b-a1fb-6b6002cb17b1",
+    "idRemolque": "ed699ca5-a83d-4ddd-9815-57f975938ea8"
+  },
+  {
+    "idConductor": "64b41127-5167-45e9-94ac-b60ac2c1fa9d",
+    "idCamion": "47a2d08f-5c2b-4d7a-b6d8-574b9c6ba8a9",
+    "idRemolque": "a658f46d-a337-4a1c-a8ed-2e12809aca0d"
+  },
+  {
+    "idConductor": "c701246e-4afe-4cdd-878a-fee714766a4d",
+    "idCamion": "4260f8f7-3535-4be7-bcc7-66712814b819",
+    "idRemolque": "c7405244-96b1-4573-b1af-f858fe90cc0b"
+  },
+  {
+    "idConductor": "0af41381-1b5d-452c-bf19-e07be71cb37e",
+    "idCamion": "cf340c6e-95d1-4ba6-9b28-05659bd6010e",
+    "idRemolque": "5ab1a820-50d8-4063-a740-f659b1b87310"
+  },
+  {
+    "idConductor": "7ca5fd02-3430-4038-b349-9c7977b8b188",
+    "idCamion": "c721092e-9877-44e1-8770-146c40f31ed8",
+    "idRemolque": "31ce5379-bccf-49f9-9f7d-3ad6d3fd9225"
+  },
+  {
+    "idConductor": "c2ad97cb-241a-4532-bc73-a052a5d5aa2d",
+    "idCamion": "35720764-4a42-4215-896d-3f4e30b917f4",
+    "idRemolque": "87ae547b-a6d4-48ce-b070-3f4559c418cd"
+  },
+  {
+    "idConductor": "cd1bac66-a699-49c3-974b-c9345efc2881",
+    "idCamion": "b57fa736-9b1b-4adf-bad3-9626e93fa12b",
+    "idRemolque": "76cf3945-4592-4820-9039-8f1831c49f5b"
+  },
+  {
+    "idConductor": "5a3fa09d-490b-4e28-9b6d-0033a2e862aa",
+    "idCamion": "d87ba42b-d30f-4a96-a296-5255cc2fd36b",
+    "idRemolque": "7b8168da-bfb8-44c3-96f4-4257547a7991"
+  },
+  {
+    "idConductor": "387b9a02-2026-48ce-9d7f-b5fc3f920edc",
+    "idCamion": "33733122-212a-40d2-a2e2-44bf1d268ba2",
+    "idRemolque": "cabcd36b-cd2d-4501-9697-5e9d87199365"
+  },
+  {
+    "idConductor": "757e2b90-9596-41ad-9ba6-b36a696a6dfc",
+    "idCamion": "ed018491-3074-4490-b06f-9b31a2cc1596",
+    "idRemolque": "6de981a5-f376-424c-ba35-621f165f8056"
+  },
+  {
+    "idConductor": "f70d5546-a9cd-4c80-86ce-6a06f8c5b6aa",
+    "idCamion": "a07cb67d-c635-4709-9ecc-f5acba73111a",
+    "idRemolque": "c4bd2333-8d58-4cb5-ae9a-e24b9af51cab"
+  },
+  {
+    "idConductor": "d55721a9-e1eb-422d-992c-24d531c281cc",
+    "idCamion": "dfb144d3-8150-4cd5-a8f6-1588b1444dfa",
+    "idRemolque": "58a92f1d-964a-4828-9711-d164a3fb1263"
+  },
+  {
+    "idConductor": "12761839-31c4-4b06-aeb2-58490fb50397",
+    "idCamion": "b13d5c6d-66a1-43b3-9dfa-f838515a9166",
+    "idRemolque": "02de9f33-b413-4f0c-bd7c-b5b3cca21022"
+  },
+  {
+    "idConductor": "08f19945-943c-4782-8180-d29efb75f4cd",
+    "idCamion": "563ef433-b680-4dd6-a932-4f6d87e45ba1",
+    "idRemolque": "6dbfdf5d-3a83-4fd8-b4f0-872d11f566ac"
+  },
+  {
+    "idConductor": "2d43dd72-e8ad-42c3-818f-6d5921a48b36",
+    "idCamion": "155e4ab4-7eed-48a1-8d87-e605e5f6275b",
+    "idRemolque": "65c8593d-cb59-4cc1-8b64-0c6287913552"
+  },
+  {
+    "idConductor": "a836662f-4136-4759-98e7-048c4accdae2",
+    "idCamion": "ad2bdbba-be29-43b3-999a-4dee423c5c96",
+    "idRemolque": "2ee8fa7b-47c1-41e0-ac70-8326d8e5636c"
+  },
+  {
+    "idConductor": "7ac300af-2efe-4699-847f-7647f3e4c59b",
+    "idCamion": "4e1cb930-6512-4e47-ab45-a7b9f5376deb",
+    "idRemolque": "fc973fd4-ef98-4978-850b-dd981c0932c0"
+  },
+  {
+    "idConductor": "a7317457-7a64-4057-8de8-daabd1d2e36e",
+    "idCamion": "0b5a0123-fcfa-4ffe-818a-e689deee2e77",
+    "idRemolque": "8d4d484a-a837-41ca-a32b-cb4f67484400"
+  },
+  {
+    "idConductor": "e99e65cc-15c4-441b-8e8e-38c92fdf4604",
+    "idCamion": "5b8b343a-8c9a-4bef-9b4a-ecbb73c4c17a",
+    "idRemolque": "980abac0-0fc2-4468-957c-751b136bb7c8"
+  },
+  {
+    "idConductor": "93a0d0dd-90e5-40a9-9448-cdd91d28fabb",
+    "idCamion": "fd2a5885-c0bf-4cfd-8eed-1f6850faf379",
+    "idRemolque": "66a83a44-3aae-42b6-b1f2-8740ea3bb9f3"
+  },
+  {
+    "idConductor": "c24fb516-1566-4151-853b-283b86a480e3",
+    "idCamion": "a48f9524-bd12-48dc-8556-497343367366",
+    "idRemolque": "70701a6a-d0e8-4204-a3d0-5912fab5e666"
+  },
+  {
+    "idConductor": "d21b151d-3a0b-42ce-ba8d-bbe1cc5265ec",
+    "idCamion": "2a9e1f8b-2d85-425d-b2ad-e84d63fc8559",
+    "idRemolque": "3030d436-3db0-49cf-9a68-f7c42201af61"
+  },
+  {
+    "idConductor": "6eda0807-b77c-4c72-a0d6-20d37a98f7d0",
+    "idCamion": "216c854a-03b1-4b3c-a58d-af44e9bebc7b",
+    "idRemolque": "9406dffd-62b9-4d0b-8f06-f7ca37825db5"
+  },
+  {
+    "idConductor": "289451d3-05e9-4330-ba0c-3553532ef38c",
+    "idCamion": "9b0146ee-557c-4775-9d9b-f9e88e5d3806",
+    "idRemolque": "0d1d58be-0c06-48d3-9622-cbd5a947c8e3"
+  },
+  {
+    "idConductor": "0e5223b8-b9fb-4c93-9979-e54bd1a4698f",
+    "idCamion": "e8e49cd8-6369-4314-84d1-93f481a40ec2",
+    "idRemolque": "7eb68e0c-523d-42bd-8d50-5a90de199313"
+  },
+  {
+    "idConductor": "535f57b9-8449-4a0b-ac96-eedc69d73af3",
+    "idCamion": "ea5ba713-342e-459b-8dac-a1f440e6ab72",
+    "idRemolque": "50c48eb0-2654-4add-a990-53c912fc87fd"
+  },
+  {
+    "idConductor": "80bf70a2-e4c8-41e2-bd6c-1512501711ea",
+    "idCamion": "199d8c22-d3da-49c6-910a-6f725bc02432",
+    "idRemolque": "963e16e1-a657-4431-8ed7-7f50995c4561"
+  },
+  {
+    "idConductor": "88064857-9425-445e-881c-ae7e2798b277",
+    "idCamion": "4783ad30-2f5d-4b71-980e-71033d11048d",
+    "idRemolque": "e13dc2e2-b06e-401c-9083-b9897c5d3438"
+  },
+  {
+    "idConductor": "154c9d73-1a54-44a2-aed2-e2555c05a336",
+    "idCamion": "08f360c8-0072-4f5b-868e-65afd8494a6b",
+    "idRemolque": "368aef9b-7e25-4c51-927f-ea86de20d99d"
+  },
+  {
+    "idConductor": "4b72a39c-dce3-4bb5-b478-181d6eeb572f",
+    "idCamion": "f2547452-b2f5-4d15-a4ae-92b326e4ee05",
+    "idRemolque": "8046278a-3df8-4cbd-ad54-840555a6dde3"
+  },
+  {
+    "idConductor": "7a5252de-0393-44b3-8e17-c8789c164054",
+    "idCamion": "8b2e87df-3b4a-4196-b986-b0813649a05c",
+    "idRemolque": "453e902b-1424-4618-85fe-8c984a5cf72c"
+  }
+  ]

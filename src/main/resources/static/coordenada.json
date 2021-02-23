@@ -1,0 +1,5922 @@
+[
+  {
+    "latitud": "16.267648",
+    "longitud": "111.249346",
+    "altitud": "-46.984533",
+    "tiempo": "Friday, October 13, 2017 5:32 PM"
+  },
+  {
+    "latitud": "59.455638",
+    "longitud": "-173.778917",
+    "altitud": "-25.454103",
+    "tiempo": "Monday, June 5, 2017 11:07 PM"
+  },
+  {
+    "latitud": "-61.913177",
+    "longitud": "-117.869676",
+    "altitud": "31.956154",
+    "tiempo": "Monday, June 22, 2020 1:06 PM"
+  },
+  {
+    "latitud": "-71.43688",
+    "longitud": "154.05363",
+    "altitud": "14.908732",
+    "tiempo": "Monday, February 1, 2021 7:44 AM"
+  },
+  {
+    "latitud": "-57.695996",
+    "longitud": "-30.060994",
+    "altitud": "78.444562",
+    "tiempo": "Sunday, November 16, 2014 6:19 PM"
+  },
+  {
+    "latitud": "10.232067",
+    "longitud": "12.797748",
+    "altitud": "45.340625",
+    "tiempo": "Sunday, December 4, 2016 1:39 PM"
+  },
+  {
+    "latitud": "-4.974003",
+    "longitud": "-94.79087",
+    "altitud": "27.074885",
+    "tiempo": "Tuesday, October 31, 2017 6:33 PM"
+  },
+  {
+    "latitud": "-54.643973",
+    "longitud": "174.069768",
+    "altitud": "-48.365842",
+    "tiempo": "Sunday, May 17, 2015 9:15 PM"
+  },
+  {
+    "latitud": "68.727124",
+    "longitud": "-132.187133",
+    "altitud": "-84.33213",
+    "tiempo": "Friday, April 19, 2019 7:11 AM"
+  },
+  {
+    "latitud": "-0.687864",
+    "longitud": "-26.304047",
+    "altitud": "11.519752",
+    "tiempo": "Monday, November 24, 2014 9:34 PM"
+  },
+  {
+    "latitud": "-43.27173",
+    "longitud": "90.451528",
+    "altitud": "-40.683217",
+    "tiempo": "Thursday, June 19, 2014 2:59 AM"
+  },
+  {
+    "latitud": "-68.67948",
+    "longitud": "-99.070455",
+    "altitud": "84.83842",
+    "tiempo": "Friday, May 29, 2015 5:08 PM"
+  },
+  {
+    "latitud": "12.471141",
+    "longitud": "-35.014202",
+    "altitud": "57.379982",
+    "tiempo": "Wednesday, July 26, 2017 12:32 AM"
+  },
+  {
+    "latitud": "38.019454",
+    "longitud": "39.266312",
+    "altitud": "-71.121691",
+    "tiempo": "Wednesday, June 11, 2014 3:40 PM"
+  },
+  {
+    "latitud": "-14.644207",
+    "longitud": "-22.972323",
+    "altitud": "-57.985235",
+    "tiempo": "Thursday, January 21, 2016 6:58 PM"
+  },
+  {
+    "latitud": "-85.647384",
+    "longitud": "22.872819",
+    "altitud": "5.773787",
+    "tiempo": "Friday, July 26, 2019 9:38 PM"
+  },
+  {
+    "latitud": "-69.423774",
+    "longitud": "-53.418102",
+    "altitud": "11.811811",
+    "tiempo": "Sunday, June 8, 2014 7:06 PM"
+  },
+  {
+    "latitud": "72.623955",
+    "longitud": "113.419075",
+    "altitud": "68.017665",
+    "tiempo": "Monday, September 16, 2019 11:36 AM"
+  },
+  {
+    "latitud": "44.251968",
+    "longitud": "135.016445",
+    "altitud": "66.272006",
+    "tiempo": "Wednesday, January 9, 2019 12:16 PM"
+  },
+  {
+    "latitud": "50.605968",
+    "longitud": "-20.32834",
+    "altitud": "-69.173905",
+    "tiempo": "Monday, October 16, 2017 12:07 PM"
+  },
+  {
+    "latitud": "-10.106092",
+    "longitud": "42.106763",
+    "altitud": "0.112775",
+    "tiempo": "Wednesday, May 17, 2017 12:15 PM"
+  },
+  {
+    "latitud": "-3.045692",
+    "longitud": "-117.655205",
+    "altitud": "-14.627614",
+    "tiempo": "Monday, December 23, 2019 10:24 AM"
+  },
+  {
+    "latitud": "-76.873715",
+    "longitud": "-80.608315",
+    "altitud": "-81.087282",
+    "tiempo": "Friday, December 25, 2015 7:25 PM"
+  },
+  {
+    "latitud": "30.266334",
+    "longitud": "33.968619",
+    "altitud": "38.983995",
+    "tiempo": "Monday, December 9, 2019 10:57 PM"
+  },
+  {
+    "latitud": "-87.282657",
+    "longitud": "-146.090951",
+    "altitud": "-84.152143",
+    "tiempo": "Monday, March 4, 2019 6:36 AM"
+  },
+  {
+    "latitud": "-33.872184",
+    "longitud": "47.550418",
+    "altitud": "-38.829033",
+    "tiempo": "Monday, February 10, 2020 8:56 AM"
+  },
+  {
+    "latitud": "60.638983",
+    "longitud": "-25.747337",
+    "altitud": "80.336681",
+    "tiempo": "Sunday, October 11, 2015 8:49 PM"
+  },
+  {
+    "latitud": "-77.06573",
+    "longitud": "-159.516777",
+    "altitud": "-40.212991",
+    "tiempo": "Friday, June 13, 2014 6:10 AM"
+  },
+  {
+    "latitud": "66.354609",
+    "longitud": "-171.048256",
+    "altitud": "-60.098756",
+    "tiempo": "Wednesday, August 28, 2019 7:20 PM"
+  },
+  {
+    "latitud": "-7.082366",
+    "longitud": "128.050409",
+    "altitud": "35.402604",
+    "tiempo": "Saturday, September 15, 2018 9:37 PM"
+  },
+  {
+    "latitud": "4.925089",
+    "longitud": "84.956839",
+    "altitud": "-18.697201",
+    "tiempo": "Tuesday, August 14, 2018 3:31 AM"
+  },
+  {
+    "latitud": "55.782984",
+    "longitud": "156.050095",
+    "altitud": "-32.273215",
+    "tiempo": "Thursday, September 4, 2014 11:24 PM"
+  },
+  {
+    "latitud": "32.338389",
+    "longitud": "67.291519",
+    "altitud": "65.39032",
+    "tiempo": "Wednesday, April 5, 2017 5:25 AM"
+  },
+  {
+    "latitud": "55.882391",
+    "longitud": "134.929812",
+    "altitud": "39.969369",
+    "tiempo": "Sunday, June 21, 2015 2:11 AM"
+  },
+  {
+    "latitud": "-35.19369",
+    "longitud": "50.060474",
+    "altitud": "24.461905",
+    "tiempo": "Sunday, September 29, 2019 10:51 PM"
+  },
+  {
+    "latitud": "9.376152",
+    "longitud": "-103.68324",
+    "altitud": "-56.864017",
+    "tiempo": "Tuesday, September 9, 2014 5:16 AM"
+  },
+  {
+    "latitud": "49.15401",
+    "longitud": "51.569523",
+    "altitud": "-47.176616",
+    "tiempo": "Friday, June 5, 2020 7:20 PM"
+  },
+  {
+    "latitud": "45.607295",
+    "longitud": "135.348427",
+    "altitud": "29.678378",
+    "tiempo": "Tuesday, October 13, 2020 6:16 PM"
+  },
+  {
+    "latitud": "31.789506",
+    "longitud": "-105.076569",
+    "altitud": "-24.432055",
+    "tiempo": "Monday, September 7, 2020 10:21 AM"
+  },
+  {
+    "latitud": "49.334295",
+    "longitud": "113.486623",
+    "altitud": "49.026002",
+    "tiempo": "Thursday, February 23, 2017 1:16 PM"
+  },
+  {
+    "latitud": "59.988272",
+    "longitud": "54.573264",
+    "altitud": "-74.046838",
+    "tiempo": "Sunday, May 22, 2016 10:37 PM"
+  },
+  {
+    "latitud": "-16.847457",
+    "longitud": "11.714798",
+    "altitud": "-17.291156",
+    "tiempo": "Saturday, January 27, 2018 10:04 PM"
+  },
+  {
+    "latitud": "15.030125",
+    "longitud": "-118.574547",
+    "altitud": "-23.654614",
+    "tiempo": "Friday, December 20, 2019 2:37 PM"
+  },
+  {
+    "latitud": "76.624137",
+    "longitud": "-63.847401",
+    "altitud": "-65.404075",
+    "tiempo": "Thursday, January 19, 2017 3:43 AM"
+  },
+  {
+    "latitud": "72.640703",
+    "longitud": "76.876777",
+    "altitud": "-79.710248",
+    "tiempo": "Sunday, August 17, 2014 1:36 PM"
+  },
+  {
+    "latitud": "36.621727",
+    "longitud": "-38.552152",
+    "altitud": "46.489896",
+    "tiempo": "Tuesday, March 15, 2016 10:05 PM"
+  },
+  {
+    "latitud": "-63.478113",
+    "longitud": "-75.544844",
+    "altitud": "-19.092431",
+    "tiempo": "Tuesday, July 19, 2016 6:30 PM"
+  },
+  {
+    "latitud": "-78.915297",
+    "longitud": "75.430368",
+    "altitud": "68.868082",
+    "tiempo": "Tuesday, January 19, 2021 8:17 AM"
+  },
+  {
+    "latitud": "-45.55226",
+    "longitud": "29.215872",
+    "altitud": "-85.238454",
+    "tiempo": "Wednesday, December 16, 2020 1:58 AM"
+  },
+  {
+    "latitud": "71.065154",
+    "longitud": "-113.309009",
+    "altitud": "76.412651",
+    "tiempo": "Friday, May 19, 2017 11:06 AM"
+  },
+  {
+    "latitud": "-18.409201",
+    "longitud": "135.386761",
+    "altitud": "62.308292",
+    "tiempo": "Thursday, October 22, 2020 7:36 AM"
+  },
+  {
+    "latitud": "-49.583443",
+    "longitud": "30.43763",
+    "altitud": "81.530713",
+    "tiempo": "Monday, December 29, 2014 12:43 PM"
+  },
+  {
+    "latitud": "-38.701695",
+    "longitud": "142.448257",
+    "altitud": "55.18467",
+    "tiempo": "Tuesday, February 24, 2015 6:02 PM"
+  },
+  {
+    "latitud": "77.423778",
+    "longitud": "-33.074615",
+    "altitud": "11.228951",
+    "tiempo": "Tuesday, November 3, 2015 8:34 PM"
+  },
+  {
+    "latitud": "1.351376",
+    "longitud": "140.585019",
+    "altitud": "44.380149",
+    "tiempo": "Saturday, September 14, 2019 12:14 PM"
+  },
+  {
+    "latitud": "62.475667",
+    "longitud": "-153.774348",
+    "altitud": "-1.381717",
+    "tiempo": "Tuesday, April 30, 2019 11:45 AM"
+  },
+  {
+    "latitud": "-11.040782",
+    "longitud": "-168.717444",
+    "altitud": "22.354195",
+    "tiempo": "Saturday, June 8, 2019 3:49 AM"
+  },
+  {
+    "latitud": "-30.629018",
+    "longitud": "142.481169",
+    "altitud": "-3.605746",
+    "tiempo": "Tuesday, January 10, 2017 11:22 PM"
+  },
+  {
+    "latitud": "69.104245",
+    "longitud": "175.115322",
+    "altitud": "-71.298073",
+    "tiempo": "Tuesday, April 26, 2016 4:04 AM"
+  },
+  {
+    "latitud": "-14.572138",
+    "longitud": "-26.896949",
+    "altitud": "-35.186382",
+    "tiempo": "Wednesday, September 9, 2015 6:34 AM"
+  },
+  {
+    "latitud": "-55.399714",
+    "longitud": "128.867252",
+    "altitud": "57.205513",
+    "tiempo": "Sunday, April 10, 2016 3:20 PM"
+  },
+  {
+    "latitud": "-13.393671",
+    "longitud": "-51.638265",
+    "altitud": "-48.052567",
+    "tiempo": "Thursday, May 19, 2016 11:36 PM"
+  },
+  {
+    "latitud": "77.118629",
+    "longitud": "107.278836",
+    "altitud": "26.738378",
+    "tiempo": "Monday, May 25, 2020 2:59 PM"
+  },
+  {
+    "latitud": "47.616581",
+    "longitud": "-126.018261",
+    "altitud": "86.632017",
+    "tiempo": "Wednesday, June 10, 2015 7:23 AM"
+  },
+  {
+    "latitud": "43.959947",
+    "longitud": "-9.095712",
+    "altitud": "-25.30451",
+    "tiempo": "Sunday, September 8, 2019 3:23 AM"
+  },
+  {
+    "latitud": "-18.861037",
+    "longitud": "-114.354616",
+    "altitud": "-28.544406",
+    "tiempo": "Sunday, March 8, 2015 1:15 PM"
+  },
+  {
+    "latitud": "87.057685",
+    "longitud": "127.629205",
+    "altitud": "47.168354",
+    "tiempo": "Sunday, March 15, 2020 3:54 PM"
+  },
+  {
+    "latitud": "-9.920179",
+    "longitud": "177.087697",
+    "altitud": "-61.081446",
+    "tiempo": "Thursday, February 15, 2018 12:03 AM"
+  },
+  {
+    "latitud": "-48.616337",
+    "longitud": "36.808234",
+    "altitud": "-84.333147",
+    "tiempo": "Monday, February 23, 2015 11:07 AM"
+  },
+  {
+    "latitud": "66.452914",
+    "longitud": "108.848683",
+    "altitud": "-63.852816",
+    "tiempo": "Sunday, June 21, 2015 8:58 PM"
+  },
+  {
+    "latitud": "40.081284",
+    "longitud": "-72.5151",
+    "altitud": "18.828141",
+    "tiempo": "Monday, December 28, 2020 3:28 PM"
+  },
+  {
+    "latitud": "39.549184",
+    "longitud": "-148.978147",
+    "altitud": "55.720069",
+    "tiempo": "Friday, January 22, 2021 6:43 AM"
+  },
+  {
+    "latitud": "86.087241",
+    "longitud": "-76.405121",
+    "altitud": "14.85954",
+    "tiempo": "Wednesday, January 3, 2018 6:22 PM"
+  },
+  {
+    "latitud": "2.312763",
+    "longitud": "18.799821",
+    "altitud": "77.700891",
+    "tiempo": "Tuesday, March 17, 2015 8:57 PM"
+  },
+  {
+    "latitud": "-24.382968",
+    "longitud": "99.05482",
+    "altitud": "2.017608",
+    "tiempo": "Wednesday, February 24, 2016 1:39 AM"
+  },
+  {
+    "latitud": "-40.696869",
+    "longitud": "-39.317256",
+    "altitud": "-15.083978",
+    "tiempo": "Wednesday, October 19, 2016 11:55 PM"
+  },
+  {
+    "latitud": "-81.534025",
+    "longitud": "14.639206",
+    "altitud": "54.9941",
+    "tiempo": "Wednesday, June 29, 2016 5:49 PM"
+  },
+  {
+    "latitud": "-63.289558",
+    "longitud": "106.796765",
+    "altitud": "-75.835311",
+    "tiempo": "Friday, August 3, 2018 12:12 PM"
+  },
+  {
+    "latitud": "47.165663",
+    "longitud": "153.324028",
+    "altitud": "-63.526083",
+    "tiempo": "Tuesday, October 1, 2019 10:33 AM"
+  },
+  {
+    "latitud": "-44.965851",
+    "longitud": "4.616829",
+    "altitud": "9.25134",
+    "tiempo": "Thursday, June 19, 2014 5:01 AM"
+  },
+  {
+    "latitud": "83.480118",
+    "longitud": "47.98224",
+    "altitud": "-81.605902",
+    "tiempo": "Tuesday, June 23, 2020 1:59 PM"
+  },
+  {
+    "latitud": "-5.759013",
+    "longitud": "-123.363748",
+    "altitud": "31.576488",
+    "tiempo": "Wednesday, November 11, 2015 10:05 AM"
+  },
+  {
+    "latitud": "53.524408",
+    "longitud": "127.870585",
+    "altitud": "-53.514166",
+    "tiempo": "Saturday, August 20, 2016 12:19 PM"
+  },
+  {
+    "latitud": "-49.199221",
+    "longitud": "-89.624953",
+    "altitud": "31.888503",
+    "tiempo": "Saturday, November 17, 2018 12:28 AM"
+  },
+  {
+    "latitud": "75.801596",
+    "longitud": "75.393096",
+    "altitud": "-8.858087",
+    "tiempo": "Wednesday, March 18, 2015 4:33 PM"
+  },
+  {
+    "latitud": "83.991589",
+    "longitud": "-77.190265",
+    "altitud": "-31.368928",
+    "tiempo": "Saturday, October 14, 2017 12:24 AM"
+  },
+  {
+    "latitud": "-8.514732",
+    "longitud": "128.757403",
+    "altitud": "81.579463",
+    "tiempo": "Friday, April 3, 2015 2:54 AM"
+  },
+  {
+    "latitud": "63.474125",
+    "longitud": "-150.555928",
+    "altitud": "-33.641424",
+    "tiempo": "Sunday, November 25, 2018 6:27 AM"
+  },
+  {
+    "latitud": "48.692229",
+    "longitud": "-3.904952",
+    "altitud": "27.68205",
+    "tiempo": "Thursday, August 20, 2020 8:12 AM"
+  },
+  {
+    "latitud": "49.310342",
+    "longitud": "-44.207033",
+    "altitud": "-79.285074",
+    "tiempo": "Tuesday, September 8, 2015 11:31 PM"
+  },
+  {
+    "latitud": "-19.786104",
+    "longitud": "130.646219",
+    "altitud": "-34.984532",
+    "tiempo": "Wednesday, October 21, 2015 6:33 AM"
+  },
+  {
+    "latitud": "29.753665",
+    "longitud": "99.202438",
+    "altitud": "58.923407",
+    "tiempo": "Tuesday, October 3, 2017 2:09 AM"
+  },
+  {
+    "latitud": "-20.181236",
+    "longitud": "149.037317",
+    "altitud": "19.329007",
+    "tiempo": "Tuesday, August 30, 2016 5:27 PM"
+  },
+  {
+    "latitud": "-25.305223",
+    "longitud": "135.016476",
+    "altitud": "54.44748",
+    "tiempo": "Sunday, November 22, 2020 8:28 PM"
+  },
+  {
+    "latitud": "83.54058",
+    "longitud": "-5.306633",
+    "altitud": "-15.101845",
+    "tiempo": "Thursday, April 17, 2014 10:14 PM"
+  },
+  {
+    "latitud": "80.809675",
+    "longitud": "115.012928",
+    "altitud": "56.79284",
+    "tiempo": "Monday, January 12, 2015 10:48 PM"
+  },
+  {
+    "latitud": "-54.274803",
+    "longitud": "35.831633",
+    "altitud": "-78.142189",
+    "tiempo": "Thursday, January 21, 2021 2:17 AM"
+  },
+  {
+    "latitud": "-10.34999",
+    "longitud": "101.555463",
+    "altitud": "48.922907",
+    "tiempo": "Wednesday, January 29, 2014 5:41 PM"
+  },{
+    "latitud": "-5.057291",
+    "longitud": "-99.952997",
+    "altitud": "-23.13646",
+    "tiempo": "Monday, January 1, 2018 2:24 AM"
+  },
+  {
+    "latitud": "-8.699486",
+    "longitud": "92.575913",
+    "altitud": "-79.274121",
+    "tiempo": "Saturday, July 7, 2018 6:09 AM"
+  },
+  {
+    "latitud": "-80.877133",
+    "longitud": "-50.014188",
+    "altitud": "-21.385469",
+    "tiempo": "Saturday, July 25, 2015 9:59 PM"
+  },
+  {
+    "latitud": "-36.715957",
+    "longitud": "-27.205399",
+    "altitud": "80.166921",
+    "tiempo": "Tuesday, August 14, 2018 2:29 AM"
+  },
+  {
+    "latitud": "-36.910642",
+    "longitud": "-53.846319",
+    "altitud": "-49.750056",
+    "tiempo": "Saturday, October 25, 2014 10:25 PM"
+  },
+  {
+    "latitud": "-63.432533",
+    "longitud": "55.69674",
+    "altitud": "-58.427646",
+    "tiempo": "Wednesday, March 11, 2015 1:03 PM"
+  },
+  {
+    "latitud": "70.98754",
+    "longitud": "59.305478",
+    "altitud": "8.086714",
+    "tiempo": "Friday, October 27, 2017 8:26 PM"
+  },
+  {
+    "latitud": "37.73049",
+    "longitud": "-42.166538",
+    "altitud": "-77.085725",
+    "tiempo": "Saturday, December 15, 2018 5:04 PM"
+  },
+  {
+    "latitud": "34.173275",
+    "longitud": "34.729011",
+    "altitud": "-27.360983",
+    "tiempo": "Sunday, August 28, 2016 9:07 AM"
+  },
+  {
+    "latitud": "38.593508",
+    "longitud": "116.365022",
+    "altitud": "60.814375",
+    "tiempo": "Sunday, March 1, 2020 6:29 AM"
+  },
+  {
+    "latitud": "-52.174699",
+    "longitud": "65.747921",
+    "altitud": "58.253474",
+    "tiempo": "Thursday, February 16, 2017 11:51 AM"
+  },
+  {
+    "latitud": "52.270003",
+    "longitud": "126.788514",
+    "altitud": "-13.7776",
+    "tiempo": "Wednesday, January 28, 2015 9:47 AM"
+  },
+  {
+    "latitud": "-0.012655",
+    "longitud": "173.68438",
+    "altitud": "-8.098703",
+    "tiempo": "Friday, December 14, 2018 3:56 PM"
+  },
+  {
+    "latitud": "-87.32632",
+    "longitud": "-66.979568",
+    "altitud": "-64.043988",
+    "tiempo": "Monday, October 7, 2019 3:06 PM"
+  },
+  {
+    "latitud": "78.440844",
+    "longitud": "174.345621",
+    "altitud": "-25.368598",
+    "tiempo": "Friday, December 11, 2015 11:53 AM"
+  },
+  {
+    "latitud": "3.413731",
+    "longitud": "-161.342804",
+    "altitud": "-52.912316",
+    "tiempo": "Tuesday, March 8, 2016 8:11 AM"
+  },
+  {
+    "latitud": "47.14175",
+    "longitud": "12.919232",
+    "altitud": "-3.12653",
+    "tiempo": "Wednesday, February 17, 2016 4:56 PM"
+  },
+  {
+    "latitud": "8.642232",
+    "longitud": "-146.331977",
+    "altitud": "79.221369",
+    "tiempo": "Friday, April 21, 2017 6:19 AM"
+  },
+  {
+    "latitud": "-48.8533",
+    "longitud": "14.609145",
+    "altitud": "-44.66715",
+    "tiempo": "Saturday, August 24, 2019 1:41 PM"
+  },
+  {
+    "latitud": "30.498731",
+    "longitud": "-11.150585",
+    "altitud": "-43.074036",
+    "tiempo": "Saturday, July 6, 2019 7:52 AM"
+  },
+  {
+    "latitud": "46.824755",
+    "longitud": "155.312003",
+    "altitud": "43.298394",
+    "tiempo": "Tuesday, July 30, 2019 3:52 AM"
+  },
+  {
+    "latitud": "-28.757507",
+    "longitud": "108.874611",
+    "altitud": "31.702105",
+    "tiempo": "Thursday, November 14, 2019 10:28 PM"
+  },
+  {
+    "latitud": "-82.120338",
+    "longitud": "75.176032",
+    "altitud": "-25.966105",
+    "tiempo": "Tuesday, June 23, 2020 7:23 PM"
+  },
+  {
+    "latitud": "-80.425535",
+    "longitud": "-113.486885",
+    "altitud": "-1.530269",
+    "tiempo": "Friday, March 23, 2018 12:34 AM"
+  },
+  {
+    "latitud": "8.693929",
+    "longitud": "-125.410484",
+    "altitud": "88.035538",
+    "tiempo": "Tuesday, December 9, 2014 4:39 PM"
+  },
+  {
+    "latitud": "68.799429",
+    "longitud": "-118.959766",
+    "altitud": "-87.709443",
+    "tiempo": "Sunday, August 4, 2019 10:55 PM"
+  },
+  {
+    "latitud": "29.460373",
+    "longitud": "-61.939398",
+    "altitud": "28.018569",
+    "tiempo": "Friday, November 29, 2019 9:13 AM"
+  },
+  {
+    "latitud": "-85.92023",
+    "longitud": "-107.699833",
+    "altitud": "5.013141",
+    "tiempo": "Tuesday, May 21, 2019 9:18 PM"
+  },
+  {
+    "latitud": "-19.384372",
+    "longitud": "128.671662",
+    "altitud": "62.160132",
+    "tiempo": "Tuesday, February 28, 2017 11:12 AM"
+  },
+  {
+    "latitud": "-39.953957",
+    "longitud": "-105.650749",
+    "altitud": "-37.788032",
+    "tiempo": "Sunday, September 7, 2014 10:18 AM"
+  },
+  {
+    "latitud": "75.817297",
+    "longitud": "140.058477",
+    "altitud": "43.697619",
+    "tiempo": "Monday, January 6, 2020 5:49 PM"
+  },
+  {
+    "latitud": "56.059593",
+    "longitud": "155.133693",
+    "altitud": "-27.436773",
+    "tiempo": "Friday, February 9, 2018 1:42 PM"
+  },
+  {
+    "latitud": "-27.430869",
+    "longitud": "52.473433",
+    "altitud": "12.290669",
+    "tiempo": "Friday, July 17, 2020 7:24 PM"
+  },
+  {
+    "latitud": "20.448995",
+    "longitud": "37.477075",
+    "altitud": "50.310844",
+    "tiempo": "Friday, December 20, 2019 4:48 AM"
+  },
+  {
+    "latitud": "-6.63096",
+    "longitud": "-117.193511",
+    "altitud": "0.781245",
+    "tiempo": "Wednesday, May 20, 2015 3:31 AM"
+  },
+  {
+    "latitud": "-60.946002",
+    "longitud": "-128.768901",
+    "altitud": "12.416925",
+    "tiempo": "Sunday, April 9, 2017 1:00 PM"
+  },
+  {
+    "latitud": "55.90932",
+    "longitud": "55.335177",
+    "altitud": "-16.933077",
+    "tiempo": "Tuesday, November 24, 2020 8:18 PM"
+  },
+  {
+    "latitud": "84.418439",
+    "longitud": "-92.668102",
+    "altitud": "-14.303162",
+    "tiempo": "Friday, September 4, 2020 4:14 AM"
+  },
+  {
+    "latitud": "-57.309359",
+    "longitud": "37.903412",
+    "altitud": "84.569998",
+    "tiempo": "Thursday, July 2, 2015 6:40 AM"
+  },
+  {
+    "latitud": "-4.277969",
+    "longitud": "173.01395",
+    "altitud": "-12.687644",
+    "tiempo": "Thursday, November 12, 2020 10:30 PM"
+  },
+  {
+    "latitud": "2.274426",
+    "longitud": "-117.215824",
+    "altitud": "73.028392",
+    "tiempo": "Thursday, September 10, 2020 4:24 PM"
+  },
+  {
+    "latitud": "-1.143015",
+    "longitud": "-4.559324",
+    "altitud": "23.190752",
+    "tiempo": "Friday, January 23, 2015 6:07 PM"
+  },
+  {
+    "latitud": "49.320465",
+    "longitud": "98.659301",
+    "altitud": "40.33087",
+    "tiempo": "Tuesday, August 30, 2016 10:17 PM"
+  },
+  {
+    "latitud": "55.063119",
+    "longitud": "-148.345355",
+    "altitud": "-37.154454",
+    "tiempo": "Sunday, April 24, 2016 8:32 AM"
+  },
+  {
+    "latitud": "-80.063939",
+    "longitud": "-125.107684",
+    "altitud": "-48.586884",
+    "tiempo": "Monday, September 12, 2016 2:11 AM"
+  },
+  {
+    "latitud": "45.513067",
+    "longitud": "120.001926",
+    "altitud": "-67.08488",
+    "tiempo": "Monday, January 4, 2021 10:54 PM"
+  },
+  {
+    "latitud": "64.646045",
+    "longitud": "76.003759",
+    "altitud": "6.43719",
+    "tiempo": "Friday, December 12, 2014 7:46 AM"
+  },
+  {
+    "latitud": "-79.839525",
+    "longitud": "50.597804",
+    "altitud": "14.884522",
+    "tiempo": "Monday, November 19, 2018 2:29 AM"
+  },
+  {
+    "latitud": "-40.891137",
+    "longitud": "-81.121854",
+    "altitud": "-62.226962",
+    "tiempo": "Saturday, February 14, 2015 6:14 AM"
+  },
+  {
+    "latitud": "71.813784",
+    "longitud": "-57.67151",
+    "altitud": "-63.658569",
+    "tiempo": "Monday, November 17, 2014 8:01 AM"
+  },
+  {
+    "latitud": "54.860963",
+    "longitud": "172.503381",
+    "altitud": "-89.989976",
+    "tiempo": "Sunday, November 8, 2020 9:23 AM"
+  },
+  {
+    "latitud": "-52.843601",
+    "longitud": "-12.204171",
+    "altitud": "26.652324",
+    "tiempo": "Monday, January 18, 2016 7:03 AM"
+  },
+  {
+    "latitud": "53.440475",
+    "longitud": "-56.923463",
+    "altitud": "-25.617444",
+    "tiempo": "Saturday, September 6, 2014 2:32 AM"
+  },
+  {
+    "latitud": "-39.412946",
+    "longitud": "44.352426",
+    "altitud": "-22.698308",
+    "tiempo": "Wednesday, May 15, 2019 12:49 AM"
+  },
+  {
+    "latitud": "6.113426",
+    "longitud": "108.819623",
+    "altitud": "-69.91024",
+    "tiempo": "Thursday, January 28, 2016 7:05 PM"
+  },
+  {
+    "latitud": "36.331562",
+    "longitud": "44.857539",
+    "altitud": "29.814808",
+    "tiempo": "Thursday, November 17, 2016 7:30 PM"
+  },
+  {
+    "latitud": "-62.148856",
+    "longitud": "-139.662952",
+    "altitud": "-71.706046",
+    "tiempo": "Saturday, February 16, 2019 9:53 PM"
+  },
+  {
+    "latitud": "79.383378",
+    "longitud": "122.724249",
+    "altitud": "-53.299082",
+    "tiempo": "Sunday, May 25, 2014 2:47 AM"
+  },
+  {
+    "latitud": "43.687647",
+    "longitud": "86.99631",
+    "altitud": "2.223711",
+    "tiempo": "Thursday, March 10, 2016 9:55 PM"
+  },
+  {
+    "latitud": "-67.147043",
+    "longitud": "85.308488",
+    "altitud": "12.154098",
+    "tiempo": "Sunday, January 24, 2021 8:18 AM"
+  },
+  {
+    "latitud": "86.985421",
+    "longitud": "-159.487837",
+    "altitud": "-29.381074",
+    "tiempo": "Thursday, December 31, 2020 6:20 PM"
+  },
+  {
+    "latitud": "72.063463",
+    "longitud": "-111.643271",
+    "altitud": "-50.469982",
+    "tiempo": "Friday, October 13, 2017 8:58 PM"
+  },
+  {
+    "latitud": "55.194508",
+    "longitud": "62.684162",
+    "altitud": "-7.858577",
+    "tiempo": "Wednesday, November 13, 2019 11:31 PM"
+  },
+  {
+    "latitud": "35.286451",
+    "longitud": "2.390165",
+    "altitud": "3.168747",
+    "tiempo": "Sunday, December 15, 2019 7:48 AM"
+  },
+  {
+    "latitud": "75.830204",
+    "longitud": "174.128799",
+    "altitud": "12.588497",
+    "tiempo": "Friday, June 19, 2020 8:00 AM"
+  },
+  {
+    "latitud": "-77.553495",
+    "longitud": "-55.606648",
+    "altitud": "-23.00158",
+    "tiempo": "Monday, October 28, 2019 9:04 PM"
+  },
+  {
+    "latitud": "-62.557843",
+    "longitud": "-56.080872",
+    "altitud": "12.758718",
+    "tiempo": "Sunday, December 7, 2014 10:53 PM"
+  },
+  {
+    "latitud": "7.010801",
+    "longitud": "174.189031",
+    "altitud": "17.736651",
+    "tiempo": "Monday, May 20, 2019 3:30 PM"
+  },
+  {
+    "latitud": "32.871794",
+    "longitud": "-137.262801",
+    "altitud": "62.929979",
+    "tiempo": "Thursday, December 15, 2016 7:00 AM"
+  },
+  {
+    "latitud": "-87.938956",
+    "longitud": "150.91703",
+    "altitud": "51.86907",
+    "tiempo": "Wednesday, February 20, 2019 9:16 PM"
+  },
+  {
+    "latitud": "-71.749819",
+    "longitud": "90.460809",
+    "altitud": "38.509374",
+    "tiempo": "Sunday, August 5, 2018 5:10 AM"
+  },
+  {
+    "latitud": "-66.17978",
+    "longitud": "-7.818876",
+    "altitud": "81.591155",
+    "tiempo": "Thursday, November 8, 2018 11:51 AM"
+  },
+  {
+    "latitud": "6.963767",
+    "longitud": "-10.392568",
+    "altitud": "-78.436787",
+    "tiempo": "Sunday, May 28, 2017 10:20 AM"
+  },
+  {
+    "latitud": "36.994503",
+    "longitud": "-5.103697",
+    "altitud": "-15.448895",
+    "tiempo": "Monday, January 12, 2015 3:51 AM"
+  },
+  {
+    "latitud": "-5.319621",
+    "longitud": "-166.393254",
+    "altitud": "-21.799426",
+    "tiempo": "Friday, July 1, 2016 3:50 PM"
+  },
+  {
+    "latitud": "59.757191",
+    "longitud": "96.35745",
+    "altitud": "-86.822679",
+    "tiempo": "Thursday, April 7, 2016 5:22 AM"
+  },
+  {
+    "latitud": "-8.98825",
+    "longitud": "-80.025107",
+    "altitud": "-64.315188",
+    "tiempo": "Tuesday, August 4, 2020 1:00 AM"
+  },
+  {
+    "latitud": "-51.020438",
+    "longitud": "-105.087903",
+    "altitud": "-27.778678",
+    "tiempo": "Tuesday, March 4, 2014 8:29 PM"
+  },
+  {
+    "latitud": "-16.526263",
+    "longitud": "-19.89736",
+    "altitud": "73.230763",
+    "tiempo": "Tuesday, January 22, 2019 1:42 AM"
+  },
+  {
+    "latitud": "-51.593923",
+    "longitud": "65.723784",
+    "altitud": "-72.451582",
+    "tiempo": "Tuesday, May 31, 2016 10:25 AM"
+  },
+  {
+    "latitud": "71.829935",
+    "longitud": "139.45909",
+    "altitud": "-12.192026",
+    "tiempo": "Sunday, October 28, 2018 1:43 AM"
+  },
+  {
+    "latitud": "75.953029",
+    "longitud": "-71.40375",
+    "altitud": "-13.568222",
+    "tiempo": "Saturday, May 16, 2020 1:05 AM"
+  },
+  {
+    "latitud": "0.467496",
+    "longitud": "79.767732",
+    "altitud": "-36.007016",
+    "tiempo": "Saturday, December 28, 2019 11:13 AM"
+  },
+  {
+    "latitud": "-69.92227",
+    "longitud": "135.780464",
+    "altitud": "12.310268",
+    "tiempo": "Friday, November 23, 2018 1:40 PM"
+  },
+  {
+    "latitud": "51.226615",
+    "longitud": "15.965562",
+    "altitud": "-56.815232",
+    "tiempo": "Friday, November 20, 2020 7:43 PM"
+  },
+  {
+    "latitud": "-33.413625",
+    "longitud": "0.894273",
+    "altitud": "-68.380966",
+    "tiempo": "Monday, May 12, 2014 12:04 AM"
+  },
+  {
+    "latitud": "87.252755",
+    "longitud": "128.125781",
+    "altitud": "40.959914",
+    "tiempo": "Saturday, March 30, 2019 6:58 PM"
+  },
+  {
+    "latitud": "83.924134",
+    "longitud": "144.604388",
+    "altitud": "-67.496068",
+    "tiempo": "Monday, August 18, 2014 2:33 PM"
+  },
+  {
+    "latitud": "78.27879",
+    "longitud": "-150.296585",
+    "altitud": "2.142751",
+    "tiempo": "Monday, January 28, 2019 12:26 PM"
+  },
+  {
+    "latitud": "-27.552457",
+    "longitud": "88.663753",
+    "altitud": "-75.99529",
+    "tiempo": "Tuesday, September 18, 2018 12:41 AM"
+  },
+  {
+    "latitud": "-82.547248",
+    "longitud": "133.53189",
+    "altitud": "13.329919",
+    "tiempo": "Tuesday, October 25, 2016 6:52 AM"
+  },
+  {
+    "latitud": "-11.95513",
+    "longitud": "-117.840478",
+    "altitud": "42.560177",
+    "tiempo": "Saturday, October 31, 2020 5:25 PM"
+  },
+  {
+    "latitud": "36.009761",
+    "longitud": "71.61678",
+    "altitud": "-4.237689",
+    "tiempo": "Tuesday, November 7, 2017 5:54 PM"
+  },
+  {
+    "latitud": "85.520843",
+    "longitud": "83.731605",
+    "altitud": "55.222479",
+    "tiempo": "Saturday, July 7, 2018 5:44 AM"
+  },
+  {
+    "latitud": "-65.401259",
+    "longitud": "-75.585776",
+    "altitud": "-45.214832",
+    "tiempo": "Friday, August 10, 2018 5:34 PM"
+  },
+  {
+    "latitud": "-12.33857",
+    "longitud": "-42.948214",
+    "altitud": "-20.043665",
+    "tiempo": "Monday, April 9, 2018 12:38 PM"
+  },
+  {
+    "latitud": "65.87933",
+    "longitud": "6.719909",
+    "altitud": "60.543033",
+    "tiempo": "Wednesday, May 28, 2014 1:55 PM"
+  },
+  {
+    "latitud": "-6.245171",
+    "longitud": "86.103794",
+    "altitud": "71.711811",
+    "tiempo": "Saturday, June 29, 2019 5:16 PM"
+  },
+  {
+    "latitud": "-45.548274",
+    "longitud": "-16.848092",
+    "altitud": "76.461826",
+    "tiempo": "Sunday, March 26, 2017 6:06 PM"
+  },{
+    "latitud": "76.061829",
+    "longitud": "176.085683",
+    "altitud": "-31.474592",
+    "tiempo": "Wednesday, June 11, 2014 11:58 PM"
+  },
+  {
+    "latitud": "-75.948082",
+    "longitud": "-54.248345",
+    "altitud": "-46.569758",
+    "tiempo": "Sunday, October 8, 2017 1:31 AM"
+  },
+  {
+    "latitud": "31.640767",
+    "longitud": "177.483226",
+    "altitud": "60.578087",
+    "tiempo": "Tuesday, September 1, 2020 11:22 PM"
+  },
+  {
+    "latitud": "-35.763551",
+    "longitud": "-129.257334",
+    "altitud": "21.331292",
+    "tiempo": "Friday, May 29, 2020 12:41 AM"
+  },
+  {
+    "latitud": "60.977972",
+    "longitud": "-149.461103",
+    "altitud": "32.157812",
+    "tiempo": "Saturday, December 28, 2019 5:09 PM"
+  },
+  {
+    "latitud": "-60.268358",
+    "longitud": "-69.568004",
+    "altitud": "20.900448",
+    "tiempo": "Saturday, January 4, 2020 8:22 AM"
+  },
+  {
+    "latitud": "-7.352808",
+    "longitud": "179.790686",
+    "altitud": "-30.872437",
+    "tiempo": "Saturday, April 25, 2020 12:46 PM"
+  },
+  {
+    "latitud": "-37.95909",
+    "longitud": "136.435584",
+    "altitud": "63.219698",
+    "tiempo": "Friday, May 13, 2016 5:47 PM"
+  },
+  {
+    "latitud": "29.215887",
+    "longitud": "40.346551",
+    "altitud": "6.712272",
+    "tiempo": "Wednesday, April 22, 2020 8:37 PM"
+  },
+  {
+    "latitud": "22.548311",
+    "longitud": "-133.682205",
+    "altitud": "53.499635",
+    "tiempo": "Saturday, May 9, 2020 5:26 PM"
+  },
+  {
+    "latitud": "-18.911919",
+    "longitud": "177.829023",
+    "altitud": "-63.873149",
+    "tiempo": "Sunday, September 2, 2018 11:13 PM"
+  },
+  {
+    "latitud": "-17.363713",
+    "longitud": "-86.984662",
+    "altitud": "-12.690188",
+    "tiempo": "Tuesday, August 25, 2015 8:21 PM"
+  },
+  {
+    "latitud": "79.19401",
+    "longitud": "-175.189371",
+    "altitud": "2.763073",
+    "tiempo": "Friday, December 14, 2018 6:40 PM"
+  },
+  {
+    "latitud": "33.311094",
+    "longitud": "-175.110914",
+    "altitud": "67.407806",
+    "tiempo": "Sunday, June 4, 2017 8:36 AM"
+  },
+  {
+    "latitud": "67.963545",
+    "longitud": "-40.393253",
+    "altitud": "78.011396",
+    "tiempo": "Tuesday, February 27, 2018 1:03 PM"
+  },
+  {
+    "latitud": "-87.437625",
+    "longitud": "34.232526",
+    "altitud": "-70.160465",
+    "tiempo": "Tuesday, September 8, 2020 8:56 PM"
+  },
+  {
+    "latitud": "-62.736584",
+    "longitud": "148.955408",
+    "altitud": "39.199344",
+    "tiempo": "Thursday, April 11, 2019 5:15 PM"
+  },
+  {
+    "latitud": "-11.050238",
+    "longitud": "-7.400099",
+    "altitud": "74.286077",
+    "tiempo": "Friday, August 14, 2015 11:00 AM"
+  },
+  {
+    "latitud": "88.657033",
+    "longitud": "-94.10217",
+    "altitud": "-15.68906",
+    "tiempo": "Friday, April 6, 2018 4:23 PM"
+  },
+  {
+    "latitud": "-54.166052",
+    "longitud": "-122.738644",
+    "altitud": "-80.973536",
+    "tiempo": "Friday, June 22, 2018 6:23 PM"
+  },
+  {
+    "latitud": "27.184878",
+    "longitud": "-168.85154",
+    "altitud": "-14.407862",
+    "tiempo": "Friday, June 6, 2014 3:57 PM"
+  },
+  {
+    "latitud": "-34.902826",
+    "longitud": "-41.369254",
+    "altitud": "66.671034",
+    "tiempo": "Saturday, September 19, 2015 4:24 PM"
+  },
+  {
+    "latitud": "-50.275721",
+    "longitud": "-90.580506",
+    "altitud": "-67.195036",
+    "tiempo": "Saturday, August 30, 2014 3:40 AM"
+  },
+  {
+    "latitud": "83.542915",
+    "longitud": "157.30469",
+    "altitud": "82.943495",
+    "tiempo": "Sunday, August 4, 2019 11:41 PM"
+  },
+  {
+    "latitud": "80.412474",
+    "longitud": "-102.902025",
+    "altitud": "-21.979535",
+    "tiempo": "Sunday, June 18, 2017 4:08 PM"
+  },
+  {
+    "latitud": "-57.074001",
+    "longitud": "56.56315",
+    "altitud": "-42.883271",
+    "tiempo": "Sunday, February 21, 2016 7:43 AM"
+  },
+  {
+    "latitud": "64.90574",
+    "longitud": "-170.826568",
+    "altitud": "80.953431",
+    "tiempo": "Monday, September 21, 2020 6:33 AM"
+  },
+  {
+    "latitud": "-88.401578",
+    "longitud": "-85.383777",
+    "altitud": "59.777179",
+    "tiempo": "Saturday, February 17, 2018 12:25 PM"
+  },
+  {
+    "latitud": "-34.689147",
+    "longitud": "-103.457943",
+    "altitud": "-53.547025",
+    "tiempo": "Tuesday, June 19, 2018 2:44 PM"
+  },
+  {
+    "latitud": "-15.05959",
+    "longitud": "7.859331",
+    "altitud": "79.831406",
+    "tiempo": "Wednesday, March 5, 2014 5:42 PM"
+  },
+  {
+    "latitud": "-56.753702",
+    "longitud": "45.938791",
+    "altitud": "-25.974709",
+    "tiempo": "Tuesday, April 26, 2016 4:10 AM"
+  },
+  {
+    "latitud": "1.635084",
+    "longitud": "95.168056",
+    "altitud": "-85.029628",
+    "tiempo": "Wednesday, February 13, 2019 5:56 AM"
+  },
+  {
+    "latitud": "-84.599865",
+    "longitud": "70.846599",
+    "altitud": "-21.466884",
+    "tiempo": "Sunday, September 13, 2015 1:48 PM"
+  },
+  {
+    "latitud": "46.941964",
+    "longitud": "17.970648",
+    "altitud": "44.366762",
+    "tiempo": "Saturday, February 18, 2017 12:53 AM"
+  },
+  {
+    "latitud": "48.16651",
+    "longitud": "-113.039721",
+    "altitud": "4.741456",
+    "tiempo": "Saturday, May 21, 2016 9:27 PM"
+  },
+  {
+    "latitud": "62.180991",
+    "longitud": "105.55576",
+    "altitud": "-68.350944",
+    "tiempo": "Thursday, November 23, 2017 11:06 AM"
+  },
+  {
+    "latitud": "-63.710464",
+    "longitud": "179.426537",
+    "altitud": "-50.023979",
+    "tiempo": "Friday, April 18, 2014 2:52 AM"
+  },
+  {
+    "latitud": "56.163631",
+    "longitud": "-174.223735",
+    "altitud": "-62.371895",
+    "tiempo": "Monday, October 8, 2018 8:47 AM"
+  },
+  {
+    "latitud": "-70.816725",
+    "longitud": "-105.717304",
+    "altitud": "6.997442",
+    "tiempo": "Friday, February 2, 2018 7:22 PM"
+  },
+  {
+    "latitud": "54.713422",
+    "longitud": "113.898081",
+    "altitud": "85.313109",
+    "tiempo": "Saturday, December 31, 2016 10:57 PM"
+  },
+  {
+    "latitud": "-81.99911",
+    "longitud": "20.170562",
+    "altitud": "-64.652238",
+    "tiempo": "Monday, October 2, 2017 4:06 PM"
+  },
+  {
+    "latitud": "60.010791",
+    "longitud": "124.735874",
+    "altitud": "-78.625288",
+    "tiempo": "Thursday, January 8, 2015 12:53 AM"
+  },
+  {
+    "latitud": "85.825258",
+    "longitud": "-104.933526",
+    "altitud": "-49.20873",
+    "tiempo": "Sunday, November 23, 2014 10:51 AM"
+  },
+  {
+    "latitud": "-21.757618",
+    "longitud": "-84.205656",
+    "altitud": "-87.384679",
+    "tiempo": "Monday, June 24, 2019 1:51 PM"
+  },
+  {
+    "latitud": "61.381666",
+    "longitud": "-126.535344",
+    "altitud": "4.679844",
+    "tiempo": "Wednesday, June 1, 2016 9:03 PM"
+  },
+  {
+    "latitud": "-45.764206",
+    "longitud": "23.834489",
+    "altitud": "-85.431605",
+    "tiempo": "Wednesday, May 6, 2020 10:26 PM"
+  },
+  {
+    "latitud": "38.898294",
+    "longitud": "61.416394",
+    "altitud": "28.342574",
+    "tiempo": "Sunday, April 14, 2019 6:31 AM"
+  },
+  {
+    "latitud": "-77.14368",
+    "longitud": "-145.714106",
+    "altitud": "34.224701",
+    "tiempo": "Sunday, March 30, 2014 4:05 PM"
+  },
+  {
+    "latitud": "-82.283365",
+    "longitud": "102.832816",
+    "altitud": "-9.80983",
+    "tiempo": "Thursday, July 31, 2014 11:06 PM"
+  },
+  {
+    "latitud": "-72.837267",
+    "longitud": "-57.585147",
+    "altitud": "-10.938474",
+    "tiempo": "Sunday, January 6, 2019 1:36 AM"
+  },
+  {
+    "latitud": "-29.064422",
+    "longitud": "-42.454874",
+    "altitud": "-81.232525",
+    "tiempo": "Tuesday, January 5, 2016 5:41 PM"
+  },
+  {
+    "latitud": "-86.93186",
+    "longitud": "-165.006897",
+    "altitud": "13.649255",
+    "tiempo": "Wednesday, November 25, 2020 5:16 AM"
+  },
+  {
+    "latitud": "66.659816",
+    "longitud": "-97.365595",
+    "altitud": "65.024253",
+    "tiempo": "Sunday, February 16, 2014 9:57 AM"
+  },
+  {
+    "latitud": "-78.939258",
+    "longitud": "-49.555914",
+    "altitud": "-76.449187",
+    "tiempo": "Tuesday, December 4, 2018 11:06 AM"
+  },
+  {
+    "latitud": "-79.978788",
+    "longitud": "7.081507",
+    "altitud": "-42.152328",
+    "tiempo": "Monday, August 7, 2017 7:25 AM"
+  },
+  {
+    "latitud": "53.313914",
+    "longitud": "-94.683226",
+    "altitud": "-76.199406",
+    "tiempo": "Thursday, December 18, 2014 10:43 AM"
+  },
+  {
+    "latitud": "-12.422536",
+    "longitud": "175.043523",
+    "altitud": "16.401213",
+    "tiempo": "Monday, August 17, 2020 11:53 PM"
+  },
+  {
+    "latitud": "89.463284",
+    "longitud": "-110.82794",
+    "altitud": "-65.529411",
+    "tiempo": "Thursday, April 9, 2020 5:10 PM"
+  },
+  {
+    "latitud": "-43.991287",
+    "longitud": "122.059416",
+    "altitud": "-58.244411",
+    "tiempo": "Sunday, May 10, 2020 8:18 AM"
+  },
+  {
+    "latitud": "-0.39241",
+    "longitud": "2.084658",
+    "altitud": "40.89805",
+    "tiempo": "Saturday, March 17, 2018 3:52 PM"
+  },
+  {
+    "latitud": "82.496038",
+    "longitud": "28.430178",
+    "altitud": "-9.077899",
+    "tiempo": "Sunday, April 5, 2015 4:13 PM"
+  },
+  {
+    "latitud": "-0.125126",
+    "longitud": "-32.430488",
+    "altitud": "-36.787372",
+    "tiempo": "Wednesday, August 9, 2017 1:25 PM"
+  },
+  {
+    "latitud": "-66.806037",
+    "longitud": "-116.122596",
+    "altitud": "-5.663027",
+    "tiempo": "Sunday, April 29, 2018 9:37 AM"
+  },
+  {
+    "latitud": "9.731883",
+    "longitud": "-178.895234",
+    "altitud": "2.295389",
+    "tiempo": "Saturday, March 15, 2014 2:28 AM"
+  },
+  {
+    "latitud": "85.055412",
+    "longitud": "100.18227",
+    "altitud": "61.010686",
+    "tiempo": "Saturday, May 31, 2014 8:32 PM"
+  },
+  {
+    "latitud": "33.435871",
+    "longitud": "67.135437",
+    "altitud": "-17.493853",
+    "tiempo": "Thursday, May 2, 2019 1:32 PM"
+  },
+  {
+    "latitud": "-45.49786",
+    "longitud": "155.282761",
+    "altitud": "-56.800186",
+    "tiempo": "Monday, June 1, 2020 1:16 AM"
+  },
+  {
+    "latitud": "-24.504485",
+    "longitud": "-46.667697",
+    "altitud": "-68.701252",
+    "tiempo": "Tuesday, February 28, 2017 2:56 PM"
+  },
+  {
+    "latitud": "-27.812789",
+    "longitud": "161.893719",
+    "altitud": "-29.127402",
+    "tiempo": "Thursday, March 12, 2015 2:26 PM"
+  },
+  {
+    "latitud": "-57.779177",
+    "longitud": "30.374384",
+    "altitud": "64.148836",
+    "tiempo": "Friday, January 15, 2016 9:35 PM"
+  },
+  {
+    "latitud": "25.607033",
+    "longitud": "37.753755",
+    "altitud": "24.566391",
+    "tiempo": "Sunday, November 8, 2015 4:14 AM"
+  },
+  {
+    "latitud": "42.534886",
+    "longitud": "-114.674359",
+    "altitud": "2.696929",
+    "tiempo": "Saturday, January 23, 2021 2:35 AM"
+  },
+  {
+    "latitud": "40.906536",
+    "longitud": "145.614609",
+    "altitud": "82.518531",
+    "tiempo": "Friday, February 23, 2018 3:06 PM"
+  },
+  {
+    "latitud": "-74.925483",
+    "longitud": "152.089559",
+    "altitud": "-39.96357",
+    "tiempo": "Monday, January 7, 2019 3:31 PM"
+  },
+  {
+    "latitud": "-34.141177",
+    "longitud": "122.860018",
+    "altitud": "-40.09813",
+    "tiempo": "Thursday, August 10, 2017 11:41 PM"
+  },
+  {
+    "latitud": "45.822848",
+    "longitud": "-140.805584",
+    "altitud": "-0.325983",
+    "tiempo": "Tuesday, March 3, 2020 3:05 AM"
+  },
+  {
+    "latitud": "78.734392",
+    "longitud": "37.115269",
+    "altitud": "-67.264577",
+    "tiempo": "Wednesday, August 12, 2020 7:59 AM"
+  },
+  {
+    "latitud": "56.021498",
+    "longitud": "103.61403",
+    "altitud": "-72.733037",
+    "tiempo": "Tuesday, April 15, 2014 11:18 AM"
+  },
+  {
+    "latitud": "-32.191774",
+    "longitud": "-146.784675",
+    "altitud": "-80.826435",
+    "tiempo": "Wednesday, May 28, 2014 6:06 PM"
+  },
+  {
+    "latitud": "73.851347",
+    "longitud": "62.249579",
+    "altitud": "-46.139758",
+    "tiempo": "Tuesday, January 26, 2021 8:21 AM"
+  },
+  {
+    "latitud": "-77.975901",
+    "longitud": "-1.084624",
+    "altitud": "44.956005",
+    "tiempo": "Sunday, June 2, 2019 3:04 PM"
+  },
+  {
+    "latitud": "53.66311",
+    "longitud": "103.74232",
+    "altitud": "52.308286",
+    "tiempo": "Thursday, October 5, 2017 9:35 AM"
+  },
+  {
+    "latitud": "28.591552",
+    "longitud": "124.821669",
+    "altitud": "-47.803636",
+    "tiempo": "Wednesday, March 26, 2014 4:54 AM"
+  },
+  {
+    "latitud": "-84.210267",
+    "longitud": "14.034151",
+    "altitud": "67.603575",
+    "tiempo": "Friday, July 24, 2020 12:17 PM"
+  },
+  {
+    "latitud": "43.243682",
+    "longitud": "152.686052",
+    "altitud": "-79.838353",
+    "tiempo": "Tuesday, February 10, 2015 5:25 AM"
+  },
+  {
+    "latitud": "-83.743029",
+    "longitud": "10.651605",
+    "altitud": "2.01612",
+    "tiempo": "Thursday, January 30, 2014 2:56 AM"
+  },
+  {
+    "latitud": "39.683365",
+    "longitud": "111.85166",
+    "altitud": "-16.648875",
+    "tiempo": "Saturday, July 18, 2020 9:49 PM"
+  },
+  {
+    "latitud": "-79.295037",
+    "longitud": "-158.582146",
+    "altitud": "-34.691761",
+    "tiempo": "Wednesday, April 9, 2014 8:16 AM"
+  },
+  {
+    "latitud": "25.144058",
+    "longitud": "-159.788878",
+    "altitud": "-36.14976",
+    "tiempo": "Tuesday, March 12, 2019 4:12 PM"
+  },
+  {
+    "latitud": "0.520991",
+    "longitud": "68.873038",
+    "altitud": "-49.518062",
+    "tiempo": "Wednesday, February 17, 2021 6:41 PM"
+  },
+  {
+    "latitud": "29.910603",
+    "longitud": "-36.232494",
+    "altitud": "0.27286",
+    "tiempo": "Monday, October 27, 2014 1:49 PM"
+  },
+  {
+    "latitud": "-71.006238",
+    "longitud": "-78.005636",
+    "altitud": "-48.16123",
+    "tiempo": "Saturday, January 23, 2021 7:59 AM"
+  },
+  {
+    "latitud": "61.932075",
+    "longitud": "-73.005383",
+    "altitud": "15.276122",
+    "tiempo": "Sunday, November 3, 2019 8:06 PM"
+  },
+  {
+    "latitud": "-64.999255",
+    "longitud": "114.687375",
+    "altitud": "16.360054",
+    "tiempo": "Monday, January 15, 2018 8:53 AM"
+  },
+  {
+    "latitud": "1.36525",
+    "longitud": "-0.884211",
+    "altitud": "30.442413",
+    "tiempo": "Monday, May 9, 2016 4:39 AM"
+  },
+  {
+    "latitud": "-71.872596",
+    "longitud": "16.949081",
+    "altitud": "46.443127",
+    "tiempo": "Wednesday, November 21, 2018 7:50 AM"
+  },
+  {
+    "latitud": "77.859314",
+    "longitud": "27.864393",
+    "altitud": "-17.688863",
+    "tiempo": "Saturday, July 5, 2014 6:39 PM"
+  },
+  {
+    "latitud": "-24.525676",
+    "longitud": "165.477842",
+    "altitud": "-52.630342",
+    "tiempo": "Saturday, March 18, 2017 9:24 AM"
+  },{
+    "latitud": "-82.215649",
+    "longitud": "0.910533",
+    "altitud": "34.815283",
+    "tiempo": "Wednesday, November 21, 2018 5:49 AM"
+  },
+  {
+    "latitud": "31.201978",
+    "longitud": "-59.681095",
+    "altitud": "63.026616",
+    "tiempo": "Monday, February 1, 2021 6:11 PM"
+  },
+  {
+    "latitud": "-55.17935",
+    "longitud": "-127.768292",
+    "altitud": "63.38447",
+    "tiempo": "Sunday, October 7, 2018 6:22 AM"
+  },
+  {
+    "latitud": "-19.15899",
+    "longitud": "9.633295",
+    "altitud": "67.134066",
+    "tiempo": "Saturday, October 25, 2014 9:21 PM"
+  },
+  {
+    "latitud": "-35.504827",
+    "longitud": "32.279605",
+    "altitud": "-50.708924",
+    "tiempo": "Thursday, August 10, 2017 12:00 AM"
+  },
+  {
+    "latitud": "7.319742",
+    "longitud": "27.251137",
+    "altitud": "-36.463779",
+    "tiempo": "Sunday, April 12, 2020 7:16 PM"
+  },
+  {
+    "latitud": "-45.250436",
+    "longitud": "-45.209085",
+    "altitud": "-84.171951",
+    "tiempo": "Thursday, October 29, 2015 8:35 PM"
+  },
+  {
+    "latitud": "-4.867604",
+    "longitud": "-173.358368",
+    "altitud": "-38.495338",
+    "tiempo": "Tuesday, June 16, 2020 11:59 PM"
+  },
+  {
+    "latitud": "-32.088457",
+    "longitud": "145.017622",
+    "altitud": "71.661186",
+    "tiempo": "Thursday, August 29, 2019 2:08 AM"
+  },
+  {
+    "latitud": "35.398761",
+    "longitud": "137.862541",
+    "altitud": "4.471594",
+    "tiempo": "Thursday, November 2, 2017 9:17 PM"
+  },
+  {
+    "latitud": "-85.736942",
+    "longitud": "-46.101766",
+    "altitud": "58.299776",
+    "tiempo": "Wednesday, May 21, 2014 10:20 PM"
+  },
+  {
+    "latitud": "39.101769",
+    "longitud": "158.379648",
+    "altitud": "3.852761",
+    "tiempo": "Monday, December 7, 2020 7:00 AM"
+  },
+  {
+    "latitud": "-72.691569",
+    "longitud": "31.843119",
+    "altitud": "12.993157",
+    "tiempo": "Wednesday, March 29, 2017 4:44 PM"
+  },
+  {
+    "latitud": "-14.990861",
+    "longitud": "-16.851418",
+    "altitud": "-30.060361",
+    "tiempo": "Monday, February 2, 2015 7:57 PM"
+  },
+  {
+    "latitud": "59.515966",
+    "longitud": "-167.698538",
+    "altitud": "-67.082265",
+    "tiempo": "Friday, May 31, 2019 10:01 PM"
+  },
+  {
+    "latitud": "-73.379079",
+    "longitud": "15.088508",
+    "altitud": "16.663489",
+    "tiempo": "Tuesday, September 29, 2020 3:08 AM"
+  },
+  {
+    "latitud": "-60.646312",
+    "longitud": "149.843418",
+    "altitud": "-67.3247",
+    "tiempo": "Sunday, August 31, 2014 5:35 AM"
+  },
+  {
+    "latitud": "55.427058",
+    "longitud": "39.1874",
+    "altitud": "-19.192979",
+    "tiempo": "Wednesday, June 14, 2017 1:26 AM"
+  },
+  {
+    "latitud": "54.182538",
+    "longitud": "-84.618613",
+    "altitud": "58.644883",
+    "tiempo": "Tuesday, January 19, 2021 12:42 AM"
+  },
+  {
+    "latitud": "39.172363",
+    "longitud": "-69.128403",
+    "altitud": "35.722773",
+    "tiempo": "Thursday, October 8, 2015 11:03 PM"
+  },
+  {
+    "latitud": "-31.052284",
+    "longitud": "44.119744",
+    "altitud": "-55.572886",
+    "tiempo": "Saturday, July 5, 2014 9:35 PM"
+  },
+  {
+    "latitud": "83.638293",
+    "longitud": "109.752057",
+    "altitud": "82.623645",
+    "tiempo": "Saturday, November 17, 2018 8:15 PM"
+  },
+  {
+    "latitud": "87.423014",
+    "longitud": "-100.64258",
+    "altitud": "-84.587576",
+    "tiempo": "Saturday, January 9, 2021 7:25 PM"
+  },
+  {
+    "latitud": "-65.157897",
+    "longitud": "-15.164492",
+    "altitud": "63.864609",
+    "tiempo": "Thursday, February 14, 2019 12:46 PM"
+  },
+  {
+    "latitud": "35.169893",
+    "longitud": "97.024672",
+    "altitud": "79.931698",
+    "tiempo": "Tuesday, September 1, 2020 11:22 AM"
+  },
+  {
+    "latitud": "-9.373153",
+    "longitud": "-15.615439",
+    "altitud": "-36.811416",
+    "tiempo": "Saturday, August 9, 2014 11:48 AM"
+  },
+  {
+    "latitud": "26.256123",
+    "longitud": "170.645972",
+    "altitud": "-40.848839",
+    "tiempo": "Friday, May 22, 2020 7:21 AM"
+  },
+  {
+    "latitud": "68.055566",
+    "longitud": "-38.917037",
+    "altitud": "-53.257304",
+    "tiempo": "Saturday, August 19, 2017 6:03 PM"
+  },
+  {
+    "latitud": "9.994119",
+    "longitud": "79.825639",
+    "altitud": "-1.785596",
+    "tiempo": "Friday, June 2, 2017 7:09 PM"
+  },
+  {
+    "latitud": "31.654428",
+    "longitud": "-58.770103",
+    "altitud": "20.355133",
+    "tiempo": "Tuesday, April 14, 2020 8:46 AM"
+  },
+  {
+    "latitud": "-55.08028",
+    "longitud": "5.669899",
+    "altitud": "45.04934",
+    "tiempo": "Tuesday, November 1, 2016 9:00 PM"
+  },
+  {
+    "latitud": "18.864834",
+    "longitud": "11.454928",
+    "altitud": "-74.856316",
+    "tiempo": "Saturday, June 17, 2017 2:58 AM"
+  },
+  {
+    "latitud": "-34.54442",
+    "longitud": "-173.063104",
+    "altitud": "66.669801",
+    "tiempo": "Monday, March 23, 2020 12:41 AM"
+  },
+  {
+    "latitud": "63.552452",
+    "longitud": "53.670065",
+    "altitud": "-66.604628",
+    "tiempo": "Saturday, September 20, 2014 9:39 PM"
+  },
+  {
+    "latitud": "61.325659",
+    "longitud": "-129.819711",
+    "altitud": "9.839699",
+    "tiempo": "Saturday, September 28, 2019 5:02 PM"
+  },
+  {
+    "latitud": "-68.124101",
+    "longitud": "30.363581",
+    "altitud": "-44.139891",
+    "tiempo": "Monday, February 1, 2016 3:55 PM"
+  },
+  {
+    "latitud": "-27.532849",
+    "longitud": "-31.283041",
+    "altitud": "86.128583",
+    "tiempo": "Sunday, January 15, 2017 10:43 AM"
+  },
+  {
+    "latitud": "66.753516",
+    "longitud": "-153.571376",
+    "altitud": "22.784088",
+    "tiempo": "Friday, November 3, 2017 1:47 AM"
+  },
+  {
+    "latitud": "-49.489873",
+    "longitud": "116.026863",
+    "altitud": "-32.492221",
+    "tiempo": "Thursday, February 21, 2019 2:31 AM"
+  },
+  {
+    "latitud": "80.50128",
+    "longitud": "-163.161937",
+    "altitud": "47.704703",
+    "tiempo": "Sunday, May 19, 2019 9:07 AM"
+  },
+  {
+    "latitud": "14.146516",
+    "longitud": "33.582599",
+    "altitud": "-60.585525",
+    "tiempo": "Thursday, March 10, 2016 5:39 PM"
+  },
+  {
+    "latitud": "87.993811",
+    "longitud": "-71.14839",
+    "altitud": "76.161398",
+    "tiempo": "Friday, November 30, 2018 7:45 AM"
+  },
+  {
+    "latitud": "57.769269",
+    "longitud": "-172.912506",
+    "altitud": "-25.161872",
+    "tiempo": "Monday, April 17, 2017 9:21 AM"
+  },
+  {
+    "latitud": "7.007723",
+    "longitud": "15.5325",
+    "altitud": "-2.795302",
+    "tiempo": "Thursday, June 19, 2014 6:14 PM"
+  },
+  {
+    "latitud": "-50.496762",
+    "longitud": "-39.615873",
+    "altitud": "54.72449",
+    "tiempo": "Monday, April 4, 2016 2:31 AM"
+  },
+  {
+    "latitud": "50.005761",
+    "longitud": "-111.825919",
+    "altitud": "86.347818",
+    "tiempo": "Saturday, June 8, 2019 5:42 PM"
+  },
+  {
+    "latitud": "8.464722",
+    "longitud": "-137.683045",
+    "altitud": "25.41249",
+    "tiempo": "Sunday, November 25, 2018 9:18 AM"
+  },
+  {
+    "latitud": "-38.853381",
+    "longitud": "21.871427",
+    "altitud": "29.32645",
+    "tiempo": "Thursday, September 17, 2020 1:28 AM"
+  },
+  {
+    "latitud": "77.550288",
+    "longitud": "-56.002914",
+    "altitud": "-21.140122",
+    "tiempo": "Sunday, August 12, 2018 9:12 AM"
+  },
+  {
+    "latitud": "48.599148",
+    "longitud": "-79.175662",
+    "altitud": "-17.179074",
+    "tiempo": "Wednesday, November 2, 2016 3:48 PM"
+  },
+  {
+    "latitud": "18.553164",
+    "longitud": "146.051584",
+    "altitud": "-79.595066",
+    "tiempo": "Thursday, April 14, 2016 11:33 AM"
+  },
+  {
+    "latitud": "16.751257",
+    "longitud": "144.181937",
+    "altitud": "23.41505",
+    "tiempo": "Monday, February 19, 2018 2:39 PM"
+  },
+  {
+    "latitud": "-58.050432",
+    "longitud": "-165.429379",
+    "altitud": "-81.048323",
+    "tiempo": "Sunday, February 14, 2016 1:48 PM"
+  },
+  {
+    "latitud": "-30.097219",
+    "longitud": "44.247805",
+    "altitud": "81.953773",
+    "tiempo": "Wednesday, December 18, 2019 12:38 PM"
+  },
+  {
+    "latitud": "15.883536",
+    "longitud": "15.328986",
+    "altitud": "-73.609025",
+    "tiempo": "Tuesday, August 8, 2017 5:56 PM"
+  },
+  {
+    "latitud": "3.481569",
+    "longitud": "21.727585",
+    "altitud": "-79.374183",
+    "tiempo": "Monday, July 31, 2017 4:37 PM"
+  },
+  {
+    "latitud": "-84.110484",
+    "longitud": "45.32469",
+    "altitud": "-3.108813",
+    "tiempo": "Tuesday, November 3, 2020 5:22 AM"
+  },
+  {
+    "latitud": "-81.346734",
+    "longitud": "-100.168056",
+    "altitud": "-7.928899",
+    "tiempo": "Wednesday, January 8, 2014 12:18 AM"
+  },
+  {
+    "latitud": "69.913123",
+    "longitud": "143.302317",
+    "altitud": "-7.165483",
+    "tiempo": "Friday, April 10, 2020 8:02 AM"
+  },
+  {
+    "latitud": "-89.788033",
+    "longitud": "103.498392",
+    "altitud": "-26.60594",
+    "tiempo": "Tuesday, April 30, 2019 9:09 PM"
+  },
+  {
+    "latitud": "14.406891",
+    "longitud": "125.302074",
+    "altitud": "-10.934393",
+    "tiempo": "Monday, July 18, 2016 7:53 AM"
+  },
+  {
+    "latitud": "-26.624588",
+    "longitud": "-29.934256",
+    "altitud": "-3.590439",
+    "tiempo": "Tuesday, July 1, 2014 8:54 PM"
+  },
+  {
+    "latitud": "-2.467163",
+    "longitud": "61.66346",
+    "altitud": "-36.291378",
+    "tiempo": "Sunday, December 13, 2015 1:22 PM"
+  },
+  {
+    "latitud": "84.864987",
+    "longitud": "-117.780279",
+    "altitud": "4.575468",
+    "tiempo": "Sunday, August 9, 2020 1:24 AM"
+  },
+  {
+    "latitud": "80.172015",
+    "longitud": "-36.632683",
+    "altitud": "26.167002",
+    "tiempo": "Monday, January 13, 2014 2:59 AM"
+  },
+  {
+    "latitud": "-40.965785",
+    "longitud": "126.73377",
+    "altitud": "-67.429502",
+    "tiempo": "Tuesday, November 26, 2019 9:28 AM"
+  },
+  {
+    "latitud": "-85.565842",
+    "longitud": "-94.754035",
+    "altitud": "47.276853",
+    "tiempo": "Friday, January 25, 2019 1:42 PM"
+  },
+  {
+    "latitud": "-40.738265",
+    "longitud": "-69.219759",
+    "altitud": "-23.691587",
+    "tiempo": "Saturday, December 22, 2018 10:37 AM"
+  },
+  {
+    "latitud": "-73.729403",
+    "longitud": "-4.108156",
+    "altitud": "-18.175099",
+    "tiempo": "Wednesday, December 18, 2019 11:35 AM"
+  },
+  {
+    "latitud": "-22.411962",
+    "longitud": "127.833885",
+    "altitud": "-17.908898",
+    "tiempo": "Thursday, March 15, 2018 12:58 PM"
+  },
+  {
+    "latitud": "-50.73343",
+    "longitud": "16.405706",
+    "altitud": "-81.25859",
+    "tiempo": "Saturday, June 1, 2019 9:22 AM"
+  },
+  {
+    "latitud": "40.033258",
+    "longitud": "135.42538",
+    "altitud": "53.075794",
+    "tiempo": "Thursday, July 18, 2019 11:53 PM"
+  },
+  {
+    "latitud": "-47.592029",
+    "longitud": "32.196652",
+    "altitud": "-14.284655",
+    "tiempo": "Friday, December 20, 2019 9:54 PM"
+  },
+  {
+    "latitud": "-48.874414",
+    "longitud": "70.41392",
+    "altitud": "71.08842",
+    "tiempo": "Sunday, March 19, 2017 7:06 AM"
+  },
+  {
+    "latitud": "33.037881",
+    "longitud": "-178.223274",
+    "altitud": "-88.180534",
+    "tiempo": "Friday, March 28, 2014 10:35 PM"
+  },
+  {
+    "latitud": "88.266992",
+    "longitud": "-89.103856",
+    "altitud": "-31.858401",
+    "tiempo": "Saturday, August 9, 2014 5:39 AM"
+  },
+  {
+    "latitud": "-66.631977",
+    "longitud": "-71.381705",
+    "altitud": "28.328472",
+    "tiempo": "Tuesday, February 27, 2018 5:12 AM"
+  },
+  {
+    "latitud": "59.153799",
+    "longitud": "-7.941454",
+    "altitud": "80.270631",
+    "tiempo": "Tuesday, July 5, 2016 12:17 PM"
+  },
+  {
+    "latitud": "42.776813",
+    "longitud": "16.324583",
+    "altitud": "-42.759937",
+    "tiempo": "Sunday, June 28, 2020 12:32 PM"
+  },
+  {
+    "latitud": "75.90157",
+    "longitud": "-136.552599",
+    "altitud": "56.421171",
+    "tiempo": "Sunday, August 20, 2017 4:25 PM"
+  },
+  {
+    "latitud": "68.845907",
+    "longitud": "9.594417",
+    "altitud": "78.696717",
+    "tiempo": "Saturday, November 4, 2017 8:31 PM"
+  },
+  {
+    "latitud": "31.456579",
+    "longitud": "78.40035",
+    "altitud": "-77.967547",
+    "tiempo": "Sunday, September 20, 2015 5:08 PM"
+  },
+  {
+    "latitud": "-12.236362",
+    "longitud": "32.11598",
+    "altitud": "-87.756197",
+    "tiempo": "Wednesday, December 28, 2016 11:35 AM"
+  },
+  {
+    "latitud": "10.10487",
+    "longitud": "36.657412",
+    "altitud": "76.859638",
+    "tiempo": "Friday, December 22, 2017 10:34 AM"
+  },
+  {
+    "latitud": "-48.17002",
+    "longitud": "27.877685",
+    "altitud": "-82.695473",
+    "tiempo": "Saturday, December 20, 2014 6:15 AM"
+  },
+  {
+    "latitud": "66.392016",
+    "longitud": "-61.939228",
+    "altitud": "-12.166716",
+    "tiempo": "Saturday, May 3, 2014 5:00 AM"
+  },
+  {
+    "latitud": "69.088935",
+    "longitud": "-173.193839",
+    "altitud": "20.979691",
+    "tiempo": "Tuesday, August 20, 2019 5:23 AM"
+  },
+  {
+    "latitud": "-83.157989",
+    "longitud": "-76.582002",
+    "altitud": "84.381378",
+    "tiempo": "Sunday, May 15, 2016 2:03 AM"
+  },
+  {
+    "latitud": "11.941458",
+    "longitud": "72.602313",
+    "altitud": "82.461632",
+    "tiempo": "Monday, May 2, 2016 10:54 PM"
+  },
+  {
+    "latitud": "-34.582603",
+    "longitud": "-84.73252",
+    "altitud": "-65.150187",
+    "tiempo": "Saturday, August 6, 2016 6:17 AM"
+  },
+  {
+    "latitud": "35.874621",
+    "longitud": "-9.335486",
+    "altitud": "-64.807565",
+    "tiempo": "Friday, July 20, 2018 11:58 PM"
+  },
+  {
+    "latitud": "64.625217",
+    "longitud": "-65.558526",
+    "altitud": "-85.675196",
+    "tiempo": "Friday, January 11, 2019 5:46 AM"
+  },
+  {
+    "latitud": "-41.49654",
+    "longitud": "-131.117516",
+    "altitud": "-11.176391",
+    "tiempo": "Sunday, May 14, 2017 2:17 PM"
+  },
+  {
+    "latitud": "69.035257",
+    "longitud": "93.925493",
+    "altitud": "0.407044",
+    "tiempo": "Thursday, April 19, 2018 6:04 AM"
+  },
+  {
+    "latitud": "60.359171",
+    "longitud": "-107.681521",
+    "altitud": "-3.542241",
+    "tiempo": "Wednesday, April 1, 2015 10:53 PM"
+  },
+  {
+    "latitud": "43.867015",
+    "longitud": "4.519373",
+    "altitud": "36.716522",
+    "tiempo": "Saturday, October 4, 2014 7:38 AM"
+  },
+  {
+    "latitud": "-86.859614",
+    "longitud": "-26.505954",
+    "altitud": "-42.340197",
+    "tiempo": "Thursday, March 2, 2017 4:43 AM"
+  },
+  {
+    "latitud": "-0.671458",
+    "longitud": "176.600635",
+    "altitud": "-6.773372",
+    "tiempo": "Thursday, October 27, 2016 4:30 PM"
+  },
+  {
+    "latitud": "-11.597325",
+    "longitud": "-2.063996",
+    "altitud": "3.003528",
+    "tiempo": "Tuesday, February 16, 2016 11:13 AM"
+  },{
+    "latitud": "7.330226",
+    "longitud": "42.699602",
+    "altitud": "1.127483",
+    "tiempo": "Sunday, January 15, 2017 1:49 PM"
+  },
+  {
+    "latitud": "-11.838188",
+    "longitud": "87.628594",
+    "altitud": "28.040363",
+    "tiempo": "Monday, October 9, 2017 4:22 PM"
+  },
+  {
+    "latitud": "-63.59175",
+    "longitud": "-172.642321",
+    "altitud": "26.29488",
+    "tiempo": "Tuesday, November 11, 2014 9:16 PM"
+  },
+  {
+    "latitud": "-8.654888",
+    "longitud": "170.626189",
+    "altitud": "61.203774",
+    "tiempo": "Monday, May 22, 2017 9:19 AM"
+  },
+  {
+    "latitud": "-74.560379",
+    "longitud": "-93.909745",
+    "altitud": "9.937764",
+    "tiempo": "Friday, November 15, 2019 1:50 PM"
+  },
+  {
+    "latitud": "34.089704",
+    "longitud": "124.243438",
+    "altitud": "84.45498",
+    "tiempo": "Tuesday, July 5, 2016 11:39 AM"
+  },
+  {
+    "latitud": "-75.99814",
+    "longitud": "-145.971145",
+    "altitud": "2.904778",
+    "tiempo": "Tuesday, June 30, 2020 12:52 AM"
+  },
+  {
+    "latitud": "47.343861",
+    "longitud": "-4.932181",
+    "altitud": "43.34555",
+    "tiempo": "Thursday, May 21, 2020 9:51 AM"
+  },
+  {
+    "latitud": "-86.028811",
+    "longitud": "-56.322191",
+    "altitud": "-37.019421",
+    "tiempo": "Sunday, October 23, 2016 2:40 AM"
+  },
+  {
+    "latitud": "24.118005",
+    "longitud": "-40.000099",
+    "altitud": "25.652687",
+    "tiempo": "Thursday, July 3, 2014 4:09 PM"
+  },
+  {
+    "latitud": "39.202487",
+    "longitud": "97.62766",
+    "altitud": "53.876368",
+    "tiempo": "Sunday, January 1, 2017 8:23 PM"
+  },
+  {
+    "latitud": "-40.794604",
+    "longitud": "-156.549943",
+    "altitud": "-24.622024",
+    "tiempo": "Monday, November 7, 2016 11:22 PM"
+  },
+  {
+    "latitud": "49.448809",
+    "longitud": "36.265666",
+    "altitud": "3.426386",
+    "tiempo": "Saturday, May 26, 2018 4:22 AM"
+  },
+  {
+    "latitud": "-5.978486",
+    "longitud": "128.868299",
+    "altitud": "30.123045",
+    "tiempo": "Thursday, May 1, 2014 10:58 PM"
+  },
+  {
+    "latitud": "36.56005",
+    "longitud": "-17.423402",
+    "altitud": "-16.327579",
+    "tiempo": "Wednesday, June 20, 2018 8:50 PM"
+  },
+  {
+    "latitud": "21.324502",
+    "longitud": "162.233691",
+    "altitud": "-14.310705",
+    "tiempo": "Monday, May 18, 2020 8:17 PM"
+  },
+  {
+    "latitud": "-39.486647",
+    "longitud": "110.838211",
+    "altitud": "-74.65844",
+    "tiempo": "Wednesday, December 9, 2020 12:16 PM"
+  },
+  {
+    "latitud": "16.457009",
+    "longitud": "-92.198892",
+    "altitud": "14.597806",
+    "tiempo": "Sunday, September 10, 2017 8:50 AM"
+  },
+  {
+    "latitud": "-52.407324",
+    "longitud": "-59.986763",
+    "altitud": "-21.67851",
+    "tiempo": "Thursday, August 1, 2019 3:29 PM"
+  },
+  {
+    "latitud": "42.864186",
+    "longitud": "-163.290766",
+    "altitud": "79.817227",
+    "tiempo": "Thursday, April 26, 2018 8:26 AM"
+  },
+  {
+    "latitud": "-47.599526",
+    "longitud": "81.585841",
+    "altitud": "-28.507706",
+    "tiempo": "Monday, March 12, 2018 8:13 PM"
+  },
+  {
+    "latitud": "37.578514",
+    "longitud": "72.656203",
+    "altitud": "-33.450704",
+    "tiempo": "Friday, March 13, 2015 10:36 PM"
+  },
+  {
+    "latitud": "59.656556",
+    "longitud": "-161.006705",
+    "altitud": "40.214306",
+    "tiempo": "Tuesday, January 6, 2015 9:48 AM"
+  },
+  {
+    "latitud": "81.079283",
+    "longitud": "-8.951998",
+    "altitud": "-39.267664",
+    "tiempo": "Saturday, May 25, 2019 8:31 PM"
+  },
+  {
+    "latitud": "21.757518",
+    "longitud": "39.665247",
+    "altitud": "-74.175308",
+    "tiempo": "Saturday, November 30, 2019 10:11 PM"
+  },
+  {
+    "latitud": "25.414854",
+    "longitud": "-154.485745",
+    "altitud": "-58.150877",
+    "tiempo": "Saturday, June 17, 2017 9:35 PM"
+  },
+  {
+    "latitud": "84.509608",
+    "longitud": "-104.623524",
+    "altitud": "-83.058213",
+    "tiempo": "Wednesday, August 17, 2016 4:03 AM"
+  },
+  {
+    "latitud": "-87.680155",
+    "longitud": "-42.221649",
+    "altitud": "-65.824044",
+    "tiempo": "Tuesday, June 18, 2019 9:45 AM"
+  },
+  {
+    "latitud": "-79.998589",
+    "longitud": "131.88664",
+    "altitud": "4.459347",
+    "tiempo": "Sunday, December 11, 2016 9:57 AM"
+  },
+  {
+    "latitud": "29.129332",
+    "longitud": "-108.81173",
+    "altitud": "-40.102121",
+    "tiempo": "Saturday, April 11, 2020 5:37 PM"
+  },
+  {
+    "latitud": "-58.423155",
+    "longitud": "-88.470489",
+    "altitud": "18.784389",
+    "tiempo": "Saturday, June 23, 2018 11:23 AM"
+  },
+  {
+    "latitud": "57.74892",
+    "longitud": "-133.343943",
+    "altitud": "-74.456789",
+    "tiempo": "Wednesday, April 8, 2020 1:24 PM"
+  },
+  {
+    "latitud": "38.37668",
+    "longitud": "173.061154",
+    "altitud": "52.739301",
+    "tiempo": "Sunday, November 6, 2016 7:08 AM"
+  },
+  {
+    "latitud": "59.125221",
+    "longitud": "138.757343",
+    "altitud": "-76.027238",
+    "tiempo": "Saturday, March 18, 2017 2:02 PM"
+  },
+  {
+    "latitud": "-56.260128",
+    "longitud": "79.218332",
+    "altitud": "79.301",
+    "tiempo": "Tuesday, February 28, 2017 4:52 PM"
+  },
+  {
+    "latitud": "-40.250491",
+    "longitud": "119.660596",
+    "altitud": "65.191461",
+    "tiempo": "Saturday, January 6, 2018 4:02 AM"
+  },
+  {
+    "latitud": "-14.694594",
+    "longitud": "-155.790551",
+    "altitud": "-13.723464",
+    "tiempo": "Tuesday, July 19, 2016 7:35 PM"
+  },
+  {
+    "latitud": "-84.855129",
+    "longitud": "-37.2442",
+    "altitud": "-83.455463",
+    "tiempo": "Thursday, September 17, 2020 9:55 PM"
+  },
+  {
+    "latitud": "16.214204",
+    "longitud": "-100.099681",
+    "altitud": "89.440088",
+    "tiempo": "Friday, March 20, 2020 3:37 AM"
+  },
+  {
+    "latitud": "-37.651187",
+    "longitud": "-58.047345",
+    "altitud": "-14.593205",
+    "tiempo": "Saturday, May 23, 2015 3:19 PM"
+  },
+  {
+    "latitud": "-74.136831",
+    "longitud": "156.676929",
+    "altitud": "68.411868",
+    "tiempo": "Monday, June 1, 2020 12:39 PM"
+  },
+  {
+    "latitud": "-84.138109",
+    "longitud": "88.626379",
+    "altitud": "-71.651953",
+    "tiempo": "Tuesday, March 17, 2015 2:59 AM"
+  },
+  {
+    "latitud": "-86.744123",
+    "longitud": "-48.621396",
+    "altitud": "53.073766",
+    "tiempo": "Tuesday, April 14, 2015 12:42 AM"
+  },
+  {
+    "latitud": "-72.829009",
+    "longitud": "-26.077658",
+    "altitud": "-17.112428",
+    "tiempo": "Thursday, December 3, 2015 3:05 PM"
+  },
+  {
+    "latitud": "-48.96234",
+    "longitud": "89.746833",
+    "altitud": "-50.621164",
+    "tiempo": "Monday, May 21, 2018 4:01 AM"
+  },
+  {
+    "latitud": "-26.977938",
+    "longitud": "141.624782",
+    "altitud": "78.16713",
+    "tiempo": "Sunday, April 19, 2015 6:40 PM"
+  },
+  {
+    "latitud": "-80.361991",
+    "longitud": "165.598036",
+    "altitud": "-27.683755",
+    "tiempo": "Saturday, July 7, 2018 7:35 PM"
+  },
+  {
+    "latitud": "65.243912",
+    "longitud": "-164.454468",
+    "altitud": "-26.618507",
+    "tiempo": "Friday, December 6, 2019 12:16 AM"
+  },
+  {
+    "latitud": "26.839021",
+    "longitud": "-92.595717",
+    "altitud": "89.402921",
+    "tiempo": "Sunday, October 25, 2015 7:04 AM"
+  },
+  {
+    "latitud": "42.557162",
+    "longitud": "-117.822258",
+    "altitud": "-66.550965",
+    "tiempo": "Thursday, December 14, 2017 12:35 AM"
+  },
+  {
+    "latitud": "1.369365",
+    "longitud": "153.135637",
+    "altitud": "-46.496711",
+    "tiempo": "Sunday, January 20, 2019 8:22 AM"
+  },
+  {
+    "latitud": "69.639987",
+    "longitud": "106.845415",
+    "altitud": "3.647758",
+    "tiempo": "Tuesday, January 27, 2015 3:04 PM"
+  },
+  {
+    "latitud": "22.888169",
+    "longitud": "-134.399509",
+    "altitud": "-6.426508",
+    "tiempo": "Tuesday, May 6, 2014 1:31 PM"
+  },
+  {
+    "latitud": "-78.415702",
+    "longitud": "137.54927",
+    "altitud": "14.681634",
+    "tiempo": "Saturday, March 11, 2017 11:52 PM"
+  },
+  {
+    "latitud": "-2.977391",
+    "longitud": "3.012119",
+    "altitud": "-74.928005",
+    "tiempo": "Monday, May 22, 2017 2:49 AM"
+  },
+  {
+    "latitud": "60.355101",
+    "longitud": "-135.102469",
+    "altitud": "29.332731",
+    "tiempo": "Friday, July 13, 2018 5:21 AM"
+  },
+  {
+    "latitud": "87.479022",
+    "longitud": "143.815002",
+    "altitud": "15.481489",
+    "tiempo": "Sunday, September 4, 2016 11:39 PM"
+  },
+  {
+    "latitud": "17.18982",
+    "longitud": "27.237622",
+    "altitud": "-7.037566",
+    "tiempo": "Thursday, March 19, 2020 2:29 PM"
+  },
+  {
+    "latitud": "-89.449963",
+    "longitud": "126.513093",
+    "altitud": "38.944749",
+    "tiempo": "Tuesday, May 5, 2020 5:31 PM"
+  },
+  {
+    "latitud": "47.566111",
+    "longitud": "59.265906",
+    "altitud": "1.465507",
+    "tiempo": "Thursday, October 26, 2017 2:13 AM"
+  },
+  {
+    "latitud": "-22.941759",
+    "longitud": "153.623121",
+    "altitud": "-61.993567",
+    "tiempo": "Wednesday, March 25, 2020 5:46 AM"
+  },
+  {
+    "latitud": "-53.561988",
+    "longitud": "-99.706213",
+    "altitud": "14.257475",
+    "tiempo": "Sunday, September 23, 2018 11:15 AM"
+  },
+  {
+    "latitud": "-2.283604",
+    "longitud": "-176.25749",
+    "altitud": "2.643306",
+    "tiempo": "Saturday, September 19, 2015 7:11 PM"
+  },
+  {
+    "latitud": "36.801367",
+    "longitud": "-25.708649",
+    "altitud": "-42.47839",
+    "tiempo": "Tuesday, January 14, 2014 4:40 PM"
+  },
+  {
+    "latitud": "39.501881",
+    "longitud": "74.192004",
+    "altitud": "-39.261231",
+    "tiempo": "Sunday, December 17, 2017 7:40 PM"
+  },
+  {
+    "latitud": "-18.207627",
+    "longitud": "111.866654",
+    "altitud": "75.209774",
+    "tiempo": "Saturday, June 27, 2015 12:08 AM"
+  },
+  {
+    "latitud": "-58.964056",
+    "longitud": "-126.653608",
+    "altitud": "43.762058",
+    "tiempo": "Thursday, April 11, 2019 2:58 PM"
+  },
+  {
+    "latitud": "3.298313",
+    "longitud": "-108.106131",
+    "altitud": "27.319973",
+    "tiempo": "Thursday, October 2, 2014 9:30 PM"
+  },
+  {
+    "latitud": "-23.191114",
+    "longitud": "134.444038",
+    "altitud": "-17.713994",
+    "tiempo": "Thursday, August 21, 2014 3:07 PM"
+  },
+  {
+    "latitud": "-69.860849",
+    "longitud": "-172.531187",
+    "altitud": "-81.341362",
+    "tiempo": "Saturday, January 11, 2014 1:39 PM"
+  },
+  {
+    "latitud": "-62.373596",
+    "longitud": "-4.918857",
+    "altitud": "50.596686",
+    "tiempo": "Monday, February 24, 2014 12:17 PM"
+  },
+  {
+    "latitud": "-21.036542",
+    "longitud": "-116.294579",
+    "altitud": "-14.183315",
+    "tiempo": "Saturday, June 7, 2014 10:51 PM"
+  },
+  {
+    "latitud": "-71.589116",
+    "longitud": "126.279932",
+    "altitud": "-63.475201",
+    "tiempo": "Friday, September 13, 2019 5:03 AM"
+  },
+  {
+    "latitud": "-79.706504",
+    "longitud": "60.758074",
+    "altitud": "-77.313936",
+    "tiempo": "Monday, July 27, 2015 9:51 PM"
+  },
+  {
+    "latitud": "-20.062651",
+    "longitud": "40.518321",
+    "altitud": "-64.900803",
+    "tiempo": "Monday, October 29, 2018 5:56 PM"
+  },
+  {
+    "latitud": "-50.522036",
+    "longitud": "-72.651162",
+    "altitud": "-12.359786",
+    "tiempo": "Friday, November 2, 2018 6:45 AM"
+  },
+  {
+    "latitud": "-81.778713",
+    "longitud": "83.276223",
+    "altitud": "-29.203981",
+    "tiempo": "Friday, November 30, 2018 9:49 AM"
+  },
+  {
+    "latitud": "-71.383824",
+    "longitud": "112.260819",
+    "altitud": "-47.234764",
+    "tiempo": "Wednesday, March 7, 2018 8:15 AM"
+  },
+  {
+    "latitud": "75.472364",
+    "longitud": "46.063731",
+    "altitud": "26.586636",
+    "tiempo": "Friday, October 11, 2019 8:58 PM"
+  },
+  {
+    "latitud": "52.442318",
+    "longitud": "142.717033",
+    "altitud": "-23.621427",
+    "tiempo": "Thursday, April 23, 2020 8:52 AM"
+  },
+  {
+    "latitud": "-4.416933",
+    "longitud": "-77.927171",
+    "altitud": "-31.005361",
+    "tiempo": "Thursday, January 21, 2016 3:28 AM"
+  },
+  {
+    "latitud": "42.573495",
+    "longitud": "97.600487",
+    "altitud": "37.596303",
+    "tiempo": "Friday, September 11, 2020 8:24 PM"
+  },
+  {
+    "latitud": "-17.645075",
+    "longitud": "90.895875",
+    "altitud": "-9.552787",
+    "tiempo": "Monday, November 2, 2015 5:16 PM"
+  },
+  {
+    "latitud": "67.061264",
+    "longitud": "179.661354",
+    "altitud": "36.830169",
+    "tiempo": "Sunday, May 10, 2015 4:57 AM"
+  },
+  {
+    "latitud": "24.068369",
+    "longitud": "159.950616",
+    "altitud": "24.039382",
+    "tiempo": "Sunday, March 30, 2014 12:54 PM"
+  },
+  {
+    "latitud": "-30.958317",
+    "longitud": "66.247837",
+    "altitud": "-29.349782",
+    "tiempo": "Monday, February 22, 2016 7:58 AM"
+  },
+  {
+    "latitud": "-77.636973",
+    "longitud": "-129.093493",
+    "altitud": "65.616127",
+    "tiempo": "Friday, August 18, 2017 9:24 PM"
+  },
+  {
+    "latitud": "74.319006",
+    "longitud": "44.234207",
+    "altitud": "4.912604",
+    "tiempo": "Thursday, October 25, 2018 11:44 AM"
+  },
+  {
+    "latitud": "28.445502",
+    "longitud": "-54.362912",
+    "altitud": "81.59347",
+    "tiempo": "Saturday, August 24, 2019 2:24 PM"
+  },
+  {
+    "latitud": "7.217307",
+    "longitud": "-98.02266",
+    "altitud": "29.055469",
+    "tiempo": "Sunday, January 14, 2018 12:19 AM"
+  },
+  {
+    "latitud": "1.209389",
+    "longitud": "-69.742645",
+    "altitud": "-2.241905",
+    "tiempo": "Friday, January 20, 2017 9:57 PM"
+  },
+  {
+    "latitud": "24.608355",
+    "longitud": "-115.80727",
+    "altitud": "30.739513",
+    "tiempo": "Thursday, March 13, 2014 5:17 AM"
+  },
+  {
+    "latitud": "51.540525",
+    "longitud": "83.174533",
+    "altitud": "38.671699",
+    "tiempo": "Tuesday, April 2, 2019 4:04 AM"
+  },
+  {
+    "latitud": "56.58866",
+    "longitud": "98.94307",
+    "altitud": "87.853308",
+    "tiempo": "Tuesday, July 3, 2018 7:55 PM"
+  },
+  {
+    "latitud": "69.326472",
+    "longitud": "50.582573",
+    "altitud": "-86.303386",
+    "tiempo": "Monday, September 28, 2020 3:04 PM"
+  },
+  {
+    "latitud": "17.716277",
+    "longitud": "7.097118",
+    "altitud": "-75.552897",
+    "tiempo": "Sunday, October 8, 2017 1:54 PM"
+  },
+  {
+    "latitud": "-54.557823",
+    "longitud": "-120.163544",
+    "altitud": "-89.16866",
+    "tiempo": "Thursday, November 8, 2018 6:31 PM"
+  },
+  {
+    "latitud": "-71.809444",
+    "longitud": "-86.331518",
+    "altitud": "-70.390648",
+    "tiempo": "Tuesday, March 7, 2017 9:13 PM"
+  },
+  {
+    "latitud": "-63.797452",
+    "longitud": "104.417736",
+    "altitud": "28.396503",
+    "tiempo": "Sunday, March 1, 2020 7:24 PM"
+  },
+  {
+    "latitud": "-24.92245",
+    "longitud": "-168.722558",
+    "altitud": "87.807577",
+    "tiempo": "Saturday, January 2, 2021 9:43 PM"
+  },
+  {
+    "latitud": "16.267648",
+    "longitud": "111.249346",
+    "altitud": "-46.984533",
+    "tiempo": "Friday, October 13, 2017 5:32 PM"
+  },
+  {
+    "latitud": "59.455638",
+    "longitud": "-173.778917",
+    "altitud": "-25.454103",
+    "tiempo": "Monday, June 5, 2017 11:07 PM"
+  },
+  {
+    "latitud": "-61.913177",
+    "longitud": "-117.869676",
+    "altitud": "31.956154",
+    "tiempo": "Monday, June 22, 2020 1:06 PM"
+  },
+  {
+    "latitud": "-71.43688",
+    "longitud": "154.05363",
+    "altitud": "14.908732",
+    "tiempo": "Monday, February 1, 2021 7:44 AM"
+  },
+  {
+    "latitud": "-57.695996",
+    "longitud": "-30.060994",
+    "altitud": "78.444562",
+    "tiempo": "Sunday, November 16, 2014 6:19 PM"
+  },
+  {
+    "latitud": "10.232067",
+    "longitud": "12.797748",
+    "altitud": "45.340625",
+    "tiempo": "Sunday, December 4, 2016 1:39 PM"
+  },
+  {
+    "latitud": "-4.974003",
+    "longitud": "-94.79087",
+    "altitud": "27.074885",
+    "tiempo": "Tuesday, October 31, 2017 6:33 PM"
+  },
+  {
+    "latitud": "-54.643973",
+    "longitud": "174.069768",
+    "altitud": "-48.365842",
+    "tiempo": "Sunday, May 17, 2015 9:15 PM"
+  },
+  {
+    "latitud": "68.727124",
+    "longitud": "-132.187133",
+    "altitud": "-84.33213",
+    "tiempo": "Friday, April 19, 2019 7:11 AM"
+  },
+  {
+    "latitud": "-0.687864",
+    "longitud": "-26.304047",
+    "altitud": "11.519752",
+    "tiempo": "Monday, November 24, 2014 9:34 PM"
+  },
+  {
+    "latitud": "-43.27173",
+    "longitud": "90.451528",
+    "altitud": "-40.683217",
+    "tiempo": "Thursday, June 19, 2014 2:59 AM"
+  },
+  {
+    "latitud": "-68.67948",
+    "longitud": "-99.070455",
+    "altitud": "84.83842",
+    "tiempo": "Friday, May 29, 2015 5:08 PM"
+  },
+  {
+    "latitud": "12.471141",
+    "longitud": "-35.014202",
+    "altitud": "57.379982",
+    "tiempo": "Wednesday, July 26, 2017 12:32 AM"
+  },
+  {
+    "latitud": "38.019454",
+    "longitud": "39.266312",
+    "altitud": "-71.121691",
+    "tiempo": "Wednesday, June 11, 2014 3:40 PM"
+  },
+  {
+    "latitud": "-14.644207",
+    "longitud": "-22.972323",
+    "altitud": "-57.985235",
+    "tiempo": "Thursday, January 21, 2016 6:58 PM"
+  },
+  {
+    "latitud": "-85.647384",
+    "longitud": "22.872819",
+    "altitud": "5.773787",
+    "tiempo": "Friday, July 26, 2019 9:38 PM"
+  },
+  {
+    "latitud": "-69.423774",
+    "longitud": "-53.418102",
+    "altitud": "11.811811",
+    "tiempo": "Sunday, June 8, 2014 7:06 PM"
+  },
+  {
+    "latitud": "72.623955",
+    "longitud": "113.419075",
+    "altitud": "68.017665",
+    "tiempo": "Monday, September 16, 2019 11:36 AM"
+  },
+  {
+    "latitud": "44.251968",
+    "longitud": "135.016445",
+    "altitud": "66.272006",
+    "tiempo": "Wednesday, January 9, 2019 12:16 PM"
+  },
+  {
+    "latitud": "50.605968",
+    "longitud": "-20.32834",
+    "altitud": "-69.173905",
+    "tiempo": "Monday, October 16, 2017 12:07 PM"
+  },
+  {
+    "latitud": "-10.106092",
+    "longitud": "42.106763",
+    "altitud": "0.112775",
+    "tiempo": "Wednesday, May 17, 2017 12:15 PM"
+  },
+  {
+    "latitud": "-3.045692",
+    "longitud": "-117.655205",
+    "altitud": "-14.627614",
+    "tiempo": "Monday, December 23, 2019 10:24 AM"
+  },
+  {
+    "latitud": "-76.873715",
+    "longitud": "-80.608315",
+    "altitud": "-81.087282",
+    "tiempo": "Friday, December 25, 2015 7:25 PM"
+  },
+  {
+    "latitud": "30.266334",
+    "longitud": "33.968619",
+    "altitud": "38.983995",
+    "tiempo": "Monday, December 9, 2019 10:57 PM"
+  },
+  {
+    "latitud": "-87.282657",
+    "longitud": "-146.090951",
+    "altitud": "-84.152143",
+    "tiempo": "Monday, March 4, 2019 6:36 AM"
+  },
+  {
+    "latitud": "-33.872184",
+    "longitud": "47.550418",
+    "altitud": "-38.829033",
+    "tiempo": "Monday, February 10, 2020 8:56 AM"
+  },
+  {
+    "latitud": "60.638983",
+    "longitud": "-25.747337",
+    "altitud": "80.336681",
+    "tiempo": "Sunday, October 11, 2015 8:49 PM"
+  },
+  {
+    "latitud": "-77.06573",
+    "longitud": "-159.516777",
+    "altitud": "-40.212991",
+    "tiempo": "Friday, June 13, 2014 6:10 AM"
+  },
+  {
+    "latitud": "66.354609",
+    "longitud": "-171.048256",
+    "altitud": "-60.098756",
+    "tiempo": "Wednesday, August 28, 2019 7:20 PM"
+  },
+  {
+    "latitud": "-7.082366",
+    "longitud": "128.050409",
+    "altitud": "35.402604",
+    "tiempo": "Saturday, September 15, 2018 9:37 PM"
+  },
+  {
+    "latitud": "4.925089",
+    "longitud": "84.956839",
+    "altitud": "-18.697201",
+    "tiempo": "Tuesday, August 14, 2018 3:31 AM"
+  },
+  {
+    "latitud": "55.782984",
+    "longitud": "156.050095",
+    "altitud": "-32.273215",
+    "tiempo": "Thursday, September 4, 2014 11:24 PM"
+  },
+  {
+    "latitud": "32.338389",
+    "longitud": "67.291519",
+    "altitud": "65.39032",
+    "tiempo": "Wednesday, April 5, 2017 5:25 AM"
+  },
+  {
+    "latitud": "55.882391",
+    "longitud": "134.929812",
+    "altitud": "39.969369",
+    "tiempo": "Sunday, June 21, 2015 2:11 AM"
+  },
+  {
+    "latitud": "-35.19369",
+    "longitud": "50.060474",
+    "altitud": "24.461905",
+    "tiempo": "Sunday, September 29, 2019 10:51 PM"
+  },
+  {
+    "latitud": "9.376152",
+    "longitud": "-103.68324",
+    "altitud": "-56.864017",
+    "tiempo": "Tuesday, September 9, 2014 5:16 AM"
+  },
+  {
+    "latitud": "49.15401",
+    "longitud": "51.569523",
+    "altitud": "-47.176616",
+    "tiempo": "Friday, June 5, 2020 7:20 PM"
+  },
+  {
+    "latitud": "45.607295",
+    "longitud": "135.348427",
+    "altitud": "29.678378",
+    "tiempo": "Tuesday, October 13, 2020 6:16 PM"
+  },
+  {
+    "latitud": "31.789506",
+    "longitud": "-105.076569",
+    "altitud": "-24.432055",
+    "tiempo": "Monday, September 7, 2020 10:21 AM"
+  },
+  {
+    "latitud": "49.334295",
+    "longitud": "113.486623",
+    "altitud": "49.026002",
+    "tiempo": "Thursday, February 23, 2017 1:16 PM"
+  },
+  {
+    "latitud": "59.988272",
+    "longitud": "54.573264",
+    "altitud": "-74.046838",
+    "tiempo": "Sunday, May 22, 2016 10:37 PM"
+  },
+  {
+    "latitud": "-16.847457",
+    "longitud": "11.714798",
+    "altitud": "-17.291156",
+    "tiempo": "Saturday, January 27, 2018 10:04 PM"
+  },
+  {
+    "latitud": "15.030125",
+    "longitud": "-118.574547",
+    "altitud": "-23.654614",
+    "tiempo": "Friday, December 20, 2019 2:37 PM"
+  },
+  {
+    "latitud": "76.624137",
+    "longitud": "-63.847401",
+    "altitud": "-65.404075",
+    "tiempo": "Thursday, January 19, 2017 3:43 AM"
+  },
+  {
+    "latitud": "72.640703",
+    "longitud": "76.876777",
+    "altitud": "-79.710248",
+    "tiempo": "Sunday, August 17, 2014 1:36 PM"
+  },
+  {
+    "latitud": "36.621727",
+    "longitud": "-38.552152",
+    "altitud": "46.489896",
+    "tiempo": "Tuesday, March 15, 2016 10:05 PM"
+  },
+  {
+    "latitud": "-63.478113",
+    "longitud": "-75.544844",
+    "altitud": "-19.092431",
+    "tiempo": "Tuesday, July 19, 2016 6:30 PM"
+  },
+  {
+    "latitud": "-78.915297",
+    "longitud": "75.430368",
+    "altitud": "68.868082",
+    "tiempo": "Tuesday, January 19, 2021 8:17 AM"
+  },
+  {
+    "latitud": "-45.55226",
+    "longitud": "29.215872",
+    "altitud": "-85.238454",
+    "tiempo": "Wednesday, December 16, 2020 1:58 AM"
+  },
+  {
+    "latitud": "71.065154",
+    "longitud": "-113.309009",
+    "altitud": "76.412651",
+    "tiempo": "Friday, May 19, 2017 11:06 AM"
+  },
+  {
+    "latitud": "-18.409201",
+    "longitud": "135.386761",
+    "altitud": "62.308292",
+    "tiempo": "Thursday, October 22, 2020 7:36 AM"
+  },
+  {
+    "latitud": "-49.583443",
+    "longitud": "30.43763",
+    "altitud": "81.530713",
+    "tiempo": "Monday, December 29, 2014 12:43 PM"
+  },
+  {
+    "latitud": "-38.701695",
+    "longitud": "142.448257",
+    "altitud": "55.18467",
+    "tiempo": "Tuesday, February 24, 2015 6:02 PM"
+  },
+  {
+    "latitud": "77.423778",
+    "longitud": "-33.074615",
+    "altitud": "11.228951",
+    "tiempo": "Tuesday, November 3, 2015 8:34 PM"
+  },
+  {
+    "latitud": "1.351376",
+    "longitud": "140.585019",
+    "altitud": "44.380149",
+    "tiempo": "Saturday, September 14, 2019 12:14 PM"
+  },
+  {
+    "latitud": "62.475667",
+    "longitud": "-153.774348",
+    "altitud": "-1.381717",
+    "tiempo": "Tuesday, April 30, 2019 11:45 AM"
+  },
+  {
+    "latitud": "-11.040782",
+    "longitud": "-168.717444",
+    "altitud": "22.354195",
+    "tiempo": "Saturday, June 8, 2019 3:49 AM"
+  },
+  {
+    "latitud": "-30.629018",
+    "longitud": "142.481169",
+    "altitud": "-3.605746",
+    "tiempo": "Tuesday, January 10, 2017 11:22 PM"
+  },
+  {
+    "latitud": "69.104245",
+    "longitud": "175.115322",
+    "altitud": "-71.298073",
+    "tiempo": "Tuesday, April 26, 2016 4:04 AM"
+  },
+  {
+    "latitud": "-14.572138",
+    "longitud": "-26.896949",
+    "altitud": "-35.186382",
+    "tiempo": "Wednesday, September 9, 2015 6:34 AM"
+  },
+  {
+    "latitud": "-55.399714",
+    "longitud": "128.867252",
+    "altitud": "57.205513",
+    "tiempo": "Sunday, April 10, 2016 3:20 PM"
+  },
+  {
+    "latitud": "-13.393671",
+    "longitud": "-51.638265",
+    "altitud": "-48.052567",
+    "tiempo": "Thursday, May 19, 2016 11:36 PM"
+  },
+  {
+    "latitud": "77.118629",
+    "longitud": "107.278836",
+    "altitud": "26.738378",
+    "tiempo": "Monday, May 25, 2020 2:59 PM"
+  },
+  {
+    "latitud": "47.616581",
+    "longitud": "-126.018261",
+    "altitud": "86.632017",
+    "tiempo": "Wednesday, June 10, 2015 7:23 AM"
+  },
+  {
+    "latitud": "43.959947",
+    "longitud": "-9.095712",
+    "altitud": "-25.30451",
+    "tiempo": "Sunday, September 8, 2019 3:23 AM"
+  },
+  {
+    "latitud": "-18.861037",
+    "longitud": "-114.354616",
+    "altitud": "-28.544406",
+    "tiempo": "Sunday, March 8, 2015 1:15 PM"
+  },
+  {
+    "latitud": "87.057685",
+    "longitud": "127.629205",
+    "altitud": "47.168354",
+    "tiempo": "Sunday, March 15, 2020 3:54 PM"
+  },
+  {
+    "latitud": "-9.920179",
+    "longitud": "177.087697",
+    "altitud": "-61.081446",
+    "tiempo": "Thursday, February 15, 2018 12:03 AM"
+  },
+  {
+    "latitud": "-48.616337",
+    "longitud": "36.808234",
+    "altitud": "-84.333147",
+    "tiempo": "Monday, February 23, 2015 11:07 AM"
+  },
+  {
+    "latitud": "66.452914",
+    "longitud": "108.848683",
+    "altitud": "-63.852816",
+    "tiempo": "Sunday, June 21, 2015 8:58 PM"
+  },
+  {
+    "latitud": "40.081284",
+    "longitud": "-72.5151",
+    "altitud": "18.828141",
+    "tiempo": "Monday, December 28, 2020 3:28 PM"
+  },
+  {
+    "latitud": "39.549184",
+    "longitud": "-148.978147",
+    "altitud": "55.720069",
+    "tiempo": "Friday, January 22, 2021 6:43 AM"
+  },
+  {
+    "latitud": "86.087241",
+    "longitud": "-76.405121",
+    "altitud": "14.85954",
+    "tiempo": "Wednesday, January 3, 2018 6:22 PM"
+  },
+  {
+    "latitud": "2.312763",
+    "longitud": "18.799821",
+    "altitud": "77.700891",
+    "tiempo": "Tuesday, March 17, 2015 8:57 PM"
+  },
+  {
+    "latitud": "-24.382968",
+    "longitud": "99.05482",
+    "altitud": "2.017608",
+    "tiempo": "Wednesday, February 24, 2016 1:39 AM"
+  },
+  {
+    "latitud": "-40.696869",
+    "longitud": "-39.317256",
+    "altitud": "-15.083978",
+    "tiempo": "Wednesday, October 19, 2016 11:55 PM"
+  },
+  {
+    "latitud": "-81.534025",
+    "longitud": "14.639206",
+    "altitud": "54.9941",
+    "tiempo": "Wednesday, June 29, 2016 5:49 PM"
+  },
+  {
+    "latitud": "-63.289558",
+    "longitud": "106.796765",
+    "altitud": "-75.835311",
+    "tiempo": "Friday, August 3, 2018 12:12 PM"
+  },
+  {
+    "latitud": "47.165663",
+    "longitud": "153.324028",
+    "altitud": "-63.526083",
+    "tiempo": "Tuesday, October 1, 2019 10:33 AM"
+  },
+  {
+    "latitud": "-44.965851",
+    "longitud": "4.616829",
+    "altitud": "9.25134",
+    "tiempo": "Thursday, June 19, 2014 5:01 AM"
+  },
+  {
+    "latitud": "83.480118",
+    "longitud": "47.98224",
+    "altitud": "-81.605902",
+    "tiempo": "Tuesday, June 23, 2020 1:59 PM"
+  },
+  {
+    "latitud": "-5.759013",
+    "longitud": "-123.363748",
+    "altitud": "31.576488",
+    "tiempo": "Wednesday, November 11, 2015 10:05 AM"
+  },
+  {
+    "latitud": "53.524408",
+    "longitud": "127.870585",
+    "altitud": "-53.514166",
+    "tiempo": "Saturday, August 20, 2016 12:19 PM"
+  },
+  {
+    "latitud": "-49.199221",
+    "longitud": "-89.624953",
+    "altitud": "31.888503",
+    "tiempo": "Saturday, November 17, 2018 12:28 AM"
+  },
+  {
+    "latitud": "75.801596",
+    "longitud": "75.393096",
+    "altitud": "-8.858087",
+    "tiempo": "Wednesday, March 18, 2015 4:33 PM"
+  },
+  {
+    "latitud": "83.991589",
+    "longitud": "-77.190265",
+    "altitud": "-31.368928",
+    "tiempo": "Saturday, October 14, 2017 12:24 AM"
+  },
+  {
+    "latitud": "-8.514732",
+    "longitud": "128.757403",
+    "altitud": "81.579463",
+    "tiempo": "Friday, April 3, 2015 2:54 AM"
+  },
+  {
+    "latitud": "63.474125",
+    "longitud": "-150.555928",
+    "altitud": "-33.641424",
+    "tiempo": "Sunday, November 25, 2018 6:27 AM"
+  },
+  {
+    "latitud": "48.692229",
+    "longitud": "-3.904952",
+    "altitud": "27.68205",
+    "tiempo": "Thursday, August 20, 2020 8:12 AM"
+  },
+  {
+    "latitud": "49.310342",
+    "longitud": "-44.207033",
+    "altitud": "-79.285074",
+    "tiempo": "Tuesday, September 8, 2015 11:31 PM"
+  },
+  {
+    "latitud": "-19.786104",
+    "longitud": "130.646219",
+    "altitud": "-34.984532",
+    "tiempo": "Wednesday, October 21, 2015 6:33 AM"
+  },
+  {
+    "latitud": "29.753665",
+    "longitud": "99.202438",
+    "altitud": "58.923407",
+    "tiempo": "Tuesday, October 3, 2017 2:09 AM"
+  },
+  {
+    "latitud": "-20.181236",
+    "longitud": "149.037317",
+    "altitud": "19.329007",
+    "tiempo": "Tuesday, August 30, 2016 5:27 PM"
+  },
+  {
+    "latitud": "-25.305223",
+    "longitud": "135.016476",
+    "altitud": "54.44748",
+    "tiempo": "Sunday, November 22, 2020 8:28 PM"
+  },
+  {
+    "latitud": "83.54058",
+    "longitud": "-5.306633",
+    "altitud": "-15.101845",
+    "tiempo": "Thursday, April 17, 2014 10:14 PM"
+  },
+  {
+    "latitud": "80.809675",
+    "longitud": "115.012928",
+    "altitud": "56.79284",
+    "tiempo": "Monday, January 12, 2015 10:48 PM"
+  },
+  {
+    "latitud": "-54.274803",
+    "longitud": "35.831633",
+    "altitud": "-78.142189",
+    "tiempo": "Thursday, January 21, 2021 2:17 AM"
+  },
+  {
+    "latitud": "-10.34999",
+    "longitud": "101.555463",
+    "altitud": "48.922907",
+    "tiempo": "Wednesday, January 29, 2014 5:41 PM"
+  },{
+    "latitud": "-5.057291",
+    "longitud": "-99.952997",
+    "altitud": "-23.13646",
+    "tiempo": "Monday, January 1, 2018 2:24 AM"
+  },
+  {
+    "latitud": "-8.699486",
+    "longitud": "92.575913",
+    "altitud": "-79.274121",
+    "tiempo": "Saturday, July 7, 2018 6:09 AM"
+  },
+  {
+    "latitud": "-80.877133",
+    "longitud": "-50.014188",
+    "altitud": "-21.385469",
+    "tiempo": "Saturday, July 25, 2015 9:59 PM"
+  },
+  {
+    "latitud": "-36.715957",
+    "longitud": "-27.205399",
+    "altitud": "80.166921",
+    "tiempo": "Tuesday, August 14, 2018 2:29 AM"
+  },
+  {
+    "latitud": "-36.910642",
+    "longitud": "-53.846319",
+    "altitud": "-49.750056",
+    "tiempo": "Saturday, October 25, 2014 10:25 PM"
+  },
+  {
+    "latitud": "-63.432533",
+    "longitud": "55.69674",
+    "altitud": "-58.427646",
+    "tiempo": "Wednesday, March 11, 2015 1:03 PM"
+  },
+  {
+    "latitud": "70.98754",
+    "longitud": "59.305478",
+    "altitud": "8.086714",
+    "tiempo": "Friday, October 27, 2017 8:26 PM"
+  },
+  {
+    "latitud": "37.73049",
+    "longitud": "-42.166538",
+    "altitud": "-77.085725",
+    "tiempo": "Saturday, December 15, 2018 5:04 PM"
+  },
+  {
+    "latitud": "34.173275",
+    "longitud": "34.729011",
+    "altitud": "-27.360983",
+    "tiempo": "Sunday, August 28, 2016 9:07 AM"
+  },
+  {
+    "latitud": "38.593508",
+    "longitud": "116.365022",
+    "altitud": "60.814375",
+    "tiempo": "Sunday, March 1, 2020 6:29 AM"
+  },
+  {
+    "latitud": "-52.174699",
+    "longitud": "65.747921",
+    "altitud": "58.253474",
+    "tiempo": "Thursday, February 16, 2017 11:51 AM"
+  },
+  {
+    "latitud": "52.270003",
+    "longitud": "126.788514",
+    "altitud": "-13.7776",
+    "tiempo": "Wednesday, January 28, 2015 9:47 AM"
+  },
+  {
+    "latitud": "-0.012655",
+    "longitud": "173.68438",
+    "altitud": "-8.098703",
+    "tiempo": "Friday, December 14, 2018 3:56 PM"
+  },
+  {
+    "latitud": "-87.32632",
+    "longitud": "-66.979568",
+    "altitud": "-64.043988",
+    "tiempo": "Monday, October 7, 2019 3:06 PM"
+  },
+  {
+    "latitud": "78.440844",
+    "longitud": "174.345621",
+    "altitud": "-25.368598",
+    "tiempo": "Friday, December 11, 2015 11:53 AM"
+  },
+  {
+    "latitud": "3.413731",
+    "longitud": "-161.342804",
+    "altitud": "-52.912316",
+    "tiempo": "Tuesday, March 8, 2016 8:11 AM"
+  },
+  {
+    "latitud": "47.14175",
+    "longitud": "12.919232",
+    "altitud": "-3.12653",
+    "tiempo": "Wednesday, February 17, 2016 4:56 PM"
+  },
+  {
+    "latitud": "8.642232",
+    "longitud": "-146.331977",
+    "altitud": "79.221369",
+    "tiempo": "Friday, April 21, 2017 6:19 AM"
+  },
+  {
+    "latitud": "-48.8533",
+    "longitud": "14.609145",
+    "altitud": "-44.66715",
+    "tiempo": "Saturday, August 24, 2019 1:41 PM"
+  },
+  {
+    "latitud": "30.498731",
+    "longitud": "-11.150585",
+    "altitud": "-43.074036",
+    "tiempo": "Saturday, July 6, 2019 7:52 AM"
+  },
+  {
+    "latitud": "46.824755",
+    "longitud": "155.312003",
+    "altitud": "43.298394",
+    "tiempo": "Tuesday, July 30, 2019 3:52 AM"
+  },
+  {
+    "latitud": "-28.757507",
+    "longitud": "108.874611",
+    "altitud": "31.702105",
+    "tiempo": "Thursday, November 14, 2019 10:28 PM"
+  },
+  {
+    "latitud": "-82.120338",
+    "longitud": "75.176032",
+    "altitud": "-25.966105",
+    "tiempo": "Tuesday, June 23, 2020 7:23 PM"
+  },
+  {
+    "latitud": "-80.425535",
+    "longitud": "-113.486885",
+    "altitud": "-1.530269",
+    "tiempo": "Friday, March 23, 2018 12:34 AM"
+  },
+  {
+    "latitud": "8.693929",
+    "longitud": "-125.410484",
+    "altitud": "88.035538",
+    "tiempo": "Tuesday, December 9, 2014 4:39 PM"
+  },
+  {
+    "latitud": "68.799429",
+    "longitud": "-118.959766",
+    "altitud": "-87.709443",
+    "tiempo": "Sunday, August 4, 2019 10:55 PM"
+  },
+  {
+    "latitud": "29.460373",
+    "longitud": "-61.939398",
+    "altitud": "28.018569",
+    "tiempo": "Friday, November 29, 2019 9:13 AM"
+  },
+  {
+    "latitud": "-85.92023",
+    "longitud": "-107.699833",
+    "altitud": "5.013141",
+    "tiempo": "Tuesday, May 21, 2019 9:18 PM"
+  },
+  {
+    "latitud": "-19.384372",
+    "longitud": "128.671662",
+    "altitud": "62.160132",
+    "tiempo": "Tuesday, February 28, 2017 11:12 AM"
+  },
+  {
+    "latitud": "-39.953957",
+    "longitud": "-105.650749",
+    "altitud": "-37.788032",
+    "tiempo": "Sunday, September 7, 2014 10:18 AM"
+  },
+  {
+    "latitud": "75.817297",
+    "longitud": "140.058477",
+    "altitud": "43.697619",
+    "tiempo": "Monday, January 6, 2020 5:49 PM"
+  },
+  {
+    "latitud": "56.059593",
+    "longitud": "155.133693",
+    "altitud": "-27.436773",
+    "tiempo": "Friday, February 9, 2018 1:42 PM"
+  },
+  {
+    "latitud": "-27.430869",
+    "longitud": "52.473433",
+    "altitud": "12.290669",
+    "tiempo": "Friday, July 17, 2020 7:24 PM"
+  },
+  {
+    "latitud": "20.448995",
+    "longitud": "37.477075",
+    "altitud": "50.310844",
+    "tiempo": "Friday, December 20, 2019 4:48 AM"
+  },
+  {
+    "latitud": "-6.63096",
+    "longitud": "-117.193511",
+    "altitud": "0.781245",
+    "tiempo": "Wednesday, May 20, 2015 3:31 AM"
+  },
+  {
+    "latitud": "-60.946002",
+    "longitud": "-128.768901",
+    "altitud": "12.416925",
+    "tiempo": "Sunday, April 9, 2017 1:00 PM"
+  },
+  {
+    "latitud": "55.90932",
+    "longitud": "55.335177",
+    "altitud": "-16.933077",
+    "tiempo": "Tuesday, November 24, 2020 8:18 PM"
+  },
+  {
+    "latitud": "84.418439",
+    "longitud": "-92.668102",
+    "altitud": "-14.303162",
+    "tiempo": "Friday, September 4, 2020 4:14 AM"
+  },
+  {
+    "latitud": "-57.309359",
+    "longitud": "37.903412",
+    "altitud": "84.569998",
+    "tiempo": "Thursday, July 2, 2015 6:40 AM"
+  },
+  {
+    "latitud": "-4.277969",
+    "longitud": "173.01395",
+    "altitud": "-12.687644",
+    "tiempo": "Thursday, November 12, 2020 10:30 PM"
+  },
+  {
+    "latitud": "2.274426",
+    "longitud": "-117.215824",
+    "altitud": "73.028392",
+    "tiempo": "Thursday, September 10, 2020 4:24 PM"
+  },
+  {
+    "latitud": "-1.143015",
+    "longitud": "-4.559324",
+    "altitud": "23.190752",
+    "tiempo": "Friday, January 23, 2015 6:07 PM"
+  },
+  {
+    "latitud": "49.320465",
+    "longitud": "98.659301",
+    "altitud": "40.33087",
+    "tiempo": "Tuesday, August 30, 2016 10:17 PM"
+  },
+  {
+    "latitud": "55.063119",
+    "longitud": "-148.345355",
+    "altitud": "-37.154454",
+    "tiempo": "Sunday, April 24, 2016 8:32 AM"
+  },
+  {
+    "latitud": "-80.063939",
+    "longitud": "-125.107684",
+    "altitud": "-48.586884",
+    "tiempo": "Monday, September 12, 2016 2:11 AM"
+  },
+  {
+    "latitud": "45.513067",
+    "longitud": "120.001926",
+    "altitud": "-67.08488",
+    "tiempo": "Monday, January 4, 2021 10:54 PM"
+  },
+  {
+    "latitud": "64.646045",
+    "longitud": "76.003759",
+    "altitud": "6.43719",
+    "tiempo": "Friday, December 12, 2014 7:46 AM"
+  },
+  {
+    "latitud": "-79.839525",
+    "longitud": "50.597804",
+    "altitud": "14.884522",
+    "tiempo": "Monday, November 19, 2018 2:29 AM"
+  },
+  {
+    "latitud": "-40.891137",
+    "longitud": "-81.121854",
+    "altitud": "-62.226962",
+    "tiempo": "Saturday, February 14, 2015 6:14 AM"
+  },
+  {
+    "latitud": "71.813784",
+    "longitud": "-57.67151",
+    "altitud": "-63.658569",
+    "tiempo": "Monday, November 17, 2014 8:01 AM"
+  },
+  {
+    "latitud": "54.860963",
+    "longitud": "172.503381",
+    "altitud": "-89.989976",
+    "tiempo": "Sunday, November 8, 2020 9:23 AM"
+  },
+  {
+    "latitud": "-52.843601",
+    "longitud": "-12.204171",
+    "altitud": "26.652324",
+    "tiempo": "Monday, January 18, 2016 7:03 AM"
+  },
+  {
+    "latitud": "53.440475",
+    "longitud": "-56.923463",
+    "altitud": "-25.617444",
+    "tiempo": "Saturday, September 6, 2014 2:32 AM"
+  },
+  {
+    "latitud": "-39.412946",
+    "longitud": "44.352426",
+    "altitud": "-22.698308",
+    "tiempo": "Wednesday, May 15, 2019 12:49 AM"
+  },
+  {
+    "latitud": "6.113426",
+    "longitud": "108.819623",
+    "altitud": "-69.91024",
+    "tiempo": "Thursday, January 28, 2016 7:05 PM"
+  },
+  {
+    "latitud": "36.331562",
+    "longitud": "44.857539",
+    "altitud": "29.814808",
+    "tiempo": "Thursday, November 17, 2016 7:30 PM"
+  },
+  {
+    "latitud": "-62.148856",
+    "longitud": "-139.662952",
+    "altitud": "-71.706046",
+    "tiempo": "Saturday, February 16, 2019 9:53 PM"
+  },
+  {
+    "latitud": "79.383378",
+    "longitud": "122.724249",
+    "altitud": "-53.299082",
+    "tiempo": "Sunday, May 25, 2014 2:47 AM"
+  },
+  {
+    "latitud": "43.687647",
+    "longitud": "86.99631",
+    "altitud": "2.223711",
+    "tiempo": "Thursday, March 10, 2016 9:55 PM"
+  },
+  {
+    "latitud": "-67.147043",
+    "longitud": "85.308488",
+    "altitud": "12.154098",
+    "tiempo": "Sunday, January 24, 2021 8:18 AM"
+  },
+  {
+    "latitud": "86.985421",
+    "longitud": "-159.487837",
+    "altitud": "-29.381074",
+    "tiempo": "Thursday, December 31, 2020 6:20 PM"
+  },
+  {
+    "latitud": "72.063463",
+    "longitud": "-111.643271",
+    "altitud": "-50.469982",
+    "tiempo": "Friday, October 13, 2017 8:58 PM"
+  },
+  {
+    "latitud": "55.194508",
+    "longitud": "62.684162",
+    "altitud": "-7.858577",
+    "tiempo": "Wednesday, November 13, 2019 11:31 PM"
+  },
+  {
+    "latitud": "35.286451",
+    "longitud": "2.390165",
+    "altitud": "3.168747",
+    "tiempo": "Sunday, December 15, 2019 7:48 AM"
+  },
+  {
+    "latitud": "75.830204",
+    "longitud": "174.128799",
+    "altitud": "12.588497",
+    "tiempo": "Friday, June 19, 2020 8:00 AM"
+  },
+  {
+    "latitud": "-77.553495",
+    "longitud": "-55.606648",
+    "altitud": "-23.00158",
+    "tiempo": "Monday, October 28, 2019 9:04 PM"
+  },
+  {
+    "latitud": "-62.557843",
+    "longitud": "-56.080872",
+    "altitud": "12.758718",
+    "tiempo": "Sunday, December 7, 2014 10:53 PM"
+  },
+  {
+    "latitud": "7.010801",
+    "longitud": "174.189031",
+    "altitud": "17.736651",
+    "tiempo": "Monday, May 20, 2019 3:30 PM"
+  },
+  {
+    "latitud": "32.871794",
+    "longitud": "-137.262801",
+    "altitud": "62.929979",
+    "tiempo": "Thursday, December 15, 2016 7:00 AM"
+  },
+  {
+    "latitud": "-87.938956",
+    "longitud": "150.91703",
+    "altitud": "51.86907",
+    "tiempo": "Wednesday, February 20, 2019 9:16 PM"
+  },
+  {
+    "latitud": "-71.749819",
+    "longitud": "90.460809",
+    "altitud": "38.509374",
+    "tiempo": "Sunday, August 5, 2018 5:10 AM"
+  },
+  {
+    "latitud": "-66.17978",
+    "longitud": "-7.818876",
+    "altitud": "81.591155",
+    "tiempo": "Thursday, November 8, 2018 11:51 AM"
+  },
+  {
+    "latitud": "6.963767",
+    "longitud": "-10.392568",
+    "altitud": "-78.436787",
+    "tiempo": "Sunday, May 28, 2017 10:20 AM"
+  },
+  {
+    "latitud": "36.994503",
+    "longitud": "-5.103697",
+    "altitud": "-15.448895",
+    "tiempo": "Monday, January 12, 2015 3:51 AM"
+  },
+  {
+    "latitud": "-5.319621",
+    "longitud": "-166.393254",
+    "altitud": "-21.799426",
+    "tiempo": "Friday, July 1, 2016 3:50 PM"
+  },
+  {
+    "latitud": "59.757191",
+    "longitud": "96.35745",
+    "altitud": "-86.822679",
+    "tiempo": "Thursday, April 7, 2016 5:22 AM"
+  },
+  {
+    "latitud": "-8.98825",
+    "longitud": "-80.025107",
+    "altitud": "-64.315188",
+    "tiempo": "Tuesday, August 4, 2020 1:00 AM"
+  },
+  {
+    "latitud": "-51.020438",
+    "longitud": "-105.087903",
+    "altitud": "-27.778678",
+    "tiempo": "Tuesday, March 4, 2014 8:29 PM"
+  },
+  {
+    "latitud": "-16.526263",
+    "longitud": "-19.89736",
+    "altitud": "73.230763",
+    "tiempo": "Tuesday, January 22, 2019 1:42 AM"
+  },
+  {
+    "latitud": "-51.593923",
+    "longitud": "65.723784",
+    "altitud": "-72.451582",
+    "tiempo": "Tuesday, May 31, 2016 10:25 AM"
+  },
+  {
+    "latitud": "71.829935",
+    "longitud": "139.45909",
+    "altitud": "-12.192026",
+    "tiempo": "Sunday, October 28, 2018 1:43 AM"
+  },
+  {
+    "latitud": "75.953029",
+    "longitud": "-71.40375",
+    "altitud": "-13.568222",
+    "tiempo": "Saturday, May 16, 2020 1:05 AM"
+  },
+  {
+    "latitud": "0.467496",
+    "longitud": "79.767732",
+    "altitud": "-36.007016",
+    "tiempo": "Saturday, December 28, 2019 11:13 AM"
+  },
+  {
+    "latitud": "-69.92227",
+    "longitud": "135.780464",
+    "altitud": "12.310268",
+    "tiempo": "Friday, November 23, 2018 1:40 PM"
+  },
+  {
+    "latitud": "51.226615",
+    "longitud": "15.965562",
+    "altitud": "-56.815232",
+    "tiempo": "Friday, November 20, 2020 7:43 PM"
+  },
+  {
+    "latitud": "-33.413625",
+    "longitud": "0.894273",
+    "altitud": "-68.380966",
+    "tiempo": "Monday, May 12, 2014 12:04 AM"
+  },
+  {
+    "latitud": "87.252755",
+    "longitud": "128.125781",
+    "altitud": "40.959914",
+    "tiempo": "Saturday, March 30, 2019 6:58 PM"
+  },
+  {
+    "latitud": "83.924134",
+    "longitud": "144.604388",
+    "altitud": "-67.496068",
+    "tiempo": "Monday, August 18, 2014 2:33 PM"
+  },
+  {
+    "latitud": "78.27879",
+    "longitud": "-150.296585",
+    "altitud": "2.142751",
+    "tiempo": "Monday, January 28, 2019 12:26 PM"
+  },
+  {
+    "latitud": "-27.552457",
+    "longitud": "88.663753",
+    "altitud": "-75.99529",
+    "tiempo": "Tuesday, September 18, 2018 12:41 AM"
+  },
+  {
+    "latitud": "-82.547248",
+    "longitud": "133.53189",
+    "altitud": "13.329919",
+    "tiempo": "Tuesday, October 25, 2016 6:52 AM"
+  },
+  {
+    "latitud": "-11.95513",
+    "longitud": "-117.840478",
+    "altitud": "42.560177",
+    "tiempo": "Saturday, October 31, 2020 5:25 PM"
+  },
+  {
+    "latitud": "36.009761",
+    "longitud": "71.61678",
+    "altitud": "-4.237689",
+    "tiempo": "Tuesday, November 7, 2017 5:54 PM"
+  },
+  {
+    "latitud": "85.520843",
+    "longitud": "83.731605",
+    "altitud": "55.222479",
+    "tiempo": "Saturday, July 7, 2018 5:44 AM"
+  },
+  {
+    "latitud": "-65.401259",
+    "longitud": "-75.585776",
+    "altitud": "-45.214832",
+    "tiempo": "Friday, August 10, 2018 5:34 PM"
+  },
+  {
+    "latitud": "-12.33857",
+    "longitud": "-42.948214",
+    "altitud": "-20.043665",
+    "tiempo": "Monday, April 9, 2018 12:38 PM"
+  },
+  {
+    "latitud": "65.87933",
+    "longitud": "6.719909",
+    "altitud": "60.543033",
+    "tiempo": "Wednesday, May 28, 2014 1:55 PM"
+  },
+  {
+    "latitud": "-6.245171",
+    "longitud": "86.103794",
+    "altitud": "71.711811",
+    "tiempo": "Saturday, June 29, 2019 5:16 PM"
+  },
+  {
+    "latitud": "-45.548274",
+    "longitud": "-16.848092",
+    "altitud": "76.461826",
+    "tiempo": "Sunday, March 26, 2017 6:06 PM"
+  },{
+    "latitud": "76.061829",
+    "longitud": "176.085683",
+    "altitud": "-31.474592",
+    "tiempo": "Wednesday, June 11, 2014 11:58 PM"
+  },
+  {
+    "latitud": "-75.948082",
+    "longitud": "-54.248345",
+    "altitud": "-46.569758",
+    "tiempo": "Sunday, October 8, 2017 1:31 AM"
+  },
+  {
+    "latitud": "31.640767",
+    "longitud": "177.483226",
+    "altitud": "60.578087",
+    "tiempo": "Tuesday, September 1, 2020 11:22 PM"
+  },
+  {
+    "latitud": "-35.763551",
+    "longitud": "-129.257334",
+    "altitud": "21.331292",
+    "tiempo": "Friday, May 29, 2020 12:41 AM"
+  },
+  {
+    "latitud": "60.977972",
+    "longitud": "-149.461103",
+    "altitud": "32.157812",
+    "tiempo": "Saturday, December 28, 2019 5:09 PM"
+  },
+  {
+    "latitud": "-60.268358",
+    "longitud": "-69.568004",
+    "altitud": "20.900448",
+    "tiempo": "Saturday, January 4, 2020 8:22 AM"
+  },
+  {
+    "latitud": "-7.352808",
+    "longitud": "179.790686",
+    "altitud": "-30.872437",
+    "tiempo": "Saturday, April 25, 2020 12:46 PM"
+  },
+  {
+    "latitud": "-37.95909",
+    "longitud": "136.435584",
+    "altitud": "63.219698",
+    "tiempo": "Friday, May 13, 2016 5:47 PM"
+  },
+  {
+    "latitud": "29.215887",
+    "longitud": "40.346551",
+    "altitud": "6.712272",
+    "tiempo": "Wednesday, April 22, 2020 8:37 PM"
+  },
+  {
+    "latitud": "22.548311",
+    "longitud": "-133.682205",
+    "altitud": "53.499635",
+    "tiempo": "Saturday, May 9, 2020 5:26 PM"
+  },
+  {
+    "latitud": "-18.911919",
+    "longitud": "177.829023",
+    "altitud": "-63.873149",
+    "tiempo": "Sunday, September 2, 2018 11:13 PM"
+  },
+  {
+    "latitud": "-17.363713",
+    "longitud": "-86.984662",
+    "altitud": "-12.690188",
+    "tiempo": "Tuesday, August 25, 2015 8:21 PM"
+  },
+  {
+    "latitud": "79.19401",
+    "longitud": "-175.189371",
+    "altitud": "2.763073",
+    "tiempo": "Friday, December 14, 2018 6:40 PM"
+  },
+  {
+    "latitud": "33.311094",
+    "longitud": "-175.110914",
+    "altitud": "67.407806",
+    "tiempo": "Sunday, June 4, 2017 8:36 AM"
+  },
+  {
+    "latitud": "67.963545",
+    "longitud": "-40.393253",
+    "altitud": "78.011396",
+    "tiempo": "Tuesday, February 27, 2018 1:03 PM"
+  },
+  {
+    "latitud": "-87.437625",
+    "longitud": "34.232526",
+    "altitud": "-70.160465",
+    "tiempo": "Tuesday, September 8, 2020 8:56 PM"
+  },
+  {
+    "latitud": "-62.736584",
+    "longitud": "148.955408",
+    "altitud": "39.199344",
+    "tiempo": "Thursday, April 11, 2019 5:15 PM"
+  },
+  {
+    "latitud": "-11.050238",
+    "longitud": "-7.400099",
+    "altitud": "74.286077",
+    "tiempo": "Friday, August 14, 2015 11:00 AM"
+  },
+  {
+    "latitud": "88.657033",
+    "longitud": "-94.10217",
+    "altitud": "-15.68906",
+    "tiempo": "Friday, April 6, 2018 4:23 PM"
+  },
+  {
+    "latitud": "-54.166052",
+    "longitud": "-122.738644",
+    "altitud": "-80.973536",
+    "tiempo": "Friday, June 22, 2018 6:23 PM"
+  },
+  {
+    "latitud": "27.184878",
+    "longitud": "-168.85154",
+    "altitud": "-14.407862",
+    "tiempo": "Friday, June 6, 2014 3:57 PM"
+  },
+  {
+    "latitud": "-34.902826",
+    "longitud": "-41.369254",
+    "altitud": "66.671034",
+    "tiempo": "Saturday, September 19, 2015 4:24 PM"
+  },
+  {
+    "latitud": "-50.275721",
+    "longitud": "-90.580506",
+    "altitud": "-67.195036",
+    "tiempo": "Saturday, August 30, 2014 3:40 AM"
+  },
+  {
+    "latitud": "83.542915",
+    "longitud": "157.30469",
+    "altitud": "82.943495",
+    "tiempo": "Sunday, August 4, 2019 11:41 PM"
+  },
+  {
+    "latitud": "80.412474",
+    "longitud": "-102.902025",
+    "altitud": "-21.979535",
+    "tiempo": "Sunday, June 18, 2017 4:08 PM"
+  },
+  {
+    "latitud": "-57.074001",
+    "longitud": "56.56315",
+    "altitud": "-42.883271",
+    "tiempo": "Sunday, February 21, 2016 7:43 AM"
+  },
+  {
+    "latitud": "64.90574",
+    "longitud": "-170.826568",
+    "altitud": "80.953431",
+    "tiempo": "Monday, September 21, 2020 6:33 AM"
+  },
+  {
+    "latitud": "-88.401578",
+    "longitud": "-85.383777",
+    "altitud": "59.777179",
+    "tiempo": "Saturday, February 17, 2018 12:25 PM"
+  },
+  {
+    "latitud": "-34.689147",
+    "longitud": "-103.457943",
+    "altitud": "-53.547025",
+    "tiempo": "Tuesday, June 19, 2018 2:44 PM"
+  },
+  {
+    "latitud": "-15.05959",
+    "longitud": "7.859331",
+    "altitud": "79.831406",
+    "tiempo": "Wednesday, March 5, 2014 5:42 PM"
+  },
+  {
+    "latitud": "-56.753702",
+    "longitud": "45.938791",
+    "altitud": "-25.974709",
+    "tiempo": "Tuesday, April 26, 2016 4:10 AM"
+  },
+  {
+    "latitud": "1.635084",
+    "longitud": "95.168056",
+    "altitud": "-85.029628",
+    "tiempo": "Wednesday, February 13, 2019 5:56 AM"
+  },
+  {
+    "latitud": "-84.599865",
+    "longitud": "70.846599",
+    "altitud": "-21.466884",
+    "tiempo": "Sunday, September 13, 2015 1:48 PM"
+  },
+  {
+    "latitud": "46.941964",
+    "longitud": "17.970648",
+    "altitud": "44.366762",
+    "tiempo": "Saturday, February 18, 2017 12:53 AM"
+  },
+  {
+    "latitud": "48.16651",
+    "longitud": "-113.039721",
+    "altitud": "4.741456",
+    "tiempo": "Saturday, May 21, 2016 9:27 PM"
+  },
+  {
+    "latitud": "62.180991",
+    "longitud": "105.55576",
+    "altitud": "-68.350944",
+    "tiempo": "Thursday, November 23, 2017 11:06 AM"
+  },
+  {
+    "latitud": "-63.710464",
+    "longitud": "179.426537",
+    "altitud": "-50.023979",
+    "tiempo": "Friday, April 18, 2014 2:52 AM"
+  },
+  {
+    "latitud": "56.163631",
+    "longitud": "-174.223735",
+    "altitud": "-62.371895",
+    "tiempo": "Monday, October 8, 2018 8:47 AM"
+  },
+  {
+    "latitud": "-70.816725",
+    "longitud": "-105.717304",
+    "altitud": "6.997442",
+    "tiempo": "Friday, February 2, 2018 7:22 PM"
+  },
+  {
+    "latitud": "54.713422",
+    "longitud": "113.898081",
+    "altitud": "85.313109",
+    "tiempo": "Saturday, December 31, 2016 10:57 PM"
+  },
+  {
+    "latitud": "-81.99911",
+    "longitud": "20.170562",
+    "altitud": "-64.652238",
+    "tiempo": "Monday, October 2, 2017 4:06 PM"
+  },
+  {
+    "latitud": "60.010791",
+    "longitud": "124.735874",
+    "altitud": "-78.625288",
+    "tiempo": "Thursday, January 8, 2015 12:53 AM"
+  },
+  {
+    "latitud": "85.825258",
+    "longitud": "-104.933526",
+    "altitud": "-49.20873",
+    "tiempo": "Sunday, November 23, 2014 10:51 AM"
+  },
+  {
+    "latitud": "-21.757618",
+    "longitud": "-84.205656",
+    "altitud": "-87.384679",
+    "tiempo": "Monday, June 24, 2019 1:51 PM"
+  },
+  {
+    "latitud": "61.381666",
+    "longitud": "-126.535344",
+    "altitud": "4.679844",
+    "tiempo": "Wednesday, June 1, 2016 9:03 PM"
+  },
+  {
+    "latitud": "-45.764206",
+    "longitud": "23.834489",
+    "altitud": "-85.431605",
+    "tiempo": "Wednesday, May 6, 2020 10:26 PM"
+  },
+  {
+    "latitud": "38.898294",
+    "longitud": "61.416394",
+    "altitud": "28.342574",
+    "tiempo": "Sunday, April 14, 2019 6:31 AM"
+  },
+  {
+    "latitud": "-77.14368",
+    "longitud": "-145.714106",
+    "altitud": "34.224701",
+    "tiempo": "Sunday, March 30, 2014 4:05 PM"
+  },
+  {
+    "latitud": "-82.283365",
+    "longitud": "102.832816",
+    "altitud": "-9.80983",
+    "tiempo": "Thursday, July 31, 2014 11:06 PM"
+  },
+  {
+    "latitud": "-72.837267",
+    "longitud": "-57.585147",
+    "altitud": "-10.938474",
+    "tiempo": "Sunday, January 6, 2019 1:36 AM"
+  },
+  {
+    "latitud": "-29.064422",
+    "longitud": "-42.454874",
+    "altitud": "-81.232525",
+    "tiempo": "Tuesday, January 5, 2016 5:41 PM"
+  },
+  {
+    "latitud": "-86.93186",
+    "longitud": "-165.006897",
+    "altitud": "13.649255",
+    "tiempo": "Wednesday, November 25, 2020 5:16 AM"
+  },
+  {
+    "latitud": "66.659816",
+    "longitud": "-97.365595",
+    "altitud": "65.024253",
+    "tiempo": "Sunday, February 16, 2014 9:57 AM"
+  },
+  {
+    "latitud": "-78.939258",
+    "longitud": "-49.555914",
+    "altitud": "-76.449187",
+    "tiempo": "Tuesday, December 4, 2018 11:06 AM"
+  },
+  {
+    "latitud": "-79.978788",
+    "longitud": "7.081507",
+    "altitud": "-42.152328",
+    "tiempo": "Monday, August 7, 2017 7:25 AM"
+  },
+  {
+    "latitud": "53.313914",
+    "longitud": "-94.683226",
+    "altitud": "-76.199406",
+    "tiempo": "Thursday, December 18, 2014 10:43 AM"
+  },
+  {
+    "latitud": "-12.422536",
+    "longitud": "175.043523",
+    "altitud": "16.401213",
+    "tiempo": "Monday, August 17, 2020 11:53 PM"
+  },
+  {
+    "latitud": "89.463284",
+    "longitud": "-110.82794",
+    "altitud": "-65.529411",
+    "tiempo": "Thursday, April 9, 2020 5:10 PM"
+  },
+  {
+    "latitud": "-43.991287",
+    "longitud": "122.059416",
+    "altitud": "-58.244411",
+    "tiempo": "Sunday, May 10, 2020 8:18 AM"
+  },
+  {
+    "latitud": "-0.39241",
+    "longitud": "2.084658",
+    "altitud": "40.89805",
+    "tiempo": "Saturday, March 17, 2018 3:52 PM"
+  },
+  {
+    "latitud": "82.496038",
+    "longitud": "28.430178",
+    "altitud": "-9.077899",
+    "tiempo": "Sunday, April 5, 2015 4:13 PM"
+  },
+  {
+    "latitud": "-0.125126",
+    "longitud": "-32.430488",
+    "altitud": "-36.787372",
+    "tiempo": "Wednesday, August 9, 2017 1:25 PM"
+  },
+  {
+    "latitud": "-66.806037",
+    "longitud": "-116.122596",
+    "altitud": "-5.663027",
+    "tiempo": "Sunday, April 29, 2018 9:37 AM"
+  },
+  {
+    "latitud": "9.731883",
+    "longitud": "-178.895234",
+    "altitud": "2.295389",
+    "tiempo": "Saturday, March 15, 2014 2:28 AM"
+  },
+  {
+    "latitud": "85.055412",
+    "longitud": "100.18227",
+    "altitud": "61.010686",
+    "tiempo": "Saturday, May 31, 2014 8:32 PM"
+  },
+  {
+    "latitud": "33.435871",
+    "longitud": "67.135437",
+    "altitud": "-17.493853",
+    "tiempo": "Thursday, May 2, 2019 1:32 PM"
+  },
+  {
+    "latitud": "-45.49786",
+    "longitud": "155.282761",
+    "altitud": "-56.800186",
+    "tiempo": "Monday, June 1, 2020 1:16 AM"
+  },
+  {
+    "latitud": "-24.504485",
+    "longitud": "-46.667697",
+    "altitud": "-68.701252",
+    "tiempo": "Tuesday, February 28, 2017 2:56 PM"
+  },
+  {
+    "latitud": "-27.812789",
+    "longitud": "161.893719",
+    "altitud": "-29.127402",
+    "tiempo": "Thursday, March 12, 2015 2:26 PM"
+  },
+  {
+    "latitud": "-57.779177",
+    "longitud": "30.374384",
+    "altitud": "64.148836",
+    "tiempo": "Friday, January 15, 2016 9:35 PM"
+  },
+  {
+    "latitud": "25.607033",
+    "longitud": "37.753755",
+    "altitud": "24.566391",
+    "tiempo": "Sunday, November 8, 2015 4:14 AM"
+  },
+  {
+    "latitud": "42.534886",
+    "longitud": "-114.674359",
+    "altitud": "2.696929",
+    "tiempo": "Saturday, January 23, 2021 2:35 AM"
+  },
+  {
+    "latitud": "40.906536",
+    "longitud": "145.614609",
+    "altitud": "82.518531",
+    "tiempo": "Friday, February 23, 2018 3:06 PM"
+  },
+  {
+    "latitud": "-74.925483",
+    "longitud": "152.089559",
+    "altitud": "-39.96357",
+    "tiempo": "Monday, January 7, 2019 3:31 PM"
+  },
+  {
+    "latitud": "-34.141177",
+    "longitud": "122.860018",
+    "altitud": "-40.09813",
+    "tiempo": "Thursday, August 10, 2017 11:41 PM"
+  },
+  {
+    "latitud": "45.822848",
+    "longitud": "-140.805584",
+    "altitud": "-0.325983",
+    "tiempo": "Tuesday, March 3, 2020 3:05 AM"
+  },
+  {
+    "latitud": "78.734392",
+    "longitud": "37.115269",
+    "altitud": "-67.264577",
+    "tiempo": "Wednesday, August 12, 2020 7:59 AM"
+  },
+  {
+    "latitud": "56.021498",
+    "longitud": "103.61403",
+    "altitud": "-72.733037",
+    "tiempo": "Tuesday, April 15, 2014 11:18 AM"
+  },
+  {
+    "latitud": "-32.191774",
+    "longitud": "-146.784675",
+    "altitud": "-80.826435",
+    "tiempo": "Wednesday, May 28, 2014 6:06 PM"
+  },
+  {
+    "latitud": "73.851347",
+    "longitud": "62.249579",
+    "altitud": "-46.139758",
+    "tiempo": "Tuesday, January 26, 2021 8:21 AM"
+  },
+  {
+    "latitud": "-77.975901",
+    "longitud": "-1.084624",
+    "altitud": "44.956005",
+    "tiempo": "Sunday, June 2, 2019 3:04 PM"
+  },
+  {
+    "latitud": "53.66311",
+    "longitud": "103.74232",
+    "altitud": "52.308286",
+    "tiempo": "Thursday, October 5, 2017 9:35 AM"
+  },
+  {
+    "latitud": "28.591552",
+    "longitud": "124.821669",
+    "altitud": "-47.803636",
+    "tiempo": "Wednesday, March 26, 2014 4:54 AM"
+  },
+  {
+    "latitud": "-84.210267",
+    "longitud": "14.034151",
+    "altitud": "67.603575",
+    "tiempo": "Friday, July 24, 2020 12:17 PM"
+  },
+  {
+    "latitud": "43.243682",
+    "longitud": "152.686052",
+    "altitud": "-79.838353",
+    "tiempo": "Tuesday, February 10, 2015 5:25 AM"
+  },
+  {
+    "latitud": "-83.743029",
+    "longitud": "10.651605",
+    "altitud": "2.01612",
+    "tiempo": "Thursday, January 30, 2014 2:56 AM"
+  },
+  {
+    "latitud": "39.683365",
+    "longitud": "111.85166",
+    "altitud": "-16.648875",
+    "tiempo": "Saturday, July 18, 2020 9:49 PM"
+  },
+  {
+    "latitud": "-79.295037",
+    "longitud": "-158.582146",
+    "altitud": "-34.691761",
+    "tiempo": "Wednesday, April 9, 2014 8:16 AM"
+  },
+  {
+    "latitud": "25.144058",
+    "longitud": "-159.788878",
+    "altitud": "-36.14976",
+    "tiempo": "Tuesday, March 12, 2019 4:12 PM"
+  },
+  {
+    "latitud": "0.520991",
+    "longitud": "68.873038",
+    "altitud": "-49.518062",
+    "tiempo": "Wednesday, February 17, 2021 6:41 PM"
+  },
+  {
+    "latitud": "29.910603",
+    "longitud": "-36.232494",
+    "altitud": "0.27286",
+    "tiempo": "Monday, October 27, 2014 1:49 PM"
+  },
+  {
+    "latitud": "-71.006238",
+    "longitud": "-78.005636",
+    "altitud": "-48.16123",
+    "tiempo": "Saturday, January 23, 2021 7:59 AM"
+  },
+  {
+    "latitud": "61.932075",
+    "longitud": "-73.005383",
+    "altitud": "15.276122",
+    "tiempo": "Sunday, November 3, 2019 8:06 PM"
+  },
+  {
+    "latitud": "-64.999255",
+    "longitud": "114.687375",
+    "altitud": "16.360054",
+    "tiempo": "Monday, January 15, 2018 8:53 AM"
+  },
+  {
+    "latitud": "1.36525",
+    "longitud": "-0.884211",
+    "altitud": "30.442413",
+    "tiempo": "Monday, May 9, 2016 4:39 AM"
+  },
+  {
+    "latitud": "-71.872596",
+    "longitud": "16.949081",
+    "altitud": "46.443127",
+    "tiempo": "Wednesday, November 21, 2018 7:50 AM"
+  },
+  {
+    "latitud": "77.859314",
+    "longitud": "27.864393",
+    "altitud": "-17.688863",
+    "tiempo": "Saturday, July 5, 2014 6:39 PM"
+  },
+  {
+    "latitud": "-24.525676",
+    "longitud": "165.477842",
+    "altitud": "-52.630342",
+    "tiempo": "Saturday, March 18, 2017 9:24 AM"
+  },{
+    "latitud": "-82.215649",
+    "longitud": "0.910533",
+    "altitud": "34.815283",
+    "tiempo": "Wednesday, November 21, 2018 5:49 AM"
+  },
+  {
+    "latitud": "31.201978",
+    "longitud": "-59.681095",
+    "altitud": "63.026616",
+    "tiempo": "Monday, February 1, 2021 6:11 PM"
+  },
+  {
+    "latitud": "-55.17935",
+    "longitud": "-127.768292",
+    "altitud": "63.38447",
+    "tiempo": "Sunday, October 7, 2018 6:22 AM"
+  },
+  {
+    "latitud": "-19.15899",
+    "longitud": "9.633295",
+    "altitud": "67.134066",
+    "tiempo": "Saturday, October 25, 2014 9:21 PM"
+  },
+  {
+    "latitud": "-35.504827",
+    "longitud": "32.279605",
+    "altitud": "-50.708924",
+    "tiempo": "Thursday, August 10, 2017 12:00 AM"
+  },
+  {
+    "latitud": "7.319742",
+    "longitud": "27.251137",
+    "altitud": "-36.463779",
+    "tiempo": "Sunday, April 12, 2020 7:16 PM"
+  },
+  {
+    "latitud": "-45.250436",
+    "longitud": "-45.209085",
+    "altitud": "-84.171951",
+    "tiempo": "Thursday, October 29, 2015 8:35 PM"
+  },
+  {
+    "latitud": "-4.867604",
+    "longitud": "-173.358368",
+    "altitud": "-38.495338",
+    "tiempo": "Tuesday, June 16, 2020 11:59 PM"
+  },
+  {
+    "latitud": "-32.088457",
+    "longitud": "145.017622",
+    "altitud": "71.661186",
+    "tiempo": "Thursday, August 29, 2019 2:08 AM"
+  },
+  {
+    "latitud": "35.398761",
+    "longitud": "137.862541",
+    "altitud": "4.471594",
+    "tiempo": "Thursday, November 2, 2017 9:17 PM"
+  },
+  {
+    "latitud": "-85.736942",
+    "longitud": "-46.101766",
+    "altitud": "58.299776",
+    "tiempo": "Wednesday, May 21, 2014 10:20 PM"
+  },
+  {
+    "latitud": "39.101769",
+    "longitud": "158.379648",
+    "altitud": "3.852761",
+    "tiempo": "Monday, December 7, 2020 7:00 AM"
+  },
+  {
+    "latitud": "-72.691569",
+    "longitud": "31.843119",
+    "altitud": "12.993157",
+    "tiempo": "Wednesday, March 29, 2017 4:44 PM"
+  },
+  {
+    "latitud": "-14.990861",
+    "longitud": "-16.851418",
+    "altitud": "-30.060361",
+    "tiempo": "Monday, February 2, 2015 7:57 PM"
+  },
+  {
+    "latitud": "59.515966",
+    "longitud": "-167.698538",
+    "altitud": "-67.082265",
+    "tiempo": "Friday, May 31, 2019 10:01 PM"
+  },
+  {
+    "latitud": "-73.379079",
+    "longitud": "15.088508",
+    "altitud": "16.663489",
+    "tiempo": "Tuesday, September 29, 2020 3:08 AM"
+  },
+  {
+    "latitud": "-60.646312",
+    "longitud": "149.843418",
+    "altitud": "-67.3247",
+    "tiempo": "Sunday, August 31, 2014 5:35 AM"
+  },
+  {
+    "latitud": "55.427058",
+    "longitud": "39.1874",
+    "altitud": "-19.192979",
+    "tiempo": "Wednesday, June 14, 2017 1:26 AM"
+  },
+  {
+    "latitud": "54.182538",
+    "longitud": "-84.618613",
+    "altitud": "58.644883",
+    "tiempo": "Tuesday, January 19, 2021 12:42 AM"
+  },
+  {
+    "latitud": "39.172363",
+    "longitud": "-69.128403",
+    "altitud": "35.722773",
+    "tiempo": "Thursday, October 8, 2015 11:03 PM"
+  },
+  {
+    "latitud": "-31.052284",
+    "longitud": "44.119744",
+    "altitud": "-55.572886",
+    "tiempo": "Saturday, July 5, 2014 9:35 PM"
+  },
+  {
+    "latitud": "83.638293",
+    "longitud": "109.752057",
+    "altitud": "82.623645",
+    "tiempo": "Saturday, November 17, 2018 8:15 PM"
+  },
+  {
+    "latitud": "87.423014",
+    "longitud": "-100.64258",
+    "altitud": "-84.587576",
+    "tiempo": "Saturday, January 9, 2021 7:25 PM"
+  },
+  {
+    "latitud": "-65.157897",
+    "longitud": "-15.164492",
+    "altitud": "63.864609",
+    "tiempo": "Thursday, February 14, 2019 12:46 PM"
+  },
+  {
+    "latitud": "35.169893",
+    "longitud": "97.024672",
+    "altitud": "79.931698",
+    "tiempo": "Tuesday, September 1, 2020 11:22 AM"
+  },
+  {
+    "latitud": "-9.373153",
+    "longitud": "-15.615439",
+    "altitud": "-36.811416",
+    "tiempo": "Saturday, August 9, 2014 11:48 AM"
+  },
+  {
+    "latitud": "26.256123",
+    "longitud": "170.645972",
+    "altitud": "-40.848839",
+    "tiempo": "Friday, May 22, 2020 7:21 AM"
+  },
+  {
+    "latitud": "68.055566",
+    "longitud": "-38.917037",
+    "altitud": "-53.257304",
+    "tiempo": "Saturday, August 19, 2017 6:03 PM"
+  },
+  {
+    "latitud": "9.994119",
+    "longitud": "79.825639",
+    "altitud": "-1.785596",
+    "tiempo": "Friday, June 2, 2017 7:09 PM"
+  },
+  {
+    "latitud": "31.654428",
+    "longitud": "-58.770103",
+    "altitud": "20.355133",
+    "tiempo": "Tuesday, April 14, 2020 8:46 AM"
+  },
+  {
+    "latitud": "-55.08028",
+    "longitud": "5.669899",
+    "altitud": "45.04934",
+    "tiempo": "Tuesday, November 1, 2016 9:00 PM"
+  },
+  {
+    "latitud": "18.864834",
+    "longitud": "11.454928",
+    "altitud": "-74.856316",
+    "tiempo": "Saturday, June 17, 2017 2:58 AM"
+  },
+  {
+    "latitud": "-34.54442",
+    "longitud": "-173.063104",
+    "altitud": "66.669801",
+    "tiempo": "Monday, March 23, 2020 12:41 AM"
+  },
+  {
+    "latitud": "63.552452",
+    "longitud": "53.670065",
+    "altitud": "-66.604628",
+    "tiempo": "Saturday, September 20, 2014 9:39 PM"
+  },
+  {
+    "latitud": "61.325659",
+    "longitud": "-129.819711",
+    "altitud": "9.839699",
+    "tiempo": "Saturday, September 28, 2019 5:02 PM"
+  },
+  {
+    "latitud": "-68.124101",
+    "longitud": "30.363581",
+    "altitud": "-44.139891",
+    "tiempo": "Monday, February 1, 2016 3:55 PM"
+  },
+  {
+    "latitud": "-27.532849",
+    "longitud": "-31.283041",
+    "altitud": "86.128583",
+    "tiempo": "Sunday, January 15, 2017 10:43 AM"
+  },
+  {
+    "latitud": "66.753516",
+    "longitud": "-153.571376",
+    "altitud": "22.784088",
+    "tiempo": "Friday, November 3, 2017 1:47 AM"
+  },
+  {
+    "latitud": "-49.489873",
+    "longitud": "116.026863",
+    "altitud": "-32.492221",
+    "tiempo": "Thursday, February 21, 2019 2:31 AM"
+  },
+  {
+    "latitud": "80.50128",
+    "longitud": "-163.161937",
+    "altitud": "47.704703",
+    "tiempo": "Sunday, May 19, 2019 9:07 AM"
+  },
+  {
+    "latitud": "14.146516",
+    "longitud": "33.582599",
+    "altitud": "-60.585525",
+    "tiempo": "Thursday, March 10, 2016 5:39 PM"
+  },
+  {
+    "latitud": "87.993811",
+    "longitud": "-71.14839",
+    "altitud": "76.161398",
+    "tiempo": "Friday, November 30, 2018 7:45 AM"
+  },
+  {
+    "latitud": "57.769269",
+    "longitud": "-172.912506",
+    "altitud": "-25.161872",
+    "tiempo": "Monday, April 17, 2017 9:21 AM"
+  },
+  {
+    "latitud": "7.007723",
+    "longitud": "15.5325",
+    "altitud": "-2.795302",
+    "tiempo": "Thursday, June 19, 2014 6:14 PM"
+  },
+  {
+    "latitud": "-50.496762",
+    "longitud": "-39.615873",
+    "altitud": "54.72449",
+    "tiempo": "Monday, April 4, 2016 2:31 AM"
+  },
+  {
+    "latitud": "50.005761",
+    "longitud": "-111.825919",
+    "altitud": "86.347818",
+    "tiempo": "Saturday, June 8, 2019 5:42 PM"
+  },
+  {
+    "latitud": "8.464722",
+    "longitud": "-137.683045",
+    "altitud": "25.41249",
+    "tiempo": "Sunday, November 25, 2018 9:18 AM"
+  },
+  {
+    "latitud": "-38.853381",
+    "longitud": "21.871427",
+    "altitud": "29.32645",
+    "tiempo": "Thursday, September 17, 2020 1:28 AM"
+  },
+  {
+    "latitud": "77.550288",
+    "longitud": "-56.002914",
+    "altitud": "-21.140122",
+    "tiempo": "Sunday, August 12, 2018 9:12 AM"
+  },
+  {
+    "latitud": "48.599148",
+    "longitud": "-79.175662",
+    "altitud": "-17.179074",
+    "tiempo": "Wednesday, November 2, 2016 3:48 PM"
+  },
+  {
+    "latitud": "18.553164",
+    "longitud": "146.051584",
+    "altitud": "-79.595066",
+    "tiempo": "Thursday, April 14, 2016 11:33 AM"
+  },
+  {
+    "latitud": "16.751257",
+    "longitud": "144.181937",
+    "altitud": "23.41505",
+    "tiempo": "Monday, February 19, 2018 2:39 PM"
+  },
+  {
+    "latitud": "-58.050432",
+    "longitud": "-165.429379",
+    "altitud": "-81.048323",
+    "tiempo": "Sunday, February 14, 2016 1:48 PM"
+  },
+  {
+    "latitud": "-30.097219",
+    "longitud": "44.247805",
+    "altitud": "81.953773",
+    "tiempo": "Wednesday, December 18, 2019 12:38 PM"
+  },
+  {
+    "latitud": "15.883536",
+    "longitud": "15.328986",
+    "altitud": "-73.609025",
+    "tiempo": "Tuesday, August 8, 2017 5:56 PM"
+  },
+  {
+    "latitud": "3.481569",
+    "longitud": "21.727585",
+    "altitud": "-79.374183",
+    "tiempo": "Monday, July 31, 2017 4:37 PM"
+  },
+  {
+    "latitud": "-84.110484",
+    "longitud": "45.32469",
+    "altitud": "-3.108813",
+    "tiempo": "Tuesday, November 3, 2020 5:22 AM"
+  },
+  {
+    "latitud": "-81.346734",
+    "longitud": "-100.168056",
+    "altitud": "-7.928899",
+    "tiempo": "Wednesday, January 8, 2014 12:18 AM"
+  },
+  {
+    "latitud": "69.913123",
+    "longitud": "143.302317",
+    "altitud": "-7.165483",
+    "tiempo": "Friday, April 10, 2020 8:02 AM"
+  },
+  {
+    "latitud": "-89.788033",
+    "longitud": "103.498392",
+    "altitud": "-26.60594",
+    "tiempo": "Tuesday, April 30, 2019 9:09 PM"
+  },
+  {
+    "latitud": "14.406891",
+    "longitud": "125.302074",
+    "altitud": "-10.934393",
+    "tiempo": "Monday, July 18, 2016 7:53 AM"
+  },
+  {
+    "latitud": "-26.624588",
+    "longitud": "-29.934256",
+    "altitud": "-3.590439",
+    "tiempo": "Tuesday, July 1, 2014 8:54 PM"
+  },
+  {
+    "latitud": "-2.467163",
+    "longitud": "61.66346",
+    "altitud": "-36.291378",
+    "tiempo": "Sunday, December 13, 2015 1:22 PM"
+  },
+  {
+    "latitud": "84.864987",
+    "longitud": "-117.780279",
+    "altitud": "4.575468",
+    "tiempo": "Sunday, August 9, 2020 1:24 AM"
+  },
+  {
+    "latitud": "80.172015",
+    "longitud": "-36.632683",
+    "altitud": "26.167002",
+    "tiempo": "Monday, January 13, 2014 2:59 AM"
+  },
+  {
+    "latitud": "-40.965785",
+    "longitud": "126.73377",
+    "altitud": "-67.429502",
+    "tiempo": "Tuesday, November 26, 2019 9:28 AM"
+  },
+  {
+    "latitud": "-85.565842",
+    "longitud": "-94.754035",
+    "altitud": "47.276853",
+    "tiempo": "Friday, January 25, 2019 1:42 PM"
+  },
+  {
+    "latitud": "-40.738265",
+    "longitud": "-69.219759",
+    "altitud": "-23.691587",
+    "tiempo": "Saturday, December 22, 2018 10:37 AM"
+  },
+  {
+    "latitud": "-73.729403",
+    "longitud": "-4.108156",
+    "altitud": "-18.175099",
+    "tiempo": "Wednesday, December 18, 2019 11:35 AM"
+  },
+  {
+    "latitud": "-22.411962",
+    "longitud": "127.833885",
+    "altitud": "-17.908898",
+    "tiempo": "Thursday, March 15, 2018 12:58 PM"
+  },
+  {
+    "latitud": "-50.73343",
+    "longitud": "16.405706",
+    "altitud": "-81.25859",
+    "tiempo": "Saturday, June 1, 2019 9:22 AM"
+  },
+  {
+    "latitud": "40.033258",
+    "longitud": "135.42538",
+    "altitud": "53.075794",
+    "tiempo": "Thursday, July 18, 2019 11:53 PM"
+  },
+  {
+    "latitud": "-47.592029",
+    "longitud": "32.196652",
+    "altitud": "-14.284655",
+    "tiempo": "Friday, December 20, 2019 9:54 PM"
+  },
+  {
+    "latitud": "-48.874414",
+    "longitud": "70.41392",
+    "altitud": "71.08842",
+    "tiempo": "Sunday, March 19, 2017 7:06 AM"
+  },
+  {
+    "latitud": "33.037881",
+    "longitud": "-178.223274",
+    "altitud": "-88.180534",
+    "tiempo": "Friday, March 28, 2014 10:35 PM"
+  },
+  {
+    "latitud": "88.266992",
+    "longitud": "-89.103856",
+    "altitud": "-31.858401",
+    "tiempo": "Saturday, August 9, 2014 5:39 AM"
+  },
+  {
+    "latitud": "-66.631977",
+    "longitud": "-71.381705",
+    "altitud": "28.328472",
+    "tiempo": "Tuesday, February 27, 2018 5:12 AM"
+  },
+  {
+    "latitud": "59.153799",
+    "longitud": "-7.941454",
+    "altitud": "80.270631",
+    "tiempo": "Tuesday, July 5, 2016 12:17 PM"
+  },
+  {
+    "latitud": "42.776813",
+    "longitud": "16.324583",
+    "altitud": "-42.759937",
+    "tiempo": "Sunday, June 28, 2020 12:32 PM"
+  },
+  {
+    "latitud": "75.90157",
+    "longitud": "-136.552599",
+    "altitud": "56.421171",
+    "tiempo": "Sunday, August 20, 2017 4:25 PM"
+  },
+  {
+    "latitud": "68.845907",
+    "longitud": "9.594417",
+    "altitud": "78.696717",
+    "tiempo": "Saturday, November 4, 2017 8:31 PM"
+  },
+  {
+    "latitud": "31.456579",
+    "longitud": "78.40035",
+    "altitud": "-77.967547",
+    "tiempo": "Sunday, September 20, 2015 5:08 PM"
+  },
+  {
+    "latitud": "-12.236362",
+    "longitud": "32.11598",
+    "altitud": "-87.756197",
+    "tiempo": "Wednesday, December 28, 2016 11:35 AM"
+  },
+  {
+    "latitud": "10.10487",
+    "longitud": "36.657412",
+    "altitud": "76.859638",
+    "tiempo": "Friday, December 22, 2017 10:34 AM"
+  },
+  {
+    "latitud": "-48.17002",
+    "longitud": "27.877685",
+    "altitud": "-82.695473",
+    "tiempo": "Saturday, December 20, 2014 6:15 AM"
+  },
+  {
+    "latitud": "66.392016",
+    "longitud": "-61.939228",
+    "altitud": "-12.166716",
+    "tiempo": "Saturday, May 3, 2014 5:00 AM"
+  },
+  {
+    "latitud": "69.088935",
+    "longitud": "-173.193839",
+    "altitud": "20.979691",
+    "tiempo": "Tuesday, August 20, 2019 5:23 AM"
+  },
+  {
+    "latitud": "-83.157989",
+    "longitud": "-76.582002",
+    "altitud": "84.381378",
+    "tiempo": "Sunday, May 15, 2016 2:03 AM"
+  },
+  {
+    "latitud": "11.941458",
+    "longitud": "72.602313",
+    "altitud": "82.461632",
+    "tiempo": "Monday, May 2, 2016 10:54 PM"
+  },
+  {
+    "latitud": "-34.582603",
+    "longitud": "-84.73252",
+    "altitud": "-65.150187",
+    "tiempo": "Saturday, August 6, 2016 6:17 AM"
+  },
+  {
+    "latitud": "35.874621",
+    "longitud": "-9.335486",
+    "altitud": "-64.807565",
+    "tiempo": "Friday, July 20, 2018 11:58 PM"
+  },
+  {
+    "latitud": "64.625217",
+    "longitud": "-65.558526",
+    "altitud": "-85.675196",
+    "tiempo": "Friday, January 11, 2019 5:46 AM"
+  },
+  {
+    "latitud": "-41.49654",
+    "longitud": "-131.117516",
+    "altitud": "-11.176391",
+    "tiempo": "Sunday, May 14, 2017 2:17 PM"
+  },
+  {
+    "latitud": "69.035257",
+    "longitud": "93.925493",
+    "altitud": "0.407044",
+    "tiempo": "Thursday, April 19, 2018 6:04 AM"
+  },
+  {
+    "latitud": "60.359171",
+    "longitud": "-107.681521",
+    "altitud": "-3.542241",
+    "tiempo": "Wednesday, April 1, 2015 10:53 PM"
+  },
+  {
+    "latitud": "43.867015",
+    "longitud": "4.519373",
+    "altitud": "36.716522",
+    "tiempo": "Saturday, October 4, 2014 7:38 AM"
+  },
+  {
+    "latitud": "-86.859614",
+    "longitud": "-26.505954",
+    "altitud": "-42.340197",
+    "tiempo": "Thursday, March 2, 2017 4:43 AM"
+  },
+  {
+    "latitud": "-0.671458",
+    "longitud": "176.600635",
+    "altitud": "-6.773372",
+    "tiempo": "Thursday, October 27, 2016 4:30 PM"
+  },
+  {
+    "latitud": "-11.597325",
+    "longitud": "-2.063996",
+    "altitud": "3.003528",
+    "tiempo": "Tuesday, February 16, 2016 11:13 AM"
+  },{
+    "latitud": "7.330226",
+    "longitud": "42.699602",
+    "altitud": "1.127483",
+    "tiempo": "Sunday, January 15, 2017 1:49 PM"
+  },
+  {
+    "latitud": "-11.838188",
+    "longitud": "87.628594",
+    "altitud": "28.040363",
+    "tiempo": "Monday, October 9, 2017 4:22 PM"
+  },
+  {
+    "latitud": "-63.59175",
+    "longitud": "-172.642321",
+    "altitud": "26.29488",
+    "tiempo": "Tuesday, November 11, 2014 9:16 PM"
+  },
+  {
+    "latitud": "-8.654888",
+    "longitud": "170.626189",
+    "altitud": "61.203774",
+    "tiempo": "Monday, May 22, 2017 9:19 AM"
+  },
+  {
+    "latitud": "-74.560379",
+    "longitud": "-93.909745",
+    "altitud": "9.937764",
+    "tiempo": "Friday, November 15, 2019 1:50 PM"
+  },
+  {
+    "latitud": "34.089704",
+    "longitud": "124.243438",
+    "altitud": "84.45498",
+    "tiempo": "Tuesday, July 5, 2016 11:39 AM"
+  },
+  {
+    "latitud": "-75.99814",
+    "longitud": "-145.971145",
+    "altitud": "2.904778",
+    "tiempo": "Tuesday, June 30, 2020 12:52 AM"
+  },
+  {
+    "latitud": "47.343861",
+    "longitud": "-4.932181",
+    "altitud": "43.34555",
+    "tiempo": "Thursday, May 21, 2020 9:51 AM"
+  },
+  {
+    "latitud": "-86.028811",
+    "longitud": "-56.322191",
+    "altitud": "-37.019421",
+    "tiempo": "Sunday, October 23, 2016 2:40 AM"
+  },
+  {
+    "latitud": "24.118005",
+    "longitud": "-40.000099",
+    "altitud": "25.652687",
+    "tiempo": "Thursday, July 3, 2014 4:09 PM"
+  },
+  {
+    "latitud": "39.202487",
+    "longitud": "97.62766",
+    "altitud": "53.876368",
+    "tiempo": "Sunday, January 1, 2017 8:23 PM"
+  },
+  {
+    "latitud": "-40.794604",
+    "longitud": "-156.549943",
+    "altitud": "-24.622024",
+    "tiempo": "Monday, November 7, 2016 11:22 PM"
+  },
+  {
+    "latitud": "49.448809",
+    "longitud": "36.265666",
+    "altitud": "3.426386",
+    "tiempo": "Saturday, May 26, 2018 4:22 AM"
+  },
+  {
+    "latitud": "-5.978486",
+    "longitud": "128.868299",
+    "altitud": "30.123045",
+    "tiempo": "Thursday, May 1, 2014 10:58 PM"
+  },
+  {
+    "latitud": "36.56005",
+    "longitud": "-17.423402",
+    "altitud": "-16.327579",
+    "tiempo": "Wednesday, June 20, 2018 8:50 PM"
+  },
+  {
+    "latitud": "21.324502",
+    "longitud": "162.233691",
+    "altitud": "-14.310705",
+    "tiempo": "Monday, May 18, 2020 8:17 PM"
+  },
+  {
+    "latitud": "-39.486647",
+    "longitud": "110.838211",
+    "altitud": "-74.65844",
+    "tiempo": "Wednesday, December 9, 2020 12:16 PM"
+  },
+  {
+    "latitud": "16.457009",
+    "longitud": "-92.198892",
+    "altitud": "14.597806",
+    "tiempo": "Sunday, September 10, 2017 8:50 AM"
+  },
+  {
+    "latitud": "-52.407324",
+    "longitud": "-59.986763",
+    "altitud": "-21.67851",
+    "tiempo": "Thursday, August 1, 2019 3:29 PM"
+  },
+  {
+    "latitud": "42.864186",
+    "longitud": "-163.290766",
+    "altitud": "79.817227",
+    "tiempo": "Thursday, April 26, 2018 8:26 AM"
+  },
+  {
+    "latitud": "-47.599526",
+    "longitud": "81.585841",
+    "altitud": "-28.507706",
+    "tiempo": "Monday, March 12, 2018 8:13 PM"
+  },
+  {
+    "latitud": "37.578514",
+    "longitud": "72.656203",
+    "altitud": "-33.450704",
+    "tiempo": "Friday, March 13, 2015 10:36 PM"
+  },
+  {
+    "latitud": "59.656556",
+    "longitud": "-161.006705",
+    "altitud": "40.214306",
+    "tiempo": "Tuesday, January 6, 2015 9:48 AM"
+  },
+  {
+    "latitud": "81.079283",
+    "longitud": "-8.951998",
+    "altitud": "-39.267664",
+    "tiempo": "Saturday, May 25, 2019 8:31 PM"
+  },
+  {
+    "latitud": "21.757518",
+    "longitud": "39.665247",
+    "altitud": "-74.175308",
+    "tiempo": "Saturday, November 30, 2019 10:11 PM"
+  },
+  {
+    "latitud": "25.414854",
+    "longitud": "-154.485745",
+    "altitud": "-58.150877",
+    "tiempo": "Saturday, June 17, 2017 9:35 PM"
+  },
+  {
+    "latitud": "84.509608",
+    "longitud": "-104.623524",
+    "altitud": "-83.058213",
+    "tiempo": "Wednesday, August 17, 2016 4:03 AM"
+  },
+  {
+    "latitud": "-87.680155",
+    "longitud": "-42.221649",
+    "altitud": "-65.824044",
+    "tiempo": "Tuesday, June 18, 2019 9:45 AM"
+  },
+  {
+    "latitud": "-79.998589",
+    "longitud": "131.88664",
+    "altitud": "4.459347",
+    "tiempo": "Sunday, December 11, 2016 9:57 AM"
+  },
+  {
+    "latitud": "29.129332",
+    "longitud": "-108.81173",
+    "altitud": "-40.102121",
+    "tiempo": "Saturday, April 11, 2020 5:37 PM"
+  },
+  {
+    "latitud": "-58.423155",
+    "longitud": "-88.470489",
+    "altitud": "18.784389",
+    "tiempo": "Saturday, June 23, 2018 11:23 AM"
+  },
+  {
+    "latitud": "57.74892",
+    "longitud": "-133.343943",
+    "altitud": "-74.456789",
+    "tiempo": "Wednesday, April 8, 2020 1:24 PM"
+  },
+  {
+    "latitud": "38.37668",
+    "longitud": "173.061154",
+    "altitud": "52.739301",
+    "tiempo": "Sunday, November 6, 2016 7:08 AM"
+  },
+  {
+    "latitud": "59.125221",
+    "longitud": "138.757343",
+    "altitud": "-76.027238",
+    "tiempo": "Saturday, March 18, 2017 2:02 PM"
+  },
+  {
+    "latitud": "-56.260128",
+    "longitud": "79.218332",
+    "altitud": "79.301",
+    "tiempo": "Tuesday, February 28, 2017 4:52 PM"
+  },
+  {
+    "latitud": "-40.250491",
+    "longitud": "119.660596",
+    "altitud": "65.191461",
+    "tiempo": "Saturday, January 6, 2018 4:02 AM"
+  },
+  {
+    "latitud": "-14.694594",
+    "longitud": "-155.790551",
+    "altitud": "-13.723464",
+    "tiempo": "Tuesday, July 19, 2016 7:35 PM"
+  },
+  {
+    "latitud": "-84.855129",
+    "longitud": "-37.2442",
+    "altitud": "-83.455463",
+    "tiempo": "Thursday, September 17, 2020 9:55 PM"
+  },
+  {
+    "latitud": "16.214204",
+    "longitud": "-100.099681",
+    "altitud": "89.440088",
+    "tiempo": "Friday, March 20, 2020 3:37 AM"
+  },
+  {
+    "latitud": "-37.651187",
+    "longitud": "-58.047345",
+    "altitud": "-14.593205",
+    "tiempo": "Saturday, May 23, 2015 3:19 PM"
+  },
+  {
+    "latitud": "-74.136831",
+    "longitud": "156.676929",
+    "altitud": "68.411868",
+    "tiempo": "Monday, June 1, 2020 12:39 PM"
+  },
+  {
+    "latitud": "-84.138109",
+    "longitud": "88.626379",
+    "altitud": "-71.651953",
+    "tiempo": "Tuesday, March 17, 2015 2:59 AM"
+  },
+  {
+    "latitud": "-86.744123",
+    "longitud": "-48.621396",
+    "altitud": "53.073766",
+    "tiempo": "Tuesday, April 14, 2015 12:42 AM"
+  },
+  {
+    "latitud": "-72.829009",
+    "longitud": "-26.077658",
+    "altitud": "-17.112428",
+    "tiempo": "Thursday, December 3, 2015 3:05 PM"
+  },
+  {
+    "latitud": "-48.96234",
+    "longitud": "89.746833",
+    "altitud": "-50.621164",
+    "tiempo": "Monday, May 21, 2018 4:01 AM"
+  },
+  {
+    "latitud": "-26.977938",
+    "longitud": "141.624782",
+    "altitud": "78.16713",
+    "tiempo": "Sunday, April 19, 2015 6:40 PM"
+  },
+  {
+    "latitud": "-80.361991",
+    "longitud": "165.598036",
+    "altitud": "-27.683755",
+    "tiempo": "Saturday, July 7, 2018 7:35 PM"
+  },
+  {
+    "latitud": "65.243912",
+    "longitud": "-164.454468",
+    "altitud": "-26.618507",
+    "tiempo": "Friday, December 6, 2019 12:16 AM"
+  },
+  {
+    "latitud": "26.839021",
+    "longitud": "-92.595717",
+    "altitud": "89.402921",
+    "tiempo": "Sunday, October 25, 2015 7:04 AM"
+  },
+  {
+    "latitud": "42.557162",
+    "longitud": "-117.822258",
+    "altitud": "-66.550965",
+    "tiempo": "Thursday, December 14, 2017 12:35 AM"
+  },
+  {
+    "latitud": "1.369365",
+    "longitud": "153.135637",
+    "altitud": "-46.496711",
+    "tiempo": "Sunday, January 20, 2019 8:22 AM"
+  },
+  {
+    "latitud": "69.639987",
+    "longitud": "106.845415",
+    "altitud": "3.647758",
+    "tiempo": "Tuesday, January 27, 2015 3:04 PM"
+  },
+  {
+    "latitud": "22.888169",
+    "longitud": "-134.399509",
+    "altitud": "-6.426508",
+    "tiempo": "Tuesday, May 6, 2014 1:31 PM"
+  },
+  {
+    "latitud": "-78.415702",
+    "longitud": "137.54927",
+    "altitud": "14.681634",
+    "tiempo": "Saturday, March 11, 2017 11:52 PM"
+  },
+  {
+    "latitud": "-2.977391",
+    "longitud": "3.012119",
+    "altitud": "-74.928005",
+    "tiempo": "Monday, May 22, 2017 2:49 AM"
+  },
+  {
+    "latitud": "60.355101",
+    "longitud": "-135.102469",
+    "altitud": "29.332731",
+    "tiempo": "Friday, July 13, 2018 5:21 AM"
+  },
+  {
+    "latitud": "87.479022",
+    "longitud": "143.815002",
+    "altitud": "15.481489",
+    "tiempo": "Sunday, September 4, 2016 11:39 PM"
+  },
+  {
+    "latitud": "17.18982",
+    "longitud": "27.237622",
+    "altitud": "-7.037566",
+    "tiempo": "Thursday, March 19, 2020 2:29 PM"
+  },
+  {
+    "latitud": "-89.449963",
+    "longitud": "126.513093",
+    "altitud": "38.944749",
+    "tiempo": "Tuesday, May 5, 2020 5:31 PM"
+  },
+  {
+    "latitud": "47.566111",
+    "longitud": "59.265906",
+    "altitud": "1.465507",
+    "tiempo": "Thursday, October 26, 2017 2:13 AM"
+  },
+  {
+    "latitud": "-22.941759",
+    "longitud": "153.623121",
+    "altitud": "-61.993567",
+    "tiempo": "Wednesday, March 25, 2020 5:46 AM"
+  },
+  {
+    "latitud": "-53.561988",
+    "longitud": "-99.706213",
+    "altitud": "14.257475",
+    "tiempo": "Sunday, September 23, 2018 11:15 AM"
+  },
+  {
+    "latitud": "-2.283604",
+    "longitud": "-176.25749",
+    "altitud": "2.643306",
+    "tiempo": "Saturday, September 19, 2015 7:11 PM"
+  },
+  {
+    "latitud": "36.801367",
+    "longitud": "-25.708649",
+    "altitud": "-42.47839",
+    "tiempo": "Tuesday, January 14, 2014 4:40 PM"
+  },
+  {
+    "latitud": "39.501881",
+    "longitud": "74.192004",
+    "altitud": "-39.261231",
+    "tiempo": "Sunday, December 17, 2017 7:40 PM"
+  },
+  {
+    "latitud": "-18.207627",
+    "longitud": "111.866654",
+    "altitud": "75.209774",
+    "tiempo": "Saturday, June 27, 2015 12:08 AM"
+  },
+  {
+    "latitud": "-58.964056",
+    "longitud": "-126.653608",
+    "altitud": "43.762058",
+    "tiempo": "Thursday, April 11, 2019 2:58 PM"
+  },
+  {
+    "latitud": "3.298313",
+    "longitud": "-108.106131",
+    "altitud": "27.319973",
+    "tiempo": "Thursday, October 2, 2014 9:30 PM"
+  },
+  {
+    "latitud": "-23.191114",
+    "longitud": "134.444038",
+    "altitud": "-17.713994",
+    "tiempo": "Thursday, August 21, 2014 3:07 PM"
+  },
+  {
+    "latitud": "-69.860849",
+    "longitud": "-172.531187",
+    "altitud": "-81.341362",
+    "tiempo": "Saturday, January 11, 2014 1:39 PM"
+  },
+  {
+    "latitud": "-62.373596",
+    "longitud": "-4.918857",
+    "altitud": "50.596686",
+    "tiempo": "Monday, February 24, 2014 12:17 PM"
+  },
+  {
+    "latitud": "-21.036542",
+    "longitud": "-116.294579",
+    "altitud": "-14.183315",
+    "tiempo": "Saturday, June 7, 2014 10:51 PM"
+  },
+  {
+    "latitud": "-71.589116",
+    "longitud": "126.279932",
+    "altitud": "-63.475201",
+    "tiempo": "Friday, September 13, 2019 5:03 AM"
+  },
+  {
+    "latitud": "-79.706504",
+    "longitud": "60.758074",
+    "altitud": "-77.313936",
+    "tiempo": "Monday, July 27, 2015 9:51 PM"
+  },
+  {
+    "latitud": "-20.062651",
+    "longitud": "40.518321",
+    "altitud": "-64.900803",
+    "tiempo": "Monday, October 29, 2018 5:56 PM"
+  },
+  {
+    "latitud": "-50.522036",
+    "longitud": "-72.651162",
+    "altitud": "-12.359786",
+    "tiempo": "Friday, November 2, 2018 6:45 AM"
+  },
+  {
+    "latitud": "-81.778713",
+    "longitud": "83.276223",
+    "altitud": "-29.203981",
+    "tiempo": "Friday, November 30, 2018 9:49 AM"
+  },
+  {
+    "latitud": "-71.383824",
+    "longitud": "112.260819",
+    "altitud": "-47.234764",
+    "tiempo": "Wednesday, March 7, 2018 8:15 AM"
+  },
+  {
+    "latitud": "75.472364",
+    "longitud": "46.063731",
+    "altitud": "26.586636",
+    "tiempo": "Friday, October 11, 2019 8:58 PM"
+  },
+  {
+    "latitud": "52.442318",
+    "longitud": "142.717033",
+    "altitud": "-23.621427",
+    "tiempo": "Thursday, April 23, 2020 8:52 AM"
+  },
+  {
+    "latitud": "-4.416933",
+    "longitud": "-77.927171",
+    "altitud": "-31.005361",
+    "tiempo": "Thursday, January 21, 2016 3:28 AM"
+  },
+  {
+    "latitud": "42.573495",
+    "longitud": "97.600487",
+    "altitud": "37.596303",
+    "tiempo": "Friday, September 11, 2020 8:24 PM"
+  },
+  {
+    "latitud": "-17.645075",
+    "longitud": "90.895875",
+    "altitud": "-9.552787",
+    "tiempo": "Monday, November 2, 2015 5:16 PM"
+  },
+  {
+    "latitud": "67.061264",
+    "longitud": "179.661354",
+    "altitud": "36.830169",
+    "tiempo": "Sunday, May 10, 2015 4:57 AM"
+  },
+  {
+    "latitud": "24.068369",
+    "longitud": "159.950616",
+    "altitud": "24.039382",
+    "tiempo": "Sunday, March 30, 2014 12:54 PM"
+  },
+  {
+    "latitud": "-30.958317",
+    "longitud": "66.247837",
+    "altitud": "-29.349782",
+    "tiempo": "Monday, February 22, 2016 7:58 AM"
+  },
+  {
+    "latitud": "-77.636973",
+    "longitud": "-129.093493",
+    "altitud": "65.616127",
+    "tiempo": "Friday, August 18, 2017 9:24 PM"
+  },
+  {
+    "latitud": "74.319006",
+    "longitud": "44.234207",
+    "altitud": "4.912604",
+    "tiempo": "Thursday, October 25, 2018 11:44 AM"
+  },
+  {
+    "latitud": "28.445502",
+    "longitud": "-54.362912",
+    "altitud": "81.59347",
+    "tiempo": "Saturday, August 24, 2019 2:24 PM"
+  },
+  {
+    "latitud": "7.217307",
+    "longitud": "-98.02266",
+    "altitud": "29.055469",
+    "tiempo": "Sunday, January 14, 2018 12:19 AM"
+  },
+  {
+    "latitud": "1.209389",
+    "longitud": "-69.742645",
+    "altitud": "-2.241905",
+    "tiempo": "Friday, January 20, 2017 9:57 PM"
+  },
+  {
+    "latitud": "24.608355",
+    "longitud": "-115.80727",
+    "altitud": "30.739513",
+    "tiempo": "Thursday, March 13, 2014 5:17 AM"
+  },
+  {
+    "latitud": "51.540525",
+    "longitud": "83.174533",
+    "altitud": "38.671699",
+    "tiempo": "Tuesday, April 2, 2019 4:04 AM"
+  },
+  {
+    "latitud": "56.58866",
+    "longitud": "98.94307",
+    "altitud": "87.853308",
+    "tiempo": "Tuesday, July 3, 2018 7:55 PM"
+  },
+  {
+    "latitud": "69.326472",
+    "longitud": "50.582573",
+    "altitud": "-86.303386",
+    "tiempo": "Monday, September 28, 2020 3:04 PM"
+  },
+  {
+    "latitud": "17.716277",
+    "longitud": "7.097118",
+    "altitud": "-75.552897",
+    "tiempo": "Sunday, October 8, 2017 1:54 PM"
+  },
+  {
+    "latitud": "-54.557823",
+    "longitud": "-120.163544",
+    "altitud": "-89.16866",
+    "tiempo": "Thursday, November 8, 2018 6:31 PM"
+  },
+  {
+    "latitud": "-71.809444",
+    "longitud": "-86.331518",
+    "altitud": "-70.390648",
+    "tiempo": "Tuesday, March 7, 2017 9:13 PM"
+  },
+  {
+    "latitud": "-63.797452",
+    "longitud": "104.417736",
+    "altitud": "28.396503",
+    "tiempo": "Sunday, March 1, 2020 7:24 PM"
+  },
+  {
+    "latitud": "-24.92245",
+    "longitud": "-168.722558",
+    "altitud": "87.807577",
+    "tiempo": "Saturday, January 2, 2021 9:43 PM"
+  }
+]

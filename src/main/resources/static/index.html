@@ -1,16 +1,185 @@
 <!DOCTYPE HTML>
 <html>
 	<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	
 <h1>MongoDB insercion de 1000000 datos</h1>
-<button type="button">Iniciar prueba</button>
+
+<p>Insertar todos los datos</p>
+
+
+<button onclick="i_all()">Iniciar</button> <br />
+
+<p>Insertar por collection</p>
+
+<button onclick="a()">Camion</button>
+<button onclick="a()">Carga</button>
+<button onclick="a()">Conductor</button>
+<button onclick="a()">Coordenada</button>
+<button onclick="a()">OrigenDestino</button>
+<button onclick="a()">Propietario</button>
+<button onclick="a()">Remolque</button>
+<button onclick="i_viaje()">Viaje</button> <br />
+
+<p>Borrar todo</p>
+
 <button onclick="borrado()">Borrar todo</button>
-<p id="demo" onclick="myFunction()">Click me to change my text color.</p>
+
+<p>Borrar por collection</p>
+
+<button onclick="b_camion()">Camion</button>
+<button onclick="b_carga()">Carga</button>
+<button onclick="b_conductor()">Conductor</button>
+<button onclick="b_coordenada()">Coordenada</button>
+<button onclick="b_origendestino()">OrigenDestino</button>
+<button onclick="b_propietario()">Propietario</button>
+<button onclick="b_remolque()">Remolque</button>
+<button onclick="b_viaje()">Viaje</button> <br />
+
+
+
 </html>
 
-
 <script>
-function myFunction() {
-  document.getElementById("demo").style.color = "red";
+
+
+
+
+function i_all(){
+	
+	
+	
+ 	 
+ 	 
+}
+
+
+
+
+function i_viaje() {
+	alert("Insertando")   
+	
+	fetch("viaje.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/viaje/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	    
+	});
+	
+}
+
+
+function b_viaje() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/viaje/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+function b_remolque() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/remolque/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+function b_propietario() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/propietario/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+function b_origendestino() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/origendestino/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+function b_coordenada() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/coordenada/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+
+function b_conductor() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/conductor/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+
+function b_carga() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/carga/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+}
+
+
+function b_camion() {
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/camion/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
 }
 
 

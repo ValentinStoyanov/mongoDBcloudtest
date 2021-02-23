@@ -1,0 +1,7642 @@
+[
+  {
+    "numeroBastidor": 75866522,
+    "matricula": "3742 JTH",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 28,
+    "idCarga": "977b7dd2-3e22-4514-978e-693236e95aac"
+  },
+  {
+    "numeroBastidor": 27497411,
+    "matricula": "2116 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 27,
+    "idCarga": "d80de926-9040-4c63-a5df-879b4a12d3bf"
+  },
+  {
+    "numeroBastidor": 18339298,
+    "matricula": "9577 LOG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 18,
+    "idCarga": "070a70a3-9502-4e73-82d7-6bfb38926f05"
+  },
+  {
+    "numeroBastidor": 93238897,
+    "matricula": "4541 SSE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1a868b1c-fb47-43d1-8422-5aa1616be2b8"
+  },
+  {
+    "numeroBastidor": 60870611,
+    "matricula": "6960 SSE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 88,
+    "idCarga": "ee6ecbaa-7bdf-4b8f-a22f-40a5502d6848"
+  },
+  {
+    "numeroBastidor": 95443381,
+    "matricula": "7551 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 12,
+    "idCarga": "882bd85c-ae50-4681-8daa-4654fc2c2d7c"
+  },
+  {
+    "numeroBastidor": 35829157,
+    "matricula": "8062 SET",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 1,
+    "idCarga": "65ac476f-2c99-4e12-9556-a4afba7ddafd"
+  },
+  {
+    "numeroBastidor": 46757811,
+    "matricula": "2331 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 2,
+    "idCarga": "86078b5d-bd1f-43bf-adef-2fe8600a0409"
+  },
+  {
+    "numeroBastidor": 71645874,
+    "matricula": "6507 EVM",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 31,
+    "idCarga": "c6844663-cdb2-460d-8e7f-4c19543e077b"
+  },
+  {
+    "numeroBastidor": 83704166,
+    "matricula": "6672 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 19,
+    "idCarga": "3c5a7812-ddd7-4fe8-89b7-fb247edf3e70"
+  },
+  {
+    "numeroBastidor": 72701982,
+    "matricula": "9691 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 4,
+    "idCarga": "83d019b0-4dba-44c9-b087-d7bf8f428737"
+  },
+  {
+    "numeroBastidor": 4301132,
+    "matricula": "7023 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 98,
+    "idCarga": "0a134084-66c3-404d-b762-d6f8936b0b7a"
+  },
+  {
+    "numeroBastidor": 17594763,
+    "matricula": "5850 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "b382fa09-2284-43d5-885b-37d5590d2aea"
+  },
+  {
+    "numeroBastidor": 74054129,
+    "matricula": "4637 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 57,
+    "idCarga": "175c4727-34ef-441a-9bb0-cd0d31604ead"
+  },
+  {
+    "numeroBastidor": 31616933,
+    "matricula": "1651 SSE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 49,
+    "idCarga": "d202fb4b-bc87-4aa8-8829-e02bd21eedf0"
+  },
+  {
+    "numeroBastidor": 89992214,
+    "matricula": "7323 HTF",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 70,
+    "idCarga": "1e7c3b33-86de-4e5e-b25c-37bf27019bc6"
+  },
+  {
+    "numeroBastidor": 31065687,
+    "matricula": "8378 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "78142af2-cee9-44a4-880f-cd2d23671fd3"
+  },
+  {
+    "numeroBastidor": 14285564,
+    "matricula": "9712 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "864a815e-37b2-4aa6-a2f1-170899afebc5"
+  },
+  {
+    "numeroBastidor": 42200818,
+    "matricula": "9143 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 69,
+    "idCarga": "ece194b8-42d8-4a27-b9dd-b719818918a9"
+  },
+  {
+    "numeroBastidor": 3058717,
+    "matricula": "6601 ERE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 79,
+    "idCarga": "ec3bcedc-e623-431d-9a52-ed09f2677c85"
+  },
+  {
+    "numeroBastidor": 69515412,
+    "matricula": "4461 EVM",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 97,
+    "idCarga": "0e03d398-7712-4943-9ce4-7f0ee8726ce4"
+  },
+  {
+    "numeroBastidor": 95601304,
+    "matricula": "5886 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 19,
+    "idCarga": "36d25d45-9810-4d3d-9e98-e8ed8f11f2a1"
+  },
+  {
+    "numeroBastidor": 94590618,
+    "matricula": "6895 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "e2c5216d-16d4-42bc-ae92-64fa7b84865f"
+  },
+  {
+    "numeroBastidor": 74100476,
+    "matricula": "4573 JTH",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "0444ee47-2447-4d98-8095-ec8f9ed19710"
+  },
+  {
+    "numeroBastidor": 10030329,
+    "matricula": "2069 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 21,
+    "idCarga": "7cdfeb2c-f98f-4d01-8b68-2e02e5328ef4"
+  },
+  {
+    "numeroBastidor": 43902736,
+    "matricula": "2413 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "273d7145-16f1-4094-b46d-8366fc64fbf0"
+  },
+  {
+    "numeroBastidor": 21553829,
+    "matricula": "5884 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 62,
+    "idCarga": "2365ed1f-2ffe-4453-bfd3-bead8018e823"
+  },
+  {
+    "numeroBastidor": 68364244,
+    "matricula": "1356 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "a8d2793a-e22b-48a7-b68a-97dc4851d2c5"
+  },
+  {
+    "numeroBastidor": 44938509,
+    "matricula": "2071 JTH",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "87e440d8-1a17-42a3-a8f3-46b87cdd302d"
+  },
+  {
+    "numeroBastidor": 49873923,
+    "matricula": "5600 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 32,
+    "idCarga": "9dccb7f5-a5b7-45d8-9d0d-a24b41b5c127"
+  },
+  {
+    "numeroBastidor": 48835908,
+    "matricula": "6742 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 8,
+    "idCarga": "03e6bcef-e5ba-43b6-a923-97037f945887"
+  },
+  {
+    "numeroBastidor": 93093587,
+    "matricula": "1144 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 12,
+    "idCarga": "93de69b6-b9ac-4879-bce2-8c834bd0df63"
+  },
+  {
+    "numeroBastidor": 78583254,
+    "matricula": "5119 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 71,
+    "idCarga": "e93ac693-c806-4141-bb01-1f38116c116f"
+  },
+  {
+    "numeroBastidor": 35545047,
+    "matricula": "9257 SET",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 70,
+    "idCarga": "9ec7da36-3aa4-4bc8-9da0-2fb7befdecf7"
+  },
+  {
+    "numeroBastidor": 87723079,
+    "matricula": "5595 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 44,
+    "idCarga": "fdd34304-d33d-42de-968a-c4b15c3955a0"
+  },
+  {
+    "numeroBastidor": 37043112,
+    "matricula": "6230 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "dd949a1c-fb0c-45cd-a7ca-149f718c7996"
+  },
+  {
+    "numeroBastidor": 16796750,
+    "matricula": "8985 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 94,
+    "idCarga": "78fdce22-795b-4e3c-b712-9c02873116c2"
+  },
+  {
+    "numeroBastidor": 76528484,
+    "matricula": "3213 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 34,
+    "idCarga": "bd08bf67-3b67-4914-aaf9-d9a0ef82f3b2"
+  },
+  {
+    "numeroBastidor": 26568435,
+    "matricula": "2085 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 1,
+    "idCarga": "7f36ff0d-c6a8-4840-aaf9-4b0630633db5"
+  },
+  {
+    "numeroBastidor": 24731188,
+    "matricula": "4697 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 58,
+    "idCarga": "c9fc4f48-4274-4019-8b5b-827047d611f4"
+  },
+  {
+    "numeroBastidor": 75836580,
+    "matricula": "8430 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 45,
+    "idCarga": "a1c19091-29cb-41a4-b349-c5cb415dd5f1"
+  },
+  {
+    "numeroBastidor": 66360053,
+    "matricula": "5975 JTH",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 34,
+    "idCarga": "c46917d8-3857-44b0-8df3-66ca1a162f06"
+  },
+  {
+    "numeroBastidor": 87891158,
+    "matricula": "7022 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "464221a1-511f-46ce-a636-7073f3de71f9"
+  },
+  {
+    "numeroBastidor": 9714844,
+    "matricula": "8580 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "260b0da1-8192-4e2f-a9e5-4b53e4efcef4"
+  },
+  {
+    "numeroBastidor": 1518162,
+    "matricula": "6875 HTF",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "c72f764c-c164-4080-a3ac-080d188d724c"
+  },
+  {
+    "numeroBastidor": 16151158,
+    "matricula": "2594 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 44,
+    "idCarga": "7670d64c-dba6-403a-8551-170b6639c8d5"
+  },
+  {
+    "numeroBastidor": 82075776,
+    "matricula": "5296 JTH",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 35,
+    "idCarga": "a81cf1e4-f33e-4215-a98e-12165fc45ca2"
+  },
+  {
+    "numeroBastidor": 66764096,
+    "matricula": "7958 RTG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 84,
+    "idCarga": "644f1d0b-a6f2-4ef0-81c2-10017de402b5"
+  },
+  {
+    "numeroBastidor": 23628046,
+    "matricula": "2587 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "c6d8e4da-dae1-4dcc-9690-baa68a7e59c0"
+  },
+  {
+    "numeroBastidor": 99096769,
+    "matricula": "2037 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "9501e39f-6839-4774-9542-4565e58475f1"
+  },
+  {
+    "numeroBastidor": 72413127,
+    "matricula": "4746 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 95,
+    "idCarga": "ed220ca3-718c-4e70-9cf6-bf2b4e1c0a05"
+  },
+  {
+    "numeroBastidor": 22163021,
+    "matricula": "5590 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 39,
+    "idCarga": "6178dc32-2612-4f9f-8c47-565a0aacffca"
+  },
+  {
+    "numeroBastidor": 7837434,
+    "matricula": "2174 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 75,
+    "idCarga": "df94f49e-6cb4-4a58-8fa0-d3fdb701c784"
+  },
+  {
+    "numeroBastidor": 34384864,
+    "matricula": "1498 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 60,
+    "idCarga": "149db2b2-ac00-4cdc-9aee-36365c1a9384"
+  },
+  {
+    "numeroBastidor": 44728879,
+    "matricula": "5739 SSE",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 85,
+    "idCarga": "c6dea06b-4540-4b27-908d-b3dc14ff7183"
+  },
+  {
+    "numeroBastidor": 32056584,
+    "matricula": "8161 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 89,
+    "idCarga": "5764977a-97eb-427f-a5f9-b554d0f842b1"
+  },
+  {
+    "numeroBastidor": 82888585,
+    "matricula": "6650 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "0c33d872-f18f-4b22-8780-fe6ac02a3d24"
+  },
+  {
+    "numeroBastidor": 68083139,
+    "matricula": "8083 EVM",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 20,
+    "idCarga": "07cb694e-e2d9-4df8-b1ee-9b6b89696312"
+  },
+  {
+    "numeroBastidor": 98094491,
+    "matricula": "7962 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 24,
+    "idCarga": "f79eadd8-2153-478a-baef-b7f881ce94cd"
+  },
+  {
+    "numeroBastidor": 17574239,
+    "matricula": "2900 JTH",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 15,
+    "idCarga": "3a24b026-e7b8-480a-96a8-a6e7a5dce5cd"
+  },
+  {
+    "numeroBastidor": 70017950,
+    "matricula": "1274 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 39,
+    "idCarga": "411d6665-0d60-4634-b73c-bc5681205708"
+  },
+  {
+    "numeroBastidor": 36051406,
+    "matricula": "4856 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "abfbf293-6100-41a5-acfa-38ea2497a618"
+  },
+  {
+    "numeroBastidor": 30889083,
+    "matricula": "6212 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 27,
+    "idCarga": "94147a6b-e3f2-4a78-9e63-89d38d74b271"
+  },
+  {
+    "numeroBastidor": 12131553,
+    "matricula": "5943 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "11c71247-cbbd-4104-b3c0-313b7445efd8"
+  },
+  {
+    "numeroBastidor": 66960873,
+    "matricula": "5490 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 70,
+    "idCarga": "88a11204-063e-4552-9a74-4c3fd13c3d95"
+  },
+  {
+    "numeroBastidor": 31699685,
+    "matricula": "4325 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "f5e4187f-5015-4264-a2a1-d8d933d984f2"
+  },
+  {
+    "numeroBastidor": 46040003,
+    "matricula": "7891 SSE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 61,
+    "idCarga": "89ae9129-1c1f-4bf4-9749-be4ca97791e0"
+  },
+  {
+    "numeroBastidor": 45188622,
+    "matricula": "9135 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "a87328b7-affb-4425-9ee0-67ec7c138ade"
+  },
+  {
+    "numeroBastidor": 15945906,
+    "matricula": "7168 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 86,
+    "idCarga": "11cf9d6e-5afb-47ec-a2ac-7d9ced065506"
+  },
+  {
+    "numeroBastidor": 50442633,
+    "matricula": "6764 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 89,
+    "idCarga": "3e85afcf-b2d0-4a3e-9495-1c41b514ef2c"
+  },
+  {
+    "numeroBastidor": 9880009,
+    "matricula": "7417 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 57,
+    "idCarga": "2f3a5ebd-56bb-4e00-8888-9342be03d0e2"
+  },
+  {
+    "numeroBastidor": 73818392,
+    "matricula": "5837 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "481d5112-b114-4e33-8a99-c12b9c409f53"
+  },
+  {
+    "numeroBastidor": 1750021,
+    "matricula": "5091 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 20,
+    "idCarga": "28f262d4-fff4-4e5c-9ea8-ff580d13f32c"
+  },
+  {
+    "numeroBastidor": 72635472,
+    "matricula": "5488 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "f4f3cb59-ea1a-4857-9c18-dd0d96caaf18"
+  },
+  {
+    "numeroBastidor": 57519307,
+    "matricula": "7338 SET",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 14,
+    "idCarga": "3b09c637-563a-4af2-80f7-859a4869294f"
+  },
+  {
+    "numeroBastidor": 63879869,
+    "matricula": "2467 ERE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 3,
+    "idCarga": "add5db8e-aa71-4307-9c9f-8b908aa8aed9"
+  },
+  {
+    "numeroBastidor": 88419198,
+    "matricula": "1231 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 55,
+    "idCarga": "c2061603-bf03-4073-9ee2-d93119b78448"
+  },
+  {
+    "numeroBastidor": 71982640,
+    "matricula": "1743 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "2cb4b7e2-0436-4933-adde-05d7621b5f39"
+  },
+  {
+    "numeroBastidor": 57308718,
+    "matricula": "5928 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 72,
+    "idCarga": "cf722897-5013-49e6-8c83-1eae652b2ae0"
+  },
+  {
+    "numeroBastidor": 46897520,
+    "matricula": "7799 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 76,
+    "idCarga": "35fb732c-d66e-40ee-8225-15c6bdb308a4"
+  },
+  {
+    "numeroBastidor": 30930623,
+    "matricula": "4849 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "17791aab-bac6-41ba-aa1b-92fd213f4f48"
+  },
+  {
+    "numeroBastidor": 76353514,
+    "matricula": "5879 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 10,
+    "idCarga": "94b64ad1-2474-4888-8c1d-6cdc6cb893a1"
+  },
+  {
+    "numeroBastidor": 9679151,
+    "matricula": "6158 JTH",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 59,
+    "idCarga": "c7687446-6aa8-4cf6-b345-c1396f33a69a"
+  },
+  {
+    "numeroBastidor": 18316698,
+    "matricula": "1096 SET",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "fd38fc37-da57-497a-815a-c2b23de06ad5"
+  },
+  {
+    "numeroBastidor": 5002252,
+    "matricula": "6510 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 79,
+    "idCarga": "274ceeaa-dca1-492d-94be-543e8f9e09ee"
+  },
+  {
+    "numeroBastidor": 66049032,
+    "matricula": "4864 JTH",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 47,
+    "idCarga": "00d1fd97-fe8f-49e0-8769-86858823b6de"
+  },
+  {
+    "numeroBastidor": 99632482,
+    "matricula": "2496 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 48,
+    "idCarga": "eb6687bf-8102-4761-bbe2-5f90c4bbfd1d"
+  },
+  {
+    "numeroBastidor": 66394757,
+    "matricula": "3497 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "52f5eac0-b0f4-43d4-91e4-cd54dd07386d"
+  },
+  {
+    "numeroBastidor": 33164334,
+    "matricula": "3161 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 30,
+    "idCarga": "32694589-b2e2-49ac-a122-8884534b7497"
+  },
+  {
+    "numeroBastidor": 81574068,
+    "matricula": "8755 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 47,
+    "idCarga": "a58679c2-c9e7-4607-af4c-8a2f1ab84e5c"
+  },
+  {
+    "numeroBastidor": 19197486,
+    "matricula": "8479 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 2,
+    "idCarga": "48195cd2-2bca-42ac-84ef-30783f571489"
+  },
+  {
+    "numeroBastidor": 86900390,
+    "matricula": "3489 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 84,
+    "idCarga": "ed416dbc-b4e4-4ea3-9da4-813d294c1924"
+  },
+  {
+    "numeroBastidor": 28247637,
+    "matricula": "4176 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 98,
+    "idCarga": "7bff5e30-4a0e-4bd1-a271-56e1af5a85aa"
+  },
+  {
+    "numeroBastidor": 15494413,
+    "matricula": "6703 LOG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "051dbc75-a21f-4ea7-aabf-0c23cbce5393"
+  },
+  {
+    "numeroBastidor": 3151283,
+    "matricula": "4292 EVM",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 66,
+    "idCarga": "abaeb1ef-6499-445f-958e-916aa9e921ea"
+  },
+  {
+    "numeroBastidor": 45042538,
+    "matricula": "2192 JTH",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 98,
+    "idCarga": "def250ad-eb8a-417a-a34a-0cb29230d9be"
+  },
+  {
+    "numeroBastidor": 88178065,
+    "matricula": "2011 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 31,
+    "idCarga": "3b672901-63bd-45e0-9689-ff91d98f272e"
+  },
+  {
+    "numeroBastidor": 38151956,
+    "matricula": "9252 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 52,
+    "idCarga": "6e821870-5e5c-4022-be73-a9e4c2e3f25e"
+  },
+  {
+    "numeroBastidor": 19053119,
+    "matricula": "3713 EVM",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 16,
+    "idCarga": "96ca3d9c-ca47-4a45-8865-ac03dbc4c4ea"
+  },
+  {
+    "numeroBastidor": 64154446,
+    "matricula": "2047 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 26,
+    "idCarga": "eec406bc-7eef-4407-b0e4-4844eb7bc0a9"
+  },
+  {
+    "numeroBastidor": 74618912,
+    "matricula": "1021 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 85,
+    "idCarga": "5cc8bcb4-9365-4d30-9f12-bdc4087a262e"
+  },
+  {
+    "numeroBastidor": 95833393,
+    "matricula": "3202 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "82986bfc-1149-4de0-81dc-8555c403b2cf"
+  },
+  {
+    "numeroBastidor": 41726726,
+    "matricula": "5642 RTG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 14,
+    "idCarga": "bb6b8287-b7b4-4ba8-962c-064503c847e4"
+  },
+  {
+    "numeroBastidor": 86909939,
+    "matricula": "3044 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "04d9b39a-6b65-44c7-b63d-a3587102dee5"
+  },
+  {
+    "numeroBastidor": 10293744,
+    "matricula": "7864 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 54,
+    "idCarga": "444b2044-850a-46bd-bf7f-61a30d53da06"
+  },
+  {
+    "numeroBastidor": 85425518,
+    "matricula": "9284 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 93,
+    "idCarga": "56b2f11c-0168-410d-965d-5831388eb26e"
+  },
+  {
+    "numeroBastidor": 46176299,
+    "matricula": "6584 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 85,
+    "idCarga": "1c39e301-feee-4d49-b87b-3cefe4eb40b3"
+  },
+  {
+    "numeroBastidor": 22597456,
+    "matricula": "7507 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 29,
+    "idCarga": "539a5a5d-c65c-4ec3-ae06-b5a41dc3c738"
+  },
+  {
+    "numeroBastidor": 74983298,
+    "matricula": "9711 SSE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 87,
+    "idCarga": "648a9653-a785-4cab-ab28-a815294d39c5"
+  },
+  {
+    "numeroBastidor": 86014835,
+    "matricula": "9391 SET",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 75,
+    "idCarga": "d2e964a2-fcbc-47f3-9770-b5d599413636"
+  },
+  {
+    "numeroBastidor": 42132825,
+    "matricula": "6572 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 88,
+    "idCarga": "3c920807-3f56-4c37-a3f6-1d193863f3ef"
+  },
+  {
+    "numeroBastidor": 30975185,
+    "matricula": "3266 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 11,
+    "idCarga": "b64a7042-bd9a-46be-9483-5da44bca602c"
+  },
+  {
+    "numeroBastidor": 41402359,
+    "matricula": "9373 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 55,
+    "idCarga": "be993ef4-cf23-42cb-b529-15659c92d47c"
+  },
+  {
+    "numeroBastidor": 10562513,
+    "matricula": "1240 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 3,
+    "idCarga": "cc294245-aa2c-46c1-821c-0134e3b6b0b7"
+  },
+  {
+    "numeroBastidor": 71806930,
+    "matricula": "6530 SSE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 40,
+    "idCarga": "c320f341-be7a-4d11-ad4e-fb187bb2bea0"
+  },
+  {
+    "numeroBastidor": 29499277,
+    "matricula": "4154 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 36,
+    "idCarga": "76d9ba76-d36d-4497-81eb-f285d7539efe"
+  },
+  {
+    "numeroBastidor": 83409966,
+    "matricula": "5952 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 77,
+    "idCarga": "f2cc77f5-9cb4-4d65-ab56-3f35539e89d2"
+  },
+  {
+    "numeroBastidor": 78297373,
+    "matricula": "9595 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 14,
+    "idCarga": "3df199c1-7168-4c13-a40b-0cbdeebab527"
+  },
+  {
+    "numeroBastidor": 50093145,
+    "matricula": "2220 HTF",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 94,
+    "idCarga": "675cc620-834a-4705-a3df-20e3fd7e9121"
+  },
+  {
+    "numeroBastidor": 83708020,
+    "matricula": "5926 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 49,
+    "idCarga": "26e69bed-f4f0-4b5e-b5f9-ba9af6636562"
+  },
+  {
+    "numeroBastidor": 94683500,
+    "matricula": "2243 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 96,
+    "idCarga": "5d65592b-1fef-4272-a1ee-4f676f223e0a"
+  },
+  {
+    "numeroBastidor": 54498232,
+    "matricula": "1571 SET",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 84,
+    "idCarga": "6c13c1bd-6933-491c-9d15-4be27d6a835e"
+  },
+  {
+    "numeroBastidor": 50682102,
+    "matricula": "2606 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "d3d8c8b9-a9d9-461d-9e72-cc0661b8150e"
+  },
+  {
+    "numeroBastidor": 77992995,
+    "matricula": "9892 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 79,
+    "idCarga": "f246bc2e-fc8e-45be-93a5-3bb9c9866d0f"
+  },
+  {
+    "numeroBastidor": 66458796,
+    "matricula": "9550 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 25,
+    "idCarga": "f1266a49-bc7d-44ba-8780-0f84be7a4f71"
+  },
+  {
+    "numeroBastidor": 4131072,
+    "matricula": "7309 RTG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 21,
+    "idCarga": "24fe4c74-6784-4576-a9d3-e60f5e1cf623"
+  },
+  {
+    "numeroBastidor": 65541062,
+    "matricula": "4497 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 50,
+    "idCarga": "2e0ab802-5d5f-41ed-95bd-293890ba93f0"
+  },
+  {
+    "numeroBastidor": 45898516,
+    "matricula": "2774 RTG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 94,
+    "idCarga": "ab06d32e-f521-47ff-9fb7-cef04d31eb31"
+  },
+  {
+    "numeroBastidor": 11437237,
+    "matricula": "8529 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 72,
+    "idCarga": "4f2f43a9-7638-4bd4-88d3-69bfd4d6c35c"
+  },
+  {
+    "numeroBastidor": 92392181,
+    "matricula": "7701 EVM",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 39,
+    "idCarga": "68fa5ae1-9812-4499-832d-1d8cea84ad97"
+  },
+  {
+    "numeroBastidor": 14817722,
+    "matricula": "5585 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 73,
+    "idCarga": "8a139a07-e098-4bfc-bb40-8daaf9870055"
+  },
+  {
+    "numeroBastidor": 34222343,
+    "matricula": "1182 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "243cdb76-b024-43b2-a2d1-638eab716a33"
+  },
+  {
+    "numeroBastidor": 17279662,
+    "matricula": "1860 HTF",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 12,
+    "idCarga": "35b42187-037e-4116-b3f8-48151c8b3344"
+  },
+  {
+    "numeroBastidor": 34528556,
+    "matricula": "4804 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 14,
+    "idCarga": "7c7d3656-b44a-4fcc-a806-a65768ae5c99"
+  },
+  {
+    "numeroBastidor": 13598703,
+    "matricula": "7477 SET",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 97,
+    "idCarga": "b3beeaa3-fbfa-40b0-b713-bb8d4648102c"
+  },
+  {
+    "numeroBastidor": 30204469,
+    "matricula": "6837 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "8d9a9c77-b9cc-43f6-9207-a88bc4bf62c1"
+  },
+  {
+    "numeroBastidor": 26339577,
+    "matricula": "2040 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "46c10d7d-349a-48ee-8a2c-78d2419928e3"
+  },
+  {
+    "numeroBastidor": 1701208,
+    "matricula": "8997 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 59,
+    "idCarga": "952ddaec-46b5-4474-aa7d-5814711d7c8c"
+  },
+  {
+    "numeroBastidor": 84431325,
+    "matricula": "2945 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 90,
+    "idCarga": "f2d72228-3eed-4b85-a1ea-a19f1deb1041"
+  },
+  {
+    "numeroBastidor": 76333009,
+    "matricula": "9131 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 84,
+    "idCarga": "1a2b2ba4-0c12-489c-bf21-25e0f35e9578"
+  },
+  {
+    "numeroBastidor": 45029249,
+    "matricula": "9846 ERE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 45,
+    "idCarga": "827fce5b-6e17-457d-92f8-91baa7116614"
+  },
+  {
+    "numeroBastidor": 42828359,
+    "matricula": "3956 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 1,
+    "idCarga": "6e4e0051-f31c-45ae-8116-54c0cc3c96a3"
+  },
+  {
+    "numeroBastidor": 60325958,
+    "matricula": "5007 HTF",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 90,
+    "idCarga": "b69ac8e9-908a-4d4b-8611-141b8e903c23"
+  },
+  {
+    "numeroBastidor": 8490810,
+    "matricula": "8448 SSE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "172145d3-f549-45f5-bd11-489a41dd12a0"
+  },
+  {
+    "numeroBastidor": 87066288,
+    "matricula": "5692 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 25,
+    "idCarga": "c82f75ce-347a-4eed-a1b5-6111d234f5d6"
+  },
+  {
+    "numeroBastidor": 70540532,
+    "matricula": "6215 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "a1f4e0b5-dda1-4dc8-b0b3-21c5f46ded1a"
+  },
+  {
+    "numeroBastidor": 18077525,
+    "matricula": "8867 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 5,
+    "idCarga": "bbd58372-4e94-4d76-b33b-ed9e0bf34fa6"
+  },
+  {
+    "numeroBastidor": 1145813,
+    "matricula": "6596 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 3,
+    "idCarga": "19fd6233-9dec-49bc-b8b6-c72a2c60158c"
+  },
+  {
+    "numeroBastidor": 7965371,
+    "matricula": "4581 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 9,
+    "idCarga": "478b2357-d3b2-41a2-8053-98deb015ae7d"
+  },
+  {
+    "numeroBastidor": 20065201,
+    "matricula": "6114 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "bfeec7e6-c620-47c4-be66-8096b1cc918e"
+  },
+  {
+    "numeroBastidor": 2613771,
+    "matricula": "2995 JTH",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "b3e04483-dc04-4f88-b9d4-017943907f83"
+  },
+  {
+    "numeroBastidor": 6911874,
+    "matricula": "4318 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "1a3c09c5-9a03-4527-aa38-7520e8f1a590"
+  },
+  {
+    "numeroBastidor": 36988175,
+    "matricula": "2714 ERE",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 50,
+    "idCarga": "a30eae5f-fdd3-4066-a14e-02bfb482bda8"
+  },
+  {
+    "numeroBastidor": 63003240,
+    "matricula": "3014 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "93d1db04-94c2-4f48-a068-14ce632b35f7"
+  },
+  {
+    "numeroBastidor": 20271060,
+    "matricula": "3350 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "2d217ac6-15e4-4854-ba23-c03b8097f98e"
+  },
+  {
+    "numeroBastidor": 48196314,
+    "matricula": "8932 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "bbd50596-4d18-4361-a859-47ffbf452b06"
+  },
+  {
+    "numeroBastidor": 44440479,
+    "matricula": "5105 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 25,
+    "idCarga": "5ec42d04-ac4e-4833-9017-6281f3b80df0"
+  },
+  {
+    "numeroBastidor": 80892452,
+    "matricula": "6156 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 53,
+    "idCarga": "dfd309f0-da33-45bc-bc90-34cabf6347eb"
+  },
+  {
+    "numeroBastidor": 91851919,
+    "matricula": "8903 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 76,
+    "idCarga": "486aa9ab-5147-4efe-83e0-32e09e2bda09"
+  },
+  {
+    "numeroBastidor": 65872115,
+    "matricula": "3129 EVM",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 59,
+    "idCarga": "9f825577-eb0c-419d-87be-744675d1f019"
+  },
+  {
+    "numeroBastidor": 63475555,
+    "matricula": "4303 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5,
+    "idCarga": "b5ea7ecb-1053-4f38-bab5-681e0cbe7385"
+  },
+  {
+    "numeroBastidor": 36881707,
+    "matricula": "6929 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 74,
+    "idCarga": "d6c6f1b9-26e5-48fa-9583-cbf8836857ce"
+  },
+  {
+    "numeroBastidor": 60778937,
+    "matricula": "3436 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "6d155b7e-65db-4341-82d5-c457fce1bbe7"
+  },
+  {
+    "numeroBastidor": 4429738,
+    "matricula": "8292 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "236fafd6-380b-4e40-953c-e7dd75cd39b4"
+  },
+  {
+    "numeroBastidor": 88401669,
+    "matricula": "7105 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "36e91c9f-d272-4e64-8f3f-28f644782177"
+  },
+  {
+    "numeroBastidor": 7609645,
+    "matricula": "7546 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 69,
+    "idCarga": "58023794-ca8b-4bfc-8f55-b2a45a83904f"
+  },
+  {
+    "numeroBastidor": 49049937,
+    "matricula": "5851 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "efa46597-096d-4a5b-9df6-d68aa4899560"
+  },
+  {
+    "numeroBastidor": 19400551,
+    "matricula": "3353 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 14,
+    "idCarga": "1338f7b2-e22a-495f-82d4-0fadacd70f35"
+  },
+  {
+    "numeroBastidor": 42496431,
+    "matricula": "4961 ERE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 91,
+    "idCarga": "6f29dc63-89f7-4ff6-97b4-0165596d4af0"
+  },
+  {
+    "numeroBastidor": 39451585,
+    "matricula": "4764 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 33,
+    "idCarga": "67ad5bfe-49e4-48f4-8d95-2ec78be707e4"
+  },
+  {
+    "numeroBastidor": 14295188,
+    "matricula": "3907 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 4,
+    "idCarga": "54f9f067-daa0-4add-84ff-6b9fc7ba5d8d"
+  },
+  {
+    "numeroBastidor": 27036869,
+    "matricula": "3601 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "8d5c4b67-035e-4c67-99a1-04ef9469049b"
+  },
+  {
+    "numeroBastidor": 27086915,
+    "matricula": "6112 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "fdaed168-b3cd-4e9a-a525-90dcd85a8b81"
+  },
+  {
+    "numeroBastidor": 68383923,
+    "matricula": "9832 EVM",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 26,
+    "idCarga": "d1a1b56d-9587-4b2c-af3c-9117b1520928"
+  },
+  {
+    "numeroBastidor": 44685399,
+    "matricula": "1744 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 2,
+    "idCarga": "8e503ebe-bf88-468f-a600-d4656ee184ef"
+  },
+  {
+    "numeroBastidor": 20375257,
+    "matricula": "3426 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 8,
+    "idCarga": "34c06f7f-d1b5-41fe-85d7-99170d22e715"
+  },
+  {
+    "numeroBastidor": 88698285,
+    "matricula": "9910 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "3d0f796d-651d-435f-964a-2e5844cc6793"
+  },
+  {
+    "numeroBastidor": 19005499,
+    "matricula": "6598 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 67,
+    "idCarga": "7650b2d6-d4c3-4cfc-8870-34068ca0dd35"
+  },
+  {
+    "numeroBastidor": 20659258,
+    "matricula": "8074 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 64,
+    "idCarga": "5c9d529a-6d91-4027-aa30-3c605a601162"
+  },
+  {
+    "numeroBastidor": 71377643,
+    "matricula": "6988 EVM",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 94,
+    "idCarga": "f6a21a0b-6342-4c36-a433-1ab551cd90df"
+  },
+  {
+    "numeroBastidor": 28530174,
+    "matricula": "2594 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 87,
+    "idCarga": "79c19805-41af-4aaa-8596-5349150c27bd"
+  },
+  {
+    "numeroBastidor": 96188345,
+    "matricula": "3600 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 1,
+    "idCarga": "67022b1a-1d4d-4581-82a0-767757756b5f"
+  },
+  {
+    "numeroBastidor": 20300030,
+    "matricula": "3110 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "117bc714-ab34-4ded-8928-be7bcc40ab1c"
+  },
+  {
+    "numeroBastidor": 89267325,
+    "matricula": "3385 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "539121f7-5eb6-468e-bf02-f128c841d5c5"
+  },
+  {
+    "numeroBastidor": 40939888,
+    "matricula": "7731 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "12104289-5fbb-468e-95ce-42a7bcdc1217"
+  },
+  {
+    "numeroBastidor": 46623688,
+    "matricula": "7096 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 73,
+    "idCarga": "6645c23b-ab92-4fbd-b8e6-2377eb8abf93"
+  },
+  {
+    "numeroBastidor": 20515718,
+    "matricula": "2417 LOG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 98,
+    "idCarga": "a640ade1-8ca4-41ce-90a8-44d565dceb93"
+  },
+  {
+    "numeroBastidor": 67343627,
+    "matricula": "4327 HTF",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "0b0715e1-48ad-4dee-aab0-faa6b08357e4"
+  },
+  {
+    "numeroBastidor": 60232209,
+    "matricula": "5635 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 58,
+    "idCarga": "837d1505-9db5-480e-8c18-e851adbd01f7"
+  },
+  {
+    "numeroBastidor": 17507896,
+    "matricula": "8437 SSE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "bcf69fe9-2a20-4b30-bb2b-fd0a7f3369d8"
+  },
+  {
+    "numeroBastidor": 18743903,
+    "matricula": "4097 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "bd63b474-326f-4ac8-8634-b9013cacc955"
+  },
+  {
+    "numeroBastidor": 43991023,
+    "matricula": "3668 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 99,
+    "idCarga": "a093fd5f-1505-4f8e-bdfa-f48c8e844874"
+  },
+  {
+    "numeroBastidor": 36630035,
+    "matricula": "8215 SET",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "d1f04720-85c4-4816-b3fc-26b1ee763a33"
+  },
+  {
+    "numeroBastidor": 2237740,
+    "matricula": "8379 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "095cbfce-042a-4a57-8741-1fbcc3d19f89"
+  },
+  {
+    "numeroBastidor": 16163284,
+    "matricula": "4658 LOG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 97,
+    "idCarga": "57b7ffff-53d2-4c24-bd81-06f5be5d68a6"
+  },
+  {
+    "numeroBastidor": 49911485,
+    "matricula": "4470 EVM",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 45,
+    "idCarga": "60bc3278-001f-4cf2-bdbc-55bc96727017"
+  },
+  {
+    "numeroBastidor": 49918513,
+    "matricula": "1084 JTH",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "22a4aec3-2d40-4b4a-8cab-6ebf1120f4a1"
+  },
+  {
+    "numeroBastidor": 52393535,
+    "matricula": "6266 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 65,
+    "idCarga": "765d9ded-8517-4469-a635-3f44bdd9dfa7"
+  },
+  {
+    "numeroBastidor": 76605485,
+    "matricula": "2820 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 42,
+    "idCarga": "63942459-413f-4f59-bc5f-88ca398b4ca4"
+  },
+  {
+    "numeroBastidor": 4212300,
+    "matricula": "1201 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 56,
+    "idCarga": "294b8ff4-4ed4-4d62-8475-e695b36c748a"
+  },
+  {
+    "numeroBastidor": 51424150,
+    "matricula": "6221 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "996a420d-a1f2-480f-beae-9c3c66f8f67b"
+  },
+  {
+    "numeroBastidor": 36137849,
+    "matricula": "1206 SSE",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 46,
+    "idCarga": "53a338ae-a717-44fb-9e20-57042a723bcb"
+  },
+  {
+    "numeroBastidor": 76793320,
+    "matricula": "9561 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 29,
+    "idCarga": "02efa7c3-b8ed-4ec9-ac63-e8b380b455d1"
+  },
+  {
+    "numeroBastidor": 57312174,
+    "matricula": "8063 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 97,
+    "idCarga": "aac786c8-00fd-48a3-8073-5683c4e4e9bc"
+  },
+  {
+    "numeroBastidor": 52369551,
+    "matricula": "7881 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 99,
+    "idCarga": "75ac859d-e398-4bd0-a13e-416238ba7829"
+  },
+  {
+    "numeroBastidor": 66966299,
+    "matricula": "4582 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 66,
+    "idCarga": "14f86be9-d557-4250-9392-e716566f9f66"
+  },
+  {
+    "numeroBastidor": 1765793,
+    "matricula": "6386 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 89,
+    "idCarga": "48ae18f3-7c4a-4603-ad02-45f03a05f0d3"
+  },
+  {
+    "numeroBastidor": 6264225,
+    "matricula": "8904 RTG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 77,
+    "idCarga": "f0193342-0104-4812-9938-f4871369252b"
+  },
+  {
+    "numeroBastidor": 87775002,
+    "matricula": "5653 LOG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 36,
+    "idCarga": "2d127582-a283-4d12-925d-b7bd1008213f"
+  },
+  {
+    "numeroBastidor": 74898616,
+    "matricula": "3414 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 49,
+    "idCarga": "a511e95e-0c23-467e-8aa0-408067443433"
+  },
+  {
+    "numeroBastidor": 3559569,
+    "matricula": "8160 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 64,
+    "idCarga": "85b27117-4b31-4bbe-b81a-d508ec5175a1"
+  },
+  {
+    "numeroBastidor": 76803266,
+    "matricula": "2028 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 21,
+    "idCarga": "7dc14086-0148-4b95-b16d-684c88004de7"
+  },
+  {
+    "numeroBastidor": 48379678,
+    "matricula": "7645 SET",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 33,
+    "idCarga": "97b37f0c-64d1-4e51-b398-1c475a1346b1"
+  },
+  {
+    "numeroBastidor": 92944854,
+    "matricula": "4199 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 30,
+    "idCarga": "0ffea4b9-0df9-4a26-bfe5-1d6e4c6fedec"
+  },
+  {
+    "numeroBastidor": 13245077,
+    "matricula": "9142 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 45,
+    "idCarga": "62c53a1d-cee7-42eb-ba14-6bf0db057333"
+  },
+  {
+    "numeroBastidor": 14072409,
+    "matricula": "6994 SET",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 18,
+    "idCarga": "1de4d3cb-31f3-487c-9d7f-83593afb80bd"
+  },
+  {
+    "numeroBastidor": 23791352,
+    "matricula": "1641 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 17,
+    "idCarga": "6fefe309-6686-4d1c-865f-ecae1f6e3ea0"
+  },
+  {
+    "numeroBastidor": 72513129,
+    "matricula": "8713 EVM",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 49,
+    "idCarga": "8bdffeb3-ecb2-4106-89e9-1fb714b21c1a"
+  },
+  {
+    "numeroBastidor": 61791721,
+    "matricula": "7951 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "d61b0ac5-c39e-4255-bd1b-ede1cefc82b6"
+  },
+  {
+    "numeroBastidor": 93370238,
+    "matricula": "2082 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 6,
+    "idCarga": "993bf8f3-59f6-41d6-a96f-e8221ca5b33b"
+  },
+  {
+    "numeroBastidor": 68476995,
+    "matricula": "6284 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "43fa683f-2ed0-4012-b904-f9992cca12a5"
+  },
+  {
+    "numeroBastidor": 39371666,
+    "matricula": "1479 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 83,
+    "idCarga": "a43bd13d-3cf6-415f-b73a-b3b6e6926c80"
+  },
+  {
+    "numeroBastidor": 80056283,
+    "matricula": "1111 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 26,
+    "idCarga": "43c1c5b3-6f59-4fa5-a7ef-3395e13a1f3d"
+  },
+  {
+    "numeroBastidor": 37241258,
+    "matricula": "1242 JTH",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "a975433a-619a-41a0-ba31-643505ad01c5"
+  },
+  {
+    "numeroBastidor": 58448588,
+    "matricula": "8445 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 70,
+    "idCarga": "5582853d-4819-480b-beab-5d477e735294"
+  },
+  {
+    "numeroBastidor": 47836549,
+    "matricula": "3755 LOG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6,
+    "idCarga": "ce6257d4-b983-4d86-98f9-da87cb596664"
+  },
+  {
+    "numeroBastidor": 16766391,
+    "matricula": "7999 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "e76f1529-9608-4af7-bf6a-ebf7be1b4942"
+  },
+  {
+    "numeroBastidor": 67053648,
+    "matricula": "3066 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "0204f00a-9763-4ec2-a532-cc4288ba1f51"
+  },
+  {
+    "numeroBastidor": 12187556,
+    "matricula": "4365 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 69,
+    "idCarga": "56850c62-a39a-4e8c-ae01-a969df093678"
+  },
+  {
+    "numeroBastidor": 21545092,
+    "matricula": "5981 EVM",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 14,
+    "idCarga": "0a2e926e-ef8b-4c37-8e6c-bea68ad028c7"
+  },
+  {
+    "numeroBastidor": 22668541,
+    "matricula": "7477 EVM",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 48,
+    "idCarga": "07c354ad-b302-4ce8-9b52-599abcf21b83"
+  },
+  {
+    "numeroBastidor": 3468675,
+    "matricula": "6593 SET",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 20,
+    "idCarga": "89920964-757b-41bc-a659-eb8cbfba48b1"
+  },
+  {
+    "numeroBastidor": 24297200,
+    "matricula": "1925 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 38,
+    "idCarga": "e7b6d585-dba5-4925-badc-29f343dfcea5"
+  },
+  {
+    "numeroBastidor": 66743638,
+    "matricula": "7484 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 42,
+    "idCarga": "62341c3e-1e68-4493-a8c1-b581d45849da"
+  },
+  {
+    "numeroBastidor": 93847741,
+    "matricula": "4766 SET",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 1,
+    "idCarga": "bde91a63-a2f4-4fa5-a275-6283b8f28fb8"
+  },
+  {
+    "numeroBastidor": 93199767,
+    "matricula": "3245 RTG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 78,
+    "idCarga": "2cb2fe17-cefa-4a04-9e11-95aabcfc033f"
+  },
+  {
+    "numeroBastidor": 64613745,
+    "matricula": "4352 JTH",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 28,
+    "idCarga": "f0c73155-1ebb-4479-a0e0-641b3d25641f"
+  },
+  {
+    "numeroBastidor": 15894356,
+    "matricula": "9829 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 80,
+    "idCarga": "f0e99097-1236-46bd-9f71-9992f8e69f47"
+  },
+  {
+    "numeroBastidor": 37446483,
+    "matricula": "9277 JTH",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 71,
+    "idCarga": "6a1fb3be-c71c-4927-ba0f-0838f81308ce"
+  },
+  {
+    "numeroBastidor": 46286431,
+    "matricula": "7921 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "3ac760fe-7d5d-47f6-948f-1e208a2d6109"
+  },
+  {
+    "numeroBastidor": 79823068,
+    "matricula": "7081 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 38,
+    "idCarga": "00564b7d-4389-4ae2-8247-58297c17aca6"
+  },
+  {
+    "numeroBastidor": 97479673,
+    "matricula": "9834 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 73,
+    "idCarga": "89848627-953c-4f3a-8bf1-08fc516d7171"
+  },
+  {
+    "numeroBastidor": 5261808,
+    "matricula": "7143 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 51,
+    "idCarga": "216c208b-5f91-4779-a642-af05f68137f8"
+  },
+  {
+    "numeroBastidor": 76715747,
+    "matricula": "3947 JTH",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "b359ea36-eb6f-47a1-9aeb-ef2e397727ca"
+  },
+  {
+    "numeroBastidor": 79417811,
+    "matricula": "6282 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 90,
+    "idCarga": "6c9c7daa-091e-469e-aed2-80da1fb4f4ca"
+  },
+  {
+    "numeroBastidor": 29759311,
+    "matricula": "1884 SSE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "afca3db2-6465-4682-9dad-d3531c4fcff1"
+  },
+  {
+    "numeroBastidor": 77676697,
+    "matricula": "3494 EVM",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "1fa0dcf6-c04e-4ab3-8ecc-432669743b94"
+  },
+  {
+    "numeroBastidor": 23777088,
+    "matricula": "1702 SSE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 71,
+    "idCarga": "4ff8c51c-6c39-483b-8b27-8570af67cf41"
+  },
+  {
+    "numeroBastidor": 19645981,
+    "matricula": "3270 SET",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 57,
+    "idCarga": "d76551b2-37fa-4f5f-a2f6-0939e7572082"
+  },
+  {
+    "numeroBastidor": 71324667,
+    "matricula": "2775 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 84,
+    "idCarga": "4f04be39-2edc-45f2-9ca1-97dc741c878d"
+  },
+  {
+    "numeroBastidor": 20537534,
+    "matricula": "5361 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "5baa099f-3402-4c9c-8904-00ca5881632a"
+  },
+  {
+    "numeroBastidor": 92932475,
+    "matricula": "4534 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 80,
+    "idCarga": "5390a721-d4c5-44b5-ae36-51f7bb38adfe"
+  },
+  {
+    "numeroBastidor": 58101231,
+    "matricula": "9524 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 27,
+    "idCarga": "80f8ead9-fdcd-4d8c-b730-efe940a23142"
+  },
+  {
+    "numeroBastidor": 29767097,
+    "matricula": "3044 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 8,
+    "idCarga": "bdcf2d60-5d4e-4c1f-a3a6-32e368e6b324"
+  },
+  {
+    "numeroBastidor": 61424244,
+    "matricula": "8478 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 21,
+    "idCarga": "17c799ba-d55b-4edb-b99e-964730447af8"
+  },
+  {
+    "numeroBastidor": 11594869,
+    "matricula": "7652 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 5,
+    "idCarga": "9c8978a3-3a53-4c5a-a643-788b431106ef"
+  },
+  {
+    "numeroBastidor": 88114308,
+    "matricula": "9542 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 96,
+    "idCarga": "b8c8057e-aed8-46c1-90ef-7df03ee55bba"
+  },
+  {
+    "numeroBastidor": 18402623,
+    "matricula": "8398 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 29,
+    "idCarga": "c6fee686-7332-4466-96b5-29ba26527215"
+  },
+  {
+    "numeroBastidor": 84051730,
+    "matricula": "3753 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 98,
+    "idCarga": "095a33ca-b93c-4c5d-9d5a-89204bd7c274"
+  },
+  {
+    "numeroBastidor": 4568426,
+    "matricula": "8779 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 59,
+    "idCarga": "ab03b758-e0a6-4596-b732-d51374820fbd"
+  },
+  {
+    "numeroBastidor": 46057923,
+    "matricula": "3299 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 86,
+    "idCarga": "fdb1acb4-9049-47af-b432-0ce6d28e2f9a"
+  },
+  {
+    "numeroBastidor": 48526815,
+    "matricula": "7632 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 95,
+    "idCarga": "33ab7c86-2200-4179-8ba1-a0d67fef997a"
+  },
+  {
+    "numeroBastidor": 21174402,
+    "matricula": "9598 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 60,
+    "idCarga": "0b38b9c1-f6fe-4e38-b45e-cefa59642a82"
+  },
+  {
+    "numeroBastidor": 42992668,
+    "matricula": "2338 JTH",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "fffd54c4-4ae7-4154-ab52-720a3eccb924"
+  },
+  {
+    "numeroBastidor": 53879282,
+    "matricula": "2757 SSE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 75,
+    "idCarga": "8f7826c7-3fa3-4021-80cc-6fa35daaee90"
+  },
+  {
+    "numeroBastidor": 9903231,
+    "matricula": "7917 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 32,
+    "idCarga": "60baeff2-fa7c-4dcd-9e5f-ccc5520610c5"
+  },
+  {
+    "numeroBastidor": 95351778,
+    "matricula": "5921 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 30,
+    "idCarga": "f0cafe28-7ab1-4c9b-ad44-e92f893458c2"
+  },
+  {
+    "numeroBastidor": 35327874,
+    "matricula": "9293 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 39,
+    "idCarga": "ea824fe2-6b13-4390-bd7b-52a4af99698d"
+  },
+  {
+    "numeroBastidor": 41265834,
+    "matricula": "1510 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "d3f2d045-a3b2-4603-a4c0-3b827b7fd1a9"
+  },
+  {
+    "numeroBastidor": 32196130,
+    "matricula": "1089 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 30,
+    "idCarga": "a2c4faf5-7533-499a-8e6e-51b4e49f8d0d"
+  },
+  {
+    "numeroBastidor": 12241940,
+    "matricula": "3746 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 95,
+    "idCarga": "050d3182-94db-4a7c-aa82-b0a34782aec8"
+  },
+  {
+    "numeroBastidor": 72033889,
+    "matricula": "8514 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 30,
+    "idCarga": "bcfa18ca-1009-4a1d-96b9-a75eb1b0f1bf"
+  },
+  {
+    "numeroBastidor": 35299065,
+    "matricula": "2026 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 31,
+    "idCarga": "b04a6b30-b47b-42ba-93d5-81cc6df033af"
+  },
+  {
+    "numeroBastidor": 40067880,
+    "matricula": "9700 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 83,
+    "idCarga": "70d1526d-f7e4-49ae-93b1-16b1d70ddeff"
+  },
+  {
+    "numeroBastidor": 88149573,
+    "matricula": "4449 SSE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 92,
+    "idCarga": "abf196a3-7483-4b40-84ab-e0ef808da36a"
+  },
+  {
+    "numeroBastidor": 61941907,
+    "matricula": "6228 JTH",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 6,
+    "idCarga": "33c88143-98d6-424c-83a5-d54cb8acf840"
+  },
+  {
+    "numeroBastidor": 8567116,
+    "matricula": "5611 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 13,
+    "idCarga": "85b2f56f-696e-41fd-96e8-540aeecf3998"
+  },
+  {
+    "numeroBastidor": 94110623,
+    "matricula": "2305 JTH",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 36,
+    "idCarga": "059fe6f3-8c8f-45b1-a665-16d7a5a56bc3"
+  },
+  {
+    "numeroBastidor": 35084027,
+    "matricula": "9233 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 61,
+    "idCarga": "36a7372a-8626-4505-8c3b-7bacf2de6124"
+  },
+  {
+    "numeroBastidor": 40295628,
+    "matricula": "5032 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "0aa823dd-d5fd-4c45-b37f-dcd650f3a4df"
+  },
+  {
+    "numeroBastidor": 19589277,
+    "matricula": "9438 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 62,
+    "idCarga": "d2cf0b81-bf60-439d-9b29-1f301ee4e242"
+  },
+  {
+    "numeroBastidor": 62906320,
+    "matricula": "5681 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 14,
+    "idCarga": "19455741-737c-4b3b-8998-e4a26353cf68"
+  },
+  {
+    "numeroBastidor": 98972272,
+    "matricula": "4448 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 40,
+    "idCarga": "39b44d8f-f6dd-4f7e-9422-b3ef19994857"
+  },
+  {
+    "numeroBastidor": 87095363,
+    "matricula": "8304 JTH",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 50,
+    "idCarga": "842277ef-b1fd-4592-ba7b-40cdd407c20b"
+  },
+  {
+    "numeroBastidor": 31221744,
+    "matricula": "4560 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "63784263-954a-41ac-8cd9-7b7d45a87bd6"
+  },
+  {
+    "numeroBastidor": 45575672,
+    "matricula": "1478 EVM",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "8f750f02-8031-474f-baef-d85bb0eb078b"
+  },
+  {
+    "numeroBastidor": 96075518,
+    "matricula": "2281 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 41,
+    "idCarga": "4b923d6f-3089-4005-90fb-9b31bb6dc830"
+  },
+  {
+    "numeroBastidor": 13518635,
+    "matricula": "6129 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 64,
+    "idCarga": "c4c2c6e5-3d16-47d6-912f-33dc7d528a64"
+  },
+  {
+    "numeroBastidor": 51961239,
+    "matricula": "8835 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "80e1b874-42f2-477b-be89-75436b8a73c5"
+  },
+  {
+    "numeroBastidor": 75823542,
+    "matricula": "9244 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 9,
+    "idCarga": "dd56353e-c5cb-4938-9b90-911f7b6dffcc"
+  },
+  {
+    "numeroBastidor": 54364608,
+    "matricula": "3249 RTG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 65,
+    "idCarga": "11cb05d3-bdb2-4af8-af9f-2d09bb500a3b"
+  },
+  {
+    "numeroBastidor": 60882113,
+    "matricula": "7856 RTG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "70dd03d5-d4d0-4156-94a4-ac3555a2113d"
+  },
+  {
+    "numeroBastidor": 62005330,
+    "matricula": "1004 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 69,
+    "idCarga": "01e4401c-e7fc-4a33-a450-9cde9c63fc29"
+  },
+  {
+    "numeroBastidor": 26969644,
+    "matricula": "6272 EVM",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 61,
+    "idCarga": "3a4f521e-cfea-483f-a1b5-b49099ec8835"
+  },
+  {
+    "numeroBastidor": 34586068,
+    "matricula": "4004 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "08d05d78-b35a-4a5e-ad70-a475e3d6c980"
+  },
+  {
+    "numeroBastidor": 52083706,
+    "matricula": "6060 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 28,
+    "idCarga": "2cc50966-07c0-401c-bcea-a3e0cf7f4332"
+  },
+  {
+    "numeroBastidor": 43222321,
+    "matricula": "8730 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "2ff848d0-e562-426e-a53b-5663d33bc093"
+  },
+  {
+    "numeroBastidor": 52209610,
+    "matricula": "5882 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "2be2b014-4f78-445c-b91b-79f916e94d52"
+  },
+  {
+    "numeroBastidor": 86215863,
+    "matricula": "5466 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "67157c5c-5762-4980-887f-31beb6a432bd"
+  },
+  {
+    "numeroBastidor": 4530202,
+    "matricula": "4351 JTH",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "03c79669-d4e4-459f-b263-c5033b2c7d1f"
+  },
+  {
+    "numeroBastidor": 42614332,
+    "matricula": "3926 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 35,
+    "idCarga": "6cc45102-b193-4e60-82e7-15086b1067d9"
+  },
+  {
+    "numeroBastidor": 7881809,
+    "matricula": "9129 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "f30f8a55-c80d-4eff-8222-87eb60b65319"
+  },
+  {
+    "numeroBastidor": 29040009,
+    "matricula": "7472 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 65,
+    "idCarga": "7e7fa25e-0b1e-4655-9588-b6b2e35de58a"
+  },
+  {
+    "numeroBastidor": 10911639,
+    "matricula": "5459 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 35,
+    "idCarga": "0482633f-fb86-4b34-b2db-0342aff262bf"
+  },
+  {
+    "numeroBastidor": 81890881,
+    "matricula": "6437 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "dd9c1248-b28c-4c11-b1b5-571c53cbcc6d"
+  },
+  {
+    "numeroBastidor": 3507566,
+    "matricula": "7001 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "5ddffc57-810e-4d01-b286-a6ed6b8b0907"
+  },
+  {
+    "numeroBastidor": 1443728,
+    "matricula": "6974 RTG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 53,
+    "idCarga": "a153e005-877d-4e70-8dc9-fe7478b27de0"
+  },
+  {
+    "numeroBastidor": 46880502,
+    "matricula": "1850 ERE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 93,
+    "idCarga": "a2e08955-327f-4728-b6ca-c821c2bfa509"
+  },
+  {
+    "numeroBastidor": 74994127,
+    "matricula": "7017 HTF",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 59,
+    "idCarga": "c4f35b9e-9676-4b64-8f50-eacd5bee2c01"
+  },
+  {
+    "numeroBastidor": 33420536,
+    "matricula": "8735 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "ae0b20f7-ea9f-4513-a9a8-39c3b2f35c95"
+  },
+  {
+    "numeroBastidor": 81253481,
+    "matricula": "7391 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "78c9ba25-d13c-46f3-8d66-c0c61f0c1542"
+  },
+  {
+    "numeroBastidor": 34915209,
+    "matricula": "3782 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "873f153e-574a-44cb-9087-6f3092fc42fe"
+  },
+  {
+    "numeroBastidor": 88908177,
+    "matricula": "2525 JTH",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 35,
+    "idCarga": "0fd0161f-c2d5-4047-9454-4c0f14b248ee"
+  },
+  {
+    "numeroBastidor": 18330867,
+    "matricula": "4240 ERE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 48,
+    "idCarga": "2894aee4-084e-4f42-bad7-1f3c66b4c590"
+  },
+  {
+    "numeroBastidor": 18452329,
+    "matricula": "4478 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 25,
+    "idCarga": "22e9a31c-affc-4413-94b8-44028c2e928b"
+  },
+  {
+    "numeroBastidor": 44727971,
+    "matricula": "7527 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 63,
+    "idCarga": "89db7e24-b36d-4bda-bdcf-c83a39dfa863"
+  },
+  {
+    "numeroBastidor": 45096142,
+    "matricula": "7955 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 54,
+    "idCarga": "d93aa397-16a5-4de9-a8ce-bababa67dee0"
+  },
+  {
+    "numeroBastidor": 98227619,
+    "matricula": "6386 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 92,
+    "idCarga": "04cd2b80-dd54-471d-b5c6-1d417c1f3677"
+  },
+  {
+    "numeroBastidor": 87420088,
+    "matricula": "1190 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 65,
+    "idCarga": "36f3d4f0-51f3-4bfa-af9b-510bc65782ef"
+  },
+  {
+    "numeroBastidor": 94724998,
+    "matricula": "3703 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1397ca19-ab79-426a-8354-5c1ae6e98071"
+  },
+  {
+    "numeroBastidor": 71375022,
+    "matricula": "4461 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 66,
+    "idCarga": "097ca749-fe0e-4284-9613-04cba0783fe3"
+  },
+  {
+    "numeroBastidor": 9207148,
+    "matricula": "7140 SSE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "cb235376-f689-4960-ac5f-1c9a35212761"
+  },
+  {
+    "numeroBastidor": 73927005,
+    "matricula": "9282 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 33,
+    "idCarga": "730f3a84-1dc6-4ef3-a670-3e28a4343c90"
+  },
+  {
+    "numeroBastidor": 3090843,
+    "matricula": "2534 RTG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 32,
+    "idCarga": "c422bedf-1e96-4822-8815-dee77b11e55b"
+  },
+  {
+    "numeroBastidor": 2612667,
+    "matricula": "6051 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7,
+    "idCarga": "cf090995-82a8-4f90-b504-cfe6902c52e5"
+  },
+  {
+    "numeroBastidor": 43529798,
+    "matricula": "2778 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 66,
+    "idCarga": "aed69a08-ee12-4b22-84b3-062c4448aad8"
+  },
+  {
+    "numeroBastidor": 95178379,
+    "matricula": "3406 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 79,
+    "idCarga": "a532f686-8bcb-4ea1-9a1b-77ef3664a628"
+  },
+  {
+    "numeroBastidor": 75144275,
+    "matricula": "5944 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 60,
+    "idCarga": "530903a9-466e-4e8b-b17f-269dfb85460b"
+  },
+  {
+    "numeroBastidor": 98457074,
+    "matricula": "6987 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 6,
+    "idCarga": "f1f756f0-0d6e-4621-9e27-d74cd5591eaf"
+  },
+  {
+    "numeroBastidor": 25671908,
+    "matricula": "9531 HTF",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 70,
+    "idCarga": "c5f34aa4-5591-4c5a-8ce1-053029770544"
+  },
+  {
+    "numeroBastidor": 66438444,
+    "matricula": "4245 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 90,
+    "idCarga": "c71687c5-16bc-47b3-a719-3f53b13cd9f7"
+  },
+  {
+    "numeroBastidor": 68887371,
+    "matricula": "3509 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "18eb6c3a-55b4-4245-90c7-895c984001ab"
+  },
+  {
+    "numeroBastidor": 80747019,
+    "matricula": "6302 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "5ca02e70-8f76-4169-8bfe-ed6260cf5467"
+  },
+  {
+    "numeroBastidor": 60270554,
+    "matricula": "1707 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "683b7b75-e157-424f-a93c-549c119b727d"
+  },
+  {
+    "numeroBastidor": 31856093,
+    "matricula": "5114 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 74,
+    "idCarga": "6be6b280-fb7c-4626-bda8-2d026248e0bb"
+  },
+  {
+    "numeroBastidor": 82774135,
+    "matricula": "5795 SET",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 10,
+    "idCarga": "dabd8c2b-80f6-41a0-a162-25f2795c6b8c"
+  },
+  {
+    "numeroBastidor": 22150510,
+    "matricula": "3750 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 81,
+    "idCarga": "bdabd5d7-1b28-4692-a1dc-7efe25f8495f"
+  },
+  {
+    "numeroBastidor": 54393588,
+    "matricula": "3826 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 37,
+    "idCarga": "c50bdb43-4bc5-4746-9028-3aa625970fde"
+  },
+  {
+    "numeroBastidor": 32529748,
+    "matricula": "4284 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 11,
+    "idCarga": "5d028bce-e68b-40e2-8701-a3e2d589627b"
+  },
+  {
+    "numeroBastidor": 64551884,
+    "matricula": "8039 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 81,
+    "idCarga": "6c41324d-6aa4-477e-a070-99453de29d37"
+  },
+  {
+    "numeroBastidor": 79933401,
+    "matricula": "4794 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "0a2225f1-3a67-45f7-a739-5a0b7f9b0ad2"
+  },
+  {
+    "numeroBastidor": 19785058,
+    "matricula": "6346 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "af5f3c95-28fa-4faa-9e60-8dbdf01ce0b9"
+  },
+  {
+    "numeroBastidor": 73030190,
+    "matricula": "2770 SET",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 55,
+    "idCarga": "0b26f750-a5db-4876-9ea9-1a245b3f9d47"
+  },
+  {
+    "numeroBastidor": 60678881,
+    "matricula": "3465 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 21,
+    "idCarga": "026756ab-1784-4f9a-a1d4-3575dea1023b"
+  },
+  {
+    "numeroBastidor": 5751142,
+    "matricula": "6055 JTH",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "47f14781-1481-49b3-b07d-75ba5854d0cd"
+  },
+  {
+    "numeroBastidor": 36127079,
+    "matricula": "3214 EVM",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 91,
+    "idCarga": "ab214ac0-dcb0-460f-a09f-e66d1ffd7214"
+  },
+  {
+    "numeroBastidor": 24676973,
+    "matricula": "1618 JTH",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "e3b49b1d-d0d7-4e51-ad4d-8136535a2511"
+  },
+  {
+    "numeroBastidor": 82587008,
+    "matricula": "8993 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 56,
+    "idCarga": "e7778d28-637e-4a06-b029-4f29263ca2e3"
+  },
+  {
+    "numeroBastidor": 14464869,
+    "matricula": "5276 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1346e20e-c47a-40ba-91a4-2819949a075d"
+  },
+  {
+    "numeroBastidor": 76101839,
+    "matricula": "2301 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "42e6d700-a62a-4acc-928d-dfcf8059e9d9"
+  },
+  {
+    "numeroBastidor": 3542323,
+    "matricula": "9039 SSE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 86,
+    "idCarga": "b67d6ea4-670b-44c2-8086-fa6fe1842115"
+  },
+  {
+    "numeroBastidor": 76110527,
+    "matricula": "8912 RTG",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "18995c27-4d88-4664-84c8-57ebbc7e968b"
+  },
+  {
+    "numeroBastidor": 12146392,
+    "matricula": "4712 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "ce131a8b-ba0a-45e5-bbb1-35fd9d0443a0"
+  },
+  {
+    "numeroBastidor": 93825203,
+    "matricula": "6949 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "34b91a44-e92b-4524-a79a-0dedabcf38f9"
+  },
+  {
+    "numeroBastidor": 6939188,
+    "matricula": "7370 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 37,
+    "idCarga": "33f1d447-00ad-4319-be9d-baa580214667"
+  },
+  {
+    "numeroBastidor": 48311402,
+    "matricula": "6300 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1,
+    "idCarga": "c1300329-aed6-4d5c-bced-29c127c91c70"
+  },
+  {
+    "numeroBastidor": 52297178,
+    "matricula": "3142 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "472384e6-f7ed-47ce-ab25-edf9b45b5bfd"
+  },
+  {
+    "numeroBastidor": 54734013,
+    "matricula": "6154 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 89,
+    "idCarga": "61285bbf-a95e-4495-98dd-d26430e77c10"
+  },
+  {
+    "numeroBastidor": 18931883,
+    "matricula": "4966 JTH",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "5f3365b3-9e43-472f-82d4-f753f737dc32"
+  },
+  {
+    "numeroBastidor": 19873431,
+    "matricula": "5471 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 71,
+    "idCarga": "d4d88b90-5e71-4b4e-bf99-d85b477d7bd4"
+  },
+  {
+    "numeroBastidor": 89445632,
+    "matricula": "4358 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 28,
+    "idCarga": "ecd34022-77d4-41f0-8964-6b066cb8c730"
+  },
+  {
+    "numeroBastidor": 50216160,
+    "matricula": "3991 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 24,
+    "idCarga": "891d1e68-ee5a-465c-99d1-cecc5be09508"
+  },
+  {
+    "numeroBastidor": 30601287,
+    "matricula": "9830 EVM",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 45,
+    "idCarga": "8af4fb79-3c20-4526-b257-2cf2a6ac880a"
+  },
+  {
+    "numeroBastidor": 35251188,
+    "matricula": "8152 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 33,
+    "idCarga": "f1cd74cf-869d-49c2-99af-4eb875549ab8"
+  },
+  {
+    "numeroBastidor": 72521028,
+    "matricula": "9524 SSE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 97,
+    "idCarga": "dcbbd2ae-19e7-4284-a028-c8f9d5003078"
+  },
+  {
+    "numeroBastidor": 70566066,
+    "matricula": "4069 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 46,
+    "idCarga": "8f87759b-8820-4af0-837d-5f8c46296f8f"
+  },
+  {
+    "numeroBastidor": 97049945,
+    "matricula": "5395 RTG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "aa531e51-3e4e-4ad7-bf2d-dbf6986821db"
+  },
+  {
+    "numeroBastidor": 41264747,
+    "matricula": "5332 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 48,
+    "idCarga": "d2a8c300-5cee-426b-bb51-08c3f4f6c6b7"
+  },
+  {
+    "numeroBastidor": 78687086,
+    "matricula": "9579 SET",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 72,
+    "idCarga": "98f06936-0a8e-4d5b-b4d1-9a8a00ca8f94"
+  },
+  {
+    "numeroBastidor": 28090353,
+    "matricula": "3154 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 37,
+    "idCarga": "efd60a54-d8f9-46dc-bf6a-9c4789139c94"
+  },
+  {
+    "numeroBastidor": 65159919,
+    "matricula": "2485 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 48,
+    "idCarga": "617a8142-4bfa-42e4-bcea-9d767ba267ff"
+  },
+  {
+    "numeroBastidor": 52549763,
+    "matricula": "1674 EVM",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 8,
+    "idCarga": "4cc33d71-f342-4755-b314-59a960f9e2ed"
+  },
+  {
+    "numeroBastidor": 1525895,
+    "matricula": "6073 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "00cdbe33-4a64-43f1-982c-a67a7249939a"
+  },
+  {
+    "numeroBastidor": 41869958,
+    "matricula": "8842 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 86,
+    "idCarga": "dac331b2-3b0a-4b06-9f09-3521a9c2473e"
+  },
+  {
+    "numeroBastidor": 66614764,
+    "matricula": "6524 ERE",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "ba2b549b-8f1f-4993-bb35-fd9c33cf74ef"
+  },
+  {
+    "numeroBastidor": 57794412,
+    "matricula": "8770 EVM",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 82,
+    "idCarga": "586fbc74-781a-45b9-a4fe-7f60b8a528cb"
+  },
+  {
+    "numeroBastidor": 13335867,
+    "matricula": "2270 SSE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "578e49b7-32d5-4a8f-8a7f-b59e62018a98"
+  },
+  {
+    "numeroBastidor": 21646985,
+    "matricula": "9153 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 72,
+    "idCarga": "4eb8bf59-4434-454a-aceb-713b2a88d602"
+  },
+  {
+    "numeroBastidor": 40773899,
+    "matricula": "1127 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "4cd274a5-506b-43b5-a801-9bdf50f7aeee"
+  },
+  {
+    "numeroBastidor": 40146249,
+    "matricula": "1849 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10,
+    "idCarga": "a6535441-642c-4402-a3e7-3eec96b9b9b7"
+  },
+  {
+    "numeroBastidor": 55221175,
+    "matricula": "5702 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 98,
+    "idCarga": "f1cf036d-e6dd-44fe-8190-341723c9fa04"
+  },
+  {
+    "numeroBastidor": 51855548,
+    "matricula": "8445 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 93,
+    "idCarga": "eb72e637-d280-4335-bf0b-7cbcaf69049f"
+  },
+  {
+    "numeroBastidor": 22760366,
+    "matricula": "6004 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "5afa79ee-bcb7-46b1-8492-8f19dcc114b1"
+  },
+  {
+    "numeroBastidor": 35889353,
+    "matricula": "8335 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 69,
+    "idCarga": "35098b21-b989-4b75-8369-bbaf6740e0e1"
+  },
+  {
+    "numeroBastidor": 52449311,
+    "matricula": "3989 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 50,
+    "idCarga": "a1abfe15-bc3b-4b2b-9aee-3061e6b9abbf"
+  },
+  {
+    "numeroBastidor": 55239449,
+    "matricula": "5839 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 28,
+    "idCarga": "b64cefc2-382c-47fb-95cf-0b41aa62bbda"
+  },
+  {
+    "numeroBastidor": 48594522,
+    "matricula": "3625 SSE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 42,
+    "idCarga": "93edb28a-2f53-4aed-aad7-4fcec054ae9d"
+  },
+  {
+    "numeroBastidor": 36881043,
+    "matricula": "1205 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "979b0743-2274-4678-80b7-054a320278f6"
+  },
+  {
+    "numeroBastidor": 64072720,
+    "matricula": "5409 SET",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 40,
+    "idCarga": "e827c80f-b14b-45ea-ab89-802daf1f5a9e"
+  },
+  {
+    "numeroBastidor": 79348001,
+    "matricula": "8245 SSE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "35c6af22-1d57-46dd-8df6-0a4f9e8ede26"
+  },
+  {
+    "numeroBastidor": 31523578,
+    "matricula": "5413 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 86,
+    "idCarga": "3507f24f-007c-4116-b306-c93b78b34c19"
+  },
+  {
+    "numeroBastidor": 99302122,
+    "matricula": "7099 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "05a0d230-769e-49a2-8886-948fa4e58f4b"
+  },
+  {
+    "numeroBastidor": 33259765,
+    "matricula": "9688 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 23,
+    "idCarga": "10d4b76f-a100-4277-9f96-14d4329c38b8"
+  },
+  {
+    "numeroBastidor": 26058291,
+    "matricula": "7540 JTH",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 26,
+    "idCarga": "833646e8-74a0-4120-995f-69631f72c233"
+  },
+  {
+    "numeroBastidor": 37149166,
+    "matricula": "9333 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 99,
+    "idCarga": "9866c3a3-c18b-4a24-8881-e118fe327ba1"
+  },
+  {
+    "numeroBastidor": 54412885,
+    "matricula": "1374 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 6,
+    "idCarga": "70895a46-07df-4c1b-804f-3985c505c252"
+  },
+  {
+    "numeroBastidor": 75945829,
+    "matricula": "1929 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "72a04735-f038-4961-a71c-1bd8b28eaaf2"
+  },
+  {
+    "numeroBastidor": 47473428,
+    "matricula": "3928 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "536871f6-4ccd-4663-9826-ef791f81a8c3"
+  },
+  {
+    "numeroBastidor": 86433461,
+    "matricula": "7052 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 32,
+    "idCarga": "2ee90abf-701e-497c-9236-6d4d92ce9c98"
+  },
+  {
+    "numeroBastidor": 75815594,
+    "matricula": "4440 SET",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 26,
+    "idCarga": "018a0bc4-0253-46aa-8584-a18aa0994bb1"
+  },
+  {
+    "numeroBastidor": 92612390,
+    "matricula": "5276 HTF",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 36,
+    "idCarga": "d0cd4a6f-7b40-4358-9f43-b087d6c2ed86"
+  },
+  {
+    "numeroBastidor": 36301746,
+    "matricula": "7176 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 92,
+    "idCarga": "9c18f8a8-35fc-4e4c-a8bd-592e3389de62"
+  },
+  {
+    "numeroBastidor": 56081232,
+    "matricula": "1523 SET",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 81,
+    "idCarga": "250fff6e-f7d6-406e-8748-edd77cf05b85"
+  },
+  {
+    "numeroBastidor": 71071361,
+    "matricula": "2124 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 19,
+    "idCarga": "b6803c34-bcf9-4262-adea-e8d9e0abcc50"
+  },
+  {
+    "numeroBastidor": 51389214,
+    "matricula": "5664 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 8,
+    "idCarga": "066bb45a-7aa6-445a-8bb7-97db71800716"
+  },
+  {
+    "numeroBastidor": 21220875,
+    "matricula": "9206 EVM",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 6,
+    "idCarga": "d067a43b-d5c3-49a1-83cf-88b64b0d9dce"
+  },
+  {
+    "numeroBastidor": 35162259,
+    "matricula": "4506 HTF",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 50,
+    "idCarga": "8f77c8f6-a918-44a3-bca9-140391808db4"
+  },
+  {
+    "numeroBastidor": 83081148,
+    "matricula": "2892 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "70df3174-304c-40c2-b683-4530d1356be5"
+  },
+  {
+    "numeroBastidor": 55905231,
+    "matricula": "9165 LOG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 46,
+    "idCarga": "cb82c2c9-099a-4597-a23a-f7a65a63335b"
+  },
+  {
+    "numeroBastidor": 15855022,
+    "matricula": "5256 LOG",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "39f26106-b867-4b7d-9343-5d9c61f9b90d"
+  },
+  {
+    "numeroBastidor": 51848070,
+    "matricula": "6798 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 1,
+    "idCarga": "27b433fb-1c11-48f2-8545-7f05c49005eb"
+  },
+  {
+    "numeroBastidor": 89731453,
+    "matricula": "4266 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 71,
+    "idCarga": "0bc2b27c-a142-4bb0-93b3-08205b98c00e"
+  },
+  {
+    "numeroBastidor": 39271659,
+    "matricula": "4496 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 46,
+    "idCarga": "b488c353-5f15-4aef-a10d-0a7412e81a36"
+  },
+  {
+    "numeroBastidor": 61334123,
+    "matricula": "5146 LOG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "012c9c98-9c54-4175-82e8-a8ff27b3ae34"
+  },
+  {
+    "numeroBastidor": 13545758,
+    "matricula": "2456 HTF",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 74,
+    "idCarga": "cea5293d-dfc7-464e-91f6-735b9317b77c"
+  },
+  {
+    "numeroBastidor": 84386000,
+    "matricula": "3892 EVM",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 68,
+    "idCarga": "f3cac701-f9bf-4020-8e5b-5298d4a6ef19"
+  },
+  {
+    "numeroBastidor": 19764790,
+    "matricula": "9077 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 19,
+    "idCarga": "bfedce8c-342c-4b59-a709-c115f2845744"
+  },
+  {
+    "numeroBastidor": 36862501,
+    "matricula": "4244 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 59,
+    "idCarga": "8d9e63a3-b4cf-451f-8dda-062d5bbc4c46"
+  },
+  {
+    "numeroBastidor": 88571200,
+    "matricula": "2310 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 80,
+    "idCarga": "735c82fe-0d2a-4601-8e4e-d90bafb556b0"
+  },
+  {
+    "numeroBastidor": 87571967,
+    "matricula": "3257 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 77,
+    "idCarga": "7bd7e997-7579-44d4-bde4-4ed9dc998137"
+  },
+  {
+    "numeroBastidor": 80658485,
+    "matricula": "3006 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 96,
+    "idCarga": "eef9aae8-b406-4451-9e39-6f08a1f499ed"
+  },
+  {
+    "numeroBastidor": 47991076,
+    "matricula": "3392 JTH",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "b89cb3d9-d4d4-47fb-b2cf-6b6e1a4c5cf6"
+  },
+  {
+    "numeroBastidor": 17976906,
+    "matricula": "5921 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 19,
+    "idCarga": "5bd01ac2-445b-48fc-ab21-f68544aa77a8"
+  },
+  {
+    "numeroBastidor": 4193387,
+    "matricula": "3064 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 88,
+    "idCarga": "65079067-ad99-49da-8efc-1334c36791a9"
+  },
+  {
+    "numeroBastidor": 16117621,
+    "matricula": "7702 SSE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 3,
+    "idCarga": "fa37eff8-411b-4e13-b91b-e1977a104dbb"
+  },
+  {
+    "numeroBastidor": 11692026,
+    "matricula": "1482 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "b99c41a5-0fbf-4205-89d9-9873dcc81585"
+  },
+  {
+    "numeroBastidor": 38744972,
+    "matricula": "7771 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 2,
+    "idCarga": "e4284401-ddcc-46f5-918d-b67212614be9"
+  },
+  {
+    "numeroBastidor": 22975113,
+    "matricula": "7078 RTG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 64,
+    "idCarga": "5c1a19f6-069f-4a75-906d-32866c500345"
+  },
+  {
+    "numeroBastidor": 87383558,
+    "matricula": "8974 ERE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 32,
+    "idCarga": "dec52ce8-40f4-4969-beb2-dd26d0afd541"
+  },
+  {
+    "numeroBastidor": 19499675,
+    "matricula": "6862 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "478baf97-a437-43db-865b-6d97484aa804"
+  },
+  {
+    "numeroBastidor": 67145245,
+    "matricula": "8152 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 22,
+    "idCarga": "22b0da41-f4c5-42e8-9c7f-f03e0b8a139b"
+  },
+  {
+    "numeroBastidor": 18747991,
+    "matricula": "8644 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 35,
+    "idCarga": "da394aa5-0455-4770-8c16-dc6b20a200cc"
+  },
+  {
+    "numeroBastidor": 4170437,
+    "matricula": "3776 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 40,
+    "idCarga": "50b5946e-f579-4c2d-b9b5-9a8156571844"
+  },
+  {
+    "numeroBastidor": 45148197,
+    "matricula": "3952 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 24,
+    "idCarga": "bccb63ae-583b-441b-80ae-0e43972870aa"
+  },
+  {
+    "numeroBastidor": 23550658,
+    "matricula": "9308 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "12e66080-dd13-4d79-a9c9-33fc89da3bfb"
+  },
+  {
+    "numeroBastidor": 70343835,
+    "matricula": "2130 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 40,
+    "idCarga": "95b82cc8-bae1-4454-8a74-45636cff3251"
+  },
+  {
+    "numeroBastidor": 19298169,
+    "matricula": "4525 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 54,
+    "idCarga": "f257a252-3a6b-41b8-a767-ba84cd15968b"
+  },
+  {
+    "numeroBastidor": 90896665,
+    "matricula": "1704 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 54,
+    "idCarga": "d677fe89-d78a-4c01-8255-2421cac390cb"
+  },
+  {
+    "numeroBastidor": 53107620,
+    "matricula": "8340 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "b27b5528-d0ee-4955-931c-9d9158e39a84"
+  },
+  {
+    "numeroBastidor": 39173026,
+    "matricula": "7674 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 18,
+    "idCarga": "54033ab9-1cfb-48ea-ac37-2d9fecd30ab3"
+  },
+  {
+    "numeroBastidor": 33112540,
+    "matricula": "7399 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 94,
+    "idCarga": "d4984372-d044-4e5c-96d4-66dc7d0f6c8c"
+  },
+  {
+    "numeroBastidor": 27251627,
+    "matricula": "2928 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 35,
+    "idCarga": "73bf2c07-40fd-4c8d-a23e-b27d91f7d715"
+  },
+  {
+    "numeroBastidor": 17222880,
+    "matricula": "9909 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "4f85d8eb-cf44-4339-be68-22af22462184"
+  },
+  {
+    "numeroBastidor": 92039371,
+    "matricula": "3029 SET",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "cf36988b-7977-41f6-ab13-8945e4796729"
+  },
+  {
+    "numeroBastidor": 74262034,
+    "matricula": "1104 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 74,
+    "idCarga": "cadeb7c2-d7e3-4b7f-81d8-ca1330b6952a"
+  },
+  {
+    "numeroBastidor": 90445157,
+    "matricula": "1805 SSE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 29,
+    "idCarga": "47ab6f72-f9d4-471f-bd4a-3902d3b2ed18"
+  },
+  {
+    "numeroBastidor": 34247573,
+    "matricula": "7141 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "54522af2-4abf-42ed-a0a0-1e75ccbc19d1"
+  },
+  {
+    "numeroBastidor": 26833610,
+    "matricula": "4460 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "d7477222-8bd1-4458-b6c5-ae422af90929"
+  },
+  {
+    "numeroBastidor": 1472106,
+    "matricula": "9926 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 78,
+    "idCarga": "2cdf3bcd-7101-47c6-a213-bef55976ead0"
+  },
+  {
+    "numeroBastidor": 38413195,
+    "matricula": "6835 EVM",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 51,
+    "idCarga": "808f31bc-b048-44e5-a61c-b1e140b7a85e"
+  },
+  {
+    "numeroBastidor": 57108455,
+    "matricula": "4429 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 17,
+    "idCarga": "a0c72bf1-16f8-4e49-b919-f190e991097d"
+  },
+  {
+    "numeroBastidor": 70546069,
+    "matricula": "2554 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 1,
+    "idCarga": "4412e652-ec23-466f-b184-ec75e6570cb1"
+  },
+  {
+    "numeroBastidor": 68105208,
+    "matricula": "4139 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "9b5fe9ce-b9d3-4616-b77a-08ab3e730c60"
+  },
+  {
+    "numeroBastidor": 55962236,
+    "matricula": "9311 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 8,
+    "idCarga": "794a8eb3-ea69-415a-9b27-4e1e850bb23a"
+  },
+  {
+    "numeroBastidor": 80402635,
+    "matricula": "4507 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "549769a3-afef-44b3-9d87-bd781087e94e"
+  },
+  {
+    "numeroBastidor": 69916013,
+    "matricula": "7756 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 89,
+    "idCarga": "52e5df45-7dbc-4871-8f1b-c57789e8a940"
+  },
+  {
+    "numeroBastidor": 75437092,
+    "matricula": "4050 EVM",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 42,
+    "idCarga": "078b659a-a59d-4c74-961b-a98299e8dc68"
+  },
+  {
+    "numeroBastidor": 97600466,
+    "matricula": "3165 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 26,
+    "idCarga": "bbd56647-c8ba-4b99-801e-99b6148c1ca5"
+  },
+  {
+    "numeroBastidor": 22042532,
+    "matricula": "5866 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 44,
+    "idCarga": "5cd3833b-80b5-48d3-89db-d8ce45c55e5a"
+  },
+  {
+    "numeroBastidor": 9097600,
+    "matricula": "1215 LOG",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 13,
+    "idCarga": "c3b887e7-1091-4a72-913a-bd7ad72ae0ad"
+  },
+  {
+    "numeroBastidor": 15973570,
+    "matricula": "2885 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "0a434a74-5317-4fd2-8fbd-dc4f854c4e96"
+  },
+  {
+    "numeroBastidor": 76116753,
+    "matricula": "7200 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 64,
+    "idCarga": "89158bca-afdb-4f52-896d-bd148aec0112"
+  },
+  {
+    "numeroBastidor": 14567079,
+    "matricula": "7041 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 81,
+    "idCarga": "c40f73fa-ce60-4b0b-9f36-7a2be5327ada"
+  },
+  {
+    "numeroBastidor": 21031666,
+    "matricula": "4267 JTH",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 87,
+    "idCarga": "5ab6741c-d4d9-4052-8c54-6a148249b087"
+  },
+  {
+    "numeroBastidor": 13908339,
+    "matricula": "1873 EVM",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 92,
+    "idCarga": "f8dd803a-eb25-4a13-a0c5-b249c230d813"
+  },
+  {
+    "numeroBastidor": 52593382,
+    "matricula": "7542 EVM",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 18,
+    "idCarga": "f48f37ed-c09d-4bfa-b80e-17be42aa59e0"
+  },
+  {
+    "numeroBastidor": 41352436,
+    "matricula": "5067 ERE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 46,
+    "idCarga": "d5d8c6cf-e274-428f-828d-d4bb8aa39d23"
+  },
+  {
+    "numeroBastidor": 10838991,
+    "matricula": "2502 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 53,
+    "idCarga": "05922fce-52db-4983-a736-b634f60d829c"
+  },
+  {
+    "numeroBastidor": 35527368,
+    "matricula": "7557 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 88,
+    "idCarga": "63d87356-756a-45c5-bcf9-dc4d09a32417"
+  },
+  {
+    "numeroBastidor": 68805243,
+    "matricula": "8129 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 56,
+    "idCarga": "542f4ab8-f734-41c6-98fb-41ebb94ed357"
+  },
+  {
+    "numeroBastidor": 39104811,
+    "matricula": "5353 SSE",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 47,
+    "idCarga": "d2923fd3-c32e-46f3-8faf-1fa57e44699e"
+  },
+  {
+    "numeroBastidor": 79476767,
+    "matricula": "8898 EVM",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 42,
+    "idCarga": "c12678ed-9646-4f6f-a936-4e411c68d24a"
+  },
+  {
+    "numeroBastidor": 24186601,
+    "matricula": "1444 HTF",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 37,
+    "idCarga": "78468f85-95d3-482b-8795-607ce1ccc2a8"
+  },
+  {
+    "numeroBastidor": 26173146,
+    "matricula": "9392 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 76,
+    "idCarga": "91311403-c28e-4d7b-8e9a-0f5ce36353a3"
+  },
+  {
+    "numeroBastidor": 48658599,
+    "matricula": "6600 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 72,
+    "idCarga": "a90ff887-2273-4c5f-ae61-911045a60ec0"
+  },
+  {
+    "numeroBastidor": 24658565,
+    "matricula": "6625 SET",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 82,
+    "idCarga": "f570a615-46d6-4192-abec-0bd5000256e8"
+  },
+  {
+    "numeroBastidor": 5875746,
+    "matricula": "4638 JTH",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 27,
+    "idCarga": "5ffb4c94-a550-47ce-844f-4a2ae3a029da"
+  },
+  {
+    "numeroBastidor": 55506675,
+    "matricula": "6766 SSE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 65,
+    "idCarga": "d52a879c-5a5b-46dd-811a-c95ca2018994"
+  },
+  {
+    "numeroBastidor": 8289988,
+    "matricula": "3920 HTF",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 94,
+    "idCarga": "3090e935-0cd5-454a-9a56-be9239c5e100"
+  },
+  {
+    "numeroBastidor": 18938010,
+    "matricula": "8471 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 70,
+    "idCarga": "67ab2c81-5d22-418f-8347-3b310141156f"
+  },
+  {
+    "numeroBastidor": 24748887,
+    "matricula": "8089 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 61,
+    "idCarga": "6862482e-0848-49d1-b57d-02f9e779b5d8"
+  },
+  {
+    "numeroBastidor": 74646258,
+    "matricula": "7233 EVM",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 16,
+    "idCarga": "ad7e0129-98dd-451e-9ad4-fbfd8367e873"
+  },
+  {
+    "numeroBastidor": 37702969,
+    "matricula": "2828 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 17,
+    "idCarga": "1822d17e-8626-484e-863e-308ab3551e76"
+  },
+  {
+    "numeroBastidor": 65244186,
+    "matricula": "1094 JTH",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 75,
+    "idCarga": "01b1726e-d0bb-4bc0-86b3-068b031b6a43"
+  },
+  {
+    "numeroBastidor": 33962039,
+    "matricula": "6428 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 56,
+    "idCarga": "11daff47-4f1b-4fb6-921c-2b1e10bd9c1a"
+  },
+  {
+    "numeroBastidor": 29417493,
+    "matricula": "2137 JTH",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 85,
+    "idCarga": "8bf4eaae-d8a6-49d4-ab07-5d155c535f22"
+  },
+  {
+    "numeroBastidor": 86392308,
+    "matricula": "1622 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 85,
+    "idCarga": "442923da-d653-4ced-b1f6-435afc3a343e"
+  },
+  {
+    "numeroBastidor": 52036098,
+    "matricula": "7969 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 20,
+    "idCarga": "6ad91972-f07a-4312-8745-083ee6a3e405"
+  },
+  {
+    "numeroBastidor": 42030803,
+    "matricula": "7857 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 18,
+    "idCarga": "dfba61fe-dde4-4e8c-9e4a-af676b9841e4"
+  },
+  {
+    "numeroBastidor": 91686053,
+    "matricula": "1682 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 83,
+    "idCarga": "b24abb06-e20c-4b8f-b527-9bf2429bcbee"
+  },
+  {
+    "numeroBastidor": 88572109,
+    "matricula": "4918 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 76,
+    "idCarga": "6ce194b0-b7c2-4a89-b787-58ca5ee0e548"
+  },
+  {
+    "numeroBastidor": 86479367,
+    "matricula": "1947 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 66,
+    "idCarga": "5b7bf218-50f7-4e9b-9622-7d1b4b33f307"
+  },
+  {
+    "numeroBastidor": 53694535,
+    "matricula": "8629 EVM",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 2,
+    "idCarga": "d5b7092b-e708-486f-ad19-cb8f7ed58cf1"
+  },
+  {
+    "numeroBastidor": 27497411,
+    "matricula": "2116 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 27,
+    "idCarga": "d80de926-9040-4c63-a5df-879b4a12d3bf"
+  },
+  {
+    "numeroBastidor": 18339298,
+    "matricula": "9577 LOG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 18,
+    "idCarga": "070a70a3-9502-4e73-82d7-6bfb38926f05"
+  },
+  {
+    "numeroBastidor": 93238897,
+    "matricula": "4541 SSE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1a868b1c-fb47-43d1-8422-5aa1616be2b8"
+  },
+  {
+    "numeroBastidor": 60870611,
+    "matricula": "6960 SSE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 88,
+    "idCarga": "ee6ecbaa-7bdf-4b8f-a22f-40a5502d6848"
+  },
+  {
+    "numeroBastidor": 95443381,
+    "matricula": "7551 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 12,
+    "idCarga": "882bd85c-ae50-4681-8daa-4654fc2c2d7c"
+  },
+  {
+    "numeroBastidor": 35829157,
+    "matricula": "8062 SET",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 1,
+    "idCarga": "65ac476f-2c99-4e12-9556-a4afba7ddafd"
+  },
+  {
+    "numeroBastidor": 46757811,
+    "matricula": "2331 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 2,
+    "idCarga": "86078b5d-bd1f-43bf-adef-2fe8600a0409"
+  },
+  {
+    "numeroBastidor": 71645874,
+    "matricula": "6507 EVM",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 31,
+    "idCarga": "c6844663-cdb2-460d-8e7f-4c19543e077b"
+  },
+  {
+    "numeroBastidor": 83704166,
+    "matricula": "6672 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 19,
+    "idCarga": "3c5a7812-ddd7-4fe8-89b7-fb247edf3e70"
+  },
+  {
+    "numeroBastidor": 72701982,
+    "matricula": "9691 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 4,
+    "idCarga": "83d019b0-4dba-44c9-b087-d7bf8f428737"
+  },
+  {
+    "numeroBastidor": 4301132,
+    "matricula": "7023 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 98,
+    "idCarga": "0a134084-66c3-404d-b762-d6f8936b0b7a"
+  },
+  {
+    "numeroBastidor": 17594763,
+    "matricula": "5850 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "b382fa09-2284-43d5-885b-37d5590d2aea"
+  },
+  {
+    "numeroBastidor": 74054129,
+    "matricula": "4637 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 57,
+    "idCarga": "175c4727-34ef-441a-9bb0-cd0d31604ead"
+  },
+  {
+    "numeroBastidor": 31616933,
+    "matricula": "1651 SSE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 49,
+    "idCarga": "d202fb4b-bc87-4aa8-8829-e02bd21eedf0"
+  },
+  {
+    "numeroBastidor": 89992214,
+    "matricula": "7323 HTF",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 70,
+    "idCarga": "1e7c3b33-86de-4e5e-b25c-37bf27019bc6"
+  },
+  {
+    "numeroBastidor": 31065687,
+    "matricula": "8378 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "78142af2-cee9-44a4-880f-cd2d23671fd3"
+  },
+  {
+    "numeroBastidor": 14285564,
+    "matricula": "9712 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "864a815e-37b2-4aa6-a2f1-170899afebc5"
+  },
+  {
+    "numeroBastidor": 42200818,
+    "matricula": "9143 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 69,
+    "idCarga": "ece194b8-42d8-4a27-b9dd-b719818918a9"
+  },
+  {
+    "numeroBastidor": 3058717,
+    "matricula": "6601 ERE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 79,
+    "idCarga": "ec3bcedc-e623-431d-9a52-ed09f2677c85"
+  },
+  {
+    "numeroBastidor": 69515412,
+    "matricula": "4461 EVM",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 97,
+    "idCarga": "0e03d398-7712-4943-9ce4-7f0ee8726ce4"
+  },
+  {
+    "numeroBastidor": 95601304,
+    "matricula": "5886 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 19,
+    "idCarga": "36d25d45-9810-4d3d-9e98-e8ed8f11f2a1"
+  },
+  {
+    "numeroBastidor": 94590618,
+    "matricula": "6895 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "e2c5216d-16d4-42bc-ae92-64fa7b84865f"
+  },
+  {
+    "numeroBastidor": 74100476,
+    "matricula": "4573 JTH",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "0444ee47-2447-4d98-8095-ec8f9ed19710"
+  },
+  {
+    "numeroBastidor": 10030329,
+    "matricula": "2069 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 21,
+    "idCarga": "7cdfeb2c-f98f-4d01-8b68-2e02e5328ef4"
+  },
+  {
+    "numeroBastidor": 43902736,
+    "matricula": "2413 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "273d7145-16f1-4094-b46d-8366fc64fbf0"
+  },
+  {
+    "numeroBastidor": 21553829,
+    "matricula": "5884 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 62,
+    "idCarga": "2365ed1f-2ffe-4453-bfd3-bead8018e823"
+  },
+  {
+    "numeroBastidor": 68364244,
+    "matricula": "1356 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "a8d2793a-e22b-48a7-b68a-97dc4851d2c5"
+  },
+  {
+    "numeroBastidor": 44938509,
+    "matricula": "2071 JTH",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "87e440d8-1a17-42a3-a8f3-46b87cdd302d"
+  },
+  {
+    "numeroBastidor": 49873923,
+    "matricula": "5600 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 32,
+    "idCarga": "9dccb7f5-a5b7-45d8-9d0d-a24b41b5c127"
+  },
+  {
+    "numeroBastidor": 48835908,
+    "matricula": "6742 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 8,
+    "idCarga": "03e6bcef-e5ba-43b6-a923-97037f945887"
+  },
+  {
+    "numeroBastidor": 93093587,
+    "matricula": "1144 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 12,
+    "idCarga": "93de69b6-b9ac-4879-bce2-8c834bd0df63"
+  },
+  {
+    "numeroBastidor": 78583254,
+    "matricula": "5119 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 71,
+    "idCarga": "e93ac693-c806-4141-bb01-1f38116c116f"
+  },
+  {
+    "numeroBastidor": 35545047,
+    "matricula": "9257 SET",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 70,
+    "idCarga": "9ec7da36-3aa4-4bc8-9da0-2fb7befdecf7"
+  },
+  {
+    "numeroBastidor": 87723079,
+    "matricula": "5595 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 44,
+    "idCarga": "fdd34304-d33d-42de-968a-c4b15c3955a0"
+  },
+  {
+    "numeroBastidor": 37043112,
+    "matricula": "6230 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "dd949a1c-fb0c-45cd-a7ca-149f718c7996"
+  },
+  {
+    "numeroBastidor": 16796750,
+    "matricula": "8985 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 94,
+    "idCarga": "78fdce22-795b-4e3c-b712-9c02873116c2"
+  },
+  {
+    "numeroBastidor": 76528484,
+    "matricula": "3213 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 34,
+    "idCarga": "bd08bf67-3b67-4914-aaf9-d9a0ef82f3b2"
+  },
+  {
+    "numeroBastidor": 26568435,
+    "matricula": "2085 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 1,
+    "idCarga": "7f36ff0d-c6a8-4840-aaf9-4b0630633db5"
+  },
+  {
+    "numeroBastidor": 24731188,
+    "matricula": "4697 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 58,
+    "idCarga": "c9fc4f48-4274-4019-8b5b-827047d611f4"
+  },
+  {
+    "numeroBastidor": 75836580,
+    "matricula": "8430 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 45,
+    "idCarga": "a1c19091-29cb-41a4-b349-c5cb415dd5f1"
+  },
+  {
+    "numeroBastidor": 66360053,
+    "matricula": "5975 JTH",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 34,
+    "idCarga": "c46917d8-3857-44b0-8df3-66ca1a162f06"
+  },
+  {
+    "numeroBastidor": 87891158,
+    "matricula": "7022 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "464221a1-511f-46ce-a636-7073f3de71f9"
+  },
+  {
+    "numeroBastidor": 9714844,
+    "matricula": "8580 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "260b0da1-8192-4e2f-a9e5-4b53e4efcef4"
+  },
+  {
+    "numeroBastidor": 1518162,
+    "matricula": "6875 HTF",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "c72f764c-c164-4080-a3ac-080d188d724c"
+  },
+  {
+    "numeroBastidor": 16151158,
+    "matricula": "2594 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 44,
+    "idCarga": "7670d64c-dba6-403a-8551-170b6639c8d5"
+  },
+  {
+    "numeroBastidor": 82075776,
+    "matricula": "5296 JTH",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 35,
+    "idCarga": "a81cf1e4-f33e-4215-a98e-12165fc45ca2"
+  },
+  {
+    "numeroBastidor": 66764096,
+    "matricula": "7958 RTG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 84,
+    "idCarga": "644f1d0b-a6f2-4ef0-81c2-10017de402b5"
+  },
+  {
+    "numeroBastidor": 23628046,
+    "matricula": "2587 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "c6d8e4da-dae1-4dcc-9690-baa68a7e59c0"
+  },
+  {
+    "numeroBastidor": 99096769,
+    "matricula": "2037 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "9501e39f-6839-4774-9542-4565e58475f1"
+  },
+  {
+    "numeroBastidor": 72413127,
+    "matricula": "4746 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 95,
+    "idCarga": "ed220ca3-718c-4e70-9cf6-bf2b4e1c0a05"
+  },
+  {
+    "numeroBastidor": 22163021,
+    "matricula": "5590 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 39,
+    "idCarga": "6178dc32-2612-4f9f-8c47-565a0aacffca"
+  },
+  {
+    "numeroBastidor": 7837434,
+    "matricula": "2174 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 75,
+    "idCarga": "df94f49e-6cb4-4a58-8fa0-d3fdb701c784"
+  },
+  {
+    "numeroBastidor": 34384864,
+    "matricula": "1498 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 60,
+    "idCarga": "149db2b2-ac00-4cdc-9aee-36365c1a9384"
+  },
+  {
+    "numeroBastidor": 44728879,
+    "matricula": "5739 SSE",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 85,
+    "idCarga": "c6dea06b-4540-4b27-908d-b3dc14ff7183"
+  },
+  {
+    "numeroBastidor": 32056584,
+    "matricula": "8161 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 89,
+    "idCarga": "5764977a-97eb-427f-a5f9-b554d0f842b1"
+  },
+  {
+    "numeroBastidor": 82888585,
+    "matricula": "6650 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "0c33d872-f18f-4b22-8780-fe6ac02a3d24"
+  },
+  {
+    "numeroBastidor": 68083139,
+    "matricula": "8083 EVM",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 20,
+    "idCarga": "07cb694e-e2d9-4df8-b1ee-9b6b89696312"
+  },
+  {
+    "numeroBastidor": 98094491,
+    "matricula": "7962 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 24,
+    "idCarga": "f79eadd8-2153-478a-baef-b7f881ce94cd"
+  },
+  {
+    "numeroBastidor": 17574239,
+    "matricula": "2900 JTH",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 15,
+    "idCarga": "3a24b026-e7b8-480a-96a8-a6e7a5dce5cd"
+  },
+  {
+    "numeroBastidor": 70017950,
+    "matricula": "1274 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 39,
+    "idCarga": "411d6665-0d60-4634-b73c-bc5681205708"
+  },
+  {
+    "numeroBastidor": 36051406,
+    "matricula": "4856 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "abfbf293-6100-41a5-acfa-38ea2497a618"
+  },
+  {
+    "numeroBastidor": 30889083,
+    "matricula": "6212 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 27,
+    "idCarga": "94147a6b-e3f2-4a78-9e63-89d38d74b271"
+  },
+  {
+    "numeroBastidor": 12131553,
+    "matricula": "5943 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "11c71247-cbbd-4104-b3c0-313b7445efd8"
+  },
+  {
+    "numeroBastidor": 66960873,
+    "matricula": "5490 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 70,
+    "idCarga": "88a11204-063e-4552-9a74-4c3fd13c3d95"
+  },
+  {
+    "numeroBastidor": 31699685,
+    "matricula": "4325 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "f5e4187f-5015-4264-a2a1-d8d933d984f2"
+  },
+  {
+    "numeroBastidor": 46040003,
+    "matricula": "7891 SSE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 61,
+    "idCarga": "89ae9129-1c1f-4bf4-9749-be4ca97791e0"
+  },
+  {
+    "numeroBastidor": 45188622,
+    "matricula": "9135 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "a87328b7-affb-4425-9ee0-67ec7c138ade"
+  },
+  {
+    "numeroBastidor": 15945906,
+    "matricula": "7168 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 86,
+    "idCarga": "11cf9d6e-5afb-47ec-a2ac-7d9ced065506"
+  },
+  {
+    "numeroBastidor": 50442633,
+    "matricula": "6764 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 89,
+    "idCarga": "3e85afcf-b2d0-4a3e-9495-1c41b514ef2c"
+  },
+  {
+    "numeroBastidor": 9880009,
+    "matricula": "7417 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 57,
+    "idCarga": "2f3a5ebd-56bb-4e00-8888-9342be03d0e2"
+  },
+  {
+    "numeroBastidor": 73818392,
+    "matricula": "5837 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "481d5112-b114-4e33-8a99-c12b9c409f53"
+  },
+  {
+    "numeroBastidor": 1750021,
+    "matricula": "5091 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 20,
+    "idCarga": "28f262d4-fff4-4e5c-9ea8-ff580d13f32c"
+  },
+  {
+    "numeroBastidor": 72635472,
+    "matricula": "5488 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "f4f3cb59-ea1a-4857-9c18-dd0d96caaf18"
+  },
+  {
+    "numeroBastidor": 57519307,
+    "matricula": "7338 SET",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 14,
+    "idCarga": "3b09c637-563a-4af2-80f7-859a4869294f"
+  },
+  {
+    "numeroBastidor": 63879869,
+    "matricula": "2467 ERE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 3,
+    "idCarga": "add5db8e-aa71-4307-9c9f-8b908aa8aed9"
+  },
+  {
+    "numeroBastidor": 88419198,
+    "matricula": "1231 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 55,
+    "idCarga": "c2061603-bf03-4073-9ee2-d93119b78448"
+  },
+  {
+    "numeroBastidor": 71982640,
+    "matricula": "1743 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "2cb4b7e2-0436-4933-adde-05d7621b5f39"
+  },
+  {
+    "numeroBastidor": 57308718,
+    "matricula": "5928 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 72,
+    "idCarga": "cf722897-5013-49e6-8c83-1eae652b2ae0"
+  },
+  {
+    "numeroBastidor": 46897520,
+    "matricula": "7799 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 76,
+    "idCarga": "35fb732c-d66e-40ee-8225-15c6bdb308a4"
+  },
+  {
+    "numeroBastidor": 30930623,
+    "matricula": "4849 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "17791aab-bac6-41ba-aa1b-92fd213f4f48"
+  },
+  {
+    "numeroBastidor": 76353514,
+    "matricula": "5879 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 10,
+    "idCarga": "94b64ad1-2474-4888-8c1d-6cdc6cb893a1"
+  },
+  {
+    "numeroBastidor": 9679151,
+    "matricula": "6158 JTH",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 59,
+    "idCarga": "c7687446-6aa8-4cf6-b345-c1396f33a69a"
+  },
+  {
+    "numeroBastidor": 18316698,
+    "matricula": "1096 SET",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "fd38fc37-da57-497a-815a-c2b23de06ad5"
+  },
+  {
+    "numeroBastidor": 5002252,
+    "matricula": "6510 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 79,
+    "idCarga": "274ceeaa-dca1-492d-94be-543e8f9e09ee"
+  },
+  {
+    "numeroBastidor": 66049032,
+    "matricula": "4864 JTH",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 47,
+    "idCarga": "00d1fd97-fe8f-49e0-8769-86858823b6de"
+  },
+  {
+    "numeroBastidor": 99632482,
+    "matricula": "2496 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 48,
+    "idCarga": "eb6687bf-8102-4761-bbe2-5f90c4bbfd1d"
+  },
+  {
+    "numeroBastidor": 66394757,
+    "matricula": "3497 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "52f5eac0-b0f4-43d4-91e4-cd54dd07386d"
+  },
+  {
+    "numeroBastidor": 33164334,
+    "matricula": "3161 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 30,
+    "idCarga": "32694589-b2e2-49ac-a122-8884534b7497"
+  },
+  {
+    "numeroBastidor": 81574068,
+    "matricula": "8755 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 47,
+    "idCarga": "a58679c2-c9e7-4607-af4c-8a2f1ab84e5c"
+  },
+  {
+    "numeroBastidor": 19197486,
+    "matricula": "8479 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 2,
+    "idCarga": "48195cd2-2bca-42ac-84ef-30783f571489"
+  },
+  {
+    "numeroBastidor": 86900390,
+    "matricula": "3489 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 84,
+    "idCarga": "ed416dbc-b4e4-4ea3-9da4-813d294c1924"
+  },
+  {
+    "numeroBastidor": 28247637,
+    "matricula": "4176 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 98,
+    "idCarga": "7bff5e30-4a0e-4bd1-a271-56e1af5a85aa"
+  },
+  {
+    "numeroBastidor": 15494413,
+    "matricula": "6703 LOG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "051dbc75-a21f-4ea7-aabf-0c23cbce5393"
+  },
+  {
+    "numeroBastidor": 3151283,
+    "matricula": "4292 EVM",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 66,
+    "idCarga": "abaeb1ef-6499-445f-958e-916aa9e921ea"
+  },
+  {
+    "numeroBastidor": 45042538,
+    "matricula": "2192 JTH",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 98,
+    "idCarga": "def250ad-eb8a-417a-a34a-0cb29230d9be"
+  },
+  {
+    "numeroBastidor": 88178065,
+    "matricula": "2011 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 31,
+    "idCarga": "3b672901-63bd-45e0-9689-ff91d98f272e"
+  },
+  {
+    "numeroBastidor": 38151956,
+    "matricula": "9252 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 52,
+    "idCarga": "6e821870-5e5c-4022-be73-a9e4c2e3f25e"
+  },
+  {
+    "numeroBastidor": 19053119,
+    "matricula": "3713 EVM",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 16,
+    "idCarga": "96ca3d9c-ca47-4a45-8865-ac03dbc4c4ea"
+  },
+  {
+    "numeroBastidor": 64154446,
+    "matricula": "2047 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 26,
+    "idCarga": "eec406bc-7eef-4407-b0e4-4844eb7bc0a9"
+  },
+  {
+    "numeroBastidor": 74618912,
+    "matricula": "1021 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 85,
+    "idCarga": "5cc8bcb4-9365-4d30-9f12-bdc4087a262e"
+  },
+  {
+    "numeroBastidor": 95833393,
+    "matricula": "3202 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "82986bfc-1149-4de0-81dc-8555c403b2cf"
+  },
+  {
+    "numeroBastidor": 41726726,
+    "matricula": "5642 RTG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 14,
+    "idCarga": "bb6b8287-b7b4-4ba8-962c-064503c847e4"
+  },
+  {
+    "numeroBastidor": 86909939,
+    "matricula": "3044 LOG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "04d9b39a-6b65-44c7-b63d-a3587102dee5"
+  },
+  {
+    "numeroBastidor": 10293744,
+    "matricula": "7864 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 54,
+    "idCarga": "444b2044-850a-46bd-bf7f-61a30d53da06"
+  },
+  {
+    "numeroBastidor": 85425518,
+    "matricula": "9284 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 93,
+    "idCarga": "56b2f11c-0168-410d-965d-5831388eb26e"
+  },
+  {
+    "numeroBastidor": 46176299,
+    "matricula": "6584 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 85,
+    "idCarga": "1c39e301-feee-4d49-b87b-3cefe4eb40b3"
+  },
+  {
+    "numeroBastidor": 22597456,
+    "matricula": "7507 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 29,
+    "idCarga": "539a5a5d-c65c-4ec3-ae06-b5a41dc3c738"
+  },
+  {
+    "numeroBastidor": 74983298,
+    "matricula": "9711 SSE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 87,
+    "idCarga": "648a9653-a785-4cab-ab28-a815294d39c5"
+  },
+  {
+    "numeroBastidor": 86014835,
+    "matricula": "9391 SET",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 75,
+    "idCarga": "d2e964a2-fcbc-47f3-9770-b5d599413636"
+  },
+  {
+    "numeroBastidor": 42132825,
+    "matricula": "6572 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 88,
+    "idCarga": "3c920807-3f56-4c37-a3f6-1d193863f3ef"
+  },
+  {
+    "numeroBastidor": 30975185,
+    "matricula": "3266 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 11,
+    "idCarga": "b64a7042-bd9a-46be-9483-5da44bca602c"
+  },
+  {
+    "numeroBastidor": 41402359,
+    "matricula": "9373 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 55,
+    "idCarga": "be993ef4-cf23-42cb-b529-15659c92d47c"
+  },
+  {
+    "numeroBastidor": 10562513,
+    "matricula": "1240 SET",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 3,
+    "idCarga": "cc294245-aa2c-46c1-821c-0134e3b6b0b7"
+  },
+  {
+    "numeroBastidor": 71806930,
+    "matricula": "6530 SSE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 40,
+    "idCarga": "c320f341-be7a-4d11-ad4e-fb187bb2bea0"
+  },
+  {
+    "numeroBastidor": 29499277,
+    "matricula": "4154 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 36,
+    "idCarga": "76d9ba76-d36d-4497-81eb-f285d7539efe"
+  },
+  {
+    "numeroBastidor": 83409966,
+    "matricula": "5952 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 77,
+    "idCarga": "f2cc77f5-9cb4-4d65-ab56-3f35539e89d2"
+  },
+  {
+    "numeroBastidor": 78297373,
+    "matricula": "9595 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 14,
+    "idCarga": "3df199c1-7168-4c13-a40b-0cbdeebab527"
+  },
+  {
+    "numeroBastidor": 50093145,
+    "matricula": "2220 HTF",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 94,
+    "idCarga": "675cc620-834a-4705-a3df-20e3fd7e9121"
+  },
+  {
+    "numeroBastidor": 83708020,
+    "matricula": "5926 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 49,
+    "idCarga": "26e69bed-f4f0-4b5e-b5f9-ba9af6636562"
+  },
+  {
+    "numeroBastidor": 94683500,
+    "matricula": "2243 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 96,
+    "idCarga": "5d65592b-1fef-4272-a1ee-4f676f223e0a"
+  },
+  {
+    "numeroBastidor": 54498232,
+    "matricula": "1571 SET",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 84,
+    "idCarga": "6c13c1bd-6933-491c-9d15-4be27d6a835e"
+  },
+  {
+    "numeroBastidor": 50682102,
+    "matricula": "2606 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "d3d8c8b9-a9d9-461d-9e72-cc0661b8150e"
+  },
+  {
+    "numeroBastidor": 77992995,
+    "matricula": "9892 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 79,
+    "idCarga": "f246bc2e-fc8e-45be-93a5-3bb9c9866d0f"
+  },
+  {
+    "numeroBastidor": 66458796,
+    "matricula": "9550 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 25,
+    "idCarga": "f1266a49-bc7d-44ba-8780-0f84be7a4f71"
+  },
+  {
+    "numeroBastidor": 4131072,
+    "matricula": "7309 RTG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 21,
+    "idCarga": "24fe4c74-6784-4576-a9d3-e60f5e1cf623"
+  },
+  {
+    "numeroBastidor": 65541062,
+    "matricula": "4497 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 50,
+    "idCarga": "2e0ab802-5d5f-41ed-95bd-293890ba93f0"
+  },
+  {
+    "numeroBastidor": 45898516,
+    "matricula": "2774 RTG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 94,
+    "idCarga": "ab06d32e-f521-47ff-9fb7-cef04d31eb31"
+  },
+  {
+    "numeroBastidor": 11437237,
+    "matricula": "8529 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 72,
+    "idCarga": "4f2f43a9-7638-4bd4-88d3-69bfd4d6c35c"
+  },
+  {
+    "numeroBastidor": 92392181,
+    "matricula": "7701 EVM",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 39,
+    "idCarga": "68fa5ae1-9812-4499-832d-1d8cea84ad97"
+  },
+  {
+    "numeroBastidor": 14817722,
+    "matricula": "5585 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 73,
+    "idCarga": "8a139a07-e098-4bfc-bb40-8daaf9870055"
+  },
+  {
+    "numeroBastidor": 34222343,
+    "matricula": "1182 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "243cdb76-b024-43b2-a2d1-638eab716a33"
+  },
+  {
+    "numeroBastidor": 17279662,
+    "matricula": "1860 HTF",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 12,
+    "idCarga": "35b42187-037e-4116-b3f8-48151c8b3344"
+  },
+  {
+    "numeroBastidor": 34528556,
+    "matricula": "4804 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 14,
+    "idCarga": "7c7d3656-b44a-4fcc-a806-a65768ae5c99"
+  },
+  {
+    "numeroBastidor": 13598703,
+    "matricula": "7477 SET",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 97,
+    "idCarga": "b3beeaa3-fbfa-40b0-b713-bb8d4648102c"
+  },
+  {
+    "numeroBastidor": 30204469,
+    "matricula": "6837 LOG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "8d9a9c77-b9cc-43f6-9207-a88bc4bf62c1"
+  },
+  {
+    "numeroBastidor": 26339577,
+    "matricula": "2040 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "46c10d7d-349a-48ee-8a2c-78d2419928e3"
+  },
+  {
+    "numeroBastidor": 1701208,
+    "matricula": "8997 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 59,
+    "idCarga": "952ddaec-46b5-4474-aa7d-5814711d7c8c"
+  },
+  {
+    "numeroBastidor": 84431325,
+    "matricula": "2945 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 90,
+    "idCarga": "f2d72228-3eed-4b85-a1ea-a19f1deb1041"
+  },
+  {
+    "numeroBastidor": 76333009,
+    "matricula": "9131 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 84,
+    "idCarga": "1a2b2ba4-0c12-489c-bf21-25e0f35e9578"
+  },
+  {
+    "numeroBastidor": 45029249,
+    "matricula": "9846 ERE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 45,
+    "idCarga": "827fce5b-6e17-457d-92f8-91baa7116614"
+  },
+  {
+    "numeroBastidor": 42828359,
+    "matricula": "3956 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 1,
+    "idCarga": "6e4e0051-f31c-45ae-8116-54c0cc3c96a3"
+  },
+  {
+    "numeroBastidor": 60325958,
+    "matricula": "5007 HTF",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 90,
+    "idCarga": "b69ac8e9-908a-4d4b-8611-141b8e903c23"
+  },
+  {
+    "numeroBastidor": 8490810,
+    "matricula": "8448 SSE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "172145d3-f549-45f5-bd11-489a41dd12a0"
+  },
+  {
+    "numeroBastidor": 87066288,
+    "matricula": "5692 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 25,
+    "idCarga": "c82f75ce-347a-4eed-a1b5-6111d234f5d6"
+  },
+  {
+    "numeroBastidor": 70540532,
+    "matricula": "6215 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "a1f4e0b5-dda1-4dc8-b0b3-21c5f46ded1a"
+  },
+  {
+    "numeroBastidor": 18077525,
+    "matricula": "8867 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 5,
+    "idCarga": "bbd58372-4e94-4d76-b33b-ed9e0bf34fa6"
+  },
+  {
+    "numeroBastidor": 1145813,
+    "matricula": "6596 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 3,
+    "idCarga": "19fd6233-9dec-49bc-b8b6-c72a2c60158c"
+  },
+  {
+    "numeroBastidor": 7965371,
+    "matricula": "4581 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 9,
+    "idCarga": "478b2357-d3b2-41a2-8053-98deb015ae7d"
+  },
+  {
+    "numeroBastidor": 20065201,
+    "matricula": "6114 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "bfeec7e6-c620-47c4-be66-8096b1cc918e"
+  },
+  {
+    "numeroBastidor": 2613771,
+    "matricula": "2995 JTH",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "b3e04483-dc04-4f88-b9d4-017943907f83"
+  },
+  {
+    "numeroBastidor": 6911874,
+    "matricula": "4318 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "1a3c09c5-9a03-4527-aa38-7520e8f1a590"
+  },
+  {
+    "numeroBastidor": 36988175,
+    "matricula": "2714 ERE",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 50,
+    "idCarga": "a30eae5f-fdd3-4066-a14e-02bfb482bda8"
+  },
+  {
+    "numeroBastidor": 63003240,
+    "matricula": "3014 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "93d1db04-94c2-4f48-a068-14ce632b35f7"
+  },
+  {
+    "numeroBastidor": 20271060,
+    "matricula": "3350 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "2d217ac6-15e4-4854-ba23-c03b8097f98e"
+  },
+  {
+    "numeroBastidor": 48196314,
+    "matricula": "8932 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "bbd50596-4d18-4361-a859-47ffbf452b06"
+  },
+  {
+    "numeroBastidor": 44440479,
+    "matricula": "5105 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 25,
+    "idCarga": "5ec42d04-ac4e-4833-9017-6281f3b80df0"
+  },
+  {
+    "numeroBastidor": 80892452,
+    "matricula": "6156 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 53,
+    "idCarga": "dfd309f0-da33-45bc-bc90-34cabf6347eb"
+  },
+  {
+    "numeroBastidor": 91851919,
+    "matricula": "8903 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 76,
+    "idCarga": "486aa9ab-5147-4efe-83e0-32e09e2bda09"
+  },
+  {
+    "numeroBastidor": 65872115,
+    "matricula": "3129 EVM",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 59,
+    "idCarga": "9f825577-eb0c-419d-87be-744675d1f019"
+  },
+  {
+    "numeroBastidor": 63475555,
+    "matricula": "4303 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5,
+    "idCarga": "b5ea7ecb-1053-4f38-bab5-681e0cbe7385"
+  },
+  {
+    "numeroBastidor": 36881707,
+    "matricula": "6929 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 74,
+    "idCarga": "d6c6f1b9-26e5-48fa-9583-cbf8836857ce"
+  },
+  {
+    "numeroBastidor": 60778937,
+    "matricula": "3436 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "6d155b7e-65db-4341-82d5-c457fce1bbe7"
+  },
+  {
+    "numeroBastidor": 4429738,
+    "matricula": "8292 RTG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "236fafd6-380b-4e40-953c-e7dd75cd39b4"
+  },
+  {
+    "numeroBastidor": 88401669,
+    "matricula": "7105 SET",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "36e91c9f-d272-4e64-8f3f-28f644782177"
+  },
+  {
+    "numeroBastidor": 7609645,
+    "matricula": "7546 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 69,
+    "idCarga": "58023794-ca8b-4bfc-8f55-b2a45a83904f"
+  },
+  {
+    "numeroBastidor": 49049937,
+    "matricula": "5851 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "efa46597-096d-4a5b-9df6-d68aa4899560"
+  },
+  {
+    "numeroBastidor": 19400551,
+    "matricula": "3353 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 14,
+    "idCarga": "1338f7b2-e22a-495f-82d4-0fadacd70f35"
+  },
+  {
+    "numeroBastidor": 42496431,
+    "matricula": "4961 ERE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 91,
+    "idCarga": "6f29dc63-89f7-4ff6-97b4-0165596d4af0"
+  },
+  {
+    "numeroBastidor": 39451585,
+    "matricula": "4764 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 33,
+    "idCarga": "67ad5bfe-49e4-48f4-8d95-2ec78be707e4"
+  },
+  {
+    "numeroBastidor": 14295188,
+    "matricula": "3907 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 4,
+    "idCarga": "54f9f067-daa0-4add-84ff-6b9fc7ba5d8d"
+  },
+  {
+    "numeroBastidor": 27036869,
+    "matricula": "3601 HTF",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "8d5c4b67-035e-4c67-99a1-04ef9469049b"
+  },
+  {
+    "numeroBastidor": 27086915,
+    "matricula": "6112 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "fdaed168-b3cd-4e9a-a525-90dcd85a8b81"
+  },
+  {
+    "numeroBastidor": 68383923,
+    "matricula": "9832 EVM",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 26,
+    "idCarga": "d1a1b56d-9587-4b2c-af3c-9117b1520928"
+  },
+  {
+    "numeroBastidor": 44685399,
+    "matricula": "1744 ERE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 2,
+    "idCarga": "8e503ebe-bf88-468f-a600-d4656ee184ef"
+  },
+  {
+    "numeroBastidor": 20375257,
+    "matricula": "3426 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 8,
+    "idCarga": "34c06f7f-d1b5-41fe-85d7-99170d22e715"
+  },
+  {
+    "numeroBastidor": 88698285,
+    "matricula": "9910 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "3d0f796d-651d-435f-964a-2e5844cc6793"
+  },
+  {
+    "numeroBastidor": 19005499,
+    "matricula": "6598 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 67,
+    "idCarga": "7650b2d6-d4c3-4cfc-8870-34068ca0dd35"
+  },
+  {
+    "numeroBastidor": 20659258,
+    "matricula": "8074 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 64,
+    "idCarga": "5c9d529a-6d91-4027-aa30-3c605a601162"
+  },
+  {
+    "numeroBastidor": 71377643,
+    "matricula": "6988 EVM",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 94,
+    "idCarga": "f6a21a0b-6342-4c36-a433-1ab551cd90df"
+  },
+  {
+    "numeroBastidor": 28530174,
+    "matricula": "2594 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 87,
+    "idCarga": "79c19805-41af-4aaa-8596-5349150c27bd"
+  },
+  {
+    "numeroBastidor": 96188345,
+    "matricula": "3600 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 1,
+    "idCarga": "67022b1a-1d4d-4581-82a0-767757756b5f"
+  },
+  {
+    "numeroBastidor": 20300030,
+    "matricula": "3110 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "117bc714-ab34-4ded-8928-be7bcc40ab1c"
+  },
+  {
+    "numeroBastidor": 89267325,
+    "matricula": "3385 RTG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "539121f7-5eb6-468e-bf02-f128c841d5c5"
+  },
+  {
+    "numeroBastidor": 40939888,
+    "matricula": "7731 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "12104289-5fbb-468e-95ce-42a7bcdc1217"
+  },
+  {
+    "numeroBastidor": 46623688,
+    "matricula": "7096 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 73,
+    "idCarga": "6645c23b-ab92-4fbd-b8e6-2377eb8abf93"
+  },
+  {
+    "numeroBastidor": 20515718,
+    "matricula": "2417 LOG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 98,
+    "idCarga": "a640ade1-8ca4-41ce-90a8-44d565dceb93"
+  },
+  {
+    "numeroBastidor": 67343627,
+    "matricula": "4327 HTF",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "0b0715e1-48ad-4dee-aab0-faa6b08357e4"
+  },
+  {
+    "numeroBastidor": 60232209,
+    "matricula": "5635 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 58,
+    "idCarga": "837d1505-9db5-480e-8c18-e851adbd01f7"
+  },
+  {
+    "numeroBastidor": 17507896,
+    "matricula": "8437 SSE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "bcf69fe9-2a20-4b30-bb2b-fd0a7f3369d8"
+  },
+  {
+    "numeroBastidor": 18743903,
+    "matricula": "4097 HTF",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "bd63b474-326f-4ac8-8634-b9013cacc955"
+  },
+  {
+    "numeroBastidor": 43991023,
+    "matricula": "3668 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 99,
+    "idCarga": "a093fd5f-1505-4f8e-bdfa-f48c8e844874"
+  },
+  {
+    "numeroBastidor": 36630035,
+    "matricula": "8215 SET",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "d1f04720-85c4-4816-b3fc-26b1ee763a33"
+  },
+  {
+    "numeroBastidor": 2237740,
+    "matricula": "8379 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 15,
+    "idCarga": "095cbfce-042a-4a57-8741-1fbcc3d19f89"
+  },
+  {
+    "numeroBastidor": 16163284,
+    "matricula": "4658 LOG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 97,
+    "idCarga": "57b7ffff-53d2-4c24-bd81-06f5be5d68a6"
+  },
+  {
+    "numeroBastidor": 49911485,
+    "matricula": "4470 EVM",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 45,
+    "idCarga": "60bc3278-001f-4cf2-bdbc-55bc96727017"
+  },
+  {
+    "numeroBastidor": 49918513,
+    "matricula": "1084 JTH",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "22a4aec3-2d40-4b4a-8cab-6ebf1120f4a1"
+  },
+  {
+    "numeroBastidor": 52393535,
+    "matricula": "6266 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 65,
+    "idCarga": "765d9ded-8517-4469-a635-3f44bdd9dfa7"
+  },
+  {
+    "numeroBastidor": 76605485,
+    "matricula": "2820 RTG",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 42,
+    "idCarga": "63942459-413f-4f59-bc5f-88ca398b4ca4"
+  },
+  {
+    "numeroBastidor": 4212300,
+    "matricula": "1201 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 56,
+    "idCarga": "294b8ff4-4ed4-4d62-8475-e695b36c748a"
+  },
+  {
+    "numeroBastidor": 51424150,
+    "matricula": "6221 HTF",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "996a420d-a1f2-480f-beae-9c3c66f8f67b"
+  },
+  {
+    "numeroBastidor": 36137849,
+    "matricula": "1206 SSE",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 46,
+    "idCarga": "53a338ae-a717-44fb-9e20-57042a723bcb"
+  },
+  {
+    "numeroBastidor": 76793320,
+    "matricula": "9561 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 29,
+    "idCarga": "02efa7c3-b8ed-4ec9-ac63-e8b380b455d1"
+  },
+  {
+    "numeroBastidor": 57312174,
+    "matricula": "8063 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 97,
+    "idCarga": "aac786c8-00fd-48a3-8073-5683c4e4e9bc"
+  },
+  {
+    "numeroBastidor": 52369551,
+    "matricula": "7881 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 99,
+    "idCarga": "75ac859d-e398-4bd0-a13e-416238ba7829"
+  },
+  {
+    "numeroBastidor": 66966299,
+    "matricula": "4582 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 66,
+    "idCarga": "14f86be9-d557-4250-9392-e716566f9f66"
+  },
+  {
+    "numeroBastidor": 1765793,
+    "matricula": "6386 EVM",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 89,
+    "idCarga": "48ae18f3-7c4a-4603-ad02-45f03a05f0d3"
+  },
+  {
+    "numeroBastidor": 6264225,
+    "matricula": "8904 RTG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 77,
+    "idCarga": "f0193342-0104-4812-9938-f4871369252b"
+  },
+  {
+    "numeroBastidor": 87775002,
+    "matricula": "5653 LOG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 36,
+    "idCarga": "2d127582-a283-4d12-925d-b7bd1008213f"
+  },
+  {
+    "numeroBastidor": 74898616,
+    "matricula": "3414 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 49,
+    "idCarga": "a511e95e-0c23-467e-8aa0-408067443433"
+  },
+  {
+    "numeroBastidor": 3559569,
+    "matricula": "8160 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 64,
+    "idCarga": "85b27117-4b31-4bbe-b81a-d508ec5175a1"
+  },
+  {
+    "numeroBastidor": 76803266,
+    "matricula": "2028 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 21,
+    "idCarga": "7dc14086-0148-4b95-b16d-684c88004de7"
+  },
+  {
+    "numeroBastidor": 48379678,
+    "matricula": "7645 SET",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 33,
+    "idCarga": "97b37f0c-64d1-4e51-b398-1c475a1346b1"
+  },
+  {
+    "numeroBastidor": 92944854,
+    "matricula": "4199 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 30,
+    "idCarga": "0ffea4b9-0df9-4a26-bfe5-1d6e4c6fedec"
+  },
+  {
+    "numeroBastidor": 13245077,
+    "matricula": "9142 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 45,
+    "idCarga": "62c53a1d-cee7-42eb-ba14-6bf0db057333"
+  },
+  {
+    "numeroBastidor": 14072409,
+    "matricula": "6994 SET",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 18,
+    "idCarga": "1de4d3cb-31f3-487c-9d7f-83593afb80bd"
+  },
+  {
+    "numeroBastidor": 23791352,
+    "matricula": "1641 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 17,
+    "idCarga": "6fefe309-6686-4d1c-865f-ecae1f6e3ea0"
+  },
+  {
+    "numeroBastidor": 72513129,
+    "matricula": "8713 EVM",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 49,
+    "idCarga": "8bdffeb3-ecb2-4106-89e9-1fb714b21c1a"
+  },
+  {
+    "numeroBastidor": 61791721,
+    "matricula": "7951 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "d61b0ac5-c39e-4255-bd1b-ede1cefc82b6"
+  },
+  {
+    "numeroBastidor": 93370238,
+    "matricula": "2082 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 6,
+    "idCarga": "993bf8f3-59f6-41d6-a96f-e8221ca5b33b"
+  },
+  {
+    "numeroBastidor": 68476995,
+    "matricula": "6284 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "43fa683f-2ed0-4012-b904-f9992cca12a5"
+  },
+  {
+    "numeroBastidor": 39371666,
+    "matricula": "1479 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 83,
+    "idCarga": "a43bd13d-3cf6-415f-b73a-b3b6e6926c80"
+  },
+  {
+    "numeroBastidor": 80056283,
+    "matricula": "1111 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 26,
+    "idCarga": "43c1c5b3-6f59-4fa5-a7ef-3395e13a1f3d"
+  },
+  {
+    "numeroBastidor": 37241258,
+    "matricula": "1242 JTH",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "a975433a-619a-41a0-ba31-643505ad01c5"
+  },
+  {
+    "numeroBastidor": 58448588,
+    "matricula": "8445 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 70,
+    "idCarga": "5582853d-4819-480b-beab-5d477e735294"
+  },
+  {
+    "numeroBastidor": 47836549,
+    "matricula": "3755 LOG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6,
+    "idCarga": "ce6257d4-b983-4d86-98f9-da87cb596664"
+  },
+  {
+    "numeroBastidor": 16766391,
+    "matricula": "7999 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "e76f1529-9608-4af7-bf6a-ebf7be1b4942"
+  },
+  {
+    "numeroBastidor": 67053648,
+    "matricula": "3066 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 32,
+    "idCarga": "0204f00a-9763-4ec2-a532-cc4288ba1f51"
+  },
+  {
+    "numeroBastidor": 12187556,
+    "matricula": "4365 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 69,
+    "idCarga": "56850c62-a39a-4e8c-ae01-a969df093678"
+  },
+  {
+    "numeroBastidor": 21545092,
+    "matricula": "5981 EVM",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 14,
+    "idCarga": "0a2e926e-ef8b-4c37-8e6c-bea68ad028c7"
+  },
+  {
+    "numeroBastidor": 22668541,
+    "matricula": "7477 EVM",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 48,
+    "idCarga": "07c354ad-b302-4ce8-9b52-599abcf21b83"
+  },
+  {
+    "numeroBastidor": 3468675,
+    "matricula": "6593 SET",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 20,
+    "idCarga": "89920964-757b-41bc-a659-eb8cbfba48b1"
+  },
+  {
+    "numeroBastidor": 24297200,
+    "matricula": "1925 LOG",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 38,
+    "idCarga": "e7b6d585-dba5-4925-badc-29f343dfcea5"
+  },
+  {
+    "numeroBastidor": 66743638,
+    "matricula": "7484 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 42,
+    "idCarga": "62341c3e-1e68-4493-a8c1-b581d45849da"
+  },
+  {
+    "numeroBastidor": 93847741,
+    "matricula": "4766 SET",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 1,
+    "idCarga": "bde91a63-a2f4-4fa5-a275-6283b8f28fb8"
+  },
+  {
+    "numeroBastidor": 93199767,
+    "matricula": "3245 RTG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 78,
+    "idCarga": "2cb2fe17-cefa-4a04-9e11-95aabcfc033f"
+  },
+  {
+    "numeroBastidor": 64613745,
+    "matricula": "4352 JTH",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 28,
+    "idCarga": "f0c73155-1ebb-4479-a0e0-641b3d25641f"
+  },
+  {
+    "numeroBastidor": 15894356,
+    "matricula": "9829 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 80,
+    "idCarga": "f0e99097-1236-46bd-9f71-9992f8e69f47"
+  },
+  {
+    "numeroBastidor": 37446483,
+    "matricula": "9277 JTH",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 71,
+    "idCarga": "6a1fb3be-c71c-4927-ba0f-0838f81308ce"
+  },
+  {
+    "numeroBastidor": 46286431,
+    "matricula": "7921 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 82,
+    "idCarga": "3ac760fe-7d5d-47f6-948f-1e208a2d6109"
+  },
+  {
+    "numeroBastidor": 79823068,
+    "matricula": "7081 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 38,
+    "idCarga": "00564b7d-4389-4ae2-8247-58297c17aca6"
+  },
+  {
+    "numeroBastidor": 97479673,
+    "matricula": "9834 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 73,
+    "idCarga": "89848627-953c-4f3a-8bf1-08fc516d7171"
+  },
+  {
+    "numeroBastidor": 5261808,
+    "matricula": "7143 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 51,
+    "idCarga": "216c208b-5f91-4779-a642-af05f68137f8"
+  },
+  {
+    "numeroBastidor": 76715747,
+    "matricula": "3947 JTH",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "b359ea36-eb6f-47a1-9aeb-ef2e397727ca"
+  },
+  {
+    "numeroBastidor": 79417811,
+    "matricula": "6282 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 90,
+    "idCarga": "6c9c7daa-091e-469e-aed2-80da1fb4f4ca"
+  },
+  {
+    "numeroBastidor": 29759311,
+    "matricula": "1884 SSE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "afca3db2-6465-4682-9dad-d3531c4fcff1"
+  },
+  {
+    "numeroBastidor": 77676697,
+    "matricula": "3494 EVM",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "1fa0dcf6-c04e-4ab3-8ecc-432669743b94"
+  },
+  {
+    "numeroBastidor": 23777088,
+    "matricula": "1702 SSE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 71,
+    "idCarga": "4ff8c51c-6c39-483b-8b27-8570af67cf41"
+  },
+  {
+    "numeroBastidor": 19645981,
+    "matricula": "3270 SET",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 57,
+    "idCarga": "d76551b2-37fa-4f5f-a2f6-0939e7572082"
+  },
+  {
+    "numeroBastidor": 71324667,
+    "matricula": "2775 SET",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 84,
+    "idCarga": "4f04be39-2edc-45f2-9ca1-97dc741c878d"
+  },
+  {
+    "numeroBastidor": 20537534,
+    "matricula": "5361 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 82,
+    "idCarga": "5baa099f-3402-4c9c-8904-00ca5881632a"
+  },
+  {
+    "numeroBastidor": 92932475,
+    "matricula": "4534 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 80,
+    "idCarga": "5390a721-d4c5-44b5-ae36-51f7bb38adfe"
+  },
+  {
+    "numeroBastidor": 58101231,
+    "matricula": "9524 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 27,
+    "idCarga": "80f8ead9-fdcd-4d8c-b730-efe940a23142"
+  },
+  {
+    "numeroBastidor": 29767097,
+    "matricula": "3044 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 8,
+    "idCarga": "bdcf2d60-5d4e-4c1f-a3a6-32e368e6b324"
+  },
+  {
+    "numeroBastidor": 61424244,
+    "matricula": "8478 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 21,
+    "idCarga": "17c799ba-d55b-4edb-b99e-964730447af8"
+  },
+  {
+    "numeroBastidor": 11594869,
+    "matricula": "7652 SSE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 5,
+    "idCarga": "9c8978a3-3a53-4c5a-a643-788b431106ef"
+  },
+  {
+    "numeroBastidor": 88114308,
+    "matricula": "9542 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 96,
+    "idCarga": "b8c8057e-aed8-46c1-90ef-7df03ee55bba"
+  },
+  {
+    "numeroBastidor": 18402623,
+    "matricula": "8398 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 29,
+    "idCarga": "c6fee686-7332-4466-96b5-29ba26527215"
+  },
+  {
+    "numeroBastidor": 84051730,
+    "matricula": "3753 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 98,
+    "idCarga": "095a33ca-b93c-4c5d-9d5a-89204bd7c274"
+  },
+  {
+    "numeroBastidor": 4568426,
+    "matricula": "8779 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 59,
+    "idCarga": "ab03b758-e0a6-4596-b732-d51374820fbd"
+  },
+  {
+    "numeroBastidor": 46057923,
+    "matricula": "3299 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 86,
+    "idCarga": "fdb1acb4-9049-47af-b432-0ce6d28e2f9a"
+  },
+  {
+    "numeroBastidor": 48526815,
+    "matricula": "7632 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 95,
+    "idCarga": "33ab7c86-2200-4179-8ba1-a0d67fef997a"
+  },
+  {
+    "numeroBastidor": 21174402,
+    "matricula": "9598 RTG",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 60,
+    "idCarga": "0b38b9c1-f6fe-4e38-b45e-cefa59642a82"
+  },
+  {
+    "numeroBastidor": 42992668,
+    "matricula": "2338 JTH",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "fffd54c4-4ae7-4154-ab52-720a3eccb924"
+  },
+  {
+    "numeroBastidor": 53879282,
+    "matricula": "2757 SSE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 75,
+    "idCarga": "8f7826c7-3fa3-4021-80cc-6fa35daaee90"
+  },
+  {
+    "numeroBastidor": 9903231,
+    "matricula": "7917 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 32,
+    "idCarga": "60baeff2-fa7c-4dcd-9e5f-ccc5520610c5"
+  },
+  {
+    "numeroBastidor": 95351778,
+    "matricula": "5921 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 30,
+    "idCarga": "f0cafe28-7ab1-4c9b-ad44-e92f893458c2"
+  },
+  {
+    "numeroBastidor": 35327874,
+    "matricula": "9293 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 39,
+    "idCarga": "ea824fe2-6b13-4390-bd7b-52a4af99698d"
+  },
+  {
+    "numeroBastidor": 41265834,
+    "matricula": "1510 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "d3f2d045-a3b2-4603-a4c0-3b827b7fd1a9"
+  },
+  {
+    "numeroBastidor": 32196130,
+    "matricula": "1089 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 30,
+    "idCarga": "a2c4faf5-7533-499a-8e6e-51b4e49f8d0d"
+  },
+  {
+    "numeroBastidor": 12241940,
+    "matricula": "3746 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 95,
+    "idCarga": "050d3182-94db-4a7c-aa82-b0a34782aec8"
+  },
+  {
+    "numeroBastidor": 72033889,
+    "matricula": "8514 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 30,
+    "idCarga": "bcfa18ca-1009-4a1d-96b9-a75eb1b0f1bf"
+  },
+  {
+    "numeroBastidor": 35299065,
+    "matricula": "2026 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 31,
+    "idCarga": "b04a6b30-b47b-42ba-93d5-81cc6df033af"
+  },
+  {
+    "numeroBastidor": 40067880,
+    "matricula": "9700 RTG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 83,
+    "idCarga": "70d1526d-f7e4-49ae-93b1-16b1d70ddeff"
+  },
+  {
+    "numeroBastidor": 88149573,
+    "matricula": "4449 SSE",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 92,
+    "idCarga": "abf196a3-7483-4b40-84ab-e0ef808da36a"
+  },
+  {
+    "numeroBastidor": 61941907,
+    "matricula": "6228 JTH",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 6,
+    "idCarga": "33c88143-98d6-424c-83a5-d54cb8acf840"
+  },
+  {
+    "numeroBastidor": 8567116,
+    "matricula": "5611 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 13,
+    "idCarga": "85b2f56f-696e-41fd-96e8-540aeecf3998"
+  },
+  {
+    "numeroBastidor": 94110623,
+    "matricula": "2305 JTH",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 36,
+    "idCarga": "059fe6f3-8c8f-45b1-a665-16d7a5a56bc3"
+  },
+  {
+    "numeroBastidor": 35084027,
+    "matricula": "9233 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 61,
+    "idCarga": "36a7372a-8626-4505-8c3b-7bacf2de6124"
+  },
+  {
+    "numeroBastidor": 40295628,
+    "matricula": "5032 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 67,
+    "idCarga": "0aa823dd-d5fd-4c45-b37f-dcd650f3a4df"
+  },
+  {
+    "numeroBastidor": 19589277,
+    "matricula": "9438 SET",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 62,
+    "idCarga": "d2cf0b81-bf60-439d-9b29-1f301ee4e242"
+  },
+  {
+    "numeroBastidor": 62906320,
+    "matricula": "5681 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 14,
+    "idCarga": "19455741-737c-4b3b-8998-e4a26353cf68"
+  },
+  {
+    "numeroBastidor": 98972272,
+    "matricula": "4448 ERE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 40,
+    "idCarga": "39b44d8f-f6dd-4f7e-9422-b3ef19994857"
+  },
+  {
+    "numeroBastidor": 87095363,
+    "matricula": "8304 JTH",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 50,
+    "idCarga": "842277ef-b1fd-4592-ba7b-40cdd407c20b"
+  },
+  {
+    "numeroBastidor": 31221744,
+    "matricula": "4560 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "63784263-954a-41ac-8cd9-7b7d45a87bd6"
+  },
+  {
+    "numeroBastidor": 45575672,
+    "matricula": "1478 EVM",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "8f750f02-8031-474f-baef-d85bb0eb078b"
+  },
+  {
+    "numeroBastidor": 96075518,
+    "matricula": "2281 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 41,
+    "idCarga": "4b923d6f-3089-4005-90fb-9b31bb6dc830"
+  },
+  {
+    "numeroBastidor": 13518635,
+    "matricula": "6129 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 64,
+    "idCarga": "c4c2c6e5-3d16-47d6-912f-33dc7d528a64"
+  },
+  {
+    "numeroBastidor": 51961239,
+    "matricula": "8835 RTG",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 60,
+    "idCarga": "80e1b874-42f2-477b-be89-75436b8a73c5"
+  },
+  {
+    "numeroBastidor": 75823542,
+    "matricula": "9244 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 9,
+    "idCarga": "dd56353e-c5cb-4938-9b90-911f7b6dffcc"
+  },
+  {
+    "numeroBastidor": 54364608,
+    "matricula": "3249 RTG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 65,
+    "idCarga": "11cb05d3-bdb2-4af8-af9f-2d09bb500a3b"
+  },
+  {
+    "numeroBastidor": 60882113,
+    "matricula": "7856 RTG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 13,
+    "idCarga": "70dd03d5-d4d0-4156-94a4-ac3555a2113d"
+  },
+  {
+    "numeroBastidor": 62005330,
+    "matricula": "1004 JTH",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 69,
+    "idCarga": "01e4401c-e7fc-4a33-a450-9cde9c63fc29"
+  },
+  {
+    "numeroBastidor": 26969644,
+    "matricula": "6272 EVM",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 61,
+    "idCarga": "3a4f521e-cfea-483f-a1b5-b49099ec8835"
+  },
+  {
+    "numeroBastidor": 34586068,
+    "matricula": "4004 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 78,
+    "idCarga": "08d05d78-b35a-4a5e-ad70-a475e3d6c980"
+  },
+  {
+    "numeroBastidor": 52083706,
+    "matricula": "6060 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 28,
+    "idCarga": "2cc50966-07c0-401c-bcea-a3e0cf7f4332"
+  },
+  {
+    "numeroBastidor": 43222321,
+    "matricula": "8730 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "2ff848d0-e562-426e-a53b-5663d33bc093"
+  },
+  {
+    "numeroBastidor": 52209610,
+    "matricula": "5882 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "2be2b014-4f78-445c-b91b-79f916e94d52"
+  },
+  {
+    "numeroBastidor": 86215863,
+    "matricula": "5466 HTF",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "67157c5c-5762-4980-887f-31beb6a432bd"
+  },
+  {
+    "numeroBastidor": 4530202,
+    "matricula": "4351 JTH",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 51,
+    "idCarga": "03c79669-d4e4-459f-b263-c5033b2c7d1f"
+  },
+  {
+    "numeroBastidor": 42614332,
+    "matricula": "3926 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 35,
+    "idCarga": "6cc45102-b193-4e60-82e7-15086b1067d9"
+  },
+  {
+    "numeroBastidor": 7881809,
+    "matricula": "9129 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "f30f8a55-c80d-4eff-8222-87eb60b65319"
+  },
+  {
+    "numeroBastidor": 29040009,
+    "matricula": "7472 ERE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 65,
+    "idCarga": "7e7fa25e-0b1e-4655-9588-b6b2e35de58a"
+  },
+  {
+    "numeroBastidor": 10911639,
+    "matricula": "5459 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 35,
+    "idCarga": "0482633f-fb86-4b34-b2db-0342aff262bf"
+  },
+  {
+    "numeroBastidor": 81890881,
+    "matricula": "6437 SSE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 23,
+    "idCarga": "dd9c1248-b28c-4c11-b1b5-571c53cbcc6d"
+  },
+  {
+    "numeroBastidor": 3507566,
+    "matricula": "7001 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "5ddffc57-810e-4d01-b286-a6ed6b8b0907"
+  },
+  {
+    "numeroBastidor": 1443728,
+    "matricula": "6974 RTG",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 53,
+    "idCarga": "a153e005-877d-4e70-8dc9-fe7478b27de0"
+  },
+  {
+    "numeroBastidor": 46880502,
+    "matricula": "1850 ERE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 93,
+    "idCarga": "a2e08955-327f-4728-b6ca-c821c2bfa509"
+  },
+  {
+    "numeroBastidor": 74994127,
+    "matricula": "7017 HTF",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 59,
+    "idCarga": "c4f35b9e-9676-4b64-8f50-eacd5bee2c01"
+  },
+  {
+    "numeroBastidor": 33420536,
+    "matricula": "8735 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 22,
+    "idCarga": "ae0b20f7-ea9f-4513-a9a8-39c3b2f35c95"
+  },
+  {
+    "numeroBastidor": 81253481,
+    "matricula": "7391 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "78c9ba25-d13c-46f3-8d66-c0c61f0c1542"
+  },
+  {
+    "numeroBastidor": 34915209,
+    "matricula": "3782 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "873f153e-574a-44cb-9087-6f3092fc42fe"
+  },
+  {
+    "numeroBastidor": 88908177,
+    "matricula": "2525 JTH",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 35,
+    "idCarga": "0fd0161f-c2d5-4047-9454-4c0f14b248ee"
+  },
+  {
+    "numeroBastidor": 18330867,
+    "matricula": "4240 ERE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 48,
+    "idCarga": "2894aee4-084e-4f42-bad7-1f3c66b4c590"
+  },
+  {
+    "numeroBastidor": 18452329,
+    "matricula": "4478 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 25,
+    "idCarga": "22e9a31c-affc-4413-94b8-44028c2e928b"
+  },
+  {
+    "numeroBastidor": 44727971,
+    "matricula": "7527 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 63,
+    "idCarga": "89db7e24-b36d-4bda-bdcf-c83a39dfa863"
+  },
+  {
+    "numeroBastidor": 45096142,
+    "matricula": "7955 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 54,
+    "idCarga": "d93aa397-16a5-4de9-a8ce-bababa67dee0"
+  },
+  {
+    "numeroBastidor": 98227619,
+    "matricula": "6386 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 92,
+    "idCarga": "04cd2b80-dd54-471d-b5c6-1d417c1f3677"
+  },
+  {
+    "numeroBastidor": 87420088,
+    "matricula": "1190 RTG",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 65,
+    "idCarga": "36f3d4f0-51f3-4bfa-af9b-510bc65782ef"
+  },
+  {
+    "numeroBastidor": 94724998,
+    "matricula": "3703 ERE",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1397ca19-ab79-426a-8354-5c1ae6e98071"
+  },
+  {
+    "numeroBastidor": 71375022,
+    "matricula": "4461 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 66,
+    "idCarga": "097ca749-fe0e-4284-9613-04cba0783fe3"
+  },
+  {
+    "numeroBastidor": 9207148,
+    "matricula": "7140 SSE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "cb235376-f689-4960-ac5f-1c9a35212761"
+  },
+  {
+    "numeroBastidor": 73927005,
+    "matricula": "9282 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 33,
+    "idCarga": "730f3a84-1dc6-4ef3-a670-3e28a4343c90"
+  },
+  {
+    "numeroBastidor": 3090843,
+    "matricula": "2534 RTG",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 32,
+    "idCarga": "c422bedf-1e96-4822-8815-dee77b11e55b"
+  },
+  {
+    "numeroBastidor": 2612667,
+    "matricula": "6051 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7,
+    "idCarga": "cf090995-82a8-4f90-b504-cfe6902c52e5"
+  },
+  {
+    "numeroBastidor": 43529798,
+    "matricula": "2778 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 66,
+    "idCarga": "aed69a08-ee12-4b22-84b3-062c4448aad8"
+  },
+  {
+    "numeroBastidor": 95178379,
+    "matricula": "3406 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 79,
+    "idCarga": "a532f686-8bcb-4ea1-9a1b-77ef3664a628"
+  },
+  {
+    "numeroBastidor": 75144275,
+    "matricula": "5944 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 60,
+    "idCarga": "530903a9-466e-4e8b-b17f-269dfb85460b"
+  },
+  {
+    "numeroBastidor": 98457074,
+    "matricula": "6987 RTG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 6,
+    "idCarga": "f1f756f0-0d6e-4621-9e27-d74cd5591eaf"
+  },
+  {
+    "numeroBastidor": 25671908,
+    "matricula": "9531 HTF",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 70,
+    "idCarga": "c5f34aa4-5591-4c5a-8ce1-053029770544"
+  },
+  {
+    "numeroBastidor": 66438444,
+    "matricula": "4245 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 90,
+    "idCarga": "c71687c5-16bc-47b3-a719-3f53b13cd9f7"
+  },
+  {
+    "numeroBastidor": 68887371,
+    "matricula": "3509 LOG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "18eb6c3a-55b4-4245-90c7-895c984001ab"
+  },
+  {
+    "numeroBastidor": 80747019,
+    "matricula": "6302 ERE",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 68,
+    "idCarga": "5ca02e70-8f76-4169-8bfe-ed6260cf5467"
+  },
+  {
+    "numeroBastidor": 60270554,
+    "matricula": "1707 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "683b7b75-e157-424f-a93c-549c119b727d"
+  },
+  {
+    "numeroBastidor": 31856093,
+    "matricula": "5114 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 74,
+    "idCarga": "6be6b280-fb7c-4626-bda8-2d026248e0bb"
+  },
+  {
+    "numeroBastidor": 82774135,
+    "matricula": "5795 SET",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 10,
+    "idCarga": "dabd8c2b-80f6-41a0-a162-25f2795c6b8c"
+  },
+  {
+    "numeroBastidor": 22150510,
+    "matricula": "3750 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 81,
+    "idCarga": "bdabd5d7-1b28-4692-a1dc-7efe25f8495f"
+  },
+  {
+    "numeroBastidor": 54393588,
+    "matricula": "3826 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 37,
+    "idCarga": "c50bdb43-4bc5-4746-9028-3aa625970fde"
+  },
+  {
+    "numeroBastidor": 32529748,
+    "matricula": "4284 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 11,
+    "idCarga": "5d028bce-e68b-40e2-8701-a3e2d589627b"
+  },
+  {
+    "numeroBastidor": 64551884,
+    "matricula": "8039 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 81,
+    "idCarga": "6c41324d-6aa4-477e-a070-99453de29d37"
+  },
+  {
+    "numeroBastidor": 79933401,
+    "matricula": "4794 EVM",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "0a2225f1-3a67-45f7-a739-5a0b7f9b0ad2"
+  },
+  {
+    "numeroBastidor": 19785058,
+    "matricula": "6346 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "af5f3c95-28fa-4faa-9e60-8dbdf01ce0b9"
+  },
+  {
+    "numeroBastidor": 73030190,
+    "matricula": "2770 SET",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 55,
+    "idCarga": "0b26f750-a5db-4876-9ea9-1a245b3f9d47"
+  },
+  {
+    "numeroBastidor": 60678881,
+    "matricula": "3465 LOG",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 21,
+    "idCarga": "026756ab-1784-4f9a-a1d4-3575dea1023b"
+  },
+  {
+    "numeroBastidor": 5751142,
+    "matricula": "6055 JTH",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "47f14781-1481-49b3-b07d-75ba5854d0cd"
+  },
+  {
+    "numeroBastidor": 36127079,
+    "matricula": "3214 EVM",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 91,
+    "idCarga": "ab214ac0-dcb0-460f-a09f-e66d1ffd7214"
+  },
+  {
+    "numeroBastidor": 24676973,
+    "matricula": "1618 JTH",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "e3b49b1d-d0d7-4e51-ad4d-8136535a2511"
+  },
+  {
+    "numeroBastidor": 82587008,
+    "matricula": "8993 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 56,
+    "idCarga": "e7778d28-637e-4a06-b029-4f29263ca2e3"
+  },
+  {
+    "numeroBastidor": 14464869,
+    "matricula": "5276 SET",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 97,
+    "idCarga": "1346e20e-c47a-40ba-91a4-2819949a075d"
+  },
+  {
+    "numeroBastidor": 76101839,
+    "matricula": "2301 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 18,
+    "idCarga": "42e6d700-a62a-4acc-928d-dfcf8059e9d9"
+  },
+  {
+    "numeroBastidor": 3542323,
+    "matricula": "9039 SSE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 86,
+    "idCarga": "b67d6ea4-670b-44c2-8086-fa6fe1842115"
+  },
+  {
+    "numeroBastidor": 76110527,
+    "matricula": "8912 RTG",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "18995c27-4d88-4664-84c8-57ebbc7e968b"
+  },
+  {
+    "numeroBastidor": 12146392,
+    "matricula": "4712 ERE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 11,
+    "idCarga": "ce131a8b-ba0a-45e5-bbb1-35fd9d0443a0"
+  },
+  {
+    "numeroBastidor": 93825203,
+    "matricula": "6949 RTG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "34b91a44-e92b-4524-a79a-0dedabcf38f9"
+  },
+  {
+    "numeroBastidor": 6939188,
+    "matricula": "7370 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 37,
+    "idCarga": "33f1d447-00ad-4319-be9d-baa580214667"
+  },
+  {
+    "numeroBastidor": 48311402,
+    "matricula": "6300 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1,
+    "idCarga": "c1300329-aed6-4d5c-bced-29c127c91c70"
+  },
+  {
+    "numeroBastidor": 52297178,
+    "matricula": "3142 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "472384e6-f7ed-47ce-ab25-edf9b45b5bfd"
+  },
+  {
+    "numeroBastidor": 54734013,
+    "matricula": "6154 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 89,
+    "idCarga": "61285bbf-a95e-4495-98dd-d26430e77c10"
+  },
+  {
+    "numeroBastidor": 18931883,
+    "matricula": "4966 JTH",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 83,
+    "idCarga": "5f3365b3-9e43-472f-82d4-f753f737dc32"
+  },
+  {
+    "numeroBastidor": 19873431,
+    "matricula": "5471 ERE",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 71,
+    "idCarga": "d4d88b90-5e71-4b4e-bf99-d85b477d7bd4"
+  },
+  {
+    "numeroBastidor": 89445632,
+    "matricula": "4358 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 28,
+    "idCarga": "ecd34022-77d4-41f0-8964-6b066cb8c730"
+  },
+  {
+    "numeroBastidor": 50216160,
+    "matricula": "3991 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 24,
+    "idCarga": "891d1e68-ee5a-465c-99d1-cecc5be09508"
+  },
+  {
+    "numeroBastidor": 30601287,
+    "matricula": "9830 EVM",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 45,
+    "idCarga": "8af4fb79-3c20-4526-b257-2cf2a6ac880a"
+  },
+  {
+    "numeroBastidor": 35251188,
+    "matricula": "8152 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 33,
+    "idCarga": "f1cd74cf-869d-49c2-99af-4eb875549ab8"
+  },
+  {
+    "numeroBastidor": 72521028,
+    "matricula": "9524 SSE",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 97,
+    "idCarga": "dcbbd2ae-19e7-4284-a028-c8f9d5003078"
+  },
+  {
+    "numeroBastidor": 70566066,
+    "matricula": "4069 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 46,
+    "idCarga": "8f87759b-8820-4af0-837d-5f8c46296f8f"
+  },
+  {
+    "numeroBastidor": 97049945,
+    "matricula": "5395 RTG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 58,
+    "idCarga": "aa531e51-3e4e-4ad7-bf2d-dbf6986821db"
+  },
+  {
+    "numeroBastidor": 41264747,
+    "matricula": "5332 HTF",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 48,
+    "idCarga": "d2a8c300-5cee-426b-bb51-08c3f4f6c6b7"
+  },
+  {
+    "numeroBastidor": 78687086,
+    "matricula": "9579 SET",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 72,
+    "idCarga": "98f06936-0a8e-4d5b-b4d1-9a8a00ca8f94"
+  },
+  {
+    "numeroBastidor": 28090353,
+    "matricula": "3154 EVM",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 37,
+    "idCarga": "efd60a54-d8f9-46dc-bf6a-9c4789139c94"
+  },
+  {
+    "numeroBastidor": 65159919,
+    "matricula": "2485 RTG",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 48,
+    "idCarga": "617a8142-4bfa-42e4-bcea-9d767ba267ff"
+  },
+  {
+    "numeroBastidor": 52549763,
+    "matricula": "1674 EVM",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 8,
+    "idCarga": "4cc33d71-f342-4755-b314-59a960f9e2ed"
+  },
+  {
+    "numeroBastidor": 1525895,
+    "matricula": "6073 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 95,
+    "idCarga": "00cdbe33-4a64-43f1-982c-a67a7249939a"
+  },
+  {
+    "numeroBastidor": 41869958,
+    "matricula": "8842 HTF",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 86,
+    "idCarga": "dac331b2-3b0a-4b06-9f09-3521a9c2473e"
+  },
+  {
+    "numeroBastidor": 66614764,
+    "matricula": "6524 ERE",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 2,
+    "idCarga": "ba2b549b-8f1f-4993-bb35-fd9c33cf74ef"
+  },
+  {
+    "numeroBastidor": 57794412,
+    "matricula": "8770 EVM",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 82,
+    "idCarga": "586fbc74-781a-45b9-a4fe-7f60b8a528cb"
+  },
+  {
+    "numeroBastidor": 13335867,
+    "matricula": "2270 SSE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 28,
+    "idCarga": "578e49b7-32d5-4a8f-8a7f-b59e62018a98"
+  },
+  {
+    "numeroBastidor": 21646985,
+    "matricula": "9153 JTH",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 72,
+    "idCarga": "4eb8bf59-4434-454a-aceb-713b2a88d602"
+  },
+  {
+    "numeroBastidor": 40773899,
+    "matricula": "1127 LOG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "4cd274a5-506b-43b5-a801-9bdf50f7aeee"
+  },
+  {
+    "numeroBastidor": 40146249,
+    "matricula": "1849 LOG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10,
+    "idCarga": "a6535441-642c-4402-a3e7-3eec96b9b9b7"
+  },
+  {
+    "numeroBastidor": 55221175,
+    "matricula": "5702 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 98,
+    "idCarga": "f1cf036d-e6dd-44fe-8190-341723c9fa04"
+  },
+  {
+    "numeroBastidor": 51855548,
+    "matricula": "8445 LOG",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 93,
+    "idCarga": "eb72e637-d280-4335-bf0b-7cbcaf69049f"
+  },
+  {
+    "numeroBastidor": 22760366,
+    "matricula": "6004 SET",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 39,
+    "idCarga": "5afa79ee-bcb7-46b1-8492-8f19dcc114b1"
+  },
+  {
+    "numeroBastidor": 35889353,
+    "matricula": "8335 LOG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 69,
+    "idCarga": "35098b21-b989-4b75-8369-bbaf6740e0e1"
+  },
+  {
+    "numeroBastidor": 52449311,
+    "matricula": "3989 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 50,
+    "idCarga": "a1abfe15-bc3b-4b2b-9aee-3061e6b9abbf"
+  },
+  {
+    "numeroBastidor": 55239449,
+    "matricula": "5839 RTG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 28,
+    "idCarga": "b64cefc2-382c-47fb-95cf-0b41aa62bbda"
+  },
+  {
+    "numeroBastidor": 48594522,
+    "matricula": "3625 SSE",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 42,
+    "idCarga": "93edb28a-2f53-4aed-aad7-4fcec054ae9d"
+  },
+  {
+    "numeroBastidor": 36881043,
+    "matricula": "1205 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 55,
+    "idCarga": "979b0743-2274-4678-80b7-054a320278f6"
+  },
+  {
+    "numeroBastidor": 64072720,
+    "matricula": "5409 SET",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 40,
+    "idCarga": "e827c80f-b14b-45ea-ab89-802daf1f5a9e"
+  },
+  {
+    "numeroBastidor": 79348001,
+    "matricula": "8245 SSE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 7,
+    "idCarga": "35c6af22-1d57-46dd-8df6-0a4f9e8ede26"
+  },
+  {
+    "numeroBastidor": 31523578,
+    "matricula": "5413 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 86,
+    "idCarga": "3507f24f-007c-4116-b306-c93b78b34c19"
+  },
+  {
+    "numeroBastidor": 99302122,
+    "matricula": "7099 SET",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 17,
+    "idCarga": "05a0d230-769e-49a2-8886-948fa4e58f4b"
+  },
+  {
+    "numeroBastidor": 33259765,
+    "matricula": "9688 JTH",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 23,
+    "idCarga": "10d4b76f-a100-4277-9f96-14d4329c38b8"
+  },
+  {
+    "numeroBastidor": 26058291,
+    "matricula": "7540 JTH",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 26,
+    "idCarga": "833646e8-74a0-4120-995f-69631f72c233"
+  },
+  {
+    "numeroBastidor": 37149166,
+    "matricula": "9333 SSE",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 99,
+    "idCarga": "9866c3a3-c18b-4a24-8881-e118fe327ba1"
+  },
+  {
+    "numeroBastidor": 54412885,
+    "matricula": "1374 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 6,
+    "idCarga": "70895a46-07df-4c1b-804f-3985c505c252"
+  },
+  {
+    "numeroBastidor": 75945829,
+    "matricula": "1929 HTF",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "72a04735-f038-4961-a71c-1bd8b28eaaf2"
+  },
+  {
+    "numeroBastidor": 47473428,
+    "matricula": "3928 ERE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 11,
+    "idCarga": "536871f6-4ccd-4663-9826-ef791f81a8c3"
+  },
+  {
+    "numeroBastidor": 86433461,
+    "matricula": "7052 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 32,
+    "idCarga": "2ee90abf-701e-497c-9236-6d4d92ce9c98"
+  },
+  {
+    "numeroBastidor": 75815594,
+    "matricula": "4440 SET",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 26,
+    "idCarga": "018a0bc4-0253-46aa-8584-a18aa0994bb1"
+  },
+  {
+    "numeroBastidor": 92612390,
+    "matricula": "5276 HTF",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 36,
+    "idCarga": "d0cd4a6f-7b40-4358-9f43-b087d6c2ed86"
+  },
+  {
+    "numeroBastidor": 36301746,
+    "matricula": "7176 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 92,
+    "idCarga": "9c18f8a8-35fc-4e4c-a8bd-592e3389de62"
+  },
+  {
+    "numeroBastidor": 56081232,
+    "matricula": "1523 SET",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 81,
+    "idCarga": "250fff6e-f7d6-406e-8748-edd77cf05b85"
+  },
+  {
+    "numeroBastidor": 71071361,
+    "matricula": "2124 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 19,
+    "idCarga": "b6803c34-bcf9-4262-adea-e8d9e0abcc50"
+  },
+  {
+    "numeroBastidor": 51389214,
+    "matricula": "5664 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 8,
+    "idCarga": "066bb45a-7aa6-445a-8bb7-97db71800716"
+  },
+  {
+    "numeroBastidor": 21220875,
+    "matricula": "9206 EVM",
+    "marca": "RM",
+    "modelo": "100kg",
+    "tipo": 6,
+    "idCarga": "d067a43b-d5c3-49a1-83cf-88b64b0d9dce"
+  },
+  {
+    "numeroBastidor": 35162259,
+    "matricula": "4506 HTF",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 50,
+    "idCarga": "8f77c8f6-a918-44a3-bca9-140391808db4"
+  },
+  {
+    "numeroBastidor": 83081148,
+    "matricula": "2892 HTF",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "70df3174-304c-40c2-b683-4530d1356be5"
+  },
+  {
+    "numeroBastidor": 55905231,
+    "matricula": "9165 LOG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 46,
+    "idCarga": "cb82c2c9-099a-4597-a23a-f7a65a63335b"
+  },
+  {
+    "numeroBastidor": 15855022,
+    "matricula": "5256 LOG",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 15,
+    "idCarga": "39f26106-b867-4b7d-9343-5d9c61f9b90d"
+  },
+  {
+    "numeroBastidor": 51848070,
+    "matricula": "6798 HTF",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 1,
+    "idCarga": "27b433fb-1c11-48f2-8545-7f05c49005eb"
+  },
+  {
+    "numeroBastidor": 89731453,
+    "matricula": "4266 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 71,
+    "idCarga": "0bc2b27c-a142-4bb0-93b3-08205b98c00e"
+  },
+  {
+    "numeroBastidor": 39271659,
+    "matricula": "4496 HTF",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 46,
+    "idCarga": "b488c353-5f15-4aef-a10d-0a7412e81a36"
+  },
+  {
+    "numeroBastidor": 61334123,
+    "matricula": "5146 LOG",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 43,
+    "idCarga": "012c9c98-9c54-4175-82e8-a8ff27b3ae34"
+  },
+  {
+    "numeroBastidor": 13545758,
+    "matricula": "2456 HTF",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 74,
+    "idCarga": "cea5293d-dfc7-464e-91f6-735b9317b77c"
+  },
+  {
+    "numeroBastidor": 84386000,
+    "matricula": "3892 EVM",
+    "marca": "CAT",
+    "modelo": "100000kg",
+    "tipo": 68,
+    "idCarga": "f3cac701-f9bf-4020-8e5b-5298d4a6ef19"
+  },
+  {
+    "numeroBastidor": 19764790,
+    "matricula": "9077 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 19,
+    "idCarga": "bfedce8c-342c-4b59-a709-c115f2845744"
+  },
+  {
+    "numeroBastidor": 36862501,
+    "matricula": "4244 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 59,
+    "idCarga": "8d9e63a3-b4cf-451f-8dda-062d5bbc4c46"
+  },
+  {
+    "numeroBastidor": 88571200,
+    "matricula": "2310 RTG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 80,
+    "idCarga": "735c82fe-0d2a-4601-8e4e-d90bafb556b0"
+  },
+  {
+    "numeroBastidor": 87571967,
+    "matricula": "3257 JTH",
+    "marca": "Citroen",
+    "modelo": "100000kg",
+    "tipo": 77,
+    "idCarga": "7bd7e997-7579-44d4-bde4-4ed9dc998137"
+  },
+  {
+    "numeroBastidor": 80658485,
+    "matricula": "3006 EVM",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 96,
+    "idCarga": "eef9aae8-b406-4451-9e39-6f08a1f499ed"
+  },
+  {
+    "numeroBastidor": 47991076,
+    "matricula": "3392 JTH",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "b89cb3d9-d4d4-47fb-b2cf-6b6e1a4c5cf6"
+  },
+  {
+    "numeroBastidor": 17976906,
+    "matricula": "5921 SET",
+    "marca": "RM",
+    "modelo": "1000kg",
+    "tipo": 19,
+    "idCarga": "5bd01ac2-445b-48fc-ab21-f68544aa77a8"
+  },
+  {
+    "numeroBastidor": 4193387,
+    "matricula": "3064 LOG",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 88,
+    "idCarga": "65079067-ad99-49da-8efc-1334c36791a9"
+  },
+  {
+    "numeroBastidor": 16117621,
+    "matricula": "7702 SSE",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 3,
+    "idCarga": "fa37eff8-411b-4e13-b91b-e1977a104dbb"
+  },
+  {
+    "numeroBastidor": 11692026,
+    "matricula": "1482 ERE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 5,
+    "idCarga": "b99c41a5-0fbf-4205-89d9-9873dcc81585"
+  },
+  {
+    "numeroBastidor": 38744972,
+    "matricula": "7771 HTF",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 2,
+    "idCarga": "e4284401-ddcc-46f5-918d-b67212614be9"
+  },
+  {
+    "numeroBastidor": 22975113,
+    "matricula": "7078 RTG",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 64,
+    "idCarga": "5c1a19f6-069f-4a75-906d-32866c500345"
+  },
+  {
+    "numeroBastidor": 87383558,
+    "matricula": "8974 ERE",
+    "marca": "Scania",
+    "modelo": "100kg",
+    "tipo": 32,
+    "idCarga": "dec52ce8-40f4-4969-beb2-dd26d0afd541"
+  },
+  {
+    "numeroBastidor": 19499675,
+    "matricula": "6862 RTG",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 9,
+    "idCarga": "478baf97-a437-43db-865b-6d97484aa804"
+  },
+  {
+    "numeroBastidor": 67145245,
+    "matricula": "8152 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 22,
+    "idCarga": "22b0da41-f4c5-42e8-9c7f-f03e0b8a139b"
+  },
+  {
+    "numeroBastidor": 18747991,
+    "matricula": "8644 HTF",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 35,
+    "idCarga": "da394aa5-0455-4770-8c16-dc6b20a200cc"
+  },
+  {
+    "numeroBastidor": 4170437,
+    "matricula": "3776 JTH",
+    "marca": "Saab",
+    "modelo": "100000kg",
+    "tipo": 40,
+    "idCarga": "50b5946e-f579-4c2d-b9b5-9a8156571844"
+  },
+  {
+    "numeroBastidor": 45148197,
+    "matricula": "3952 EVM",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 24,
+    "idCarga": "bccb63ae-583b-441b-80ae-0e43972870aa"
+  },
+  {
+    "numeroBastidor": 23550658,
+    "matricula": "9308 SSE",
+    "marca": "BMW",
+    "modelo": "100000kg",
+    "tipo": 78,
+    "idCarga": "12e66080-dd13-4d79-a9c9-33fc89da3bfb"
+  },
+  {
+    "numeroBastidor": 70343835,
+    "matricula": "2130 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 40,
+    "idCarga": "95b82cc8-bae1-4454-8a74-45636cff3251"
+  },
+  {
+    "numeroBastidor": 19298169,
+    "matricula": "4525 ERE",
+    "marca": "RM",
+    "modelo": "10000kg",
+    "tipo": 54,
+    "idCarga": "f257a252-3a6b-41b8-a767-ba84cd15968b"
+  },
+  {
+    "numeroBastidor": 90896665,
+    "matricula": "1704 SSE",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 54,
+    "idCarga": "d677fe89-d78a-4c01-8255-2421cac390cb"
+  },
+  {
+    "numeroBastidor": 53107620,
+    "matricula": "8340 LOG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 96,
+    "idCarga": "b27b5528-d0ee-4955-931c-9d9158e39a84"
+  },
+  {
+    "numeroBastidor": 39173026,
+    "matricula": "7674 ERE",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 18,
+    "idCarga": "54033ab9-1cfb-48ea-ac37-2d9fecd30ab3"
+  },
+  {
+    "numeroBastidor": 33112540,
+    "matricula": "7399 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 94,
+    "idCarga": "d4984372-d044-4e5c-96d4-66dc7d0f6c8c"
+  },
+  {
+    "numeroBastidor": 27251627,
+    "matricula": "2928 ERE",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 35,
+    "idCarga": "73bf2c07-40fd-4c8d-a23e-b27d91f7d715"
+  },
+  {
+    "numeroBastidor": 17222880,
+    "matricula": "9909 JTH",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 53,
+    "idCarga": "4f85d8eb-cf44-4339-be68-22af22462184"
+  },
+  {
+    "numeroBastidor": 92039371,
+    "matricula": "3029 SET",
+    "marca": "Saab",
+    "modelo": "1000kg",
+    "tipo": 20,
+    "idCarga": "cf36988b-7977-41f6-ab13-8945e4796729"
+  },
+  {
+    "numeroBastidor": 74262034,
+    "matricula": "1104 SET",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 74,
+    "idCarga": "cadeb7c2-d7e3-4b7f-81d8-ca1330b6952a"
+  },
+  {
+    "numeroBastidor": 90445157,
+    "matricula": "1805 SSE",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 29,
+    "idCarga": "47ab6f72-f9d4-471f-bd4a-3902d3b2ed18"
+  },
+  {
+    "numeroBastidor": 34247573,
+    "matricula": "7141 RTG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 85,
+    "idCarga": "54522af2-4abf-42ed-a0a0-1e75ccbc19d1"
+  },
+  {
+    "numeroBastidor": 26833610,
+    "matricula": "4460 LOG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 16,
+    "idCarga": "d7477222-8bd1-4458-b6c5-ae422af90929"
+  },
+  {
+    "numeroBastidor": 1472106,
+    "matricula": "9926 SSE",
+    "marca": "Saab",
+    "modelo": "10000kg",
+    "tipo": 78,
+    "idCarga": "2cdf3bcd-7101-47c6-a213-bef55976ead0"
+  },
+  {
+    "numeroBastidor": 38413195,
+    "matricula": "6835 EVM",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 51,
+    "idCarga": "808f31bc-b048-44e5-a61c-b1e140b7a85e"
+  },
+  {
+    "numeroBastidor": 57108455,
+    "matricula": "4429 HTF",
+    "marca": "RM",
+    "modelo": "100000kg",
+    "tipo": 17,
+    "idCarga": "a0c72bf1-16f8-4e49-b919-f190e991097d"
+  },
+  {
+    "numeroBastidor": 70546069,
+    "matricula": "2554 EVM",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 1,
+    "idCarga": "4412e652-ec23-466f-b184-ec75e6570cb1"
+  },
+  {
+    "numeroBastidor": 68105208,
+    "matricula": "4139 SSE",
+    "marca": "Scania",
+    "modelo": "100000kg",
+    "tipo": 3,
+    "idCarga": "9b5fe9ce-b9d3-4616-b77a-08ab3e730c60"
+  },
+  {
+    "numeroBastidor": 55962236,
+    "matricula": "9311 ERE",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 8,
+    "idCarga": "794a8eb3-ea69-415a-9b27-4e1e850bb23a"
+  },
+  {
+    "numeroBastidor": 80402635,
+    "matricula": "4507 LOG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 47,
+    "idCarga": "549769a3-afef-44b3-9d87-bd781087e94e"
+  },
+  {
+    "numeroBastidor": 69916013,
+    "matricula": "7756 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 89,
+    "idCarga": "52e5df45-7dbc-4871-8f1b-c57789e8a940"
+  },
+  {
+    "numeroBastidor": 75437092,
+    "matricula": "4050 EVM",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 42,
+    "idCarga": "078b659a-a59d-4c74-961b-a98299e8dc68"
+  },
+  {
+    "numeroBastidor": 97600466,
+    "matricula": "3165 ERE",
+    "marca": "Citroen",
+    "modelo": "100kg",
+    "tipo": 26,
+    "idCarga": "bbd56647-c8ba-4b99-801e-99b6148c1ca5"
+  },
+  {
+    "numeroBastidor": 22042532,
+    "matricula": "5866 EVM",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 44,
+    "idCarga": "5cd3833b-80b5-48d3-89db-d8ce45c55e5a"
+  },
+  {
+    "numeroBastidor": 9097600,
+    "matricula": "1215 LOG",
+    "marca": "BMW",
+    "modelo": "100kg",
+    "tipo": 13,
+    "idCarga": "c3b887e7-1091-4a72-913a-bd7ad72ae0ad"
+  },
+  {
+    "numeroBastidor": 15973570,
+    "matricula": "2885 ERE",
+    "marca": "CAT",
+    "modelo": "100kg",
+    "tipo": 53,
+    "idCarga": "0a434a74-5317-4fd2-8fbd-dc4f854c4e96"
+  },
+  {
+    "numeroBastidor": 76116753,
+    "matricula": "7200 SSE",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 64,
+    "idCarga": "89158bca-afdb-4f52-896d-bd148aec0112"
+  },
+  {
+    "numeroBastidor": 14567079,
+    "matricula": "7041 SET",
+    "marca": "Saab",
+    "modelo": "100kg",
+    "tipo": 81,
+    "idCarga": "c40f73fa-ce60-4b0b-9f36-7a2be5327ada"
+  }
+]

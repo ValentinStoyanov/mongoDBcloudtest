@@ -1,0 +1,6968 @@
+[
+  {
+    "numeroBastidor": 5078084,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3661140,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7348213,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9789343,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7253272,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9805641,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8284384,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2841109,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4967303,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5918482,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3179165,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3943649,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7373909,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5841451,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 3461267,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5853557,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6131622,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9099625,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7065647,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9626820,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1020712,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1375854,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3123741,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5292644,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3408383,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9834027,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7381934,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1994352,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8485013,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9735244,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 6273542,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2444804,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2133076,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2401417,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8064721,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9952145,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7708740,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6360789,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6623828,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2759970,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2701253,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6974699,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4491987,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9145866,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8936580,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1015748,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1273931,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8482603,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5557673,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4610696,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8415953,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6816952,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8952370,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1420459,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5898039,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4542819,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8230416,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9297801,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4113478,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3868198,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7150752,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5817362,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8678643,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6470543,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8083078,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9433467,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5392996,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2092168,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4982326,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9071049,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1063382,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6332124,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5805302,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4714560,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3553036,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3190694,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5853781,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1121125,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5765830,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3745587,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2747973,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9175619,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9155143,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6407869,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6488698,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6183543,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5306854,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1898276,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3277246,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4370058,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5601510,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6147324,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 1887415,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3108220,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5055126,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9187348,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 3867003,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1709054,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3696782,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 6
+  }
+  ,
+  {
+    "numeroBastidor": 3993874,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1392877,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4420233,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6620857,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2078135,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3049042,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1612132,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2639270,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1512459,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6722721,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5339856,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3574187,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5112079,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4936566,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1353521,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5007439,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8538895,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5402461,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2953837,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9288109,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4039784,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9218465,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9275568,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7440731,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 6253528,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2291497,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6799525,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6415773,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3269668,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6030086,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7853283,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8121325,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6632273,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4464956,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8887011,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4494358,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2080975,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1344829,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 1608500,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7078725,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7790970,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5382678,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9083476,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7371933,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4010518,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3190013,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6933644,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2729461,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2541606,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8744812,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8807539,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5213107,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2524676,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4520601,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3931607,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3820742,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7022701,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4565384,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5877778,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5850417,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3030921,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1959532,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9666353,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5942557,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7081129,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5699594,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7434447,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7106197,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4014193,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4480900,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9201831,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4882651,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9314068,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9510010,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4713552,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6066425,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3654172,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3755526,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8613527,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6360357,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5144153,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4971220,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3780804,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2538768,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9551205,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7009645,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8078436,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4160311,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3229780,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2150331,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8089426,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5768741,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9321468,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2780200,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3716119,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9704470,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9326644,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3732640,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3166925,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5887103,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5669458,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9469751,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9250715,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1534596,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4316556,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6247122,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8580659,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8812324,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7331044,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3768460,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3888170,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9375219,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2428135,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3426457,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 2783385,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1255086,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2405861,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3128796,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3582381,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3686768,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7959297,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4972138,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3984590,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9365019,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4183988,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8274365,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5841348,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3769001,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3821387,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3561054,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1245509,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7352044,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4524231,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2150711,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5380084,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2374238,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2022428,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9562338,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1630963,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3561118,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1267718,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7203477,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1859112,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6067250,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6116855,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3302083,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5241248,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3305327,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8524927,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2266338,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7614510,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1332064,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5953277,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8376739,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3689496,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1435998,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7864684,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7980001,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6957724,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5495107,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9781875,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1866112,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6137710,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6720356,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1750303,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8114627,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8810169,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2592210,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8144193,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6049998,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3839241,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5230521,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6197572,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9534053,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5277587,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1002884,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6111371,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5566919,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4982128,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6569485,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9992695,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3120357,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9287448,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8552073,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5844687,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3104409,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4157721,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7469938,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1474055,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9464419,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9554944,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4837198,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2989159,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3312448,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3492969,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2581364,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2229788,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2587604,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9195704,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7580647,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2530445,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 6244936,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8748766,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6882710,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 1012110,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2129117,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9190837,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8184439,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4483653,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1760125,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9556693,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3477341,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3290966,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4098147,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 3314587,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3996915,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3517339,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3804977,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5904680,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1695985,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8381386,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8660889,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4087057,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6263981,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8302455,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1925149,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3467487,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5305906,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9425898,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3373965,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7201576,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3411301,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3076860,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4540179,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4525370,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8562925,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6620793,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6839867,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5183700,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5559658,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1918732,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5939963,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6245312,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9588522,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6872524,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6709428,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7458412,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3636665,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8259200,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8517648,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1612719,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6125947,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2600573,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5640131,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4048837,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1724847,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2095465,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6231066,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3647645,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5367142,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1338622,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8136561,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9926458,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8773759,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7152014,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1475193,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5972187,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2243145,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7923793,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9966941,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6598404,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2332894,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3198911,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8175440,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4755383,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6753349,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8953619,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5776179,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5865771,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3416449,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3122207,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6404044,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9590322,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4318344,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3068161,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4117006,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6340074,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7406782,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4399917,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1778363,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4546397,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3843000,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6668118,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6028397,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9027004,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6807674,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8147188,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3992647,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8030304,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2128040,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7969581,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5706580,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6471263,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3728787,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3379677,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7986684,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3641479,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7604080,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9772811,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8228540,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 6407512,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8687603,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9596870,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8134320,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6087820,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2213522,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3037538,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2333922,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7513445,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2510984,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2268301,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6432938,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5981972,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6494226,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5115171,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6214207,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4915436,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9189124,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9977689,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8465215,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3509441,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3854910,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7163195,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8907484,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1949921,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8171981,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1933689,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5038375,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7807203,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1793739,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9503679,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1901747,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3107643,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7181089,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6784313,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7190453,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 9550028,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2456056,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6302251,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9845050,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3970170,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7959836,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6393118,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2253206,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5967573,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3202263,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6443872,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7998697,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6679187,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8459208,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3947810,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2776301,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9512970,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8377668,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8124299,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3461292,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5401811,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9539661,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2929487,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2097185,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4491804,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6948239,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1673398,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4329865,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4775611,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4397876,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2136884,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9528691,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1173279,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6872184,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2908228,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5544392,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7114324,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5276302,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 5111881,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1227331,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2973172,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3614901,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7631828,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7991899,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 2984185,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4809510,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4366465,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1493261,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2134889,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5747770,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8474621,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1620935,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2823011,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5270801,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8953652,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1797989,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2456663,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5843046,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3414322,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4474128,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8911123,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8960481,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5511313,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6775806,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9196842,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9202733,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4623096,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5525901,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8066522,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5888359,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2429268,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4416566,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5738078,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2736632,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8265965,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1578202,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5457730,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3330129,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3196621,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9271869,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4218006,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3717270,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1218962,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7266477,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3754487,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8003678,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8809486,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4234179,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4671551,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3096242,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2041092,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5495647,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4528489,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8903789,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8079911,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7743379,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8980625,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8220807,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7361735,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4664432,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8124062,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3763439,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4178557,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6654208,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3932412,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9928319,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1170245,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1768887,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3553840,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 2952275,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3093814,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 8312933,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7753806,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5946376,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8636976,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2362059,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2564772,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9483370,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7685055,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4656431,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8447092,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9359111,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 7545952,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8390251,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2380209,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1849433,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5939701,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8571009,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3026279,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1900425,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4429789,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6778278,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9256154,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5236438,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1759092,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2293187,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9275715,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9030231,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 9272152,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3708419,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6590455,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5756137,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8857671,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1856109,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3838578,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4409154,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3662923,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5486810,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1691029,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5489769,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9700253,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3241442,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4860104,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7699406,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1840838,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9934120,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1641530,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3789487,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3585257,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5183927,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1285323,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5095137,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1888691,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2783793,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3777248,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9444312,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3120415,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1994254,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6471308,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3993173,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3288323,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 2518199,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1455788,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6912325,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5478242,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8151531,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2944632,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6182099,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1550203,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4271545,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8332798,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3701216,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9343368,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6529032,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8694418,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7509063,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 1790676,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6725547,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6825715,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2520870,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1612259,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3878008,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1720713,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7650090,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3026780,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9088413,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8877955,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7406645,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6776179,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 2766244,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 3573201,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1606361,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7508249,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8731355,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9161799,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6993905,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3697116,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2887700,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9297449,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5348610,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1646747,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4821613,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6936759,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 3564540,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5310772,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6294481,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6567553,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8821683,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7204626,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6095233,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6379274,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6655280,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8496133,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8197678,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9701567,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6005395,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6160823,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6031767,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2200670,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1645311,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5116821,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6666373,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9303387,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 6579176,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5912231,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9336814,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8729853,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1704662,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4177521,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6862094,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2625925,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5318718,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2923304,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1806402,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9564822,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1387539,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8554876,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5081833,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1023145,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7322510,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9682987,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7305121,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2949178,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5642574,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4295071,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1515556,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1855346,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4030988,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2649290,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9708758,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9510996,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8834658,
+    "matricula": "2568GFR",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 6942892,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6617098,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 3083404,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4909496,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5062778,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5865762,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7443268,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4880103,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7251987,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7620223,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8426860,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7009733,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9143423,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7100906,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4818005,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7094260,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9660067,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6273548,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4765352,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3899384,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6061810,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1816763,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1660224,
+    "matricula": "2568GFR",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 5789380,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9534126,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4348721,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8521251,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6872766,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2639041,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9212618,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8952614,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 2717640,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5728448,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9851421,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5958215,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3560694,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7436392,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6082766,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 4861554,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5579991,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2705341,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3268204,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5613912,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5291416,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5070128,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6047586,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1651010,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7775886,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3596252,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6142993,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 7558171,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1473526,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2624512,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4550509,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6808793,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4483107,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6102805,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3439759,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7772743,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7519968,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 4565962,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4461584,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5108435,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5722420,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1467611,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7881253,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2961569,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2301244,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1353347,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5880146,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9047507,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5915569,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3330123,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4851187,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4661356,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6038005,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1381116,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9128718,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7705040,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8278464,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9895695,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 1740101,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6422424,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4505164,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8002530,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7651368,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9513564,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5251261,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6918906,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 4077829,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1235642,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4556888,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 2099560,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2032722,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4670182,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7508380,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 5989273,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2660007,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4306679,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 8090649,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 8710335,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9011430,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5379834,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9025214,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4685029,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6136324,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2217886,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8393515,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 4089336,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2410801,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6895934,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6840244,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8617060,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6839760,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8025300,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3919752,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2402908,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6599591,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4871992,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4038670,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6682753,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6469147,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7643122,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8387833,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3099992,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1368772,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9100319,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8232321,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3056411,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9123046,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 7753668,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4660682,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2988053,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 9342428,
+    "matricula": "2568GFR",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8403672,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8486552,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2492832,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2087315,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7617456,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1228551,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5309434,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 9446936,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5116224,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7590510,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8094375,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4422283,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 1556525,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1212160,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7726483,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1668124,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9248889,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2707304,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9915840,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2930637,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7471837,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2677263,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 3672117,
+    "matricula": "1895RGRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8433406,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3446356,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6763697,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3915425,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 8494503,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6368445,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 8380639,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8114288,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "10000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4242901,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1575623,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6957861,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9200917,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9447447,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3308541,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 8407959,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3222016,
+    "matricula": "2568GFR",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4901833,
+    "matricula": "1895RGRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9488333,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9949415,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2276392,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6640985,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5235336,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3276074,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 9636156,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4908831,
+    "matricula": "9218PLO",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1927291,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 7492886,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6605682,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1944511,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 2300398,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5291467,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 6327676,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4763647,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 9445666,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5564215,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 9041728,
+    "matricula": "1895RGRD",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4068089,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8517318,
+    "matricula": "9218PLO",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 8209688,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 4038089,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 4625307,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 1972227,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9842592,
+    "matricula": "4588GRD",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4655599,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7113457,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 5821029,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "350kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 1959780,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 3064443,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1626622,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6555945,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 6530426,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5472414,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4838475,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 6927177,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9181694,
+    "matricula": "4588GRD",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6417175,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9681322,
+    "matricula": "2151DRG",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6882749,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 4925627,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8441974,
+    "matricula": "2568GFR",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7565116,
+    "matricula": "6545FHK",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7116577,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 4750989,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5717499,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3738105,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 3454671,
+    "matricula": "9218PLO",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7113485,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2163762,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 3020982,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6852535,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7279242,
+    "matricula": "1895RGRD",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2646988,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2901157,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7791765,
+    "matricula": "1895RGRD",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9248392,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6288823,
+    "matricula": "9218PLO",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 3274377,
+    "matricula": "4588GRD",
+    "marca": "CAT",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8149701,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 5720270,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 2524849,
+    "matricula": "1895RGRD",
+    "marca": "Ferrari",
+    "modelo": "1000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 6163001,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9853207,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "10000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8033192,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7794459,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1043880,
+    "matricula": "6545FHK",
+    "marca": "BMW",
+    "modelo": "10000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 2055561,
+    "matricula": "2151DRG",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5553697,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 6789179,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "10000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1405526,
+    "matricula": "2568GFR",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 1248147,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 6339343,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5172272,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 6364218,
+    "matricula": "2151DRG",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 5986877,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 3211655,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 8138250,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 1331444,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 2582763,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7247343,
+    "matricula": "9218PLO",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 9620593,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 3865468,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7190028,
+    "matricula": "2151DRG",
+    "marca": "Man",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 5115490,
+    "matricula": "2151DRG",
+    "marca": "BMW",
+    "modelo": "5000kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 5715001,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 5367327,
+    "matricula": "6545FHK",
+    "marca": "Man",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 4940939,
+    "matricula": "2151DRG",
+    "marca": "CAT",
+    "modelo": "350kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9278357,
+    "matricula": "2568GFR",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 5106197,
+    "matricula": "6545FHK",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 2941825,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 6896394,
+    "matricula": "6545FHK",
+    "marca": "Citroen",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 7787976,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "5000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 1025796,
+    "matricula": "2568GFR",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 2534882,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 7275575,
+    "matricula": "4588GRD",
+    "marca": "Scania",
+    "modelo": "1000kg",
+    "tipo": 1
+  },
+  {
+    "numeroBastidor": 7413514,
+    "matricula": "4588GRD",
+    "marca": "Ferrari",
+    "modelo": "350kg",
+    "tipo": 7
+  },
+  {
+    "numeroBastidor": 9410919,
+    "matricula": "4588GRD",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 2
+  },
+  {
+    "numeroBastidor": 1692130,
+    "matricula": "9218PLO",
+    "marca": "BMW",
+    "modelo": "350kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 7253202,
+    "matricula": "4588GRD",
+    "marca": "Volvo",
+    "modelo": "5000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 9686103,
+    "matricula": "9218PLO",
+    "marca": "Mercedes",
+    "modelo": "350kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 8580035,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "500kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 7312191,
+    "matricula": "1895RGRD",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 3
+  },
+  {
+    "numeroBastidor": 9155063,
+    "matricula": "4588GRD",
+    "marca": "Mercedes",
+    "modelo": "5000kg",
+    "tipo": 9
+  },
+  {
+    "numeroBastidor": 2953144,
+    "matricula": "2151DRG",
+    "marca": "Mercedes",
+    "modelo": "1000kg",
+    "tipo": 4
+  },
+  {
+    "numeroBastidor": 1017681,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "500kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 3452423,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 8599469,
+    "matricula": "1895RGRD",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4378374,
+    "matricula": "6545FHK",
+    "marca": "Ferrari",
+    "modelo": "500kg",
+    "tipo": 8
+  },
+  {
+    "numeroBastidor": 4490298,
+    "matricula": "6545FHK",
+    "marca": "Scania",
+    "modelo": "10000kg",
+    "tipo": 5
+  },
+  {
+    "numeroBastidor": 9962459,
+    "matricula": "6545FHK",
+    "marca": "Volvo",
+    "modelo": "1000kg",
+    "tipo": 6
+  },
+  {
+    "numeroBastidor": 9303315,
+    "matricula": "2151DRG",
+    "marca": "Citroen",
+    "modelo": "1000kg",
+    "tipo": 10
+  },
+  {
+    "numeroBastidor": 7438133,
+    "matricula": "9218PLO",
+    "marca": "Volvo",
+    "modelo": "350kg",
+    "tipo": 2
+  }
+]

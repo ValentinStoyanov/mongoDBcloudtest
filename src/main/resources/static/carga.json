@@ -1,0 +1,6953 @@
+[
+  {
+    "codigo": 186,
+    "tipo": 69,
+    "peso": 88981,
+    "idOrigen": "721a4254-6ee4-4b75-afd7-73a33493f172",
+    "idDestino": "0f696e0a-ace3-4f61-b921-2f704c26c68d"
+  },
+  {
+    "codigo": 566,
+    "tipo": 6,
+    "peso": 40189,
+    "idOrigen": "12179c41-0f6d-4686-a019-72637499f30d",
+    "idDestino": "f53a8950-4f23-4f5b-a21d-399f130f6d2d"
+  },
+  {
+    "codigo": 304,
+    "tipo": 50,
+    "peso": 15327,
+    "idOrigen": "2c1a4d4d-23b8-464a-9195-ce93b8b8d3a9",
+    "idDestino": "fe803342-0b91-453f-8597-169bc8556a9f"
+  },
+  {
+    "codigo": 369,
+    "tipo": 59,
+    "peso": 8303,
+    "idOrigen": "75330305-3fa9-4db3-8b34-6745a0a63c83",
+    "idDestino": "3b761514-4b6d-4857-b159-2a5f265d9318"
+  },
+  {
+    "codigo": 162,
+    "tipo": 96,
+    "peso": 44059,
+    "idOrigen": "47275756-e87d-4eca-a86d-57ca66b7eb46",
+    "idDestino": "172624f6-4b74-4446-9b4d-334b933fd075"
+  },
+  {
+    "codigo": 505,
+    "tipo": 97,
+    "peso": 88407,
+    "idOrigen": "e3b9baae-ab63-4800-9b00-7c609fa67224",
+    "idDestino": "c0ae141c-090d-4072-950c-fd1932e0c35a"
+  },
+  {
+    "codigo": 198,
+    "tipo": 5,
+    "peso": 13909,
+    "idOrigen": "4fb3ebcd-ecb8-4e2c-a1e9-4a1687e2b522",
+    "idDestino": "eb393690-f8b1-4a19-93ed-95053574203e"
+  },
+  {
+    "codigo": 261,
+    "tipo": 88,
+    "peso": 23109,
+    "idOrigen": "d41ba791-e3bf-4be2-85ff-878aefc80fc8",
+    "idDestino": "454db9ac-425c-44fa-889a-a043425f1309"
+  },
+  {
+    "codigo": 281,
+    "tipo": 44,
+    "peso": 42849,
+    "idOrigen": "5685081b-457b-4e83-a44f-1219271930a0",
+    "idDestino": "5ace1098-79f2-4f74-aa0b-555e0073df73"
+  },
+  {
+    "codigo": 136,
+    "tipo": 20,
+    "peso": 38196,
+    "idOrigen": "0b86f141-afcb-4595-8219-a692b15ef78c",
+    "idDestino": "bc6fea78-c5ff-44c5-b337-dc1ff15e9531"
+  },
+  {
+    "codigo": 517,
+    "tipo": 22,
+    "peso": 64666,
+    "idOrigen": "6347e70e-e49c-435b-8239-5b1e7d30dda4",
+    "idDestino": "02fbf526-d6b9-44bb-b8ef-d271d76b04f1"
+  },
+  {
+    "codigo": 518,
+    "tipo": 91,
+    "peso": 8114,
+    "idOrigen": "81f4a292-4251-4664-ac4a-226a66d119dd",
+    "idDestino": "23731ccd-558c-47b0-be47-05a3751f9a2d"
+  },
+  {
+    "codigo": 348,
+    "tipo": 53,
+    "peso": 91452,
+    "idOrigen": "46021781-3d2a-4b98-b7fd-996a9bff3476",
+    "idDestino": "961cb884-c5c5-4cfb-80d3-af874df307da"
+  },
+  {
+    "codigo": 978,
+    "tipo": 30,
+    "peso": 1173,
+    "idOrigen": "c6320d9b-263c-4de2-8bce-af96bbc84dca",
+    "idDestino": "0aebaae7-d52f-43b8-ac2e-7bc16d045b72"
+  },
+  {
+    "codigo": 853,
+    "tipo": 91,
+    "peso": 1030,
+    "idOrigen": "3c09bd7f-1a30-4b18-b3fd-c1968c1a0526",
+    "idDestino": "788d8398-2bf8-4eca-8462-14e5807981b4"
+  },
+  {
+    "codigo": 488,
+    "tipo": 41,
+    "peso": 9700,
+    "idOrigen": "38125870-9afc-469c-b4e8-8357a5c19f58",
+    "idDestino": "c5135725-462c-4e5c-bf50-7c053e2f42b3"
+  },
+  {
+    "codigo": 136,
+    "tipo": 87,
+    "peso": 34703,
+    "idOrigen": "b416e7d0-d08e-423d-945f-c3680d88ff1f",
+    "idDestino": "ef0722b7-a24b-42c6-a46f-fc0448cc44fc"
+  },
+  {
+    "codigo": 637,
+    "tipo": 31,
+    "peso": 51251,
+    "idOrigen": "911f9f51-d69c-42ca-9c34-5007acdac816",
+    "idDestino": "845bb9ee-34fd-464c-9928-6705e2454725"
+  },
+  {
+    "codigo": 938,
+    "tipo": 77,
+    "peso": 50299,
+    "idOrigen": "060f5e08-a48c-4bdd-acbc-cef85744f49e",
+    "idDestino": "8910420a-47a1-432f-9244-18e5f6be24e1"
+  },
+  {
+    "codigo": 849,
+    "tipo": 54,
+    "peso": 20620,
+    "idOrigen": "b4d9da78-3df3-4415-84c7-924350db5e80",
+    "idDestino": "1570e695-4dc1-4e4b-ad5a-6e97f05455df"
+  },
+  {
+    "codigo": 471,
+    "tipo": 77,
+    "peso": 92618,
+    "idOrigen": "8ec5f932-d630-4e1c-b71f-4f38b82cd14a",
+    "idDestino": "0e72b5e5-ec7a-468b-8630-347d809b4f03"
+  },
+  {
+    "codigo": 979,
+    "tipo": 19,
+    "peso": 25648,
+    "idOrigen": "2ca3c281-531e-4571-9399-ad0e19944dec",
+    "idDestino": "6e5361de-e1c0-464c-a845-b43308ca7fa6"
+  },
+  {
+    "codigo": 204,
+    "tipo": 47,
+    "peso": 63448,
+    "idOrigen": "792d667a-84d0-4d59-aea5-b798ef544f22",
+    "idDestino": "0a29b902-0a51-417a-bb36-e3a25ff4d5c9"
+  },
+  {
+    "codigo": 535,
+    "tipo": 50,
+    "peso": 81528,
+    "idOrigen": "3a30602f-7713-4f29-83f1-5eb9545d7c87",
+    "idDestino": "7d5e6c79-c95e-484e-a303-40ef8d7393ba"
+  },
+  {
+    "codigo": 128,
+    "tipo": 2,
+    "peso": 55395,
+    "idOrigen": "f626d5aa-8ce6-4d31-9d7e-e89a3e0baaf8",
+    "idDestino": "7cf94f78-479e-477c-a49c-8b1b2a508bf3"
+  },
+  {
+    "codigo": 496,
+    "tipo": 13,
+    "peso": 86486,
+    "idOrigen": "2310e411-7f71-46ba-86c3-0c6677bce730",
+    "idDestino": "0aec45e2-b796-4d5e-8711-1e04ad86859e"
+  },
+  {
+    "codigo": 358,
+    "tipo": 40,
+    "peso": 22703,
+    "idOrigen": "e65121d2-0298-4738-82c9-6ffc650f1d0d",
+    "idDestino": "af40c1f5-5964-47e1-8b44-ef715321b9ae"
+  },
+  {
+    "codigo": 628,
+    "tipo": 64,
+    "peso": 61332,
+    "idOrigen": "53fc2c10-23bc-48b4-837e-5b920d17e100",
+    "idDestino": "040e1766-b18f-45c8-8e7f-2057cabb3156"
+  },
+  {
+    "codigo": 604,
+    "tipo": 20,
+    "peso": 79734,
+    "idOrigen": "53a83b65-8b37-4e0b-ba2b-35b2e52c3173",
+    "idDestino": "5d76b608-b60d-4feb-82b2-2af0d7874bb9"
+  },
+  {
+    "codigo": 109,
+    "tipo": 1,
+    "peso": 28462,
+    "idOrigen": "8c5cb5ad-f3ea-4774-9e82-065ff4f8aaf3",
+    "idDestino": "5be49b03-2ee1-4790-9dfb-67fd52b768a4"
+  },
+  {
+    "codigo": 759,
+    "tipo": 18,
+    "peso": 13699,
+    "idOrigen": "b23e5254-fb32-48ca-ad42-3f15eab194ef",
+    "idDestino": "dc489d5e-9f4a-4769-aad4-4643c903abe4"
+  },
+  {
+    "codigo": 489,
+    "tipo": 35,
+    "peso": 85282,
+    "idOrigen": "6c333bea-0b9b-4a87-b06a-44fd4ae4eb95",
+    "idDestino": "675f493d-3adb-41bb-8d6c-5cd42879929d"
+  },
+  {
+    "codigo": 970,
+    "tipo": 75,
+    "peso": 38404,
+    "idOrigen": "b984de1c-38fe-4d4f-8ecf-ddffb4bf85c0",
+    "idDestino": "57d30437-9db7-4be4-87ac-ca197cc83861"
+  },
+  {
+    "codigo": 433,
+    "tipo": 60,
+    "peso": 31040,
+    "idOrigen": "87b084e4-7ec8-4446-a4de-89200238ad5b",
+    "idDestino": "6eb6f919-117e-409b-8164-8e9c2e7a8934"
+  },
+  {
+    "codigo": 697,
+    "tipo": 84,
+    "peso": 70669,
+    "idOrigen": "9597b942-d362-4fa6-9f09-9053ae9447ce",
+    "idDestino": "42a71c27-bb0a-4f1d-9fad-8e1693ddf9f1"
+  },
+  {
+    "codigo": 532,
+    "tipo": 49,
+    "peso": 22582,
+    "idOrigen": "4c3c1f4e-05ed-4741-a37f-c39624c6637d",
+    "idDestino": "57f7d919-12f0-4d23-b880-f25e3a61068d"
+  },
+  {
+    "codigo": 289,
+    "tipo": 34,
+    "peso": 77200,
+    "idOrigen": "2227055d-e2e3-4d24-8bf6-ea5e14168765",
+    "idDestino": "6980d8ec-d72a-4325-82d5-23b66d2ae142"
+  },
+  {
+    "codigo": 531,
+    "tipo": 64,
+    "peso": 17587,
+    "idOrigen": "24ee510f-eee9-4fb2-bbdf-bcd6e3ffc0f4",
+    "idDestino": "a12ecb02-0ebf-4741-b367-8dff63bba49c"
+  },
+  {
+    "codigo": 540,
+    "tipo": 75,
+    "peso": 95079,
+    "idOrigen": "03a469f4-663e-4d3e-b29d-64d8e0d45fe2",
+    "idDestino": "3c51179f-ff4e-41d8-8be3-29476a6a39f5"
+  },
+  {
+    "codigo": 602,
+    "tipo": 55,
+    "peso": 52306,
+    "idOrigen": "e1f25152-858d-45ef-972e-41794c72ad99",
+    "idDestino": "001ea006-22a2-4762-91b9-47b7142db316"
+  },
+  {
+    "codigo": 493,
+    "tipo": 3,
+    "peso": 4322,
+    "idOrigen": "c5c6667d-0dbd-4334-8701-57dd4d5a5093",
+    "idDestino": "773aa59c-0325-4d27-a077-bd210b558b4c"
+  },
+  {
+    "codigo": 248,
+    "tipo": 42,
+    "peso": 21090,
+    "idOrigen": "2b1180b9-f6bb-4bc9-a876-e9dfa2a1757a",
+    "idDestino": "e83cf293-d9fa-47e8-bbd0-5d5401f8a2d2"
+  },
+  {
+    "codigo": 641,
+    "tipo": 79,
+    "peso": 32621,
+    "idOrigen": "5d969bc1-12d6-462e-99c2-2bd2451c3b62",
+    "idDestino": "aa561e2a-fad2-48ea-a31a-43d321255ed9"
+  },
+  {
+    "codigo": 291,
+    "tipo": 9,
+    "peso": 56741,
+    "idOrigen": "f8401ebf-d53d-4ba0-aa0c-24e4dece64e7",
+    "idDestino": "62b42e16-4038-4b02-90ea-dc282d32a761"
+  },
+  {
+    "codigo": 122,
+    "tipo": 40,
+    "peso": 85926,
+    "idOrigen": "eee6159a-70f0-4841-a3ec-0ac92c30538c",
+    "idDestino": "0f69177c-79e1-4295-8c6b-e38a83a686d9"
+  },
+  {
+    "codigo": 444,
+    "tipo": 89,
+    "peso": 98442,
+    "idOrigen": "20114d6f-4a15-4ad5-9a87-2de1abdb2707",
+    "idDestino": "302ad5ab-2a89-49f2-9ab7-29b070e66ea3"
+  },
+  {
+    "codigo": 317,
+    "tipo": 94,
+    "peso": 78143,
+    "idOrigen": "1d60fa44-80fa-4acd-9697-39740b819055",
+    "idDestino": "6ca064a8-b4f4-4c90-b94b-6a9a7d4bc721"
+  },
+  {
+    "codigo": 430,
+    "tipo": 2,
+    "peso": 87928,
+    "idOrigen": "235e3bf9-5920-454d-818a-d051ce5168ea",
+    "idDestino": "c8aef723-6a12-4612-87be-0f547c0929a5"
+  },
+  {
+    "codigo": 483,
+    "tipo": 22,
+    "peso": 78948,
+    "idOrigen": "9c3dfc9e-d48b-456f-96bd-d33d5826ec55",
+    "idDestino": "5b0005c7-e412-43ab-b193-b407795f113d"
+  },
+  {
+    "codigo": 593,
+    "tipo": 98,
+    "peso": 48529,
+    "idOrigen": "c9871bb9-baef-4aaa-9882-e51c77a12be8",
+    "idDestino": "5799b9e9-53da-46cf-9613-e7b12c071e1e"
+  },
+  {
+    "codigo": 822,
+    "tipo": 55,
+    "peso": 46883,
+    "idOrigen": "3c2c5454-cab1-4adf-89b5-934322f1cae5",
+    "idDestino": "d4d58e0c-6810-4f0c-a7c6-002a0e9a7692"
+  },
+  {
+    "codigo": 563,
+    "tipo": 89,
+    "peso": 36773,
+    "idOrigen": "8ffdd5d2-c08a-49c9-9bc5-858d7e5b470b",
+    "idDestino": "a1337a02-3c46-42c8-827c-5c64205afecc"
+  },
+  {
+    "codigo": 250,
+    "tipo": 60,
+    "peso": 36930,
+    "idOrigen": "56f5fbeb-ff43-4919-ac46-14c4bc14021b",
+    "idDestino": "84382e64-b425-4461-96dd-2389fbf5e95c"
+  },
+  {
+    "codigo": 512,
+    "tipo": 1,
+    "peso": 10825,
+    "idOrigen": "5acd68f5-1430-4d9b-973d-2b1f109e3584",
+    "idDestino": "f1ccbd6c-a72b-4a44-a24f-ece04d458cea"
+  },
+  {
+    "codigo": 512,
+    "tipo": 46,
+    "peso": 4345,
+    "idOrigen": "1c26930a-7348-493f-a821-4d4c66a67bbc",
+    "idDestino": "0c8148c2-c4a7-4a62-a0c2-f458acd11dfb"
+  },
+  {
+    "codigo": 110,
+    "tipo": 3,
+    "peso": 72523,
+    "idOrigen": "e656c838-287c-4c41-a283-cca60a165830",
+    "idDestino": "0501439f-2bc6-45a1-930d-986cb74bde0c"
+  },
+  {
+    "codigo": 395,
+    "tipo": 6,
+    "peso": 93846,
+    "idOrigen": "5de08ac5-9194-4042-ad49-500a41f6a038",
+    "idDestino": "86951ec4-9d7d-4972-8caf-80b937ccb04b"
+  },
+  {
+    "codigo": 280,
+    "tipo": 39,
+    "peso": 1813,
+    "idOrigen": "a4428275-f6ba-420b-8065-e550c0d44d8a",
+    "idDestino": "cab6ca14-98d1-4147-8af0-265eff04478e"
+  },
+  {
+    "codigo": 755,
+    "tipo": 60,
+    "peso": 19654,
+    "idOrigen": "f3ef66d7-b7d2-4836-b25e-f866f112a702",
+    "idDestino": "4d3fa73a-a8b6-4e00-9acd-7879832a5eeb"
+  },
+  {
+    "codigo": 594,
+    "tipo": 93,
+    "peso": 39597,
+    "idOrigen": "488d918b-3759-48dc-96de-1ca096fd03a6",
+    "idDestino": "394f1c6b-72f0-4b66-9479-e99ca8a6ad97"
+  },
+  {
+    "codigo": 232,
+    "tipo": 76,
+    "peso": 86278,
+    "idOrigen": "144f00d4-a7df-4ee8-a614-2d7ecc5bbf7c",
+    "idDestino": "21c686cd-3da7-49dc-a6b9-37e9565cb2c6"
+  },
+  {
+    "codigo": 118,
+    "tipo": 88,
+    "peso": 67586,
+    "idOrigen": "b62ae05e-e96a-496c-94ad-6825c6055d43",
+    "idDestino": "d2463fad-1500-48c0-b774-9f992cc16edb"
+  },
+  {
+    "codigo": 829,
+    "tipo": 39,
+    "peso": 95114,
+    "idOrigen": "c7519ad9-5d26-4e6a-84e1-5d83931dd659",
+    "idDestino": "67c7259c-670f-4cb6-9b99-29ad434dc8e3"
+  },
+  {
+    "codigo": 603,
+    "tipo": 72,
+    "peso": 81463,
+    "idOrigen": "bf3584fe-6347-4a55-b9dc-9116a66dbd7c",
+    "idDestino": "5b43f653-556c-432a-ba45-469863b121c5"
+  },
+  {
+    "codigo": 841,
+    "tipo": 77,
+    "peso": 70166,
+    "idOrigen": "c003792b-e803-4c68-9e30-9c8aa3663cc5",
+    "idDestino": "3033540d-f6a2-4ab0-bc3e-2fac1f8ebe23"
+  },
+  {
+    "codigo": 882,
+    "tipo": 66,
+    "peso": 15654,
+    "idOrigen": "263c6be7-3401-40b1-9981-ed11fa63da80",
+    "idDestino": "4d82ffcc-ae76-4537-a28e-afebd416e2e3"
+  },
+  {
+    "codigo": 246,
+    "tipo": 36,
+    "peso": 97716,
+    "idOrigen": "4fc295bc-7cd9-40d2-84b3-354d4dd70f6a",
+    "idDestino": "39ca4de9-be1d-4614-9c94-9e24224e4b6d"
+  },
+  {
+    "codigo": 147,
+    "tipo": 85,
+    "peso": 86119,
+    "idOrigen": "f39277de-23f1-45d2-a13a-9d79fafa2dc5",
+    "idDestino": "e6b05875-d468-4c17-ad26-1babf197b161"
+  },
+  {
+    "codigo": 608,
+    "tipo": 98,
+    "peso": 57675,
+    "idOrigen": "950141cd-6494-4aa5-98f1-7ec0445798fc",
+    "idDestino": "6907cd88-cb3d-4c06-b5a1-7461290cab71"
+  },
+  {
+    "codigo": 581,
+    "tipo": 60,
+    "peso": 71605,
+    "idOrigen": "ff1c8fbb-175e-4d77-b781-5c00596aa15f",
+    "idDestino": "74ae4ccc-a577-479c-aa6b-78f6d29c2bc3"
+  },
+  {
+    "codigo": 342,
+    "tipo": 88,
+    "peso": 19739,
+    "idOrigen": "49addb60-428f-4426-8928-d8a72d8f7d55",
+    "idDestino": "fbbbfac1-9c90-4fcb-9c3c-a0473b5d8bf0"
+  },
+  {
+    "codigo": 601,
+    "tipo": 14,
+    "peso": 79036,
+    "idOrigen": "128838b3-b121-4e32-8888-625970bf9af6",
+    "idDestino": "c2269923-ba04-4ff4-b410-3607a4db6993"
+  },
+  {
+    "codigo": 722,
+    "tipo": 34,
+    "peso": 60658,
+    "idOrigen": "c60bb912-8686-415e-9aaf-d640d1fb0e4d",
+    "idDestino": "caa853ec-0a53-4749-902c-69099f2a60b3"
+  },
+  {
+    "codigo": 991,
+    "tipo": 45,
+    "peso": 17302,
+    "idOrigen": "d432fc3f-a2a0-4757-a1ba-457264da8967",
+    "idDestino": "e0f5f3c5-ed87-4d57-8c09-04273f8a16fa"
+  },
+  {
+    "codigo": 636,
+    "tipo": 94,
+    "peso": 84546,
+    "idOrigen": "97c08d40-0f4c-4bec-95e5-681383809a5f",
+    "idDestino": "8a204cea-fd4e-42e3-8e8e-ed75ed31dc01"
+  },
+  {
+    "codigo": 762,
+    "tipo": 71,
+    "peso": 61324,
+    "idOrigen": "ec569efd-1851-4245-ab60-15d4a943710e",
+    "idDestino": "a231d106-fb87-4b7f-971a-6fc44a6659e2"
+  },
+  {
+    "codigo": 465,
+    "tipo": 59,
+    "peso": 23873,
+    "idOrigen": "246c6fc0-c300-4c08-b4ff-2729f977c687",
+    "idDestino": "8b397606-c32d-4501-98e1-517dd246e63d"
+  },
+  {
+    "codigo": 694,
+    "tipo": 58,
+    "peso": 59573,
+    "idOrigen": "88008936-973b-406a-8a2a-62158ca3c810",
+    "idDestino": "ae4d02fe-c5a1-4ff7-9e7e-a2b6b2390761"
+  },
+  {
+    "codigo": 867,
+    "tipo": 88,
+    "peso": 63742,
+    "idOrigen": "5e653e3e-5c3e-46d9-8253-3867abc94851",
+    "idDestino": "e2aee8c6-a48b-4d78-9bf9-ea3746552d34"
+  },
+  {
+    "codigo": 430,
+    "tipo": 56,
+    "peso": 86598,
+    "idOrigen": "c422616f-0c96-47ec-bc2b-f4f7187b84ad",
+    "idDestino": "4473c91e-3bdf-48ff-96be-5885216dd7a6"
+  },
+  {
+    "codigo": 545,
+    "tipo": 48,
+    "peso": 51153,
+    "idOrigen": "007af567-c699-4626-ba1c-3747bad4855e",
+    "idDestino": "3d7b34a4-711f-4dd2-8431-5fa9eb431e3b"
+  },
+  {
+    "codigo": 971,
+    "tipo": 19,
+    "peso": 82187,
+    "idOrigen": "2298b90a-d532-43a1-a8ba-5b4311e7caf1",
+    "idDestino": "90e81f16-a1a8-45a0-b5df-cfd77fcf5987"
+  },
+  {
+    "codigo": 678,
+    "tipo": 72,
+    "peso": 37320,
+    "idOrigen": "3f1da074-a9d8-4f35-a614-0db525d0986f",
+    "idDestino": "b64de4cf-25cd-4ee9-9814-9dc21ff8226e"
+  },
+  {
+    "codigo": 759,
+    "tipo": 78,
+    "peso": 78975,
+    "idOrigen": "188bd38b-bbc4-45bc-8492-8be731e98980",
+    "idDestino": "25927e2b-c30b-45c4-83b8-b30a9f474edf"
+  },
+  {
+    "codigo": 866,
+    "tipo": 68,
+    "peso": 33702,
+    "idOrigen": "7e73663b-50f0-4200-9af5-7069a5057b68",
+    "idDestino": "0c8105ed-ebfa-4bec-8fe0-b5e977540223"
+  },
+  {
+    "codigo": 156,
+    "tipo": 27,
+    "peso": 52882,
+    "idOrigen": "f854700f-020e-4ce7-96f8-94f7804498bc",
+    "idDestino": "e2bdb85c-a1a4-4932-8e74-a08235ee6323"
+  },
+  {
+    "codigo": 817,
+    "tipo": 86,
+    "peso": 81779,
+    "idOrigen": "1d754c43-0372-4483-8f43-cd0f691af7d2",
+    "idDestino": "bb14c6dd-8ce5-4aa1-a05d-32129b5a7337"
+  },
+  {
+    "codigo": 493,
+    "tipo": 3,
+    "peso": 44582,
+    "idOrigen": "4f645103-48bd-4395-a2e8-e054b7c1a540",
+    "idDestino": "2fe8c4a3-cf85-4f13-a627-21a8c6f7dbd7"
+  },
+  {
+    "codigo": 386,
+    "tipo": 73,
+    "peso": 7315,
+    "idOrigen": "21dc825c-13f4-4f09-a592-dd417d943fdc",
+    "idDestino": "88a2120d-05ec-44f4-85dd-f02db722d97d"
+  },
+  {
+    "codigo": 956,
+    "tipo": 34,
+    "peso": 4804,
+    "idOrigen": "61dd3043-a592-49a0-909e-fc4c7667d7ed",
+    "idDestino": "6207b12f-bf39-4745-ad51-74cfca60536c"
+  },
+  {
+    "codigo": 155,
+    "tipo": 26,
+    "peso": 79923,
+    "idOrigen": "0244487a-ddd2-4b0c-a3bb-799589836a5d",
+    "idDestino": "18e60011-1865-4fc2-9ae6-c942eaa11462"
+  },
+  {
+    "codigo": 140,
+    "tipo": 60,
+    "peso": 81175,
+    "idOrigen": "61af7a7a-af42-42f9-a68c-e1ded7a98a3f",
+    "idDestino": "79695f82-02a4-460f-98d5-6073e2019373"
+  },
+  {
+    "codigo": 223,
+    "tipo": 56,
+    "peso": 57669,
+    "idOrigen": "ffbabc51-3438-4424-a0fb-19d5f86a50e2",
+    "idDestino": "10a44288-9418-4f05-89f4-bd9ea7a171a4"
+  },
+  {
+    "codigo": 499,
+    "tipo": 8,
+    "peso": 69824,
+    "idOrigen": "c1dfe3b9-669a-4842-8cc6-228f954f2dca",
+    "idDestino": "de50a4c3-81f9-480c-8348-6f307983f910"
+  },
+  {
+    "codigo": 251,
+    "tipo": 33,
+    "peso": 99712,
+    "idOrigen": "63563844-7387-4e30-8ccf-af960a13ef15",
+    "idDestino": "fbdc11a7-1a2d-4dc0-b5d2-77c97b812ac9"
+  },
+  {
+    "codigo": 676,
+    "tipo": 8,
+    "peso": 55970,
+    "idOrigen": "54c1698c-f69f-4305-adf3-fa35fb0375ce",
+    "idDestino": "b271d9e7-f36f-4569-8842-d737580969e2"
+  },
+  {
+    "codigo": 918,
+    "tipo": 23,
+    "peso": 58345,
+    "idOrigen": "c447d6a4-af7d-413d-810a-e5d91271b59c",
+    "idDestino": "86806aaf-0b9f-475c-a3e2-0ab7882c2bf7"
+  },
+  {
+    "codigo": 985,
+    "tipo": 41,
+    "peso": 65839,
+    "idOrigen": "6c95b3e3-acdb-471b-b481-bf1380b90436",
+    "idDestino": "62378ae5-be27-4787-abf6-94aa44ac0a5f"
+  },
+  {
+    "codigo": 186,
+    "tipo": 25,
+    "peso": 14936,
+    "idOrigen": "d2a82727-0c94-4e7d-a02a-e1e65409020a",
+    "idDestino": "339a20d9-f57d-4943-93ae-d0d6fcefdb2f"
+  },
+  {
+    "codigo": 571,
+    "tipo": 21,
+    "peso": 34226,
+    "idOrigen": "1270cb02-17d5-43db-adc3-d9bbb7342a12",
+    "idDestino": "16f0404f-4211-488a-8d06-f37c1581f12e"
+  },
+  {
+    "codigo": 961,
+    "tipo": 19,
+    "peso": 65539,
+    "idOrigen": "66941e2b-ca67-4af8-ab40-ac9088348a19",
+    "idDestino": "b1cc7d45-6430-4115-92d6-58ac0d727a2d"
+  },
+  {
+    "codigo": 431,
+    "tipo": 29,
+    "peso": 95698,
+    "idOrigen": "a9356972-8068-4229-9b94-1debc048b380",
+    "idDestino": "1eb33279-f521-41be-a74b-b1a06e940cf0"
+  },
+  {
+    "codigo": 302,
+    "tipo": 84,
+    "peso": 52152,
+    "idOrigen": "26ea797f-4567-42cf-9538-a82676c3685b",
+    "idDestino": "f4043bdc-beb9-4205-a75e-937d342cb3d3"
+  },
+  {
+    "codigo": 820,
+    "tipo": 59,
+    "peso": 27029,
+    "idOrigen": "196b177f-17d2-4921-be3d-bd777a1b1db5",
+    "idDestino": "85ab7a3c-0173-4db9-9ed9-38faf54000e1"
+  },
+  {
+    "codigo": 887,
+    "tipo": 49,
+    "peso": 69457,
+    "idOrigen": "02ca0523-81cc-4d5f-af2d-4bd9ea86025c",
+    "idDestino": "81705c13-6a6a-462d-afdc-f324902c19d3"
+  },
+  {
+    "codigo": 838,
+    "tipo": 28,
+    "peso": 31733,
+    "idOrigen": "096d730d-f1c9-4917-a9d2-2ad4d9346072",
+    "idDestino": "78d5206c-a4e4-44d7-a7aa-b760f331523a"
+  },
+  {
+    "codigo": 581,
+    "tipo": 28,
+    "peso": 32501,
+    "idOrigen": "86aa19de-e1b1-4ced-8f39-9ba67a1d4e55",
+    "idDestino": "a1c55a88-f7d6-4688-839d-31738d957878"
+  },
+  {
+    "codigo": 493,
+    "tipo": 19,
+    "peso": 99527,
+    "idOrigen": "93de380f-48b6-44d1-bcea-db53711acccb",
+    "idDestino": "dd95b543-2a8f-485b-8543-992a751a3f14"
+  },
+  {
+    "codigo": 302,
+    "tipo": 58,
+    "peso": 25477,
+    "idOrigen": "27f0fc3b-7095-4167-a21a-d3dde3850f4a",
+    "idDestino": "7ab97a04-d130-4fb0-8cb9-45a661b92b28"
+  },
+  {
+    "codigo": 609,
+    "tipo": 83,
+    "peso": 12245,
+    "idOrigen": "295c6768-7f01-4944-9484-87135cce487e",
+    "idDestino": "d5d88348-616a-41fe-bec1-0a44f2d94534"
+  },
+  {
+    "codigo": 754,
+    "tipo": 46,
+    "peso": 9841,
+    "idOrigen": "7478078b-deec-4bfb-bdd8-aa4e445b2379",
+    "idDestino": "5c8e9f58-5989-4574-a563-d991c3a24002"
+  },
+  {
+    "codigo": 227,
+    "tipo": 34,
+    "peso": 85500,
+    "idOrigen": "97695b7b-1004-45be-a2f1-6b4e06f1e770",
+    "idDestino": "8ecc618f-ea1a-4c1d-9061-3b31bca42c5d"
+  },
+  {
+    "codigo": 847,
+    "tipo": 2,
+    "peso": 61209,
+    "idOrigen": "49ccf5ab-4115-4690-ac3e-9b07d0a13d2f",
+    "idDestino": "f9b2de91-6cf5-4c50-a316-f441e63043c9"
+  },
+  {
+    "codigo": 452,
+    "tipo": 17,
+    "peso": 10780,
+    "idOrigen": "8ec837d2-c0ac-49bd-aa48-7479889afbb1",
+    "idDestino": "48bce50e-d248-48e7-af1f-f565a509a9fb"
+  },
+  {
+    "codigo": 985,
+    "tipo": 98,
+    "peso": 74315,
+    "idOrigen": "01d69998-123e-4574-9b5e-a4d62379b6bc",
+    "idDestino": "98407534-778d-4e8f-b111-d4ec81c3a08f"
+  },
+  {
+    "codigo": 913,
+    "tipo": 79,
+    "peso": 93889,
+    "idOrigen": "09f29d50-cdfe-4b17-84ae-51ba2e39ae19",
+    "idDestino": "0fd1ee5d-0091-4ea1-bb73-e79ba47bb0e4"
+  },
+  {
+    "codigo": 427,
+    "tipo": 30,
+    "peso": 77495,
+    "idOrigen": "0243119b-74f4-44e1-aee8-a07f09f24e70",
+    "idDestino": "2abe374f-7901-4e7e-b829-5be6820f3c33"
+  },
+  {
+    "codigo": 158,
+    "tipo": 26,
+    "peso": 89109,
+    "idOrigen": "588d5323-2d21-4dce-adea-436306e33453",
+    "idDestino": "875d0f1c-a644-4c74-84dc-78e50a5a0ec1"
+  },
+  {
+    "codigo": 366,
+    "tipo": 65,
+    "peso": 54012,
+    "idOrigen": "fa92f22d-0cd3-49b1-bf5d-7e48708a1ab7",
+    "idDestino": "acbfe137-1767-4e0a-9821-75608e6a7192"
+  },
+  {
+    "codigo": 881,
+    "tipo": 75,
+    "peso": 3685,
+    "idOrigen": "82a2eacd-e5bf-4f56-a2a3-9dd0a2e12b74",
+    "idDestino": "a4c2c877-4c43-41e7-8387-fb1d27a227f8"
+  },
+  {
+    "codigo": 818,
+    "tipo": 38,
+    "peso": 79222,
+    "idOrigen": "620e1b26-607f-4281-af49-64abde160441",
+    "idDestino": "0248a54f-8e00-4da5-9617-5edaf665c3a8"
+  },
+  {
+    "codigo": 865,
+    "tipo": 3,
+    "peso": 15669,
+    "idOrigen": "6c51c07c-a8ca-4ef8-85e3-810598a58284",
+    "idDestino": "4aa30531-4b98-4723-9bf6-0cd558c3768f"
+  },
+  {
+    "codigo": 628,
+    "tipo": 28,
+    "peso": 18155,
+    "idOrigen": "ff1b5f38-8bf8-4e89-96a6-abe80c1a4ec7",
+    "idDestino": "bd8978ab-c2a2-4acd-b6be-9d0760667a4e"
+  },
+  {
+    "codigo": 686,
+    "tipo": 12,
+    "peso": 43011,
+    "idOrigen": "f8bcfeda-7a62-4c6e-b674-d2aff0f38758",
+    "idDestino": "7ee6e2d4-76a1-4267-be5c-46be81c81e59"
+  },
+  {
+    "codigo": 387,
+    "tipo": 6,
+    "peso": 93210,
+    "idOrigen": "3e842813-664c-4e40-9baf-ac110011f530",
+    "idDestino": "ecbea95f-5331-4840-82a9-6bc31437867c"
+  },
+  {
+    "codigo": 619,
+    "tipo": 74,
+    "peso": 71918,
+    "idOrigen": "4f4135b5-f459-4801-a784-fdbf8c2cfe0e",
+    "idDestino": "6c310976-adf6-4989-8744-ade641706129"
+  },
+  {
+    "codigo": 110,
+    "tipo": 55,
+    "peso": 79700,
+    "idOrigen": "50a67184-2fa9-4fed-98b1-fdfdda9df9f1",
+    "idDestino": "37264d4a-d6a5-4427-ab91-628fad44907d"
+  },
+  {
+    "codigo": 445,
+    "tipo": 82,
+    "peso": 11638,
+    "idOrigen": "5857d387-2950-4bec-93d1-c507906e84b4",
+    "idDestino": "90a940bc-74cb-45d2-999c-08bd1372b8c3"
+  },
+  {
+    "codigo": 711,
+    "tipo": 82,
+    "peso": 59845,
+    "idOrigen": "6a9cbfd0-1870-4060-97fd-7cbd9ccc345a",
+    "idDestino": "5f26106d-18cf-4b4e-a823-3cc8c24e5ba8"
+  },
+  {
+    "codigo": 201,
+    "tipo": 88,
+    "peso": 63468,
+    "idOrigen": "9c7ce1c1-7ff9-469f-a752-d6f78a649ae7",
+    "idDestino": "c0842bb1-a599-4c20-8b0b-b11cd76a436d"
+  },
+  {
+    "codigo": 664,
+    "tipo": 17,
+    "peso": 84708,
+    "idOrigen": "bcf09a97-077a-4350-a3b3-f14b5fd9b47b",
+    "idDestino": "744c0e43-6bc2-4d23-a425-5b7149ec33bb"
+  },
+  {
+    "codigo": 450,
+    "tipo": 35,
+    "peso": 44662,
+    "idOrigen": "9a458c66-9ac5-4cd1-97ff-b578219295db",
+    "idDestino": "999c3efe-5ebb-425f-9b6e-901c9277393f"
+  },
+  {
+    "codigo": 893,
+    "tipo": 9,
+    "peso": 33533,
+    "idOrigen": "b4f89dee-5e2e-4207-9126-26fbb84d422a",
+    "idDestino": "079bd97a-d1bc-4e78-977e-bb4f90c494fc"
+  },
+  {
+    "codigo": 525,
+    "tipo": 13,
+    "peso": 61958,
+    "idOrigen": "26023451-9440-47e9-a501-8198ec3e8e46",
+    "idDestino": "b3ffeff4-31c5-4492-a5c9-50826654d63e"
+  },
+  {
+    "codigo": 235,
+    "tipo": 77,
+    "peso": 72271,
+    "idOrigen": "e4ee6a4f-5e1f-44ab-a09e-366990c2da3f",
+    "idDestino": "4350a58c-67c3-4bb7-b2a5-af0f163fe757"
+  },
+  {
+    "codigo": 775,
+    "tipo": 3,
+    "peso": 55766,
+    "idOrigen": "9141da9e-8f84-4f87-a655-aad48438048c",
+    "idDestino": "cb082f6c-8295-4cdd-a9b7-eacf7f31bb49"
+  },
+  {
+    "codigo": 710,
+    "tipo": 17,
+    "peso": 47853,
+    "idOrigen": "2278e8fc-6934-4e89-b2f4-00ad2823accf",
+    "idDestino": "0f24f3f6-76b3-4b65-8f8a-610b8f7fd134"
+  },
+  {
+    "codigo": 770,
+    "tipo": 92,
+    "peso": 88424,
+    "idOrigen": "a51c3cf2-80ca-4f1b-b845-2a7d00ad374d",
+    "idDestino": "6c8ee644-142e-4dc4-bd2a-9947847ddd96"
+  },
+  {
+    "codigo": 381,
+    "tipo": 90,
+    "peso": 69103,
+    "idOrigen": "d10a989b-e5b8-47f2-8371-654fe8baaab1",
+    "idDestino": "dcb50ff7-b60a-4401-887a-b6666caf9321"
+  },
+  {
+    "codigo": 994,
+    "tipo": 61,
+    "peso": 82919,
+    "idOrigen": "e3e0db99-62ce-471b-ab5f-2131891d0092",
+    "idDestino": "28262860-b825-483f-82f1-feeb0973641d"
+  },
+  {
+    "codigo": 787,
+    "tipo": 22,
+    "peso": 32115,
+    "idOrigen": "6b635831-f4e6-49e4-abb8-a2530b18c465",
+    "idDestino": "58474344-c183-45fd-b353-0572c87b78a7"
+  },
+  {
+    "codigo": 875,
+    "tipo": 12,
+    "peso": 36064,
+    "idOrigen": "3c9a6e91-d7fe-4c2e-bfda-1e9ebd7570ca",
+    "idDestino": "7e9da5b8-1c92-4182-9fdf-96c640de451e"
+  },
+  {
+    "codigo": 509,
+    "tipo": 65,
+    "peso": 81373,
+    "idOrigen": "cd05151b-4155-4599-af8c-9bd7c0dbc1df",
+    "idDestino": "ed181399-7679-44d7-bea7-477577a5c6ac"
+  },
+  {
+    "codigo": 858,
+    "tipo": 8,
+    "peso": 89157,
+    "idOrigen": "0f6402d3-5b05-48f8-bfa2-c1c953132ea4",
+    "idDestino": "d691a3ea-06cb-483a-a115-38816a7493dc"
+  },
+  {
+    "codigo": 113,
+    "tipo": 6,
+    "peso": 34355,
+    "idOrigen": "b43bd9be-f437-4594-96b0-8720b4abed68",
+    "idDestino": "fd2cd4b0-f2ab-45d9-b652-a5176a668440"
+  },
+  {
+    "codigo": 890,
+    "tipo": 24,
+    "peso": 93924,
+    "idOrigen": "a0a6d62e-7413-4741-bda1-fa77d04c7a07",
+    "idDestino": "9ee80b81-2d4c-40f8-a654-48f53e7b5979"
+  },
+  {
+    "codigo": 817,
+    "tipo": 24,
+    "peso": 61482,
+    "idOrigen": "aa54db66-9c8d-47bc-b3a2-81ef23d0fe8b",
+    "idDestino": "5794ccb9-fbb6-4caa-a913-1b25256c9d55"
+  },
+  {
+    "codigo": 855,
+    "tipo": 55,
+    "peso": 43268,
+    "idOrigen": "618000b4-9f5f-454c-a8b5-5f7f7f4a4b33",
+    "idDestino": "4bd06845-33d7-4eb1-811a-2a2e1ab59f56"
+  },
+  {
+    "codigo": 797,
+    "tipo": 2,
+    "peso": 57832,
+    "idOrigen": "232d8e1d-b5a0-4eaa-bbeb-95a2dc28d51e",
+    "idDestino": "29ba952a-0192-4285-b389-84aa3532fce6"
+  },
+  {
+    "codigo": 780,
+    "tipo": 8,
+    "peso": 94192,
+    "idOrigen": "b4e7611b-f063-43ef-9793-540abcba3c59",
+    "idDestino": "8562540e-e59e-4900-b8bd-2e724ada43f5"
+  },
+  {
+    "codigo": 405,
+    "tipo": 46,
+    "peso": 62809,
+    "idOrigen": "42c9233c-3e5f-4a6c-928d-e80258cf9649",
+    "idDestino": "a3cd3a12-8c08-421b-a4ab-50c27044cac7"
+  },
+  {
+    "codigo": 437,
+    "tipo": 94,
+    "peso": 50613,
+    "idOrigen": "f7c1c315-c860-483e-85f1-92912669cb61",
+    "idDestino": "c761801b-2c82-494e-bd50-bafadefe5ea1"
+  },
+  {
+    "codigo": 943,
+    "tipo": 67,
+    "peso": 46756,
+    "idOrigen": "4582a9c8-a768-4a9f-a142-f90ff9dec6e3",
+    "idDestino": "3b925ca6-830a-408d-a61f-d310f18c4e73"
+  },
+  {
+    "codigo": 311,
+    "tipo": 19,
+    "peso": 16749,
+    "idOrigen": "01eddf2b-ced2-4258-95d4-df9e6f69a0d1",
+    "idDestino": "54677ae0-7bad-40ca-bac4-2aa036ee3848"
+  },
+  {
+    "codigo": 856,
+    "tipo": 71,
+    "peso": 84327,
+    "idOrigen": "d8490afd-3ba0-474b-be6a-22fdc87dc2ae",
+    "idDestino": "15c88da7-ade9-4e96-a08a-ded317b23439"
+  },
+  {
+    "codigo": 210,
+    "tipo": 41,
+    "peso": 64237,
+    "idOrigen": "88c8f5bb-3593-413c-adb9-00d829a7d677",
+    "idDestino": "aedce0de-478c-4efa-9387-497b379e50ff"
+  },
+  {
+    "codigo": 872,
+    "tipo": 1,
+    "peso": 33623,
+    "idOrigen": "234af041-22ac-43ad-bf52-3617abb6bdf5",
+    "idDestino": "f0517809-fcbd-46f3-b424-9f9de7b2fada"
+  },
+  {
+    "codigo": 196,
+    "tipo": 74,
+    "peso": 90451,
+    "idOrigen": "c8adf480-d92e-4cca-a8b7-2370e88aa511",
+    "idDestino": "09b38f57-250d-4bc4-bf95-da15cdd3f5e9"
+  },
+  {
+    "codigo": 835,
+    "tipo": 58,
+    "peso": 6711,
+    "idOrigen": "0d81694f-5e7f-4038-aeab-772bd4813b4c",
+    "idDestino": "19712eb3-c95b-4be0-8ddc-83e95ad7adb7"
+  },
+  {
+    "codigo": 981,
+    "tipo": 17,
+    "peso": 26665,
+    "idOrigen": "c2ecc6c6-d921-4e1f-9964-51d9a20a9491",
+    "idDestino": "62c4d750-4005-45bf-995e-091d08d31b02"
+  },
+  {
+    "codigo": 557,
+    "tipo": 96,
+    "peso": 50990,
+    "idOrigen": "0bec1445-ff60-498a-bd79-dce77a9ea960",
+    "idDestino": "d171b4d3-ed3c-45bc-b103-8a0530c87f19"
+  },
+  {
+    "codigo": 233,
+    "tipo": 36,
+    "peso": 96959,
+    "idOrigen": "3b3ecb6d-2bfe-4864-8fa9-6ab708de9f4f",
+    "idDestino": "f06fbcb9-f9ad-4228-997f-e0cc0633daa7"
+  },
+  {
+    "codigo": 493,
+    "tipo": 11,
+    "peso": 78969,
+    "idOrigen": "195ec08a-8b8e-4872-bcfc-c7b02c14746c",
+    "idDestino": "7b9842c2-0f72-487f-b993-200348db62e4"
+  },
+  {
+    "codigo": 523,
+    "tipo": 46,
+    "peso": 55500,
+    "idOrigen": "4bfb33b6-5a3f-4cfc-a34f-6418b8a4806e",
+    "idDestino": "eb64dadc-c8fc-42c3-8c22-d97eb8744f7a"
+  },
+  {
+    "codigo": 565,
+    "tipo": 3,
+    "peso": 72800,
+    "idOrigen": "09542ae3-9b51-423a-a81a-27a1804e3281",
+    "idDestino": "ca78e3c0-f141-4118-8cc4-bfe662a418eb"
+  },
+  {
+    "codigo": 801,
+    "tipo": 39,
+    "peso": 27829,
+    "idOrigen": "571d9048-176b-45c5-a983-5c2e03b1f1e0",
+    "idDestino": "a86b4d6a-ad34-4462-9bee-071bcced8450"
+  },
+  {
+    "codigo": 891,
+    "tipo": 1,
+    "peso": 80077,
+    "idOrigen": "2dc44171-6d09-4b02-a0e9-59e16acc383a",
+    "idDestino": "e6b59672-5ea6-4da0-a005-1f281471c730"
+  },
+  {
+    "codigo": 827,
+    "tipo": 58,
+    "peso": 58671,
+    "idOrigen": "8e00dd96-c1a8-4bea-a661-f823e9fb2b97",
+    "idDestino": "31241c41-dff4-4651-86ed-09fd644276e2"
+  },
+  {
+    "codigo": 944,
+    "tipo": 4,
+    "peso": 92951,
+    "idOrigen": "4075333d-ed6e-43ae-a371-a8f24c9e75ed",
+    "idDestino": "d29bf710-ef5b-49c6-83ab-cc9d158fefe6"
+  },
+  {
+    "codigo": 386,
+    "tipo": 58,
+    "peso": 17620,
+    "idOrigen": "bcb07504-72a0-4cc6-994a-9b30da30b22f",
+    "idDestino": "d09538b8-f110-4ea2-9853-287ebaf550e6"
+  },
+  {
+    "codigo": 299,
+    "tipo": 24,
+    "peso": 52937,
+    "idOrigen": "a242a8b3-4186-4535-ba61-21d9f6223805",
+    "idDestino": "0b9f465d-daf3-4d74-aee3-55cbce1d5db7"
+  },
+  {
+    "codigo": 573,
+    "tipo": 57,
+    "peso": 12324,
+    "idOrigen": "6bfe420a-e1e9-4256-9579-19a512f218e9",
+    "idDestino": "3ec8d833-c70c-4a0b-aef6-10cbda258544"
+  },
+  {
+    "codigo": 303,
+    "tipo": 44,
+    "peso": 66984,
+    "idOrigen": "67f63c55-13cf-4141-b53b-727222c294a1",
+    "idDestino": "fd1fba02-426b-464e-8df9-4718cc93e217"
+  },
+  {
+    "codigo": 243,
+    "tipo": 27,
+    "peso": 65084,
+    "idOrigen": "6105d699-c116-4766-9938-9faf1c841635",
+    "idDestino": "592a9c9b-7969-4ae6-bfc8-1bd3d16933ac"
+  },
+  {
+    "codigo": 835,
+    "tipo": 61,
+    "peso": 69008,
+    "idOrigen": "18523764-7024-467b-895a-9c2c570bb752",
+    "idDestino": "026ec187-0a23-4c2b-956e-32579aa9e990"
+  },
+  {
+    "codigo": 495,
+    "tipo": 78,
+    "peso": 37752,
+    "idOrigen": "f9008e7c-d9b8-4fd5-87a6-4cd52b3f0a01",
+    "idDestino": "ee471c28-556c-4320-999e-4c240d0e7969"
+  },
+  {
+    "codigo": 624,
+    "tipo": 94,
+    "peso": 68561,
+    "idOrigen": "07736629-28cd-442f-b6fd-8cb194023033",
+    "idDestino": "0e7ec0c1-037a-4c4a-8fa0-8a1241e1e4f1"
+  },
+  {
+    "codigo": 795,
+    "tipo": 75,
+    "peso": 99654,
+    "idOrigen": "21470d92-a433-4561-a34d-f0e89bbb4eaf",
+    "idDestino": "1b101f64-b7ac-4398-80a7-e7c5be5165f0"
+  },
+  {
+    "codigo": 344,
+    "tipo": 18,
+    "peso": 14286,
+    "idOrigen": "66a154e9-ee95-4ff4-977a-ec2e313f3ea5",
+    "idDestino": "e9e5ad3a-d60b-4e22-9053-cf61338f3ca2"
+  },
+  {
+    "codigo": 446,
+    "tipo": 23,
+    "peso": 11006,
+    "idOrigen": "a6455ef7-ca3d-4b10-98df-7c0129100413",
+    "idDestino": "8c58661d-280f-4b54-847f-b80d6d015658"
+  },
+  {
+    "codigo": 724,
+    "tipo": 56,
+    "peso": 66832,
+    "idOrigen": "fd347068-ed90-408e-bb4e-eaefa0b91644",
+    "idDestino": "7f3f4851-7f04-4cc0-9a51-1ed3be49144b"
+  },
+  {
+    "codigo": 744,
+    "tipo": 8,
+    "peso": 95612,
+    "idOrigen": "bac6373d-f2e2-4c95-8a6c-f8b796037820",
+    "idDestino": "fc056dba-8292-4bb3-8db6-bd9bf9d3b2e4"
+  },
+  {
+    "codigo": 349,
+    "tipo": 50,
+    "peso": 16918,
+    "idOrigen": "6e12571b-77af-4ca3-968e-4fa06ec24e27",
+    "idDestino": "680c4124-2e02-4453-8357-5e1686527d8c"
+  },
+  {
+    "codigo": 576,
+    "tipo": 6,
+    "peso": 45723,
+    "idOrigen": "ddbe37d7-815d-4a8f-b008-25530b61729b",
+    "idDestino": "6988e3a5-ad2d-4f1d-8306-ace7ca712ff9"
+  },
+  {
+    "codigo": 835,
+    "tipo": 63,
+    "peso": 32966,
+    "idOrigen": "bd35d622-d3ca-4c57-9a4c-1c0411b0d6ca",
+    "idDestino": "72af5a55-ec2e-47b0-9f6b-6b3291ae0f97"
+  },
+  {
+    "codigo": 925,
+    "tipo": 42,
+    "peso": 26692,
+    "idOrigen": "2bf666e8-573f-4a6c-8da6-0f77282f582d",
+    "idDestino": "24724eb9-cfaf-4ce8-a3a6-d7eacf402282"
+  },
+  {
+    "codigo": 160,
+    "tipo": 59,
+    "peso": 39741,
+    "idOrigen": "71d27339-49a4-4d05-aec0-6ef093fd0d1f",
+    "idDestino": "52c5a72b-27d9-479a-80a0-9f17ccf8e677"
+  },
+  {
+    "codigo": 106,
+    "tipo": 7,
+    "peso": 25404,
+    "idOrigen": "e0881a03-8282-451e-801b-206dc165c2e2",
+    "idDestino": "9b8dcb8a-556b-4f6a-95f8-4ed1c9e5f364"
+  },
+  {
+    "codigo": 194,
+    "tipo": 1,
+    "peso": 59609,
+    "idOrigen": "1dd74bef-eec5-4831-b20e-a489c316a81e",
+    "idDestino": "57de8abc-c322-4a02-8574-b8633e1ae78a"
+  },
+  {
+    "codigo": 850,
+    "tipo": 32,
+    "peso": 58960,
+    "idOrigen": "be07bf69-c181-4059-be11-76adeb685875",
+    "idDestino": "6f960265-883f-4b74-9def-ad26d50e09ba"
+  },
+  {
+    "codigo": 307,
+    "tipo": 2,
+    "peso": 786,
+    "idOrigen": "72261897-e2a7-4d3e-b7ee-2eababcebe07",
+    "idDestino": "40b5a757-1a0a-46e2-87a8-342271505b7d"
+  },
+  {
+    "codigo": 344,
+    "tipo": 14,
+    "peso": 89812,
+    "idOrigen": "5949e34f-8e5c-4685-bf4f-9c3df1f97eee",
+    "idDestino": "d77ff5ad-7aa4-43be-83d8-67090c87812b"
+  },
+  {
+    "codigo": 281,
+    "tipo": 77,
+    "peso": 54514,
+    "idOrigen": "b7c8878c-7c24-4605-82e3-299e7c9a938a",
+    "idDestino": "faba3870-30d1-4cec-a068-aecf3004908c"
+  },
+  {
+    "codigo": 907,
+    "tipo": 85,
+    "peso": 47696,
+    "idOrigen": "32350357-913d-4b0b-8153-b119ee8c7778",
+    "idDestino": "9302d51c-3981-4b39-966c-b4cbef696b31"
+  },
+  {
+    "codigo": 549,
+    "tipo": 40,
+    "peso": 28746,
+    "idOrigen": "c8e8708b-28bb-4833-8c60-742ed5c7199e",
+    "idDestino": "144d0188-e636-40d0-885e-baa6546fad79"
+  },
+  {
+    "codigo": 229,
+    "tipo": 73,
+    "peso": 58749,
+    "idOrigen": "177a0778-c225-4021-9887-61f99ec7a067",
+    "idDestino": "58cf5a81-c92d-41dd-ba0e-065806838bf6"
+  },
+  {
+    "codigo": 173,
+    "tipo": 34,
+    "peso": 28014,
+    "idOrigen": "9cd7d6e3-3ace-475b-915d-c50942502356",
+    "idDestino": "a4d0778e-e728-415d-a14d-409530008902"
+  },
+  {
+    "codigo": 611,
+    "tipo": 87,
+    "peso": 46059,
+    "idOrigen": "cde0ca3a-9a30-473c-8528-9eadeca4e2ca",
+    "idDestino": "f498a847-17b2-42d0-a7db-cfdac15745eb"
+  },
+  {
+    "codigo": 301,
+    "tipo": 52,
+    "peso": 67118,
+    "idOrigen": "981f1a8b-d518-46c6-970e-8d9cbae713c0",
+    "idDestino": "c8b1bbe7-754c-4c15-8d5d-a2b06eaf896d"
+  },
+  {
+    "codigo": 793,
+    "tipo": 5,
+    "peso": 51481,
+    "idOrigen": "4d3e896d-63b5-432d-8aa9-8516ba4750f8",
+    "idDestino": "c969bea9-2ce3-4f3a-b176-849f9c09b684"
+  },
+    {
+    "codigo": 937,
+    "tipo": 75,
+    "peso": 42517,
+    "idOrigen": "c4527222-9a69-458b-beb1-ab3cca8f35bd",
+    "idDestino": "7508c512-83de-4bfb-aaeb-10b3612d89e9"
+  },
+  {
+    "codigo": 123,
+    "tipo": 92,
+    "peso": 7554,
+    "idOrigen": "8b8ad5b5-fe53-4920-86d3-7652e2c1b818",
+    "idDestino": "1b35e354-0e1e-4f2d-b0e2-97f76845a2dc"
+  },
+  {
+    "codigo": 403,
+    "tipo": 46,
+    "peso": 84270,
+    "idOrigen": "c1a533c7-84e8-46c5-a7bc-a59d88fc7e17",
+    "idDestino": "ec62cffb-85b6-48be-90c3-a7b59f29d178"
+  },
+  {
+    "codigo": 442,
+    "tipo": 69,
+    "peso": 65675,
+    "idOrigen": "225a12c2-40d2-474a-850a-f77613d17e3e",
+    "idDestino": "a6d732db-5d53-48dc-aa0e-87a01e51c874"
+  },
+  {
+    "codigo": 102,
+    "tipo": 63,
+    "peso": 44287,
+    "idOrigen": "2f7ff7cf-1ff6-4664-8ef5-b5de8217eaa5",
+    "idDestino": "89ea3b4e-b6f7-4b9e-9998-0ed617e98150"
+  },
+  {
+    "codigo": 740,
+    "tipo": 21,
+    "peso": 26084,
+    "idOrigen": "6151badd-a385-4b15-bc55-78bc19ec7cb3",
+    "idDestino": "75749314-4928-404d-8426-ec650f9534ce"
+  },
+  {
+    "codigo": 807,
+    "tipo": 19,
+    "peso": 98021,
+    "idOrigen": "2630d1d1-86d4-4e61-a4f7-801a565de49b",
+    "idDestino": "02eb9498-cbfa-483b-865a-f890badd3aec"
+  },
+  {
+    "codigo": 613,
+    "tipo": 94,
+    "peso": 86141,
+    "idOrigen": "01783c20-8dd3-4b97-9a91-3eae483afda7",
+    "idDestino": "13182347-26b5-4934-ba75-1d8c7361148d"
+  },
+  {
+    "codigo": 203,
+    "tipo": 80,
+    "peso": 60692,
+    "idOrigen": "a53c8150-1013-45f8-bbc3-75c6ad84fb4a",
+    "idDestino": "9258f831-dd91-493b-8ed6-3710cf4065ed"
+  },
+  {
+    "codigo": 977,
+    "tipo": 2,
+    "peso": 657,
+    "idOrigen": "15027b4b-06c2-473a-8be3-f12e8049b218",
+    "idDestino": "6e682d37-8606-496c-bbaf-363e7cbf956e"
+  },
+  {
+    "codigo": 672,
+    "tipo": 66,
+    "peso": 80010,
+    "idOrigen": "db6067a5-bf61-4aaa-94af-7f29669701c0",
+    "idDestino": "4d5273f5-2b97-488d-b694-31a649a576dd"
+  },
+  {
+    "codigo": 897,
+    "tipo": 76,
+    "peso": 67215,
+    "idOrigen": "68170ab7-f601-4cf6-87aa-efaff21aaaeb",
+    "idDestino": "74254106-de61-4b7b-a02f-fde9dc0f2be2"
+  },
+  {
+    "codigo": 579,
+    "tipo": 5,
+    "peso": 57026,
+    "idOrigen": "cb61cccd-83c5-4910-a795-c3d45b06f647",
+    "idDestino": "5afc3b64-adb1-41f1-85ab-c9be808380a2"
+  },
+  {
+    "codigo": 100,
+    "tipo": 56,
+    "peso": 9856,
+    "idOrigen": "5c3ae2f7-8c66-4e01-ab23-8ac6b40b6f63",
+    "idDestino": "4d790f38-0e0e-4216-b153-c5e6c1f8132c"
+  },
+  {
+    "codigo": 161,
+    "tipo": 3,
+    "peso": 48816,
+    "idOrigen": "be591376-8947-4fd4-9f69-ef277fbb718f",
+    "idDestino": "18acef0a-3fd4-44ea-92dc-df8ad62b89cb"
+  },
+  {
+    "codigo": 780,
+    "tipo": 27,
+    "peso": 58637,
+    "idOrigen": "8d6eace6-0688-4c47-a876-e6bde82ff7a2",
+    "idDestino": "c37bfdc4-31d0-45fd-9fe7-d5f5460c34a7"
+  },
+  {
+    "codigo": 621,
+    "tipo": 85,
+    "peso": 57887,
+    "idOrigen": "c81b485d-4b84-4b4c-a75e-14463dc88136",
+    "idDestino": "2a510ab8-c289-4d08-9988-f8ed88f1e3e3"
+  },
+  {
+    "codigo": 223,
+    "tipo": 14,
+    "peso": 49145,
+    "idOrigen": "d337bf55-4006-4a02-b66f-a9d933574144",
+    "idDestino": "4c231e56-bee6-4ab9-8b6d-b0d82cad975d"
+  },
+  {
+    "codigo": 390,
+    "tipo": 43,
+    "peso": 52599,
+    "idOrigen": "9d56849e-a1d8-4150-b45e-06eef0c9c147",
+    "idDestino": "b231ddda-6785-44f9-b5bd-a27e2f1593fd"
+  },
+  {
+    "codigo": 220,
+    "tipo": 39,
+    "peso": 86839,
+    "idOrigen": "511434f5-23ed-4511-8bb4-c26c29195cbe",
+    "idDestino": "30ec51f0-4c3c-49b3-817b-321272c9ddbd"
+  },
+  {
+    "codigo": 878,
+    "tipo": 56,
+    "peso": 23157,
+    "idOrigen": "5d137c84-bc3c-4d28-8803-938f323f3d0c",
+    "idDestino": "ea45eac3-935a-4b0b-97e3-79c50437c5e1"
+  },
+  {
+    "codigo": 775,
+    "tipo": 73,
+    "peso": 96098,
+    "idOrigen": "3299aaf0-b7da-48e4-8093-84ce86cdf2a7",
+    "idDestino": "edfefaee-b6f0-43c6-88d6-6662f8e9af98"
+  },
+  {
+    "codigo": 301,
+    "tipo": 46,
+    "peso": 99417,
+    "idOrigen": "203ace3f-eeed-4401-a8ad-567812518667",
+    "idDestino": "f8e34301-5a1f-488b-a76f-bd7552f7b673"
+  },
+  {
+    "codigo": 579,
+    "tipo": 72,
+    "peso": 25024,
+    "idOrigen": "3e8418d8-5990-453e-beb1-a6f09be1c5da",
+    "idDestino": "e93bbce7-9fd5-467f-8b0d-2f6e42541d4b"
+  },
+  {
+    "codigo": 604,
+    "tipo": 36,
+    "peso": 24775,
+    "idOrigen": "f8031d0e-e081-4a67-990a-a94a3c109f5f",
+    "idDestino": "7d3bc7e0-7594-4da2-a35c-284fdd9c51e8"
+  },
+  {
+    "codigo": 839,
+    "tipo": 46,
+    "peso": 10693,
+    "idOrigen": "9db8f5fb-abd3-4611-99a1-ca02e0715040",
+    "idDestino": "f6d5c9be-8d78-409b-88ca-242299274c54"
+  },
+  {
+    "codigo": 704,
+    "tipo": 23,
+    "peso": 83973,
+    "idOrigen": "a38aae07-b86e-4dd6-9e0d-b2afc6de6562",
+    "idDestino": "1bc06f3f-6453-4fdd-a21f-3bb32aefdf5c"
+  },
+  {
+    "codigo": 751,
+    "tipo": 43,
+    "peso": 71054,
+    "idOrigen": "e7d3496f-0829-4743-97b7-965b31dd1d7d",
+    "idDestino": "44a99082-a48a-4964-888c-a46acf2fb987"
+  },
+  {
+    "codigo": 569,
+    "tipo": 86,
+    "peso": 94323,
+    "idOrigen": "ad496a6b-fcdb-4f51-8cc3-39277debbf7a",
+    "idDestino": "d8b83768-2b40-489e-b522-a5064b909ea2"
+  },
+  {
+    "codigo": 950,
+    "tipo": 58,
+    "peso": 28448,
+    "idOrigen": "3cbab182-0fa4-4a8d-8159-344481947bc6",
+    "idDestino": "f85e44c8-6eb7-4dc3-804f-0e36224c91c8"
+  },
+  {
+    "codigo": 477,
+    "tipo": 86,
+    "peso": 6366,
+    "idOrigen": "64fc1396-3297-4074-b58c-9bcdc9848467",
+    "idDestino": "c85f2ecc-cd56-4d4e-9b4c-a7644d4cbfc8"
+  },
+  {
+    "codigo": 960,
+    "tipo": 68,
+    "peso": 72850,
+    "idOrigen": "8b21708c-1922-4557-ab96-3261123d001b",
+    "idDestino": "3abc2fd9-6af0-4102-b106-52ed162cd335"
+  },
+  {
+    "codigo": 258,
+    "tipo": 67,
+    "peso": 50057,
+    "idOrigen": "99477f3d-4857-447b-bf39-236750c7aede",
+    "idDestino": "aa53695a-a80d-43c0-9973-997727433b0f"
+  },
+  {
+    "codigo": 801,
+    "tipo": 26,
+    "peso": 95383,
+    "idOrigen": "6aa8dcd3-a254-43b3-bd8d-b1a71bbba5f5",
+    "idDestino": "080311ea-ab62-475a-b1e1-6852c74ea731"
+  },
+  {
+    "codigo": 468,
+    "tipo": 61,
+    "peso": 47764,
+    "idOrigen": "81133a42-d8e0-42e4-b737-1e7911dd1866",
+    "idDestino": "12012bf6-8dd5-40a4-a5bd-f75d533f5472"
+  },
+  {
+    "codigo": 207,
+    "tipo": 8,
+    "peso": 84234,
+    "idOrigen": "b44fe099-d915-417a-ac82-1d74dded546b",
+    "idDestino": "8d50240b-81df-43c7-bb37-ebc40699251a"
+  },
+  {
+    "codigo": 477,
+    "tipo": 23,
+    "peso": 31061,
+    "idOrigen": "c4ceeaf6-0a34-4eb7-9c71-52f422d1d681",
+    "idDestino": "f73b782c-0f1e-4eb9-b03d-7c62d9989bf4"
+  },
+  {
+    "codigo": 800,
+    "tipo": 30,
+    "peso": 48139,
+    "idOrigen": "664b2b70-ca6d-481f-b084-b22bdcc7ca37",
+    "idDestino": "2e0f3150-a0b2-4515-b674-762c0529e2b7"
+  },
+  {
+    "codigo": 525,
+    "tipo": 52,
+    "peso": 96656,
+    "idOrigen": "b4ccdd10-35a0-4e35-82e8-dd5f6eecfc64",
+    "idDestino": "c7fd0c57-4e4c-4ef1-8646-8fbb70eac4fb"
+  },
+  {
+    "codigo": 698,
+    "tipo": 17,
+    "peso": 3889,
+    "idOrigen": "1b1059a3-b624-465f-8bda-ce4c8a450802",
+    "idDestino": "bf8911e2-1b47-4573-b22a-471e7fef8fe5"
+  },
+  {
+    "codigo": 409,
+    "tipo": 88,
+    "peso": 60934,
+    "idOrigen": "c85d4fdd-b0a6-44cb-b337-3bc69944dacc",
+    "idDestino": "ad01540b-901a-4ef1-a096-1a66f6541eed"
+  },
+  {
+    "codigo": 739,
+    "tipo": 87,
+    "peso": 26310,
+    "idOrigen": "0103e2fe-cb5a-4a33-ba85-1b52a6112c67",
+    "idDestino": "76cf7e1d-87c9-4937-acf3-a17fd2b357bd"
+  },
+  {
+    "codigo": 365,
+    "tipo": 96,
+    "peso": 37026,
+    "idOrigen": "350db15a-41a6-40d6-8470-ba7ae808d42e",
+    "idDestino": "8242acee-ae7f-4ee9-ae4c-6cd7bb236508"
+  },
+  {
+    "codigo": 716,
+    "tipo": 79,
+    "peso": 46943,
+    "idOrigen": "aeb4a9b8-6626-46b8-8de3-4398c3e56056",
+    "idDestino": "97a75c67-bc67-45b6-af06-06931b3ecdb5"
+  },
+  {
+    "codigo": 151,
+    "tipo": 69,
+    "peso": 72941,
+    "idOrigen": "354cb968-3900-4983-a0a9-fbb77c4b1528",
+    "idDestino": "fa4620e4-6485-4f25-90cc-e1a1d9496e3c"
+  },
+  {
+    "codigo": 910,
+    "tipo": 28,
+    "peso": 95385,
+    "idOrigen": "fe524584-0b24-4343-ab4f-0fec095ef5e5",
+    "idDestino": "36f5b075-4b7f-4574-af78-096352d31d02"
+  },
+  {
+    "codigo": 234,
+    "tipo": 88,
+    "peso": 55996,
+    "idOrigen": "e2f20e64-7e93-4b6d-954c-7930aa65ae5b",
+    "idDestino": "8cb5d1f1-601f-42c1-b32c-fa1d240e9ebe"
+  },
+  {
+    "codigo": 781,
+    "tipo": 44,
+    "peso": 31130,
+    "idOrigen": "f270522b-9c1b-4536-975f-4700ec88100c",
+    "idDestino": "a79b2a71-f07a-475d-b386-491ff5e924d0"
+  },
+  {
+    "codigo": 670,
+    "tipo": 2,
+    "peso": 65636,
+    "idOrigen": "01c2c0f0-56a3-49fa-9fa6-bf32fe56d38b",
+    "idDestino": "199e4e13-e0d7-4e12-ab7e-031b8b99509f"
+  },
+  {
+    "codigo": 333,
+    "tipo": 55,
+    "peso": 45040,
+    "idOrigen": "6d3945ef-5cf5-4b8d-8b9b-dddb58174c55",
+    "idDestino": "d919d00d-d176-480d-a984-ba5abefacda2"
+  },
+  {
+    "codigo": 918,
+    "tipo": 39,
+    "peso": 72112,
+    "idOrigen": "f5d64c75-f313-4d4a-affa-40a927a70ab1",
+    "idDestino": "c0353ab5-654f-482a-a8fa-2e6df2dcc410"
+  },
+  {
+    "codigo": 461,
+    "tipo": 81,
+    "peso": 70104,
+    "idOrigen": "2ef2c72c-e7a2-4223-a9b0-b810378504c0",
+    "idDestino": "b20b987c-679c-4ac7-b10c-a8122a608aa1"
+  },
+  {
+    "codigo": 859,
+    "tipo": 19,
+    "peso": 81919,
+    "idOrigen": "c70c74c4-86af-4ca1-b03f-7beb0076bdcb",
+    "idDestino": "26ad73c7-7788-4bd5-bc69-4efbe566c478"
+  },
+  {
+    "codigo": 322,
+    "tipo": 12,
+    "peso": 22714,
+    "idOrigen": "9c73b4ce-2059-4eef-963a-226bb16ed126",
+    "idDestino": "d3522a99-794c-43d7-858d-2f0aa1fcfd3b"
+  },
+  {
+    "codigo": 174,
+    "tipo": 89,
+    "peso": 99779,
+    "idOrigen": "ac896888-bdd5-4fd9-8417-4b2abe7b835c",
+    "idDestino": "2499d1b1-1208-4541-9e78-e1969f888756"
+  },
+  {
+    "codigo": 739,
+    "tipo": 62,
+    "peso": 47359,
+    "idOrigen": "79f3f13b-42b4-4270-b11b-958b9d4a7033",
+    "idDestino": "3c15f67e-f0f8-4d76-92d7-87422140edc1"
+  },
+  {
+    "codigo": 763,
+    "tipo": 73,
+    "peso": 70659,
+    "idOrigen": "df15b837-b94e-469f-b48b-b82683663a6b",
+    "idDestino": "3c801a2c-8c33-4998-aadb-db829b0b8adf"
+  },
+  {
+    "codigo": 573,
+    "tipo": 71,
+    "peso": 88093,
+    "idOrigen": "933a79cd-25b8-4227-8b45-105cc922310c",
+    "idDestino": "48e75450-b73d-4826-974d-cafe7e1c25fc"
+  },
+  {
+    "codigo": 888,
+    "tipo": 31,
+    "peso": 94251,
+    "idOrigen": "7f4e2117-8549-4e53-b86b-34596fc70662",
+    "idDestino": "7faa36f1-cbf5-4a1a-82bd-841baa86fc32"
+  },
+  {
+    "codigo": 369,
+    "tipo": 21,
+    "peso": 92112,
+    "idOrigen": "ab27097d-1752-4302-bd85-b21d78ad6936",
+    "idDestino": "259eb314-9ed8-4bb9-8d0e-fb7456f21c20"
+  },
+  {
+    "codigo": 308,
+    "tipo": 87,
+    "peso": 3442,
+    "idOrigen": "2744e2ff-1058-4117-9e89-e5ca060385ff",
+    "idDestino": "7edbbbea-689a-405a-9965-046fd3be9dae"
+  },
+  {
+    "codigo": 325,
+    "tipo": 34,
+    "peso": 53354,
+    "idOrigen": "d322e238-1340-4340-9281-7f6033e24211",
+    "idDestino": "444fe9cb-b3c7-4814-a77f-752731b11a75"
+  },
+  {
+    "codigo": 173,
+    "tipo": 96,
+    "peso": 18957,
+    "idOrigen": "9e328e8a-292c-47c3-9454-52724338b4b2",
+    "idDestino": "2001c8f4-cca3-4874-bc5b-815f50c636b3"
+  },
+  {
+    "codigo": 585,
+    "tipo": 26,
+    "peso": 18006,
+    "idOrigen": "739ec18a-3125-441d-877d-1d2692985c5f",
+    "idDestino": "f122ad48-e906-4799-b1c2-74aff0dac3d0"
+  },
+  {
+    "codigo": 939,
+    "tipo": 45,
+    "peso": 31930,
+    "idOrigen": "3f547574-616b-4c16-a35e-ef281fdac5e3",
+    "idDestino": "a73b0626-6229-47a6-b720-3b77436bccc1"
+  },
+  {
+    "codigo": 539,
+    "tipo": 58,
+    "peso": 85501,
+    "idOrigen": "5c5c2170-8c6b-4402-aedc-ea6b0dad6c48",
+    "idDestino": "18badbe4-4125-4676-ad70-0822ab185c3d"
+  },
+  {
+    "codigo": 335,
+    "tipo": 76,
+    "peso": 52450,
+    "idOrigen": "4958f04c-e850-415a-afb3-d6e25d2540f7",
+    "idDestino": "9336b065-46b2-41c2-8e24-345525ba8f28"
+  },
+  {
+    "codigo": 102,
+    "tipo": 15,
+    "peso": 10528,
+    "idOrigen": "53bd074c-fb18-4397-ae38-50790bec2553",
+    "idDestino": "e8a3860f-99d4-45b7-abc6-f1410e5fc975"
+  },
+  {
+    "codigo": 529,
+    "tipo": 77,
+    "peso": 25480,
+    "idOrigen": "73313060-f575-4c14-9746-66620492b819",
+    "idDestino": "865b86df-c775-4a7b-b1a8-ac11ba740d2f"
+  },
+  {
+    "codigo": 671,
+    "tipo": 48,
+    "peso": 49456,
+    "idOrigen": "8377d6b3-8979-4d8f-96ed-f491a649aede",
+    "idDestino": "bf35f254-8829-40ab-8328-3fc35a179891"
+  },
+  {
+    "codigo": 894,
+    "tipo": 28,
+    "peso": 29353,
+    "idOrigen": "05d0b5c1-0b10-4922-a52a-9deded4deea0",
+    "idDestino": "55529da9-dda6-4a39-bf53-7e62982b6773"
+  },
+  {
+    "codigo": 750,
+    "tipo": 66,
+    "peso": 39111,
+    "idOrigen": "19b4f31e-496c-4e31-976c-481db7267a4b",
+    "idDestino": "51ba7d11-66b4-4872-a799-114f4fe96e96"
+  },
+  {
+    "codigo": 570,
+    "tipo": 38,
+    "peso": 49882,
+    "idOrigen": "908701b7-e5be-4660-abe9-0244e3db630f",
+    "idDestino": "46a25903-9c9d-4068-a326-2cab25ec0290"
+  },
+  {
+    "codigo": 856,
+    "tipo": 4,
+    "peso": 88493,
+    "idOrigen": "05115c84-98df-44dc-be1d-b5f41da3d92a",
+    "idDestino": "2c02efe8-b255-4318-b827-e990eb78f029"
+  },
+  {
+    "codigo": 249,
+    "tipo": 50,
+    "peso": 34571,
+    "idOrigen": "687c772f-86de-4d4b-84f6-05a6c9447f38",
+    "idDestino": "341798c5-6eef-4356-a521-5201f45796a6"
+  },
+  {
+    "codigo": 981,
+    "tipo": 74,
+    "peso": 82802,
+    "idOrigen": "12fe4960-c480-48e3-b36a-b876bcc63750",
+    "idDestino": "d103be51-5ffb-4f0d-ae49-ba37d810b100"
+  },
+  {
+    "codigo": 508,
+    "tipo": 6,
+    "peso": 42032,
+    "idOrigen": "6a6e8145-95c6-461d-9b60-fe4e4881d339",
+    "idDestino": "51c065b6-c91e-437d-a8bf-d4aed164433e"
+  },
+  {
+    "codigo": 207,
+    "tipo": 48,
+    "peso": 30258,
+    "idOrigen": "01ae64bb-ad2d-49ea-89ad-e86add1921d6",
+    "idDestino": "aaeec8df-5ab9-4b7e-8df1-5b4aa142afff"
+  },
+  {
+    "codigo": 637,
+    "tipo": 38,
+    "peso": 22382,
+    "idOrigen": "814355d1-824d-47d5-95c2-25099d4e5db6",
+    "idDestino": "6a49e3e0-c9b9-4e79-9267-a7ad6ad7e99c"
+  },
+  {
+    "codigo": 594,
+    "tipo": 60,
+    "peso": 60521,
+    "idOrigen": "70a56b4e-b29e-4c75-9938-beb3f74ed71c",
+    "idDestino": "6c24c5f7-eb23-4f46-b9fd-a7f449deb566"
+  },
+  {
+    "codigo": 286,
+    "tipo": 74,
+    "peso": 70596,
+    "idOrigen": "44a701dd-f021-4aaa-a15a-17951077cff6",
+    "idDestino": "5402fdf6-82ae-4942-a881-091faa512212"
+  },
+  {
+    "codigo": 250,
+    "tipo": 62,
+    "peso": 60112,
+    "idOrigen": "d510e01b-51c1-4da4-9d0f-df91d5a7fdea",
+    "idDestino": "05eb40bf-6900-4dab-a595-aae9d10dc652"
+  },
+  {
+    "codigo": 960,
+    "tipo": 15,
+    "peso": 99486,
+    "idOrigen": "e77ad7f7-fc46-4d75-b64b-069fa38ff672",
+    "idDestino": "a70f32cb-84b9-4bdc-aed0-7bf33f32003d"
+  },
+  {
+    "codigo": 970,
+    "tipo": 78,
+    "peso": 39244,
+    "idOrigen": "e2947e31-68a5-4e49-9a80-11583570ecb8",
+    "idDestino": "3b992d6a-4892-467b-89d3-dac30cbec790"
+  },
+  {
+    "codigo": 704,
+    "tipo": 7,
+    "peso": 62051,
+    "idOrigen": "a043e8d5-aa76-465b-bd2f-07990cf5c6ef",
+    "idDestino": "e4cfa7b4-966a-483c-8364-9ea6ebb36c83"
+  },
+  {
+    "codigo": 599,
+    "tipo": 47,
+    "peso": 96814,
+    "idOrigen": "5e56d9e1-bb7c-43db-a73a-fa35e2b77378",
+    "idDestino": "f5537059-29d5-4ee6-af42-7783bf9bdd07"
+  },
+  {
+    "codigo": 655,
+    "tipo": 47,
+    "peso": 37722,
+    "idOrigen": "47e0e343-b2b5-46e3-9503-3e49bb3a16b2",
+    "idDestino": "97171534-dce2-4b66-a8fa-0df5aa02d292"
+  },
+  {
+    "codigo": 128,
+    "tipo": 82,
+    "peso": 52561,
+    "idOrigen": "652f7a1b-dcab-4cbb-bc99-863c12df8a6c",
+    "idDestino": "d91709e4-ff1c-4b68-83a7-b06485920339"
+  },
+  {
+    "codigo": 747,
+    "tipo": 64,
+    "peso": 83730,
+    "idOrigen": "8dffcfca-d504-42f3-8a87-70b1918519e9",
+    "idDestino": "b52f505a-8055-4050-ba6b-49626a073f03"
+  },
+  {
+    "codigo": 627,
+    "tipo": 77,
+    "peso": 59393,
+    "idOrigen": "039e8587-fea5-4957-949b-b1218c658b24",
+    "idDestino": "f17d8842-e098-4ec2-85f0-0b6def38a6c5"
+  },
+  {
+    "codigo": 935,
+    "tipo": 77,
+    "peso": 9800,
+    "idOrigen": "d848ea0f-e608-4093-b51c-d890475566c6",
+    "idDestino": "b41680b4-60ac-44ef-8114-afba987b21de"
+  },
+  {
+    "codigo": 389,
+    "tipo": 93,
+    "peso": 47794,
+    "idOrigen": "017a2bc7-87ec-41ed-86e5-0592bf87bee6",
+    "idDestino": "c768b01c-a8a2-487c-83cd-7f01e0db2246"
+  },
+  {
+    "codigo": 425,
+    "tipo": 17,
+    "peso": 17789,
+    "idOrigen": "f6a2dd1e-f43c-486a-b446-9e015b50e4a6",
+    "idDestino": "f97f7feb-d0e4-43ad-9cd1-20b7b5b3a380"
+  },
+  {
+    "codigo": 471,
+    "tipo": 11,
+    "peso": 15369,
+    "idOrigen": "c3ddc9dc-0e9d-4d1b-a5b0-5c5aaa645fc3",
+    "idDestino": "a738ee39-22f2-4eff-a3b5-51b56e18bc48"
+  },
+  {
+    "codigo": 838,
+    "tipo": 19,
+    "peso": 45868,
+    "idOrigen": "b232c243-a3dc-449b-be68-cb4d90c0925a",
+    "idDestino": "c96006a9-cc80-4803-9ee5-d8bdb812deab"
+  },
+  {
+    "codigo": 770,
+    "tipo": 10,
+    "peso": 86494,
+    "idOrigen": "22001a2c-2488-4649-9cfd-4274eb9b0fc2",
+    "idDestino": "329c1869-1c4f-4c0a-8249-b441ffd92706"
+  },
+  {
+    "codigo": 372,
+    "tipo": 60,
+    "peso": 81466,
+    "idOrigen": "097ddf7b-4e4f-4acb-9612-ccfe594d3541",
+    "idDestino": "783c40b7-ba27-4eba-a22e-175d664671ca"
+  },
+  {
+    "codigo": 446,
+    "tipo": 89,
+    "peso": 36513,
+    "idOrigen": "7eaadb7a-2913-49bf-b9e5-30d519ec002f",
+    "idDestino": "4feba05f-0c02-41b4-a803-e73de7c36d7b"
+  },
+  {
+    "codigo": 951,
+    "tipo": 87,
+    "peso": 80515,
+    "idOrigen": "fbad9317-7551-4fb2-a1f3-a4569a5c2a1a",
+    "idDestino": "c5661eac-4121-443d-be66-dc5eddbdb016"
+  },
+  {
+    "codigo": 535,
+    "tipo": 99,
+    "peso": 96697,
+    "idOrigen": "c205acd5-ea6f-495d-a73a-2a47e59e1980",
+    "idDestino": "d9764688-d1da-424f-a2e7-7eda2cafde82"
+  },
+  {
+    "codigo": 496,
+    "tipo": 5,
+    "peso": 18261,
+    "idOrigen": "0ba210ad-aa7f-4388-b030-e024be733d9a",
+    "idDestino": "9c440562-a627-4f18-b12a-8a7bc44d9902"
+  },
+  {
+    "codigo": 262,
+    "tipo": 63,
+    "peso": 95391,
+    "idOrigen": "d9909927-d866-4a2e-9dd6-57439a5ecd49",
+    "idDestino": "510e65ee-aa60-4ef7-9289-cc26bf7d5e91"
+  },
+  {
+    "codigo": 917,
+    "tipo": 62,
+    "peso": 17413,
+    "idOrigen": "e726d3a5-4689-4455-a6bb-80afb9677141",
+    "idDestino": "b4790c64-ad7a-4cde-8b49-c0177c4ccfaa"
+  },
+  {
+    "codigo": 106,
+    "tipo": 30,
+    "peso": 38478,
+    "idOrigen": "593d217f-7e35-4f39-85f7-7a8e79b291d8",
+    "idDestino": "63b9dac6-bff9-4ca4-aeb6-9a4071840e4f"
+  },
+  {
+    "codigo": 452,
+    "tipo": 76,
+    "peso": 88573,
+    "idOrigen": "9a30f9ce-237e-43c3-b9a1-1a289ffbc41c",
+    "idDestino": "59886691-12f8-4338-83e7-09ea310c43bb"
+  },
+  {
+    "codigo": 208,
+    "tipo": 53,
+    "peso": 23047,
+    "idOrigen": "97597be0-6072-4f03-bec7-8fc1cc4c65ca",
+    "idDestino": "67136b01-cb43-491d-aa5e-0733e4215d83"
+  },
+  {
+    "codigo": 245,
+    "tipo": 96,
+    "peso": 32743,
+    "idOrigen": "da0f0576-523f-44d4-b1db-41a61e4764a0",
+    "idDestino": "d09716b5-cc57-4baf-9e09-37dceb70694b"
+  },
+  {
+    "codigo": 687,
+    "tipo": 11,
+    "peso": 43662,
+    "idOrigen": "95d0037a-7802-40e2-8213-f9dc5d9acbf8",
+    "idDestino": "0420662d-524c-4b48-b07b-45ff53ef4089"
+  },
+  {
+    "codigo": 130,
+    "tipo": 67,
+    "peso": 22464,
+    "idOrigen": "666d7d98-4e4d-426c-ad28-f578b80561d2",
+    "idDestino": "1dc0ebf7-3a4c-46e4-9257-7217dae41449"
+  },
+  {
+    "codigo": 738,
+    "tipo": 87,
+    "peso": 87398,
+    "idOrigen": "e743e1a3-af87-4fab-ab9f-2e8c44101609",
+    "idDestino": "fcab4bf9-7142-47c5-a748-bf6d146418a1"
+  },
+  {
+    "codigo": 456,
+    "tipo": 36,
+    "peso": 73716,
+    "idOrigen": "9a85d6ac-7e1f-4a78-86bf-0396a47f90d0",
+    "idDestino": "324c17b2-424e-4649-8005-2bed96566f41"
+  },
+  {
+    "codigo": 296,
+    "tipo": 74,
+    "peso": 90717,
+    "idOrigen": "e07e628a-3be0-4469-92b5-4d4e2fdaf905",
+    "idDestino": "649f6c4c-675d-4f23-9abf-36fbc029d258"
+  },
+  {
+    "codigo": 622,
+    "tipo": 38,
+    "peso": 82694,
+    "idOrigen": "5e177f46-3798-42d9-833a-24c208598a02",
+    "idDestino": "61f6b0a0-cc96-444d-aa70-b6e4f00d0fde"
+  },
+  {
+    "codigo": 658,
+    "tipo": 47,
+    "peso": 71979,
+    "idOrigen": "86966f00-784d-4822-9344-822145c36b18",
+    "idDestino": "cd671f32-271f-42a2-88dc-b1eaf52c3f2b"
+  },
+  {
+    "codigo": 140,
+    "tipo": 35,
+    "peso": 80803,
+    "idOrigen": "27c4af88-2f6f-42f2-b57a-c00ceb100f34",
+    "idDestino": "02c8ee22-f175-4fb9-a70a-01096a2e66a6"
+  },
+  {
+    "codigo": 218,
+    "tipo": 92,
+    "peso": 25885,
+    "idOrigen": "e6fdf3a0-2c05-4c6b-844e-a54cbd813b27",
+    "idDestino": "e4d077b7-fba2-4ecb-a8f5-706a8ce19d0e"
+  },
+  {
+    "codigo": 319,
+    "tipo": 96,
+    "peso": 84996,
+    "idOrigen": "529a78b0-087d-46a0-9a63-610bef9beac7",
+    "idDestino": "253b8f72-1d3b-4f0c-85fd-bfd0f4a58c2d"
+  },
+  {
+    "codigo": 239,
+    "tipo": 53,
+    "peso": 15588,
+    "idOrigen": "5b9a29ac-7089-481a-9763-f716fad8714a",
+    "idDestino": "44cd822b-7436-4c09-941c-919ed770a383"
+  },
+  {
+    "codigo": 323,
+    "tipo": 42,
+    "peso": 60551,
+    "idOrigen": "b24f99cb-21fd-4cdd-9ed6-2d30eaa708a2",
+    "idDestino": "ca6ebafa-ba15-4a3f-b534-c6698a52fe05"
+  },
+  {
+    "codigo": 344,
+    "tipo": 20,
+    "peso": 90353,
+    "idOrigen": "ee8da0f0-ec0a-4b80-a2a8-3275ea94fe0b",
+    "idDestino": "d6721d79-b684-482f-98e8-6083d99d594a"
+  },
+  {
+    "codigo": 721,
+    "tipo": 37,
+    "peso": 74732,
+    "idOrigen": "c70574d3-82af-4b4a-b1f7-c62fa9b42128",
+    "idDestino": "b8dd7fa6-ea41-489f-8f25-dfbcb67d4613"
+  },
+  {
+    "codigo": 616,
+    "tipo": 15,
+    "peso": 69329,
+    "idOrigen": "dffdf2a8-1cd9-4677-a949-0f8111609694",
+    "idDestino": "7644c7f5-b00a-4d4d-be94-b38a081313c3"
+  },
+  {
+    "codigo": 719,
+    "tipo": 42,
+    "peso": 81812,
+    "idOrigen": "c3658287-cea6-47c9-9f0b-b5c4c935bfb7",
+    "idDestino": "4355a147-5efc-4ed3-9967-3fd73b5eaa66"
+  },
+  {
+    "codigo": 846,
+    "tipo": 89,
+    "peso": 55044,
+    "idOrigen": "c9cfb6c6-8fd7-4087-8f3d-1fe54ff0aec4",
+    "idDestino": "edbb6f4a-3088-48fd-ab1b-579fb125fed7"
+  },
+  {
+    "codigo": 570,
+    "tipo": 56,
+    "peso": 13174,
+    "idOrigen": "a2ad176e-c136-4d7f-8a95-b957ba15cc9e",
+    "idDestino": "50f44694-f6e3-482c-80b7-af122b5cbb08"
+  },
+  {
+    "codigo": 170,
+    "tipo": 85,
+    "peso": 77219,
+    "idOrigen": "b89b37df-9f2a-4f28-ab84-abc283ee53b4",
+    "idDestino": "287ecf16-8bb9-4ccf-a4fa-2e4e2af595a4"
+  },
+  {
+    "codigo": 612,
+    "tipo": 39,
+    "peso": 12106,
+    "idOrigen": "fdfe5a67-9745-44d1-839d-06177e72a3f6",
+    "idDestino": "ecd5d505-2dac-4f69-a2f6-7d602b360af5"
+  },
+  {
+    "codigo": 121,
+    "tipo": 52,
+    "peso": 57155,
+    "idOrigen": "67a70d49-d559-4f18-9505-6ee787b0119a",
+    "idDestino": "9c755bfb-6512-422e-b328-1897d9f52e7a"
+  },
+  {
+    "codigo": 724,
+    "tipo": 88,
+    "peso": 85805,
+    "idOrigen": "25aac4bb-1c30-4ff7-accf-4c354092e9de",
+    "idDestino": "b7adfeb7-d67f-4e8a-94d6-6636e5c9c58d"
+  },
+  {
+    "codigo": 526,
+    "tipo": 88,
+    "peso": 16908,
+    "idOrigen": "79d3133f-21e8-48e0-93da-af9e1242d7c4",
+    "idDestino": "141ce9c3-0215-404c-95e5-d5cc986d973e"
+  },
+  {
+    "codigo": 757,
+    "tipo": 68,
+    "peso": 90675,
+    "idOrigen": "76202dfa-a071-4cb9-ba13-074a59b678c7",
+    "idDestino": "3cd8d5fb-7088-48c9-a07c-366d616850a0"
+  },
+  {
+    "codigo": 872,
+    "tipo": 68,
+    "peso": 13458,
+    "idOrigen": "0a87975c-4ac1-48fb-9e3a-30a5dd861caf",
+    "idDestino": "828459ff-18b9-4453-b431-661f9a009fbe"
+  },
+  {
+    "codigo": 114,
+    "tipo": 10,
+    "peso": 7066,
+    "idOrigen": "4721ccb5-1558-41b4-8b99-7846844e8363",
+    "idDestino": "2d454718-3ccc-4528-b41b-6a21476bb9ed"
+  },
+  {
+    "codigo": 106,
+    "tipo": 25,
+    "peso": 95418,
+    "idOrigen": "f60bfbb5-925f-4409-821e-416c8a072acb",
+    "idDestino": "c84715d3-07cb-4736-a7f2-eae8318e427f"
+  },
+  {
+    "codigo": 488,
+    "tipo": 93,
+    "peso": 82495,
+    "idOrigen": "07f861bf-b44a-432d-9124-05594a1a2b54",
+    "idDestino": "3231e4d7-4511-405e-8b91-19032e71c1e1"
+  },
+  {
+    "codigo": 144,
+    "tipo": 23,
+    "peso": 81834,
+    "idOrigen": "8b75b5ae-ee60-4aa8-b3dd-3a535a5b47ac",
+    "idDestino": "f4370529-49c7-432f-be0b-0a59a9212873"
+  },
+  {
+    "codigo": 657,
+    "tipo": 52,
+    "peso": 54802,
+    "idOrigen": "002c719d-0172-467b-bf68-04131052b05a",
+    "idDestino": "429640c3-ebf5-475c-b7ba-f62f7cc55e35"
+  },
+  {
+    "codigo": 492,
+    "tipo": 25,
+    "peso": 35458,
+    "idOrigen": "84d1ccbe-4fce-4e65-ac0e-c946d8c1ab0a",
+    "idDestino": "5cc1671b-eefc-42c7-9e85-d70bfbc5c307"
+  },
+  {
+    "codigo": 754,
+    "tipo": 76,
+    "peso": 11599,
+    "idOrigen": "ab88d7f8-c3e6-4ee2-81da-d3be968d3132",
+    "idDestino": "b41077dc-e311-44dc-bcdd-2a1d65914818"
+  },
+  {
+    "codigo": 165,
+    "tipo": 43,
+    "peso": 70532,
+    "idOrigen": "f9a28f04-7e09-415b-99d3-05f426de6189",
+    "idDestino": "610f728f-d9cc-4210-8420-ba56ecb08b14"
+  },
+  {
+    "codigo": 346,
+    "tipo": 44,
+    "peso": 13644,
+    "idOrigen": "d19a53a3-5d49-46be-ad72-290d40d7c93c",
+    "idDestino": "188bef00-9d17-43f2-8004-64e0ed7fa206"
+  },
+  {
+    "codigo": 680,
+    "tipo": 21,
+    "peso": 64565,
+    "idOrigen": "a783abd4-3289-4176-af83-cb31df0c6b5b",
+    "idDestino": "b94fa8fe-5262-42ea-9ef0-b716661621e4"
+  },
+  {
+    "codigo": 409,
+    "tipo": 43,
+    "peso": 78846,
+    "idOrigen": "908606c9-35f8-44e2-80e4-8ce6596e5ff7",
+    "idDestino": "beba415a-5e3f-4cdf-8702-88446c5ae21f"
+  },
+  {
+    "codigo": 887,
+    "tipo": 61,
+    "peso": 83064,
+    "idOrigen": "078c0cf4-5465-4a4f-80ce-5e340b11d22d",
+    "idDestino": "740d0d7b-cfe4-420a-87a4-daf9ddd0f2ee"
+  },
+  {
+    "codigo": 976,
+    "tipo": 77,
+    "peso": 56458,
+    "idOrigen": "8cd32fa8-c59a-4143-9f33-cebda3a8d493",
+    "idDestino": "c4134a59-4079-479c-a497-796e8f81b4d8"
+  },
+  {
+    "codigo": 992,
+    "tipo": 31,
+    "peso": 51970,
+    "idOrigen": "c1c31699-ef97-4a98-abbb-f669b741d196",
+    "idDestino": "6a989f80-d3cc-41c2-999a-a798f29a4ac9"
+  },
+  {
+    "codigo": 581,
+    "tipo": 42,
+    "peso": 30948,
+    "idOrigen": "5e3036d5-08ce-4681-af25-5a39b7f6f067",
+    "idDestino": "8ed200c4-3adf-4a36-893e-9ce9c8cfe268"
+  },
+  {
+    "codigo": 771,
+    "tipo": 95,
+    "peso": 55418,
+    "idOrigen": "771d3b50-6474-4221-a521-93f3d586c91f",
+    "idDestino": "5d9b8967-f5a2-437b-8b62-8fbcb1fd1ab5"
+  },
+  {
+    "codigo": 317,
+    "tipo": 83,
+    "peso": 98657,
+    "idOrigen": "69ef6e21-33be-4f9f-8b0f-fb8778f46a3e",
+    "idDestino": "a49e9854-4b39-41b3-950b-bb617b7b55c6"
+  },
+  {
+    "codigo": 128,
+    "tipo": 76,
+    "peso": 24373,
+    "idOrigen": "faf7b2f1-0f5a-4836-be62-c509bbacd472",
+    "idDestino": "60923bbf-a88e-4393-aeea-d340a34d55da"
+  },
+  {
+    "codigo": 472,
+    "tipo": 98,
+    "peso": 78638,
+    "idOrigen": "26343d24-6b7d-4aed-8d98-4a5cfb90e481",
+    "idDestino": "7b607d38-0477-45b8-b1d9-f471e8b36fee"
+  },
+  {
+    "codigo": 996,
+    "tipo": 71,
+    "peso": 2851,
+    "idOrigen": "8492abd0-567b-46ad-9f02-640ef6537b60",
+    "idDestino": "00d0703d-5930-41e5-91c6-e167d5f25933"
+  },
+  {
+    "codigo": 556,
+    "tipo": 47,
+    "peso": 532,
+    "idOrigen": "7f0545a2-9d76-448e-9c25-0db3f6cc65a5",
+    "idDestino": "8d6b7d8b-f932-4707-b9b5-215443651849"
+  },
+  {
+    "codigo": 797,
+    "tipo": 30,
+    "peso": 41238,
+    "idOrigen": "8a53c30b-61e5-4e33-b1fe-b4c42675bf62",
+    "idDestino": "9a83030a-e21e-43ec-bf4b-bea497ce6456"
+  },
+  {
+    "codigo": 377,
+    "tipo": 74,
+    "peso": 97712,
+    "idOrigen": "858f64bc-727a-40ac-b937-26339ea92f74",
+    "idDestino": "6d44b1ff-9213-457c-850b-147a45b0b56a"
+  },
+  {
+    "codigo": 610,
+    "tipo": 71,
+    "peso": 94133,
+    "idOrigen": "cd274d43-9eb3-45a1-9e11-e2d66651b2e7",
+    "idDestino": "e2f36768-4928-473f-815b-dca137ab9a0a"
+  },
+  {
+    "codigo": 147,
+    "tipo": 78,
+    "peso": 41852,
+    "idOrigen": "891f3834-dfd8-485d-8cc5-e2145520de91",
+    "idDestino": "804ab650-c75f-4f89-89ba-e0302c4f9f8f"
+  },
+  {
+    "codigo": 451,
+    "tipo": 45,
+    "peso": 16471,
+    "idOrigen": "07acc05e-35aa-4f5a-88fe-171bff1cc98c",
+    "idDestino": "048cbea9-837d-4731-a8a9-b117a92bb022"
+  },
+  {
+    "codigo": 173,
+    "tipo": 63,
+    "peso": 47662,
+    "idOrigen": "ee04cb7e-6ed8-4448-9c00-b058bb308a0b",
+    "idDestino": "116a619d-4d4c-426e-8a7d-b5b0a7673f35"
+  },
+  {
+    "codigo": 128,
+    "tipo": 76,
+    "peso": 42576,
+    "idOrigen": "ef4e1c3b-5181-47ee-b713-bbe7aae099ea",
+    "idDestino": "b5ebe832-4049-4a0f-bc06-586c529a43dd"
+  },
+  {
+    "codigo": 675,
+    "tipo": 99,
+    "peso": 48354,
+    "idOrigen": "25750671-15ab-4804-b6ac-290aadfc080a",
+    "idDestino": "590111f4-f4f2-472e-b3ed-95a5db9b8449"
+  },
+  {
+    "codigo": 699,
+    "tipo": 52,
+    "peso": 79637,
+    "idOrigen": "c2a0f7b4-5fce-441d-9613-89822709fd46",
+    "idDestino": "7b4c0ec3-1f03-4f42-a968-76bcae37a649"
+  },
+  {
+    "codigo": 430,
+    "tipo": 67,
+    "peso": 20920,
+    "idOrigen": "73d4c2fa-3bac-4205-a387-b248dde27bab",
+    "idDestino": "3d0cc874-27d9-475d-a1b6-213243744207"
+  },
+  {
+    "codigo": 159,
+    "tipo": 64,
+    "peso": 7116,
+    "idOrigen": "c3d7d9b3-33b6-4ea1-9be5-efc4a07ea4d3",
+    "idDestino": "56e7c74c-c44a-406e-b605-ec72e8516000"
+  },
+  {
+    "codigo": 448,
+    "tipo": 54,
+    "peso": 47692,
+    "idOrigen": "2d889000-94a5-42c2-8340-bf1f80e301d2",
+    "idDestino": "e02233fd-60f4-4b25-be5a-2a75489a339f"
+  },
+  {
+    "codigo": 976,
+    "tipo": 97,
+    "peso": 7078,
+    "idOrigen": "54d5deb5-7e0a-4314-a148-c579be518d95",
+    "idDestino": "aed7b4fb-0200-4f3a-a259-772a8a643f5e"
+  },
+  {
+    "codigo": 575,
+    "tipo": 44,
+    "peso": 82083,
+    "idOrigen": "df7a71d8-60ed-42c4-b5a2-85a8d7346cc5",
+    "idDestino": "ea0a0223-82c6-4295-a2c7-983828f538e2"
+  },
+  {
+    "codigo": 140,
+    "tipo": 51,
+    "peso": 89693,
+    "idOrigen": "2aedf9d0-4a1b-40ec-ac92-037c1cdaae36",
+    "idDestino": "33dd9ba3-5fbf-40d8-8c4b-30f6d5d8a14c"
+  },
+  {
+    "codigo": 609,
+    "tipo": 85,
+    "peso": 7341,
+    "idOrigen": "df342647-0dd5-4bb8-be32-1e7453351cfd",
+    "idDestino": "d6b51736-5e58-4e0e-8886-5414b493fbc1"
+  },
+  {
+    "codigo": 515,
+    "tipo": 95,
+    "peso": 59026,
+    "idOrigen": "d6239a4b-2d11-4b33-b7f6-5f65ee98dc22",
+    "idDestino": "4ff61828-4f46-44d1-af7a-9f9769b1bd4d"
+  },
+  {
+    "codigo": 414,
+    "tipo": 20,
+    "peso": 66440,
+    "idOrigen": "07b847d7-be18-4ce1-8a21-1a4ec3e58b44",
+    "idDestino": "0d057d77-041e-48b7-b90d-944177668b2d"
+  },
+  {
+    "codigo": 887,
+    "tipo": 73,
+    "peso": 90591,
+    "idOrigen": "2426e18a-a8cb-4381-a472-3565cff0a1ce",
+    "idDestino": "6e6f0fca-0e8c-44ea-8074-e9d1fcccbe2a"
+  },
+  {
+    "codigo": 201,
+    "tipo": 1,
+    "peso": 54526,
+    "idOrigen": "07beca76-7501-40be-9c4b-40cb63f249b8",
+    "idDestino": "906970a1-f28e-4a27-858a-72c545c2b3f4"
+  },
+  {
+    "codigo": 815,
+    "tipo": 45,
+    "peso": 96527,
+    "idOrigen": "ec621fd4-093e-4c60-8406-d2948c7fab6a",
+    "idDestino": "cab10054-17c2-4955-b619-439afbd0d329"
+  },
+  {
+    "codigo": 925,
+    "tipo": 84,
+    "peso": 68202,
+    "idOrigen": "5aa7632c-d59a-4c77-83ca-b74fd652bcf1",
+    "idDestino": "2e52efc1-8ebe-44f6-a0a7-648b94b5e77d"
+  },
+  {
+    "codigo": 535,
+    "tipo": 59,
+    "peso": 56951,
+    "idOrigen": "87181fb3-a79e-4d1e-9803-48337cb70762",
+    "idDestino": "b1f37e93-64f0-4dc2-9c2b-5f447d23574b"
+  },
+  {
+    "codigo": 206,
+    "tipo": 83,
+    "peso": 90214,
+    "idOrigen": "36b97e1b-0833-4312-aaff-ec85b53a4461",
+    "idDestino": "b7e05993-458a-4e1d-8cc5-60c0ce6415ed"
+  },
+  {
+    "codigo": 361,
+    "tipo": 82,
+    "peso": 68232,
+    "idOrigen": "f7c6a49f-b576-4e10-bb96-2434f5cca247",
+    "idDestino": "07613bd5-dfae-42cd-8361-2d3226d7e254"
+  },
+  {
+    "codigo": 135,
+    "tipo": 81,
+    "peso": 91647,
+    "idOrigen": "b9b5a53a-8057-4e00-8d01-87d23f30c1fb",
+    "idDestino": "eef20eb8-f0db-4c6f-ad52-793549145469"
+  },
+  {
+    "codigo": 356,
+    "tipo": 44,
+    "peso": 31280,
+    "idOrigen": "891933ba-47ae-4c7f-834c-19e3077f2665",
+    "idDestino": "6ed5b2a4-819b-4546-9fd1-577729e3a7ac"
+  },
+  {
+    "codigo": 472,
+    "tipo": 90,
+    "peso": 6912,
+    "idOrigen": "433e6755-4fad-4c92-8c72-77a5e6d82743",
+    "idDestino": "61ce247b-854f-412c-b0eb-0dd9443d5979"
+  },
+  {
+    "codigo": 377,
+    "tipo": 6,
+    "peso": 15790,
+    "idOrigen": "8b4c46d4-77cb-4a0f-b640-b70e7a8e8a97",
+    "idDestino": "729c37f3-7f58-427b-b7f8-d87fca8df680"
+  },
+  {
+    "codigo": 236,
+    "tipo": 6,
+    "peso": 65237,
+    "idOrigen": "e0bfac93-5596-4f2a-acd6-ae2e3ce70f1a",
+    "idDestino": "90d117be-8227-4420-9431-2e92a883ef39"
+  },
+  {
+    "codigo": 885,
+    "tipo": 32,
+    "peso": 88793,
+    "idOrigen": "938fb95e-294b-4484-bff4-d8e61af178d2",
+    "idDestino": "02c6c346-4aed-4ff4-9c78-dcd63b3f15bf"
+  },
+  {
+    "codigo": 868,
+    "tipo": 5,
+    "peso": 66552,
+    "idOrigen": "6f46ef6d-2499-4c76-87ec-84185ffc7b05",
+    "idDestino": "51d6e0f9-d86f-441f-aeb3-8aa9228d8fb5"
+  },
+  {
+    "codigo": 997,
+    "tipo": 48,
+    "peso": 49230,
+    "idOrigen": "c7a0f7d1-0ad0-436b-92fb-f2912e56eef2",
+    "idDestino": "37664493-9335-4b29-876e-dba88e17ef22"
+  },
+  {
+    "codigo": 356,
+    "tipo": 33,
+    "peso": 98497,
+    "idOrigen": "a02e79c6-1d9b-4402-bd83-3d2dd595a377",
+    "idDestino": "0e8d8092-1399-4e3e-ab1f-ba2ddbf02a03"
+  },
+  {
+    "codigo": 390,
+    "tipo": 77,
+    "peso": 15271,
+    "idOrigen": "25aba92f-774c-41a4-9bbb-6331a833d963",
+    "idDestino": "b57ad34b-048d-400c-8140-d6e779ffe3d7"
+  },
+  {
+    "codigo": 381,
+    "tipo": 82,
+    "peso": 35228,
+    "idOrigen": "44835529-5911-4f91-8bf1-2118e2af7573",
+    "idDestino": "8c19ff43-4cba-4c56-9839-e6a0f96b08ce"
+  },
+  {
+    "codigo": 625,
+    "tipo": 73,
+    "peso": 71441,
+    "idOrigen": "a5fcf97e-cd92-4a26-9da8-32dbf9c1ce74",
+    "idDestino": "c2f76a66-0aee-43c1-895f-f93ae3a775ed"
+  },
+  {
+    "codigo": 995,
+    "tipo": 88,
+    "peso": 99411,
+    "idOrigen": "cedeeda7-63b6-4920-b1bb-121ddb599e56",
+    "idDestino": "e43e85ab-04ec-472a-99ab-c0e898134568"
+  },
+  {
+    "codigo": 842,
+    "tipo": 55,
+    "peso": 77268,
+    "idOrigen": "81fac440-da62-46f0-b13c-70119f589b30",
+    "idDestino": "1a910b4f-42a9-4f0b-aba6-bec16e7e6222"
+  },
+  {
+    "codigo": 583,
+    "tipo": 84,
+    "peso": 60775,
+    "idOrigen": "af6157d9-9ad6-47e8-a95c-9dff4c8a80d4",
+    "idDestino": "23fdce68-849c-44b3-bfb6-0165de3a5b3f"
+  },
+  {
+    "codigo": 321,
+    "tipo": 57,
+    "peso": 99042,
+    "idOrigen": "11ab2eee-4b5e-491e-a3f6-6d88b1d9db76",
+    "idDestino": "5c847b92-1f1c-4951-b585-7fa3ffbe5588"
+  },
+  {
+    "codigo": 444,
+    "tipo": 35,
+    "peso": 68639,
+    "idOrigen": "a82c132f-42de-41a0-bf0c-f4189bc16297",
+    "idDestino": "68fb0659-9298-470a-ba66-185071a16c27"
+  },
+  {
+    "codigo": 326,
+    "tipo": 73,
+    "peso": 29178,
+    "idOrigen": "254f6da1-c28f-4453-9df3-00972c94465c",
+    "idDestino": "4a142af7-b090-411b-80da-462b4815fc70"
+  },
+  {
+    "codigo": 888,
+    "tipo": 1,
+    "peso": 64309,
+    "idOrigen": "0caac4b4-b8ac-43a5-b302-1bdeb9f73e21",
+    "idDestino": "03ac3b67-a2f7-4311-a639-22dfab9685a5"
+  },
+  {
+    "codigo": 679,
+    "tipo": 44,
+    "peso": 47532,
+    "idOrigen": "f7210ead-231b-41b3-8b38-acf58d873e2b",
+    "idDestino": "89037627-8662-4c74-94d8-056c461d172b"
+  },
+  {
+    "codigo": 432,
+    "tipo": 69,
+    "peso": 6692,
+    "idOrigen": "e1b0f8aa-ef1c-4d3b-a790-c320ca4c2ef9",
+    "idDestino": "7684a4d5-bbef-4814-be35-556c59759859"
+  },
+  {
+    "codigo": 965,
+    "tipo": 40,
+    "peso": 52192,
+    "idOrigen": "b5c09e92-1466-43c2-9313-2b34eafa3513",
+    "idDestino": "a4c6700a-9398-4d3b-acdd-f623f97e224f"
+  },
+  {
+    "codigo": 434,
+    "tipo": 93,
+    "peso": 49097,
+    "idOrigen": "f333e59c-091b-4c8c-a43b-6e28866c999b",
+    "idDestino": "66182d78-2988-4a7b-be8e-65bdd06c7347"
+  },
+  {
+    "codigo": 118,
+    "tipo": 98,
+    "peso": 827,
+    "idOrigen": "06818f63-8190-4294-93e2-c7753ac24419",
+    "idDestino": "9009ad99-1208-4084-b398-eebda85230a6"
+  },
+  {
+    "codigo": 206,
+    "tipo": 69,
+    "peso": 53943,
+    "idOrigen": "3d74e5ce-5309-458b-ad14-f83084233fb0",
+    "idDestino": "56f35ccd-218e-48b7-853b-f9f610c5e419"
+  },
+  {
+    "codigo": 519,
+    "tipo": 43,
+    "peso": 69851,
+    "idOrigen": "e945bcf0-2462-43d5-936c-e876f34e4910",
+    "idDestino": "c01e3b67-1487-44ab-9bb5-ccd1ef43ab92"
+  },
+  {
+    "codigo": 880,
+    "tipo": 20,
+    "peso": 95338,
+    "idOrigen": "b821d676-bc68-42fa-9632-a7099de8de35",
+    "idDestino": "05911d57-d6a9-4985-b726-dff76da76251"
+  },
+  {
+    "codigo": 475,
+    "tipo": 1,
+    "peso": 34688,
+    "idOrigen": "6d5227a1-fedb-48c5-a257-7cb28815117d",
+    "idDestino": "3f6bbde8-4dab-4760-beb2-be94d1eb0293"
+  },
+  {
+    "codigo": 895,
+    "tipo": 83,
+    "peso": 6502,
+    "idOrigen": "89a634ab-7403-4ac7-a93f-6ff78a9ef3a9",
+    "idDestino": "f7f0ade7-4cb9-4efa-ad1d-2bb81c07e53b"
+  },
+  {
+    "codigo": 313,
+    "tipo": 76,
+    "peso": 89787,
+    "idOrigen": "e33f9c9a-b40a-4812-84b2-f9c3dd1b688d",
+    "idDestino": "82f7fb6b-7a0c-4cb1-9bb1-c24a9f7dce58"
+  },
+  {
+    "codigo": 968,
+    "tipo": 13,
+    "peso": 73348,
+    "idOrigen": "e688ae28-c05c-4eca-a702-51d3d51ba255",
+    "idDestino": "f9e3190e-988d-4f4a-9a1c-1257671fafb7"
+  },
+  {
+    "codigo": 552,
+    "tipo": 63,
+    "peso": 88623,
+    "idOrigen": "dc8f0a54-48c3-49ab-a165-3c540ab31e67",
+    "idDestino": "90904731-c91e-46bc-bae4-ca08d08693d0"
+  },
+  {
+    "codigo": 367,
+    "tipo": 96,
+    "peso": 67775,
+    "idOrigen": "66e98102-ee9d-4d67-9958-1d32eb7a51bb",
+    "idDestino": "c1d5082a-4832-4453-9d1b-cca71b0a4e39"
+  },
+  {
+    "codigo": 962,
+    "tipo": 17,
+    "peso": 43669,
+    "idOrigen": "3a84c40f-9124-497f-af69-a6004cc25d7d",
+    "idDestino": "ff334d16-f2cd-474a-a24b-c18f8aa02879"
+  },
+  {
+    "codigo": 586,
+    "tipo": 42,
+    "peso": 54680,
+    "idOrigen": "98fb2c4a-81ac-46ca-a45f-c6cabe227203",
+    "idDestino": "40aa15d1-c139-42cd-842e-b18cc1088e34"
+  },
+  {
+    "codigo": 608,
+    "tipo": 67,
+    "peso": 50445,
+    "idOrigen": "43cf1826-443f-43ca-bccb-7b70b71d232c",
+    "idDestino": "07ff7034-fda8-44fb-8410-ebfb9093d49e"
+  },
+  {
+    "codigo": 373,
+    "tipo": 72,
+    "peso": 51847,
+    "idOrigen": "107d18ab-12d3-4ffb-ad62-1b88e3afb038",
+    "idDestino": "389e4bfe-4fff-4ba4-8aed-762faf552772"
+  },
+  {
+    "codigo": 981,
+    "tipo": 53,
+    "peso": 89829,
+    "idOrigen": "3f7cd577-c3b2-4f29-9699-a976ad19c5b2",
+    "idDestino": "895b9968-4ee7-4129-a5c4-dee8ef77f1f6"
+  },
+  {
+    "codigo": 112,
+    "tipo": 91,
+    "peso": 99890,
+    "idOrigen": "bf99405b-c923-4633-8ff8-79c6afc491a2",
+    "idDestino": "15971dd7-bc1e-4684-8fb4-a9d9c72e4acc"
+  },
+  {
+    "codigo": 571,
+    "tipo": 38,
+    "peso": 74043,
+    "idOrigen": "2dfec8d7-d51c-4287-a488-a99e15193b80",
+    "idDestino": "fb339c20-2e94-4306-a02d-78ae345bbde8"
+  },
+  {
+    "codigo": 904,
+    "tipo": 20,
+    "peso": 97902,
+    "idOrigen": "28b7026e-2f98-4b30-8641-04513441c3de",
+    "idDestino": "15431bce-00a3-44c3-85cb-75b9fe4070d6"
+  },
+  {
+    "codigo": 542,
+    "tipo": 20,
+    "peso": 25160,
+    "idOrigen": "8132a87f-3f73-4b31-9978-05d543529585",
+    "idDestino": "4745ef89-d280-4281-b251-33ff06811131"
+  },
+  {
+    "codigo": 238,
+    "tipo": 99,
+    "peso": 39802,
+    "idOrigen": "b2d75675-3637-44aa-844b-2138e5fe1a67",
+    "idDestino": "34f70e39-dba6-46fc-bc25-94d1cb31626d"
+  },
+  {
+    "codigo": 826,
+    "tipo": 30,
+    "peso": 5914,
+    "idOrigen": "922283ba-f1b2-479e-a172-55f2ae093ea5",
+    "idDestino": "8531b92a-3149-491d-be4f-5b6126844e49"
+  },
+  {
+    "codigo": 136,
+    "tipo": 33,
+    "peso": 80537,
+    "idOrigen": "d23d5262-cf2e-485f-8522-b05c9d1587aa",
+    "idDestino": "827bd895-e87f-4265-94a3-683e8789945b"
+  },
+  {
+    "codigo": 712,
+    "tipo": 40,
+    "peso": 38583,
+    "idOrigen": "755cff6b-2c60-4d48-807a-61de0215522b",
+    "idDestino": "bac46da9-b81b-4038-897c-5d30c2058588"
+  },
+  {
+    "codigo": 680,
+    "tipo": 84,
+    "peso": 45527,
+    "idOrigen": "5a0a642d-36b5-417e-b6ac-860c85528013",
+    "idDestino": "6abc4b4d-a6d5-43fd-b98f-e610b07374bb"
+  },
+  {
+    "codigo": 324,
+    "tipo": 20,
+    "peso": 75703,
+    "idOrigen": "6f7c04a3-7cba-469a-8d79-66f05159a590",
+    "idDestino": "70995438-4926-4ed8-a64b-b149a250dbd7"
+  },
+  {
+    "codigo": 597,
+    "tipo": 5,
+    "peso": 90000,
+    "idOrigen": "7a06995a-20b6-4ac7-8f1c-33b35d4c05c2",
+    "idDestino": "74974c32-d41e-4f9d-8dc9-93e95ab13e08"
+  },
+  {
+    "codigo": 980,
+    "tipo": 55,
+    "peso": 44945,
+    "idOrigen": "c1328b63-405f-4f26-b5e8-629d0f44b5d7",
+    "idDestino": "d95c5c64-659f-48c6-86cc-fe51ebf10ec3"
+  },
+  {
+    "codigo": 649,
+    "tipo": 88,
+    "peso": 99466,
+    "idOrigen": "940a4711-8929-425d-90de-7226fbbeeae2",
+    "idDestino": "41109057-f19c-4b2e-9019-c1f7728db708"
+  },
+  {
+    "codigo": 845,
+    "tipo": 9,
+    "peso": 93464,
+    "idOrigen": "5a730928-10ca-4052-b884-098086977a6e",
+    "idDestino": "2fd92c20-c7a0-4823-89e0-677aea260408"
+  },
+  {
+    "codigo": 700,
+    "tipo": 8,
+    "peso": 42858,
+    "idOrigen": "e2839648-f49b-4a6f-8efc-62b0c342974d",
+    "idDestino": "1ad793ed-15ff-42cc-90e4-b45be640b83e"
+  },
+  {
+    "codigo": 616,
+    "tipo": 70,
+    "peso": 89355,
+    "idOrigen": "45c07f89-793d-4bdb-a0e6-d4fdf67d8948",
+    "idDestino": "42ad2e78-4eaf-4aad-89dc-bfc2d61c370a"
+  },
+  {
+    "codigo": 327,
+    "tipo": 53,
+    "peso": 41295,
+    "idOrigen": "64531554-9e90-4618-8b82-adae05c7cb9d",
+    "idDestino": "6b2f165e-2b4f-4415-8aed-14291a937100"
+  },
+  {
+    "codigo": 655,
+    "tipo": 65,
+    "peso": 71706,
+    "idOrigen": "e5c1c283-0bf7-496c-b98e-b9af95095da1",
+    "idDestino": "6a857d35-9f37-42a8-b146-10039165e338"
+  },
+  {
+    "codigo": 610,
+    "tipo": 16,
+    "peso": 81994,
+    "idOrigen": "4b256ef7-6eeb-41c2-baa1-231875bb0782",
+    "idDestino": "9c766d6e-bf6d-4bda-b7e0-b719562c63e3"
+  },
+  {
+    "codigo": 115,
+    "tipo": 59,
+    "peso": 75786,
+    "idOrigen": "6e10eebd-7ce7-4872-a5b9-99634e413d91",
+    "idDestino": "aa7b1fa6-a3bc-408d-a413-3d06fa1e80cd"
+  },
+  {
+    "codigo": 974,
+    "tipo": 26,
+    "peso": 81716,
+    "idOrigen": "dad36e38-4f66-43ca-a007-015e66c088eb",
+    "idDestino": "1e76d688-5790-4d88-8e6e-e8d56e96050f"
+  },
+  {
+    "codigo": 957,
+    "tipo": 49,
+    "peso": 16879,
+    "idOrigen": "4a7c2115-0890-4688-9d55-b1c1ae98ebdb",
+    "idDestino": "f6b41bda-77f6-4fc5-8bd8-2c5433e000a2"
+  },
+  {
+    "codigo": 442,
+    "tipo": 70,
+    "peso": 31900,
+    "idOrigen": "9d5ee768-b25b-4338-8c18-2d4ee3b4dd34",
+    "idDestino": "96dca00b-eb5f-412a-b864-d861c1c0c903"
+  },
+  {
+    "codigo": 643,
+    "tipo": 67,
+    "peso": 86853,
+    "idOrigen": "e7a74113-1e91-4fca-b04f-a775b60b05b3",
+    "idDestino": "8d3851ce-19dd-41aa-8013-f9aed3bacc5e"
+  },
+  {
+    "codigo": 306,
+    "tipo": 7,
+    "peso": 700,
+    "idOrigen": "a2a68176-6369-45ed-bc16-50ef6b29de29",
+    "idDestino": "8cca80de-2e00-46ed-81a8-8b08323524d7"
+  },
+  {
+    "codigo": 785,
+    "tipo": 2,
+    "peso": 61617,
+    "idOrigen": "f690c0f1-8078-4474-b1ac-e3cc84edc43f",
+    "idDestino": "05cba571-b444-4ef1-90f9-e0e265798c84"
+  },
+  {
+    "codigo": 298,
+    "tipo": 71,
+    "peso": 4441,
+    "idOrigen": "3bf06e5e-bfa4-4cc7-bee5-c79e09ac383f",
+    "idDestino": "cb6e2d95-636d-4f44-9660-79c88db35b23"
+  },
+  {
+    "codigo": 868,
+    "tipo": 72,
+    "peso": 68491,
+    "idOrigen": "a2d2e6f0-3eea-40c4-a6fa-cf6cca217b54",
+    "idDestino": "032afa74-85fa-47da-a97d-9b8c32a6df34"
+  },
+  {
+    "codigo": 876,
+    "tipo": 13,
+    "peso": 50000,
+    "idOrigen": "b5886753-02d9-4d81-abb7-7b41cf4c9a81",
+    "idDestino": "bc949806-ae39-44be-afba-e3b88bf3fedf"
+  },
+  {
+    "codigo": 443,
+    "tipo": 12,
+    "peso": 45690,
+    "idOrigen": "158a58bd-5c55-4d1d-bc10-811b235d3436",
+    "idDestino": "c5cc5d10-4fc8-4e1f-9c4d-50c9cdd7debc"
+  },
+  {
+    "codigo": 912,
+    "tipo": 4,
+    "peso": 6323,
+    "idOrigen": "f2a58db9-05a9-4e5d-a57c-42349294be25",
+    "idDestino": "dfb8694e-9189-4321-9204-8f226fcf7920"
+  },
+  {
+    "codigo": 409,
+    "tipo": 49,
+    "peso": 59888,
+    "idOrigen": "c5619e9a-a930-4e45-a203-45f3d7b75091",
+    "idDestino": "5f1dfa8b-d0c7-491e-a0e5-768444631e87"
+  },
+  {
+    "codigo": 189,
+    "tipo": 27,
+    "peso": 40601,
+    "idOrigen": "e2ff8637-c2c4-439e-855e-c52efcc0d893",
+    "idDestino": "852e35c1-b147-4167-9148-bfc5ba108466"
+  },
+  {
+    "codigo": 649,
+    "tipo": 62,
+    "peso": 34967,
+    "idOrigen": "062f4d54-cc8b-4868-92a8-ede9630cd921",
+    "idDestino": "d9090316-7499-4b2a-bba4-547ee2a9caad"
+  },
+  {
+    "codigo": 432,
+    "tipo": 93,
+    "peso": 57960,
+    "idOrigen": "5935f817-a694-4b1d-a66c-2891872d5ff5",
+    "idDestino": "756976c6-0e8b-47cf-8df6-bffd24bfb387"
+  },
+  {
+    "codigo": 169,
+    "tipo": 91,
+    "peso": 28106,
+    "idOrigen": "3f03d7dc-982f-48ac-a976-27ebd88a51d9",
+    "idDestino": "41444e18-5879-46c6-b522-2ebabf4dc6e0"
+  },
+  {
+    "codigo": 611,
+    "tipo": 35,
+    "peso": 60747,
+    "idOrigen": "13345047-33c3-4a77-b979-b991fabb8fe8",
+    "idDestino": "7a52f394-b220-460c-896a-26d71cf45e6a"
+  },
+  {
+    "codigo": 139,
+    "tipo": 3,
+    "peso": 55277,
+    "idOrigen": "a4e9da8f-2a12-43e5-b8ae-27372a688a85",
+    "idDestino": "4085da0e-4b37-4826-a1d4-033a44eae109"
+  },
+  {
+    "codigo": 304,
+    "tipo": 59,
+    "peso": 83308,
+    "idOrigen": "32bfc56d-a15a-41a2-b60b-f86daf10d7de",
+    "idDestino": "b94932e2-012b-4657-ae2f-1fc846d974e2"
+  },
+  {
+    "codigo": 202,
+    "tipo": 22,
+    "peso": 52274,
+    "idOrigen": "254ea3c7-7a5d-4000-a1cf-c06314ed2831",
+    "idDestino": "414aee91-1f18-4f4b-bb28-42d0a5442ad7"
+  },
+  {
+    "codigo": 125,
+    "tipo": 92,
+    "peso": 39209,
+    "idOrigen": "f2125f58-8385-470a-a2b5-413cdb3d9fb3",
+    "idDestino": "53409228-d0f0-4f63-9346-e06127802b69"
+  },
+  {
+    "codigo": 215,
+    "tipo": 25,
+    "peso": 62439,
+    "idOrigen": "38f8d3ef-e386-44d0-9d15-5dfe0e9aa839",
+    "idDestino": "3c82483b-68d4-4c1e-a940-355129de2db7"
+  },
+  {
+    "codigo": 269,
+    "tipo": 74,
+    "peso": 54182,
+    "idOrigen": "263dbb55-2cd6-4e2f-992f-64f0ea2eea40",
+    "idDestino": "b1320d9e-e9e3-47f7-9afb-76c5e9690c53"
+  },
+  {
+    "codigo": 194,
+    "tipo": 18,
+    "peso": 96758,
+    "idOrigen": "7f1d18b2-51e9-4f0a-932c-735e1742fcf1",
+    "idDestino": "90f41e84-d47a-437c-bde1-89e7df2a9446"
+  },
+  {
+    "codigo": 481,
+    "tipo": 74,
+    "peso": 34854,
+    "idOrigen": "538899a9-f5ee-458e-99df-7d3572d0419c",
+    "idDestino": "8440aadd-a9da-4a8b-b8f7-d59529725d1f"
+  },
+  {
+    "codigo": 559,
+    "tipo": 9,
+    "peso": 97804,
+    "idOrigen": "53f2ea93-760d-40f4-a59a-4b8983abed15",
+    "idDestino": "82a32026-c1df-4ff7-90a8-476796c27ec0"
+  },
+  {
+    "codigo": 132,
+    "tipo": 54,
+    "peso": 23051,
+    "idOrigen": "c39f64b8-d438-459e-bc9e-f13a2bff505a",
+    "idDestino": "6273ad16-df74-40bd-8ae9-558b11d8d425"
+  },
+  {
+    "codigo": 308,
+    "tipo": 81,
+    "peso": 53290,
+    "idOrigen": "8ebbe2ef-fd83-4e3b-b820-00c6906847b7",
+    "idDestino": "1741ecdb-f608-48a6-a956-bce8f211e40c"
+  },
+  {
+    "codigo": 202,
+    "tipo": 64,
+    "peso": 58374,
+    "idOrigen": "95da7db8-1ed5-4ede-9476-004c3bb4f08b",
+    "idDestino": "b8853430-95d6-42b5-85d7-27daa7404d97"
+  },
+  {
+    "codigo": 501,
+    "tipo": 61,
+    "peso": 32940,
+    "idOrigen": "3a993ec8-2513-470b-8daf-ede0cdd2e578",
+    "idDestino": "4466f202-7494-483c-bfd5-bf179b56ccfc"
+  },
+  {
+    "codigo": 577,
+    "tipo": 24,
+    "peso": 48447,
+    "idOrigen": "e6a0e58b-6379-44db-8edd-bab0fc98b340",
+    "idDestino": "69f40b3a-91fa-499c-aa21-4dc4f2153d5d"
+  },
+  {
+    "codigo": 601,
+    "tipo": 21,
+    "peso": 2639,
+    "idOrigen": "b246c83f-9d88-4f91-9643-54758205c666",
+    "idDestino": "6fa13ce2-d082-4518-9c07-b5a2903714e5"
+  },
+  {
+    "codigo": 582,
+    "tipo": 85,
+    "peso": 6506,
+    "idOrigen": "d6dcec3f-d38b-4037-aa23-ccd59ea81c2d",
+    "idDestino": "f2fd4b60-4a86-49a4-bb19-a56f3cfd41de"
+  },
+  {
+    "codigo": 451,
+    "tipo": 36,
+    "peso": 64734,
+    "idOrigen": "ef619dcd-debb-4c9a-aa5f-7dc882f3d3de",
+    "idDestino": "cf076b13-b90b-417f-9994-d147cf02048c"
+  },
+  {
+    "codigo": 570,
+    "tipo": 51,
+    "peso": 1300,
+    "idOrigen": "f5dd4b18-4f4e-4e2b-8291-a3daa95ef24d",
+    "idDestino": "ef4ae175-6156-41b3-99a3-2e232ea7deb2"
+  },
+  {
+    "codigo": 437,
+    "tipo": 77,
+    "peso": 24667,
+    "idOrigen": "b5c8c6a5-0d57-4261-913e-308c0888d4ed",
+    "idDestino": "42f9fd78-82d4-4c13-a806-cefb312665bb"
+  },
+  {
+    "codigo": 838,
+    "tipo": 68,
+    "peso": 63783,
+    "idOrigen": "5b6986ed-d308-4f46-b6b3-39e51edc8fbc",
+    "idDestino": "827642b2-4f7a-43ae-9e06-a80fdea92889"
+  },
+  {
+    "codigo": 305,
+    "tipo": 2,
+    "peso": 63612,
+    "idOrigen": "c49c2e2c-c3fc-4a2f-acb8-9257941ab686",
+    "idDestino": "f73ab4a7-e2e9-446f-8be4-1d37f3c59b23"
+  },
+  {
+    "codigo": 228,
+    "tipo": 82,
+    "peso": 9794,
+    "idOrigen": "10541098-d391-4551-a80d-fe90785e7987",
+    "idDestino": "e2877d88-363d-43b9-a5d2-5a59ee34144c"
+  },
+  {
+    "codigo": 199,
+    "tipo": 18,
+    "peso": 2791,
+    "idOrigen": "388a9e86-07fa-484e-a726-3ea35f90b2f8",
+    "idDestino": "22649e51-3b24-4ed4-8086-82a54409176c"
+  },
+  {
+    "codigo": 774,
+    "tipo": 96,
+    "peso": 80721,
+    "idOrigen": "8bb8a769-e873-4956-88ee-87f75a83e845",
+    "idDestino": "df7d616e-6e4e-4457-8443-452082229603"
+  },
+  {
+    "codigo": 320,
+    "tipo": 27,
+    "peso": 14908,
+    "idOrigen": "8b34f907-6ba0-42fc-87b4-4803bd257edf",
+    "idDestino": "90769d41-8a18-482a-af9f-e0357ae9e159"
+  },
+  {
+    "codigo": 778,
+    "tipo": 9,
+    "peso": 45398,
+    "idOrigen": "4eb28e85-3b29-4b0c-b635-56b11b85e599",
+    "idDestino": "a3a480cd-5d9c-4721-a954-2b8445bcc0c3"
+  },
+  {
+    "codigo": 580,
+    "tipo": 29,
+    "peso": 56846,
+    "idOrigen": "36c15ec2-7c15-4b9d-8394-e37ac76fd752",
+    "idDestino": "9ebd4af4-dcd1-43b3-b1b2-71db1834c1bb"
+  },
+  {
+    "codigo": 401,
+    "tipo": 52,
+    "peso": 30810,
+    "idOrigen": "e03982f7-119d-44a9-90a8-6933c89c0d62",
+    "idDestino": "00308e1d-0f3e-4bee-8d8a-dd39e46005a2"
+  },
+  {
+    "codigo": 788,
+    "tipo": 38,
+    "peso": 77184,
+    "idOrigen": "eb099be1-ccd2-40e9-925e-f1525c419065",
+    "idDestino": "d3fbfc24-4186-49eb-9fd7-38c34e450be5"
+  },
+  {
+    "codigo": 619,
+    "tipo": 89,
+    "peso": 15695,
+    "idOrigen": "5d54be26-9e5a-4e9a-87f1-553bb120f650",
+    "idDestino": "4c401d37-2b88-4378-b06e-e437395fd97a"
+  },
+  {
+    "codigo": 484,
+    "tipo": 85,
+    "peso": 1922,
+    "idOrigen": "57e08043-ba0b-4bf1-bc69-ea09ead5e967",
+    "idDestino": "cba99345-2524-464e-988d-a38867ff1fd2"
+  },
+  {
+    "codigo": 354,
+    "tipo": 25,
+    "peso": 75942,
+    "idOrigen": "988237ee-1c87-480f-acfa-32a6dddc2b4e",
+    "idDestino": "d467f1a8-95b9-4a4e-8a56-00ca53e3555e"
+  },
+  {
+    "codigo": 539,
+    "tipo": 50,
+    "peso": 50587,
+    "idOrigen": "d2943bce-fc9f-4abd-8357-972978ad2ca8",
+    "idDestino": "baf48a9f-13c8-4063-b6ce-33851563d52b"
+  },
+  {
+    "codigo": 237,
+    "tipo": 87,
+    "peso": 94387,
+    "idOrigen": "ae65f729-7ef3-4a72-9636-ca1cee050aa1",
+    "idDestino": "eb115566-9ecc-4f88-8d08-847318ccda3c"
+  },
+  {
+    "codigo": 815,
+    "tipo": 91,
+    "peso": 74486,
+    "idOrigen": "e741e318-30e0-4203-905b-788105c8449e",
+    "idDestino": "fee001e3-735e-44d6-afa4-556a9c3c5e61"
+  },
+  {
+    "codigo": 890,
+    "tipo": 42,
+    "peso": 41145,
+    "idOrigen": "cf9ac5d3-e5ab-4021-ab53-1705cad37cbc",
+    "idDestino": "afb2bb95-d319-47ef-8b10-01f7725043a5"
+  },
+  {
+    "codigo": 559,
+    "tipo": 34,
+    "peso": 91845,
+    "idOrigen": "e9a032d6-7e58-49db-a294-3c1d627e52dc",
+    "idDestino": "f536f941-f7c8-4d98-8195-94e259ab22e2"
+  },
+  {
+    "codigo": 194,
+    "tipo": 49,
+    "peso": 99411,
+    "idOrigen": "89037efd-d903-4942-bdf3-c08b16f8f98e",
+    "idDestino": "80474883-28cb-4860-a467-13c7a389b343"
+  },
+  {
+    "codigo": 238,
+    "tipo": 51,
+    "peso": 54296,
+    "idOrigen": "dc2b3552-c813-4f43-9f51-63dec323a35d",
+    "idDestino": "aae430e9-6bb6-4b42-ac99-2c73266e78e9"
+  },
+  {
+    "codigo": 762,
+    "tipo": 49,
+    "peso": 8438,
+    "idOrigen": "0623fc0c-4203-49eb-ab8e-47221f6c9e67",
+    "idDestino": "e37833c6-d98d-4b9d-8a45-643fccb05c9a"
+  },
+  {
+    "codigo": 698,
+    "tipo": 15,
+    "peso": 55078,
+    "idOrigen": "2862b9bf-cf18-4ccc-be77-e0cd79cc5146",
+    "idDestino": "f7add169-42a7-486e-9e06-ae83a77f9e98"
+  },
+  {
+    "codigo": 399,
+    "tipo": 83,
+    "peso": 42109,
+    "idOrigen": "21b96171-e856-47d7-b843-3c90dfee12f9",
+    "idDestino": "dc37c072-0a9f-466b-9763-731215f749d2"
+  },
+  {
+    "codigo": 135,
+    "tipo": 58,
+    "peso": 82738,
+    "idOrigen": "2e64d3d8-443c-483a-972c-23a77e5a51ba",
+    "idDestino": "e5552ef1-6bf1-4f59-abad-10359bd08d51"
+  },
+  {
+    "codigo": 338,
+    "tipo": 24,
+    "peso": 90053,
+    "idOrigen": "bf8c4838-cbfc-4968-bef9-e7687919e096",
+    "idDestino": "5655a4f1-e95c-4f68-be29-fa3b0e5d76cf"
+  },
+  {
+    "codigo": 549,
+    "tipo": 78,
+    "peso": 45113,
+    "idOrigen": "1c4d6cd2-4cef-4aea-bfc0-f9602e6316bc",
+    "idDestino": "b48521c8-0ad3-4f15-88f3-5cbee81a192d"
+  },
+  {
+    "codigo": 758,
+    "tipo": 72,
+    "peso": 3634,
+    "idOrigen": "51fea3f1-d0fe-4cd6-9eb3-4a601fac8061",
+    "idDestino": "9b6e666f-4073-40dc-9d72-10e7b41d3263"
+  },
+  {
+    "codigo": 156,
+    "tipo": 3,
+    "peso": 43133,
+    "idOrigen": "91695375-f725-44cc-b15c-bb939c3d5a80",
+    "idDestino": "7a2f27ea-6511-4ed5-9b3b-868f95383c47"
+  },
+  {
+    "codigo": 267,
+    "tipo": 20,
+    "peso": 52095,
+    "idOrigen": "5d1017fc-319e-4a0e-bbcc-46b3b7c79ace",
+    "idDestino": "25d00054-af9b-4d23-8d71-a771d7cad2a3"
+  },
+  {
+    "codigo": 516,
+    "tipo": 79,
+    "peso": 29833,
+    "idOrigen": "821250ea-25f8-4766-af0b-ca7f63c11fc3",
+    "idDestino": "2caad12b-fb56-4ab6-a7b6-4150ba4dc1b8"
+  },
+  {
+    "codigo": 782,
+    "tipo": 52,
+    "peso": 88572,
+    "idOrigen": "ebb6e0b6-c534-4753-b5d2-fcd5dd6173e4",
+    "idDestino": "725c84e0-c350-4a9f-8ee2-0be80380f5f5"
+  },
+  {
+    "codigo": 301,
+    "tipo": 86,
+    "peso": 20606,
+    "idOrigen": "dc1a1f60-b35e-42e7-ae94-42ef11d176bb",
+    "idDestino": "b2204298-1ee8-4b83-b4b6-82e75b074eca"
+  },
+  {
+    "codigo": 936,
+    "tipo": 14,
+    "peso": 97145,
+    "idOrigen": "fd36df43-af42-4f56-9a4b-a31146dccf82",
+    "idDestino": "9d36c45a-e02b-4933-b5c3-0434540dac63"
+  },
+  {
+    "codigo": 849,
+    "tipo": 33,
+    "peso": 22734,
+    "idOrigen": "84199095-708b-4b92-8016-7827bc753153",
+    "idDestino": "1ab53fda-1f03-4669-bb13-6d3648f0ab17"
+  },
+  {
+    "codigo": 612,
+    "tipo": 10,
+    "peso": 38947,
+    "idOrigen": "c3a444c3-8131-4125-8bc2-fbaaedf1548b",
+    "idDestino": "b53b71f1-beb5-433f-a53f-20f05b1dc27b"
+  },
+  {
+    "codigo": 464,
+    "tipo": 29,
+    "peso": 5036,
+    "idOrigen": "491fbffa-0e99-4b44-a52b-d221f323f85f",
+    "idDestino": "cf80b72c-b7ed-4bb0-a246-4d5fa7e51f38"
+  },
+  {
+    "codigo": 729,
+    "tipo": 97,
+    "peso": 47181,
+    "idOrigen": "1a908d56-6375-4145-b6a4-714f5c894a87",
+    "idDestino": "9dc912c8-0693-4998-a1da-d168aeaa1382"
+  },
+  {
+    "codigo": 276,
+    "tipo": 30,
+    "peso": 328,
+    "idOrigen": "800f1877-77c3-4eea-8cc1-d986cfc1648b",
+    "idDestino": "d9611797-c09a-4ab0-b9b7-73e583eb7739"
+  },
+  {
+    "codigo": 335,
+    "tipo": 11,
+    "peso": 78291,
+    "idOrigen": "5add7937-9ea3-4561-90e8-be0b979771fa",
+    "idDestino": "8afa01d0-4801-4823-a565-e1de51f319d7"
+  },
+  {
+    "codigo": 738,
+    "tipo": 36,
+    "peso": 8029,
+    "idOrigen": "9901170e-1581-483f-96ef-cf541084fe68",
+    "idDestino": "03903a70-e2bd-46da-a1b4-0522e629fed6"
+  },
+  {
+    "codigo": 851,
+    "tipo": 45,
+    "peso": 54531,
+    "idOrigen": "068d0355-b823-430c-9570-c072c838f786",
+    "idDestino": "847766f3-a8da-49ab-b6b9-a443a47b575f"
+  },
+  {
+    "codigo": 127,
+    "tipo": 94,
+    "peso": 26068,
+    "idOrigen": "4975083d-c70c-48f9-8bde-8574c57bf326",
+    "idDestino": "9878e214-ee01-45e8-a51a-61f4b14ee438"
+  },
+  {
+    "codigo": 359,
+    "tipo": 58,
+    "peso": 41160,
+    "idOrigen": "61cca08e-d41b-4fc2-be74-102cc3856ebe",
+    "idDestino": "e4a4d49f-8422-4a98-9d78-f4ac567d09ae"
+  },
+  {
+    "codigo": 171,
+    "tipo": 45,
+    "peso": 2544,
+    "idOrigen": "2b098885-1a11-4d05-b9cb-7465c90a4df2",
+    "idDestino": "c1bdc063-46e1-4628-95f2-9d3e44576feb"
+  },
+  {
+    "codigo": 145,
+    "tipo": 8,
+    "peso": 27574,
+    "idOrigen": "a9c058ae-8c66-412e-94e9-6b0301f128d1",
+    "idDestino": "a09173b7-026a-44fd-b661-37800e0559a5"
+  },
+  {
+    "codigo": 449,
+    "tipo": 51,
+    "peso": 47899,
+    "idOrigen": "f1620414-9e16-4369-b9df-b4a3ebd9ea89",
+    "idDestino": "7daad1fb-1168-498e-88fe-ca075b41ec6a"
+  },
+  {
+    "codigo": 596,
+    "tipo": 33,
+    "peso": 10282,
+    "idOrigen": "3f029e2c-fc77-491b-91d0-a38f4df40de8",
+    "idDestino": "cea998dc-dbdf-4c88-b9eb-74cb4dc5c697"
+  },
+  {
+    "codigo": 602,
+    "tipo": 44,
+    "peso": 14078,
+    "idOrigen": "2824320b-7534-4303-a2a3-be0b1120430c",
+    "idDestino": "682c27b4-4827-4b32-a664-fe96cfafe5b9"
+  },
+  {
+    "codigo": 644,
+    "tipo": 78,
+    "peso": 59014,
+    "idOrigen": "6700c3e6-f5e9-4e6a-a4e3-12e11187c3dc",
+    "idDestino": "49bdd462-038a-4491-b3a3-495030aa2c5c"
+  },
+  {
+    "codigo": 351,
+    "tipo": 98,
+    "peso": 80938,
+    "idOrigen": "3e258748-3c79-436a-9feb-429aff468667",
+    "idDestino": "4692f140-cd64-473d-a0d5-48a7e6edc1e5"
+  },
+  {
+    "codigo": 942,
+    "tipo": 93,
+    "peso": 51079,
+    "idOrigen": "92cc5c55-4982-410c-9e17-393bee2da0da",
+    "idDestino": "611e2954-89a5-4b14-aca2-2b340d6b2954"
+  },
+  {
+    "codigo": 501,
+    "tipo": 7,
+    "peso": 66015,
+    "idOrigen": "633373f2-1fe3-43ea-a14c-5be53c236f0e",
+    "idDestino": "860e703e-0bd9-49f9-882e-2413ae29b852"
+  },
+  {
+    "codigo": 435,
+    "tipo": 65,
+    "peso": 63271,
+    "idOrigen": "d1d23d7e-a8d9-482d-93cb-4308ab7f5ebf",
+    "idDestino": "36bfab7f-252a-4584-9c2d-55255aaf1b42"
+  },
+  {
+    "codigo": 974,
+    "tipo": 66,
+    "peso": 3356,
+    "idOrigen": "f6e8676a-b6ce-4ae8-b617-ff6ec5e369a0",
+    "idDestino": "b0b68e93-65e7-438e-a3e9-4564cf80b37f"
+  },
+  {
+    "codigo": 706,
+    "tipo": 99,
+    "peso": 32286,
+    "idOrigen": "32f10377-d78f-4e6a-8ebc-b30041a0448f",
+    "idDestino": "1291f542-24a4-4e1e-926b-306514216a5a"
+  },
+  {
+    "codigo": 835,
+    "tipo": 27,
+    "peso": 76781,
+    "idOrigen": "794f7fb3-a29c-473c-b2a3-1a97aa1f8f20",
+    "idDestino": "b2884311-fe2e-4dfd-9d3b-db7cf9f8e2ff"
+  },
+  {
+    "codigo": 910,
+    "tipo": 45,
+    "peso": 24095,
+    "idOrigen": "f22e7d9d-8d65-48f2-b27d-54d3ee6380a2",
+    "idDestino": "36b16f1e-b54f-4444-9c4f-69dd46742fd9"
+  },
+  {
+    "codigo": 455,
+    "tipo": 17,
+    "peso": 39570,
+    "idOrigen": "b38a0121-66f2-465f-b0f7-826d0d00c6f6",
+    "idDestino": "89628feb-5980-497c-8556-21c441995ed7"
+  },
+  {
+    "codigo": 700,
+    "tipo": 10,
+    "peso": 47420,
+    "idOrigen": "1d39aa31-7264-4f8d-8692-de3474d99bab",
+    "idDestino": "3db27ed3-f885-49a3-85cf-92162ec168fa"
+  },
+  {
+    "codigo": 510,
+    "tipo": 92,
+    "peso": 98884,
+    "idOrigen": "1acb2cd8-1f48-4e9a-a1ba-5f626271c2ae",
+    "idDestino": "b2c725bb-65fb-4927-8859-64921d22527c"
+  },
+  {
+    "codigo": 420,
+    "tipo": 62,
+    "peso": 77655,
+    "idOrigen": "200aad97-77a9-4213-86d0-b693018e63d6",
+    "idDestino": "850301e9-3627-4389-b9b9-fc847f7c92f3"
+  },
+  {
+    "codigo": 892,
+    "tipo": 39,
+    "peso": 41548,
+    "idOrigen": "c8ee46d0-d566-49c0-9580-79d28aa4535c",
+    "idDestino": "48c279a5-b049-4608-a200-60dc9fd095b0"
+  },
+  {
+    "codigo": 455,
+    "tipo": 39,
+    "peso": 54038,
+    "idOrigen": "b0561051-0d46-4d25-bd08-43090fa64542",
+    "idDestino": "414f2fc9-87aa-4a69-b7f4-2a61ec62ca0e"
+  },
+  {
+    "codigo": 925,
+    "tipo": 75,
+    "peso": 40484,
+    "idOrigen": "65bfb9ee-be6a-4510-83a7-e04c63d68826",
+    "idDestino": "f2fde16f-1696-4134-b2be-e0e19809a8f4"
+  },
+  {
+    "codigo": 682,
+    "tipo": 66,
+    "peso": 51824,
+    "idOrigen": "e00772a8-a975-446d-95ac-7a1166c8176a",
+    "idDestino": "4941da18-232a-48b0-ae4b-9bb51b57d412"
+  },
+  {
+    "codigo": 370,
+    "tipo": 6,
+    "peso": 77626,
+    "idOrigen": "baf558d9-e953-479d-8d5c-49f019f798a5",
+    "idDestino": "a6e4557d-cb09-4273-bd6a-9df57c405115"
+  },
+  {
+    "codigo": 550,
+    "tipo": 69,
+    "peso": 7891,
+    "idOrigen": "c9330081-341d-45af-9036-a399a7e49592",
+    "idDestino": "cde202aa-f6ed-4987-b85d-71f790001704"
+  },
+  {
+    "codigo": 689,
+    "tipo": 14,
+    "peso": 62154,
+    "idOrigen": "e80870d5-faae-4e0c-9590-b498291529fb",
+    "idDestino": "2c5f3cd6-bd5b-4693-80d6-69fd88916729"
+  },
+  {
+    "codigo": 239,
+    "tipo": 93,
+    "peso": 4175,
+    "idOrigen": "76935032-485e-4f7a-bbdf-1d99c4f13ed0",
+    "idDestino": "3f1232f7-343e-43a8-89db-30a8bed45681"
+  },
+  {
+    "codigo": 873,
+    "tipo": 94,
+    "peso": 93662,
+    "idOrigen": "43d8db1b-28d7-436f-b112-8a18e6c33efe",
+    "idDestino": "d2ef6153-5979-4f1c-8f96-b1e32610aa8c"
+  },
+  {
+    "codigo": 261,
+    "tipo": 66,
+    "peso": 41176,
+    "idOrigen": "359afa4c-8c6b-4f4a-afad-38b37d0a8e9d",
+    "idDestino": "b868399e-123d-4dd2-95e6-20589e2550e0"
+  },
+  {
+    "codigo": 408,
+    "tipo": 94,
+    "peso": 99000,
+    "idOrigen": "ee9de3b0-f101-4531-a8c5-c0ca4e80cd0b",
+    "idDestino": "b88fec2a-48e6-47d1-91c9-d2a272cc3f20"
+  },
+  {
+    "codigo": 233,
+    "tipo": 53,
+    "peso": 75033,
+    "idOrigen": "b0acaff2-0bdb-485f-902e-a4d3b8da6fe2",
+    "idDestino": "615c5e42-0f19-42b2-b0c9-02635448c57f"
+  },
+  {
+    "codigo": 742,
+    "tipo": 48,
+    "peso": 59960,
+    "idOrigen": "061c80b8-9c75-4898-902d-7e4f46f0b3e3",
+    "idDestino": "f224e19e-943b-4f71-8df8-48ce86b83d5c"
+  },
+  {
+    "codigo": 596,
+    "tipo": 51,
+    "peso": 51539,
+    "idOrigen": "d65311e8-6da2-47a2-8f51-54ae79200c96",
+    "idDestino": "ad38aa23-1f5d-4a92-b526-7944e6cccd55"
+  },
+  {
+    "codigo": 224,
+    "tipo": 66,
+    "peso": 38649,
+    "idOrigen": "2fc84b79-f32a-4841-a815-926d9de11c48",
+    "idDestino": "6abca06c-ce4c-4c33-bab4-51bcded2638a"
+  },
+  {
+    "codigo": 308,
+    "tipo": 17,
+    "peso": 30047,
+    "idOrigen": "60882712-18c3-438a-9ea2-f0351f23fe06",
+    "idDestino": "73010f0e-6711-4da8-a82f-2eb33613c9d4"
+  },
+  {
+    "codigo": 583,
+    "tipo": 5,
+    "peso": 41333,
+    "idOrigen": "8a50662c-cc78-47a4-bf4d-bd180c1299df",
+    "idDestino": "1afe2085-e105-4bf0-a679-277be55bbb03"
+  },
+  {
+    "codigo": 352,
+    "tipo": 80,
+    "peso": 74409,
+    "idOrigen": "6c7563e0-b4c3-4fcd-b433-8a18faca390c",
+    "idDestino": "41cf6fdc-a0d3-49a4-9530-f2900749b055"
+  },
+  {
+    "codigo": 227,
+    "tipo": 65,
+    "peso": 62099,
+    "idOrigen": "d0400bb6-add8-474c-ae8f-ba974f0e72f7",
+    "idDestino": "a60f9be1-db28-422a-bbc9-531541548f79"
+  },
+  {
+    "codigo": 928,
+    "tipo": 40,
+    "peso": 92260,
+    "idOrigen": "7f2ab5e6-0b81-4f74-8075-28043b33eb4a",
+    "idDestino": "a7e53121-86a3-4be4-a13b-09618c0d8aeb"
+  },
+  {
+    "codigo": 198,
+    "tipo": 96,
+    "peso": 29774,
+    "idOrigen": "a00a4ff1-a964-4e94-b7de-57d632c98166",
+    "idDestino": "3d4416cc-1a05-41f9-b410-7b174a4ff644"
+  },
+  {
+    "codigo": 453,
+    "tipo": 3,
+    "peso": 2800,
+    "idOrigen": "e76ae138-1b0d-4e46-af28-6899699c62fb",
+    "idDestino": "f41126bb-4e39-415a-8517-38a57a049519"
+  },
+  {
+    "codigo": 948,
+    "tipo": 44,
+    "peso": 59935,
+    "idOrigen": "370edb53-6242-4d16-aa11-9977df8093da",
+    "idDestino": "3d5ef565-a6bc-4778-bfd7-d923fea167c7"
+  },
+  {
+    "codigo": 794,
+    "tipo": 62,
+    "peso": 88847,
+    "idOrigen": "38ea1c1d-a7d8-4fab-9c6e-610a359fe43b",
+    "idDestino": "49009780-c8e5-45db-8dae-b3d9afb54daf"
+  },
+  {
+    "codigo": 919,
+    "tipo": 85,
+    "peso": 52978,
+    "idOrigen": "c5d6d851-181e-45ab-a616-ccd6762a6075",
+    "idDestino": "901c8533-1102-4441-ab59-b509714a9317"
+  },
+  {
+    "codigo": 205,
+    "tipo": 40,
+    "peso": 40477,
+    "idOrigen": "a30a8a25-3f21-44a3-8ad2-c90e7a584e6c",
+    "idDestino": "fdf33793-d05d-417c-8ba7-bc4ff6af52b0"
+  },
+  {
+    "codigo": 917,
+    "tipo": 3,
+    "peso": 97790,
+    "idOrigen": "93800568-1896-404b-aaab-1a20b3f87f71",
+    "idDestino": "832a05de-3411-47d4-9619-5aabb843f2aa"
+  },
+  {
+    "codigo": 802,
+    "tipo": 25,
+    "peso": 72827,
+    "idOrigen": "b4a1ba02-4d90-4cd8-aa4a-acadb2aa5751",
+    "idDestino": "34749da5-2138-4292-8dcd-00337c081945"
+  },
+  {
+    "codigo": 436,
+    "tipo": 35,
+    "peso": 85290,
+    "idOrigen": "2a1eac45-5938-4375-9a0a-ef208a763ca1",
+    "idDestino": "5357daf9-6043-465f-b0a3-c09b4d346417"
+  },
+  {
+    "codigo": 144,
+    "tipo": 47,
+    "peso": 85100,
+    "idOrigen": "b3faf0a8-4c60-422d-b2bf-a1c4c0c4a071",
+    "idDestino": "3fa73503-4412-4937-8191-a5c2b696545c"
+  },
+  {
+    "codigo": 566,
+    "tipo": 58,
+    "peso": 52661,
+    "idOrigen": "61724f96-eabc-4a31-bb47-122a749a7eba",
+    "idDestino": "d18477c8-d334-443b-b2c4-d4269afe83de"
+  },
+  {
+    "codigo": 716,
+    "tipo": 97,
+    "peso": 91873,
+    "idOrigen": "ddf1112e-8747-4fad-92e7-9f0fe27dc70f",
+    "idDestino": "0ec46c82-01bd-43bd-8874-a22be5486eb3"
+  },
+  {
+    "codigo": 762,
+    "tipo": 80,
+    "peso": 32352,
+    "idOrigen": "b87edd9c-79d8-406a-b687-2b833c6567fb",
+    "idDestino": "c2b37075-4de1-4bff-a5cb-1be6a44a7f60"
+  },
+  {
+    "codigo": 664,
+    "tipo": 9,
+    "peso": 80965,
+    "idOrigen": "60138fe3-7f1f-4668-8d78-49945090dbc4",
+    "idDestino": "8e68e92f-b778-407f-ba10-59dfc9e9a4bb"
+  },
+  {
+    "codigo": 931,
+    "tipo": 61,
+    "peso": 95832,
+    "idOrigen": "712ebcd9-eacd-43ea-b227-d6c09232d897",
+    "idDestino": "f93c6984-6544-41fe-bada-c0396c8f509b"
+  },
+  {
+    "codigo": 567,
+    "tipo": 4,
+    "peso": 94676,
+    "idOrigen": "07a05785-e5e2-419f-8418-12068fc4bbab",
+    "idDestino": "f79198a6-40cc-4364-b589-4c1ec64a169f"
+  },
+  {
+    "codigo": 125,
+    "tipo": 63,
+    "peso": 86656,
+    "idOrigen": "b0414649-f550-46e3-8afa-843614ded566",
+    "idDestino": "8910d594-34d1-438e-9b53-8c93ee07248c"
+  },
+  {
+    "codigo": 940,
+    "tipo": 85,
+    "peso": 93764,
+    "idOrigen": "35d79151-6667-4134-b12a-b33a7c3cb0b0",
+    "idDestino": "6e6a994c-c516-4513-a7d6-cc24c3c49486"
+  },
+  {
+    "codigo": 860,
+    "tipo": 78,
+    "peso": 88462,
+    "idOrigen": "6584a589-e3d7-4e39-96a0-3f8951c3c074",
+    "idDestino": "ce1baec7-7f00-4b32-b10a-05a9bdc6de81"
+  },
+  {
+    "codigo": 863,
+    "tipo": 81,
+    "peso": 37007,
+    "idOrigen": "1d106f80-e471-43e3-9902-996bf5758442",
+    "idDestino": "1ad4c97f-2291-41ae-b074-c9d3c7e091c1"
+  },
+  {
+    "codigo": 763,
+    "tipo": 49,
+    "peso": 20360,
+    "idOrigen": "e952e256-b140-48e4-a3ab-4eb52cd02b28",
+    "idDestino": "3d0e9878-7365-4d04-a0c9-0334fd54bee1"
+  },
+  {
+    "codigo": 339,
+    "tipo": 3,
+    "peso": 94613,
+    "idOrigen": "9e5f172c-21ab-4c40-8ee3-20de5fe53e48",
+    "idDestino": "aee277e6-420e-468b-aacf-aa4cb99dac2e"
+  },
+  {
+    "codigo": 662,
+    "tipo": 74,
+    "peso": 16616,
+    "idOrigen": "540368c1-fe34-4114-949d-4cfccee0a156",
+    "idDestino": "e35f7909-5494-4654-a3b7-b9107fb3c219"
+  },
+  {
+    "codigo": 476,
+    "tipo": 29,
+    "peso": 92067,
+    "idOrigen": "78aa88bd-6edd-4231-ae96-a3547bd32401",
+    "idDestino": "70eabe45-cffb-4a12-9561-deb563234ab9"
+  },
+  {
+    "codigo": 536,
+    "tipo": 8,
+    "peso": 80034,
+    "idOrigen": "19828314-8243-4384-89a6-217a85f47297",
+    "idDestino": "792257ce-5a45-4637-affb-a299e1f7da2f"
+  },
+  {
+    "codigo": 191,
+    "tipo": 96,
+    "peso": 75369,
+    "idOrigen": "035d7888-5fa6-4cc3-9a55-8a350bd1a318",
+    "idDestino": "751b731e-ac75-451b-b556-2b199ed03215"
+  },
+  {
+    "codigo": 340,
+    "tipo": 36,
+    "peso": 64095,
+    "idOrigen": "0cdb9f41-fb0b-4037-9936-75b9fa3b5f05",
+    "idDestino": "9ad278c2-4b05-484b-8c7f-97d405653355"
+  },
+  {
+    "codigo": 165,
+    "tipo": 76,
+    "peso": 52376,
+    "idOrigen": "8b7c93d6-c32a-482e-aef5-ad52821824ac",
+    "idDestino": "9ddc4e4f-5724-4639-a593-fdc0715f7cbe"
+  },
+  {
+    "codigo": 593,
+    "tipo": 85,
+    "peso": 63325,
+    "idOrigen": "174156e7-b449-4633-97b5-e7404702c597",
+    "idDestino": "459836bb-9f2f-4c8b-8345-9ca03dc22c9d"
+  },
+  {
+    "codigo": 478,
+    "tipo": 7,
+    "peso": 40118,
+    "idOrigen": "55f3f9ce-8c58-42f7-9bed-a97e20e6d8d8",
+    "idDestino": "35aa1478-a7ab-463b-b0d1-1115593e857b"
+  },
+  {
+    "codigo": 726,
+    "tipo": 26,
+    "peso": 5897,
+    "idOrigen": "a801825e-7312-47af-a093-19f7ecc52bab",
+    "idDestino": "6a11544d-5ce4-46b0-b38c-f431009f0abf"
+  },
+  {
+    "codigo": 974,
+    "tipo": 51,
+    "peso": 30481,
+    "idOrigen": "7b45f824-b851-40ca-b0d9-05fa05299758",
+    "idDestino": "d16d322d-12e4-479e-81d5-9d351667026c"
+  },
+  {
+    "codigo": 767,
+    "tipo": 23,
+    "peso": 27248,
+    "idOrigen": "7c737cb5-c748-4310-a1bf-a6d8c8157628",
+    "idDestino": "da5351b5-9fee-4fbf-85f5-162a209ee9b7"
+  },
+  {
+    "codigo": 808,
+    "tipo": 69,
+    "peso": 41674,
+    "idOrigen": "4602ffb8-219e-4aaf-afa6-cfe257af7d64",
+    "idDestino": "bfe4a83f-e0e3-401f-9305-89da2310832e"
+  },
+  {
+    "codigo": 938,
+    "tipo": 70,
+    "peso": 90618,
+    "idOrigen": "7d74f77c-7e56-4d69-bb5f-d1df3a437c2f",
+    "idDestino": "a8bc8a2f-092a-486a-9807-94d4115bd11a"
+  },
+  {
+    "codigo": 705,
+    "tipo": 79,
+    "peso": 91719,
+    "idOrigen": "b001d242-fec4-4840-aad2-52304554ef11",
+    "idDestino": "42ca993e-8550-42e2-b451-40487b690bcb"
+  },
+  {
+    "codigo": 875,
+    "tipo": 92,
+    "peso": 13898,
+    "idOrigen": "f6b9b221-5903-493d-bd80-4ad137a7fe5e",
+    "idDestino": "43393cf3-0a1a-4bce-a51f-3c21163af1e7"
+  },
+  {
+    "codigo": 324,
+    "tipo": 34,
+    "peso": 28114,
+    "idOrigen": "ad7bb335-9a02-469d-9293-18d97f6ff9c9",
+    "idDestino": "0c3475f3-140b-493e-911c-ed68643a5bdd"
+  },
+  {
+    "codigo": 904,
+    "tipo": 84,
+    "peso": 11088,
+    "idOrigen": "6e629eb2-acdc-4a35-9753-7d609b41577d",
+    "idDestino": "464bd756-371a-492f-bbf0-6aca81436861"
+  },
+  {
+    "codigo": 815,
+    "tipo": 80,
+    "peso": 19778,
+    "idOrigen": "707a0d7d-f6fa-4cca-adb1-b1a6398963ac",
+    "idDestino": "f8823bc0-c437-4c8b-a845-519aa2d02672"
+  },
+  {
+    "codigo": 413,
+    "tipo": 11,
+    "peso": 36492,
+    "idOrigen": "3da75269-10fd-4c67-ae5e-055a45276a49",
+    "idDestino": "3fba0825-6e4c-48cb-a952-7045cba905e7"
+  },
+  {
+    "codigo": 772,
+    "tipo": 93,
+    "peso": 47527,
+    "idOrigen": "c28c1637-5f85-4184-8d66-a3238467834e",
+    "idDestino": "dcaf7b7f-09f3-4b62-8e76-136283b654dd"
+  },
+  {
+    "codigo": 303,
+    "tipo": 8,
+    "peso": 96194,
+    "idOrigen": "f0a1e7fc-4d0e-4572-93b1-3cd9be547fb9",
+    "idDestino": "a140bf9e-cfa8-4bef-8b8a-16cdbbeef4dd"
+  },
+  {
+    "codigo": 584,
+    "tipo": 61,
+    "peso": 86492,
+    "idOrigen": "5e2f53a1-51cb-4c38-96ce-3321b9cc342c",
+    "idDestino": "dfe08203-6cd3-4ac3-a34c-58156d0ece83"
+  },
+  {
+    "codigo": 939,
+    "tipo": 1,
+    "peso": 63436,
+    "idOrigen": "28938f80-61f1-48a6-835c-3e56238a79dd",
+    "idDestino": "4d4a4ef1-2d1f-4d4f-8fcb-99246afc89e0"
+  },
+  {
+    "codigo": 433,
+    "tipo": 25,
+    "peso": 6044,
+    "idOrigen": "dc8a3db3-1cc5-4d82-8a8b-fff54ad3cb15",
+    "idDestino": "b39253eb-72ce-415e-8a79-de9eb334eb20"
+  },
+  {
+    "codigo": 687,
+    "tipo": 26,
+    "peso": 63160,
+    "idOrigen": "8adadcdf-d2ff-43b1-baab-650ca5a6fb8c",
+    "idDestino": "f78ffd44-3f29-4be2-aca4-b16b5c8a1f1a"
+  },
+  {
+    "codigo": 756,
+    "tipo": 23,
+    "peso": 14158,
+    "idOrigen": "56c1a8ab-4059-43e6-8801-b692c935564c",
+    "idDestino": "2f25aa12-c7a4-4fc7-b0d7-09352d346a56"
+  },
+  {
+    "codigo": 539,
+    "tipo": 30,
+    "peso": 77412,
+    "idOrigen": "43ac16a0-7038-4fc0-b3ed-439b76911f83",
+    "idDestino": "90e138f5-4e98-479f-a4b8-0fc03f846014"
+  },
+  {
+    "codigo": 206,
+    "tipo": 53,
+    "peso": 26033,
+    "idOrigen": "5cdb8966-8245-438e-83fe-fcdb10af0c91",
+    "idDestino": "0c7462fa-cc0e-4deb-88b3-cdff0069ea30"
+  },
+  {
+    "codigo": 858,
+    "tipo": 76,
+    "peso": 17688,
+    "idOrigen": "e0a0e1ea-daf0-470c-8944-3488f7435e3b",
+    "idDestino": "79ee1208-56e1-4079-b1eb-2df691657199"
+  },
+  {
+    "codigo": 348,
+    "tipo": 59,
+    "peso": 80045,
+    "idOrigen": "7248d95c-262e-4ceb-be65-ceaff1e2647b",
+    "idDestino": "b5512d3f-d423-4cb0-9428-dcdf29d6a8a0"
+  },
+  {
+    "codigo": 794,
+    "tipo": 39,
+    "peso": 10484,
+    "idOrigen": "567471cf-2490-4083-9367-f7f0f9fed4fa",
+    "idDestino": "25621ae6-b1bc-41eb-bb40-77383394e0ad"
+  },
+  {
+    "codigo": 815,
+    "tipo": 56,
+    "peso": 70179,
+    "idOrigen": "ceb45efc-e084-44a0-a2b1-cef8dbf7c10d",
+    "idDestino": "10933a46-d8aa-4685-afbd-dc58b6937c02"
+  },
+  {
+    "codigo": 330,
+    "tipo": 41,
+    "peso": 55293,
+    "idOrigen": "8cd0a02d-2b12-4921-8e39-ddedc02b8377",
+    "idDestino": "304538b5-b414-4870-8201-737982e702d3"
+  },
+  {
+    "codigo": 126,
+    "tipo": 19,
+    "peso": 73806,
+    "idOrigen": "b1eea3e9-7b24-471d-8df8-ad2582d8c5a0",
+    "idDestino": "c46b7668-1c66-408d-b3f3-a7e7ed8f79c9"
+  },
+  {
+    "codigo": 364,
+    "tipo": 93,
+    "peso": 70527,
+    "idOrigen": "0c69eeb0-686e-40c7-8667-a340607855bd",
+    "idDestino": "926727dc-d948-40e0-8599-f4a800ea6b5d"
+  },
+  {
+    "codigo": 737,
+    "tipo": 35,
+    "peso": 6021,
+    "idOrigen": "a6abce8b-a833-4b76-9f4f-6c321bd57db4",
+    "idDestino": "06c3af98-f4ef-4827-87d2-255c80af54dc"
+  },
+  {
+    "codigo": 632,
+    "tipo": 84,
+    "peso": 31650,
+    "idOrigen": "1fb0a67b-31ee-4546-b8e0-7f77533e0986",
+    "idDestino": "92639bda-be98-4f69-8f3b-523c795a525c"
+  },
+  {
+    "codigo": 206,
+    "tipo": 87,
+    "peso": 72023,
+    "idOrigen": "5e2c30a0-c63d-4e61-a0b9-56b115dbe259",
+    "idDestino": "aac49a96-161d-4282-a082-f6dd8b6e936a"
+  },
+  {
+    "codigo": 862,
+    "tipo": 53,
+    "peso": 29975,
+    "idOrigen": "661ba1ab-e868-4fa8-8551-eb9f66687728",
+    "idDestino": "f5dfd657-e43e-4c63-8115-b9f453920f0a"
+  },
+  {
+    "codigo": 933,
+    "tipo": 10,
+    "peso": 5859,
+    "idOrigen": "b5860e19-e5bf-400d-97df-aec1a619827b",
+    "idDestino": "219776d4-926e-4358-bd24-1de0e3282787"
+  },
+  {
+    "codigo": 248,
+    "tipo": 68,
+    "peso": 24675,
+    "idOrigen": "e59ef751-7f64-4414-9109-7b6398b58810",
+    "idDestino": "b01dacac-bad0-4685-bd43-36724bf1c013"
+  },
+  {
+    "codigo": 239,
+    "tipo": 59,
+    "peso": 18223,
+    "idOrigen": "b9cc48bf-e9fa-4423-8374-741aa2638e73",
+    "idDestino": "9fa5bb8f-1758-4e28-a96e-cbbfc93975a1"
+  },
+  {
+    "codigo": 714,
+    "tipo": 1,
+    "peso": 45637,
+    "idOrigen": "4c5d2e89-c985-4425-a72f-a45c273b89e3",
+    "idDestino": "4e92545a-07c9-4fe9-9706-897a509b6cdc"
+  },
+  {
+    "codigo": 319,
+    "tipo": 36,
+    "peso": 2910,
+    "idOrigen": "76c7f2f2-579a-4548-9907-2412f493ab0b",
+    "idDestino": "0522ac2d-204f-4096-a790-56f19e3666db"
+  },
+  {
+    "codigo": 953,
+    "tipo": 59,
+    "peso": 21619,
+    "idOrigen": "081ceafa-d674-476f-bd58-8ea5fadc6d2f",
+    "idDestino": "bc6903d5-8e4f-47fb-8034-212c6033d6f2"
+  },
+  {
+    "codigo": 802,
+    "tipo": 1,
+    "peso": 76181,
+    "idOrigen": "6935faf0-0547-4e55-933d-5499b95e3e8f",
+    "idDestino": "535a79a5-b744-4afe-b4f9-949bc5ef4309"
+  },
+  {
+    "codigo": 413,
+    "tipo": 47,
+    "peso": 57622,
+    "idOrigen": "ae8c01b3-8426-472d-987b-b159ce17a96a",
+    "idDestino": "57ee29e9-9e0e-430c-a0d3-3a348adf1172"
+  },
+  {
+    "codigo": 345,
+    "tipo": 31,
+    "peso": 81909,
+    "idOrigen": "a3b70585-2279-4e80-90ec-f37e29d2bb04",
+    "idDestino": "4a63ad97-c479-44ce-90cf-b6726959d253"
+  },
+  {
+    "codigo": 960,
+    "tipo": 15,
+    "peso": 35241,
+    "idOrigen": "56011add-4ac6-41d4-b39c-632b3a2e43ea",
+    "idDestino": "f53ca908-92d1-4fd4-a226-d5ea238f4511"
+  },
+  {
+    "codigo": 370,
+    "tipo": 54,
+    "peso": 84146,
+    "idOrigen": "caca0e99-9507-4ed1-ad10-223549e80ab2",
+    "idDestino": "edd790ef-c21e-4bde-9565-35d8ed80876c"
+  },
+  {
+    "codigo": 752,
+    "tipo": 77,
+    "peso": 28645,
+    "idOrigen": "8b8e60ec-a5e9-4626-927f-4c5dd0cab086",
+    "idDestino": "c30a40d2-d408-428f-8ba6-248edad65062"
+  },
+  {
+    "codigo": 864,
+    "tipo": 38,
+    "peso": 59908,
+    "idOrigen": "7b16ffc0-4414-49f3-be73-90969eb1b954",
+    "idDestino": "1bc83631-3256-415d-8cb7-6ca3c602f379"
+  },
+  {
+    "codigo": 517,
+    "tipo": 69,
+    "peso": 51615,
+    "idOrigen": "77da5bde-bed4-454a-b145-177c69ef4ea5",
+    "idDestino": "839cefd3-e4c4-403c-846f-4976b53cb89c"
+  },
+  {
+    "codigo": 289,
+    "tipo": 46,
+    "peso": 97465,
+    "idOrigen": "bb4d0289-f41f-4325-bad2-ae1d224956f4",
+    "idDestino": "01708ea1-8ddc-46ac-ab63-97314a2743ff"
+  },
+  {
+    "codigo": 141,
+    "tipo": 80,
+    "peso": 26126,
+    "idOrigen": "a238b128-0756-4161-978b-57640628a049",
+    "idDestino": "7a65be88-4cf9-4ab3-a897-5053a81dd367"
+  },
+  {
+    "codigo": 282,
+    "tipo": 63,
+    "peso": 49495,
+    "idOrigen": "ee1cd14a-07a8-4669-8d41-f401ceb56461",
+    "idDestino": "98f82062-5760-4658-b812-626d53ce487f"
+  },
+  {
+    "codigo": 815,
+    "tipo": 75,
+    "peso": 39429,
+    "idOrigen": "611308a3-bcad-489d-a993-4187c1d5239d",
+    "idDestino": "578b2386-5a1a-4e83-886f-ce519f1e79fb"
+  },
+  {
+    "codigo": 849,
+    "tipo": 69,
+    "peso": 18350,
+    "idOrigen": "efdc0bf4-e275-4f6f-b837-9f353378930c",
+    "idDestino": "2c518042-a4f6-4c4a-9a73-6ac0d5c863d2"
+  },
+  {
+    "codigo": 294,
+    "tipo": 63,
+    "peso": 56426,
+    "idOrigen": "17b88e79-c8b2-4daf-8685-1f5367ed1d17",
+    "idDestino": "6b525ce9-8f1f-436a-850b-e320f0fe9a40"
+  },
+  {
+    "codigo": 594,
+    "tipo": 44,
+    "peso": 87390,
+    "idOrigen": "4b50ba13-4b8c-4bb9-b3b7-64cb0a1e5fd0",
+    "idDestino": "37773df4-89fa-498e-bb79-27c0bb64d4df"
+  },
+  {
+    "codigo": 772,
+    "tipo": 68,
+    "peso": 57211,
+    "idOrigen": "50d6b82e-7124-45ff-9def-af4a39130da1",
+    "idDestino": "bcd328d7-46f9-407c-ae59-3940e9a5bff7"
+  },
+  {
+    "codigo": 821,
+    "tipo": 90,
+    "peso": 28767,
+    "idOrigen": "cee62767-1786-41dc-a9f5-bf335032b8f5",
+    "idDestino": "12517a5c-5771-4db4-a21a-f5de22ed51d4"
+  },
+  {
+    "codigo": 919,
+    "tipo": 49,
+    "peso": 67844,
+    "idOrigen": "3f24f9b4-418d-41d9-8e93-97950b50a611",
+    "idDestino": "cd90a5da-3ee8-4e3e-9642-81d42af4f439"
+  },
+  {
+    "codigo": 578,
+    "tipo": 5,
+    "peso": 21616,
+    "idOrigen": "217fdb95-23c0-49dc-ae9f-152fe6823ea2",
+    "idDestino": "7b5adcf7-6599-4340-ade7-54b7481dd06d"
+  },
+  {
+    "codigo": 295,
+    "tipo": 26,
+    "peso": 70152,
+    "idOrigen": "29c7432f-f409-4b34-8cb9-516f9738c62d",
+    "idDestino": "5e7dc416-6bb2-4bfe-a30d-0badb26218da"
+  },
+  {
+    "codigo": 654,
+    "tipo": 18,
+    "peso": 16003,
+    "idOrigen": "32af3782-2dd8-4f34-8f21-784020f638c0",
+    "idDestino": "8c470c39-d44a-4188-950b-32eed016fce9"
+  },
+  {
+    "codigo": 278,
+    "tipo": 65,
+    "peso": 9183,
+    "idOrigen": "31aacc0d-809d-4f60-865d-b574a3ab5781",
+    "idDestino": "381856e4-85b8-421d-ae58-731d7f9388ac"
+  },
+  {
+    "codigo": 540,
+    "tipo": 87,
+    "peso": 42520,
+    "idOrigen": "5e691b88-5bb0-42f1-b547-bc2479955768",
+    "idDestino": "bb6a13e9-ce51-47f3-9b7c-1b0467289562"
+  },
+  {
+    "codigo": 462,
+    "tipo": 59,
+    "peso": 29028,
+    "idOrigen": "f0f75916-3c7b-42a9-ad13-ef3f1ce8080b",
+    "idDestino": "2b4bce87-4ed0-4029-b7bc-6f8034308c66"
+  },
+  {
+    "codigo": 548,
+    "tipo": 44,
+    "peso": 26044,
+    "idOrigen": "b8d58098-d4fd-4d42-a588-585fe7abc3de",
+    "idDestino": "95feda70-4c10-4a11-955a-5f64bfb270b8"
+  },
+  {
+    "codigo": 516,
+    "tipo": 18,
+    "peso": 69900,
+    "idOrigen": "aa791ce8-f464-40bd-96d9-46429798436a",
+    "idDestino": "8f9d8a0e-528f-4bd7-9c21-1000be5d91a3"
+  },
+  {
+    "codigo": 646,
+    "tipo": 48,
+    "peso": 272,
+    "idOrigen": "9bc8708d-7139-4d4c-a3d3-af856ed3ae96",
+    "idDestino": "eba2ad02-2290-4144-9750-f735fb868adf"
+  },
+  {
+    "codigo": 257,
+    "tipo": 34,
+    "peso": 92245,
+    "idOrigen": "d5cbe03b-1a81-4ef8-bb30-dfc01ec2b0ce",
+    "idDestino": "e97ef002-f3b5-41c6-a601-73be7c3cf4f2"
+  },
+  {
+    "codigo": 685,
+    "tipo": 56,
+    "peso": 37622,
+    "idOrigen": "43d71171-f383-4dac-978a-7debc6b53385",
+    "idDestino": "a1ffccee-bce4-42e2-8835-83df33165ebf"
+  },
+  {
+    "codigo": 754,
+    "tipo": 17,
+    "peso": 34131,
+    "idOrigen": "bfd57309-67a3-4b84-9cc8-7b5276dcf773",
+    "idDestino": "89a22f39-58bc-4df2-8b76-0d659f0b1023"
+  },
+  {
+    "codigo": 918,
+    "tipo": 20,
+    "peso": 18404,
+    "idOrigen": "aba2ba95-c80e-4ba2-8b8e-c26f64f99ffd",
+    "idDestino": "0c7e37c0-10f6-428c-a510-37f7ffddd7ff"
+  },
+  {
+    "codigo": 491,
+    "tipo": 33,
+    "peso": 98099,
+    "idOrigen": "90c28790-6516-465e-85d1-b6d1b608aaef",
+    "idDestino": "df85d36e-79a4-42ab-9c36-933199f7b30d"
+  },
+  {
+    "codigo": 766,
+    "tipo": 75,
+    "peso": 64068,
+    "idOrigen": "e94d1e75-c0de-430e-954f-1de778e91ad2",
+    "idDestino": "579f00ae-4bf7-4f56-b31d-332a9667303a"
+  },
+  {
+    "codigo": 840,
+    "tipo": 34,
+    "peso": 62537,
+    "idOrigen": "86a17ee9-cc71-49bb-a7bf-dff7e9c4994f",
+    "idDestino": "61d2d9c9-9901-4792-a6e7-ebb72ddedde6"
+  },
+  {
+    "codigo": 510,
+    "tipo": 82,
+    "peso": 27683,
+    "idOrigen": "0a33260e-36e1-41cf-aae2-5bbc9f85c956",
+    "idDestino": "31e46544-ec31-44af-9935-b153f4dc4467"
+  },
+  {
+    "codigo": 604,
+    "tipo": 25,
+    "peso": 52620,
+    "idOrigen": "e3c827a2-3da4-47dc-be80-e7422add7b11",
+    "idDestino": "4f5a4eac-6f7f-41bf-94af-aa9d596325f3"
+  },
+  {
+    "codigo": 668,
+    "tipo": 61,
+    "peso": 36873,
+    "idOrigen": "96c95887-5859-4be2-9c10-a30ab966a165",
+    "idDestino": "1669d745-e76d-42bf-aa5f-4b9b11c8f5a1"
+  },
+  {
+    "codigo": 517,
+    "tipo": 51,
+    "peso": 58529,
+    "idOrigen": "e5007373-e9ed-4257-ad02-4dfc03b0563c",
+    "idDestino": "ad46ac53-a607-4d55-ad64-f71c86982ca6"
+  },
+  {
+    "codigo": 897,
+    "tipo": 36,
+    "peso": 36392,
+    "idOrigen": "b4887de5-9e2b-4d55-8453-9b0604a4d319",
+    "idDestino": "823247ba-4298-4284-b16d-ef4296ef9b9b"
+  },
+  {
+    "codigo": 101,
+    "tipo": 41,
+    "peso": 27050,
+    "idOrigen": "4487cbcc-a864-4fcc-ba8a-3bb6ccdbeff8",
+    "idDestino": "2af5e753-4207-4cd1-8834-cf48e6b6fae8"
+  },
+  {
+    "codigo": 114,
+    "tipo": 99,
+    "peso": 44585,
+    "idOrigen": "e3d3dccf-e99a-41ed-ba37-583a20d91b36",
+    "idDestino": "7a347c09-05ea-44bf-b5be-7200f80293ca"
+  },
+  {
+    "codigo": 751,
+    "tipo": 98,
+    "peso": 72657,
+    "idOrigen": "6d978fc0-a40f-4332-b8ef-48f224216221",
+    "idDestino": "948b0c65-df03-436d-ad18-8afbf29df2a4"
+  },
+  {
+    "codigo": 385,
+    "tipo": 16,
+    "peso": 77921,
+    "idOrigen": "8e55d5b4-6d55-4a3d-9a41-e9a7b118cfc7",
+    "idDestino": "b54bcf61-e546-4c55-aec9-009045850df1"
+  },
+  {
+    "codigo": 812,
+    "tipo": 19,
+    "peso": 29056,
+    "idOrigen": "e77880d8-f778-45fe-aeea-91e858f54977",
+    "idDestino": "edbfc4c0-f624-474f-ab2f-7a3cdeae92a0"
+  },
+  {
+    "codigo": 643,
+    "tipo": 36,
+    "peso": 90769,
+    "idOrigen": "75ddc5e0-6f1d-4c55-9160-8973cef1f74d",
+    "idDestino": "729256eb-f1e4-490c-b399-b7ae86db3e52"
+  },
+  {
+    "codigo": 756,
+    "tipo": 27,
+    "peso": 54117,
+    "idOrigen": "60d18f68-d4b1-4f6a-9d81-6f75e70e28dc",
+    "idDestino": "5baf86a6-af6a-434b-84f0-bed122515133"
+  },
+  {
+    "codigo": 840,
+    "tipo": 85,
+    "peso": 22492,
+    "idOrigen": "add8467d-ec19-46e8-97da-6961134aeef4",
+    "idDestino": "b2253638-9adc-4bd5-b4e2-3ef73ebc5754"
+  },
+  {
+    "codigo": 688,
+    "tipo": 9,
+    "peso": 85851,
+    "idOrigen": "ab1b5c9f-dc14-443d-b4f9-248431ffb014",
+    "idDestino": "99e0389a-ef6e-4ec9-9d00-c93f3066633c"
+  },
+  {
+    "codigo": 415,
+    "tipo": 16,
+    "peso": 59257,
+    "idOrigen": "9c2bff30-2407-478b-9415-7edb5861e5aa",
+    "idDestino": "cc15a1e5-40fe-40a7-af50-a118ef85b9be"
+  },
+  {
+    "codigo": 831,
+    "tipo": 82,
+    "peso": 97292,
+    "idOrigen": "b612511e-9c63-4e02-87e6-a67db5458bc7",
+    "idDestino": "df0ee9c9-0703-470d-adf9-388e02536076"
+  },
+  {
+    "codigo": 890,
+    "tipo": 59,
+    "peso": 37497,
+    "idOrigen": "62cbdff5-a93a-4a83-b9aa-34080ad58e10",
+    "idDestino": "167a4e14-df5c-47cf-a7ae-416d4a268911"
+  },
+  {
+    "codigo": 119,
+    "tipo": 20,
+    "peso": 53340,
+    "idOrigen": "c0fb7156-1b80-4c43-9602-25e52f849f65",
+    "idDestino": "c8b62147-6fb6-4055-b6fc-2abcacac3eb9"
+  },
+  {
+    "codigo": 200,
+    "tipo": 43,
+    "peso": 82559,
+    "idOrigen": "f9f5fb42-fb94-4cb6-a93a-a1bd94d2d0e4",
+    "idDestino": "86c2290e-1bfd-42b0-86e0-1f5f20db6be3"
+  },
+  {
+    "codigo": 685,
+    "tipo": 42,
+    "peso": 79882,
+    "idOrigen": "de8b350d-cf05-4048-8375-48ad4a16800c",
+    "idDestino": "286d3422-3fd1-4a5a-9839-69a81b2daffb"
+  },
+  {
+    "codigo": 900,
+    "tipo": 1,
+    "peso": 54175,
+    "idOrigen": "f4d39bd8-0ebe-4b48-9719-a5a5c17fe553",
+    "idDestino": "cedf9816-7a98-4ece-8c8f-fb5a9268bdc7"
+  },
+  {
+    "codigo": 985,
+    "tipo": 93,
+    "peso": 6985,
+    "idOrigen": "11724425-8a45-4260-93e1-c531caad9b4c",
+    "idDestino": "a0598594-d6e0-4fc2-9fc4-fb73b62e1718"
+  },
+  {
+    "codigo": 472,
+    "tipo": 62,
+    "peso": 40080,
+    "idOrigen": "1f553643-a15d-4be8-938d-64147b4822a6",
+    "idDestino": "45524999-4ca1-4367-80fd-17bc4592a98b"
+  },
+  {
+    "codigo": 275,
+    "tipo": 23,
+    "peso": 41145,
+    "idOrigen": "a83a387f-02c9-4bd6-81a4-c02fef365fe0",
+    "idDestino": "b3743096-9af3-4cea-be96-cb1324727ae7"
+  },
+  {
+    "codigo": 208,
+    "tipo": 49,
+    "peso": 51912,
+    "idOrigen": "d38a2a08-ca1d-4be5-8c2d-05a61686995d",
+    "idDestino": "069c5a8e-3529-4b54-af5a-4d5e35a26901"
+  },
+  {
+    "codigo": 224,
+    "tipo": 58,
+    "peso": 65223,
+    "idOrigen": "dc9ffcaa-84c6-4193-9d18-041c83beda45",
+    "idDestino": "d9074ce4-b244-49e5-9f0b-eaaf120e9138"
+  },
+  {
+    "codigo": 558,
+    "tipo": 66,
+    "peso": 44437,
+    "idOrigen": "3089058a-213e-4f47-8112-57fe66cddefa",
+    "idDestino": "93fa97af-62ee-4370-88ba-dabf3d75ebdb"
+  },
+  {
+    "codigo": 306,
+    "tipo": 94,
+    "peso": 20054,
+    "idOrigen": "7ac28484-b9dc-4617-9f1f-590f9300d1ed",
+    "idDestino": "96ebe4bb-bcce-4a3d-98e6-81c77e976c47"
+  },
+  {
+    "codigo": 420,
+    "tipo": 46,
+    "peso": 4058,
+    "idOrigen": "488a72bf-1ea7-43dd-8460-e3b5698ed5c4",
+    "idDestino": "174c08fd-80d0-47fe-8eb4-ef7245137bc8"
+  },
+  {
+    "codigo": 678,
+    "tipo": 23,
+    "peso": 38619,
+    "idOrigen": "fa84d84c-6537-4dda-8884-7d5eb604911a",
+    "idDestino": "3f67fc03-4ba3-4226-873b-394de5f0e33a"
+  },
+  {
+    "codigo": 817,
+    "tipo": 34,
+    "peso": 62664,
+    "idOrigen": "d0fb75ba-05c4-4c42-bdd7-368321366e7f",
+    "idDestino": "39e668ed-3dbd-49cf-a870-526b3cf29c1f"
+  },
+  {
+    "codigo": 172,
+    "tipo": 58,
+    "peso": 70328,
+    "idOrigen": "6f90ec04-dd15-4294-9551-61a8f3a771b6",
+    "idDestino": "ba0db20c-5f2c-46e2-a2f4-dea66e19e002"
+  },
+  {
+    "codigo": 383,
+    "tipo": 57,
+    "peso": 1168,
+    "idOrigen": "8980b0d2-bc31-42eb-8f26-ad8b998fe56e",
+    "idDestino": "afd4330a-5fa4-4d49-99b8-920a21fdc1a1"
+  },
+  {
+    "codigo": 902,
+    "tipo": 96,
+    "peso": 94123,
+    "idOrigen": "f61c7aa9-acf4-4dd4-9f4e-6e67f55ae488",
+    "idDestino": "104d5402-512b-4ee7-9df1-7d2033585595"
+  },
+  {
+    "codigo": 884,
+    "tipo": 22,
+    "peso": 84214,
+    "idOrigen": "e20159c1-48cc-4735-8024-619f94dfb5f0",
+    "idDestino": "47e34614-14fd-4384-8cf9-1e8807471cfb"
+  },
+  {
+    "codigo": 851,
+    "tipo": 32,
+    "peso": 65820,
+    "idOrigen": "965b2354-a26a-4f69-8bed-7379b6d157dc",
+    "idDestino": "c687f8c9-3610-4c82-8306-5c702f463bc3"
+  },
+  {
+    "codigo": 381,
+    "tipo": 86,
+    "peso": 83525,
+    "idOrigen": "e5c8efcd-3185-4aa3-b5d6-4de81ad1b1a9",
+    "idDestino": "f74ab7ac-aa34-486d-9056-10d557605ddb"
+  },
+  {
+    "codigo": 161,
+    "tipo": 91,
+    "peso": 76982,
+    "idOrigen": "c8fa6d18-84ed-4f4b-9cc8-f36415508145",
+    "idDestino": "cf40a5ea-db3c-4f54-96ba-bd47d4876078"
+  },
+  {
+    "codigo": 734,
+    "tipo": 5,
+    "peso": 54575,
+    "idOrigen": "d4d3dc94-de7c-4b8f-90ce-36c0fc9a00e7",
+    "idDestino": "3b201be5-a02c-4051-9acf-3acf93cf937d"
+  },
+  {
+    "codigo": 691,
+    "tipo": 34,
+    "peso": 77780,
+    "idOrigen": "79832b4f-444a-4891-ada0-de37c7f72067",
+    "idDestino": "096d0dcd-551a-4012-a470-5395cdbaaabf"
+  },
+  {
+    "codigo": 639,
+    "tipo": 7,
+    "peso": 31496,
+    "idOrigen": "dc539c39-3110-4390-a592-eeb45a6c9e33",
+    "idDestino": "16a21635-6e2b-45f4-8ae6-1c2cce95f0a6"
+  },
+  {
+    "codigo": 883,
+    "tipo": 93,
+    "peso": 83004,
+    "idOrigen": "fc80535b-bc98-4b63-a8e4-5cac17242fbd",
+    "idDestino": "eca2ebb7-017e-4684-9496-334123a7866c"
+  },
+  {
+    "codigo": 241,
+    "tipo": 54,
+    "peso": 3083,
+    "idOrigen": "4f851599-8d1d-47f0-a38c-9db499213457",
+    "idDestino": "d483b0ba-c41a-40d9-8e5b-a43664f8703e"
+  },
+  {
+    "codigo": 859,
+    "tipo": 87,
+    "peso": 66493,
+    "idOrigen": "ceab9793-cacc-43fe-acc6-37e80142368b",
+    "idDestino": "378c3acb-aff9-4667-8b02-baf2c9cfb74f"
+  },
+  {
+    "codigo": 739,
+    "tipo": 88,
+    "peso": 74600,
+    "idOrigen": "bac6627d-23bb-4915-ad8d-40279841d175",
+    "idDestino": "68872af0-856b-4363-8bb8-313a939207fd"
+  },
+  {
+    "codigo": 652,
+    "tipo": 35,
+    "peso": 69112,
+    "idOrigen": "1430f3ab-9d38-4601-88da-e0f811e7d522",
+    "idDestino": "4f5cfa70-b7fb-4cf6-b701-953403b91447"
+  },
+  {
+    "codigo": 840,
+    "tipo": 77,
+    "peso": 68806,
+    "idOrigen": "47075ffd-6ef0-40fa-ba71-4ca4a31502d9",
+    "idDestino": "3354d949-35f4-41ef-872a-6007c295ed24"
+  },
+  {
+    "codigo": 633,
+    "tipo": 63,
+    "peso": 21681,
+    "idOrigen": "8dde1d82-fa2b-4285-9f9f-0c16a4c11737",
+    "idDestino": "2012df39-8d52-41c2-8bd0-9f22a25158c2"
+  },
+  {
+    "codigo": 165,
+    "tipo": 15,
+    "peso": 10740,
+    "idOrigen": "38747259-e3e0-4545-b1d9-3eeb1adcd68e",
+    "idDestino": "f20412f0-3e75-4e92-b6f0-a0eb6ff153b1"
+  },
+  {
+    "codigo": 486,
+    "tipo": 11,
+    "peso": 46881,
+    "idOrigen": "bdae30bd-de4f-4062-8e88-0c031b988507",
+    "idDestino": "d82c572b-a377-474f-9875-55d763b0cdd4"
+  },
+  {
+    "codigo": 294,
+    "tipo": 58,
+    "peso": 93085,
+    "idOrigen": "2741500b-270e-44e8-9ec7-091ca8b7a0f4",
+    "idDestino": "f6c7b745-ff3d-41bd-86fd-fba608a84dfd"
+  },
+  {
+    "codigo": 905,
+    "tipo": 68,
+    "peso": 2550,
+    "idOrigen": "0f6d05cd-037c-4b52-8843-8becc6de7d61",
+    "idDestino": "271aa635-70ed-4cfd-aca3-52ca2e07cf5c"
+  },
+  {
+    "codigo": 334,
+    "tipo": 9,
+    "peso": 60219,
+    "idOrigen": "da882c04-aefe-47f0-952f-c383ae86d381",
+    "idDestino": "18eb33f8-aafe-4bbf-ba6a-ae0f04889556"
+  },
+  {
+    "codigo": 332,
+    "tipo": 92,
+    "peso": 91181,
+    "idOrigen": "a8fd5b2b-be46-42af-a98a-0761265b24af",
+    "idDestino": "4120753c-1a6c-4833-b6e6-1731fb372746"
+  },
+  {
+    "codigo": 395,
+    "tipo": 30,
+    "peso": 68875,
+    "idOrigen": "564d72ba-05a2-4eda-9572-e7256ec2b353",
+    "idDestino": "6b21221e-9169-43ee-b40a-c34e292e52d5"
+  },
+  {
+    "codigo": 584,
+    "tipo": 24,
+    "peso": 69813,
+    "idOrigen": "0bdfb0f6-a546-45d4-bfe4-80ccc864e1b7",
+    "idDestino": "cd890990-4be2-4945-9240-2c25babfe6b0"
+  },
+  {
+    "codigo": 427,
+    "tipo": 40,
+    "peso": 30194,
+    "idOrigen": "de299f5f-7489-4df6-8510-3a312fcac478",
+    "idDestino": "4ccf86e9-4109-410d-a7e9-e5821b18c1d5"
+  },
+  {
+    "codigo": 146,
+    "tipo": 33,
+    "peso": 53351,
+    "idOrigen": "304e1346-ad2a-4043-983b-6be715e4cf65",
+    "idDestino": "6c86232b-4a7f-4f67-9fd2-6c9aa83d9f29"
+  },
+  {
+    "codigo": 282,
+    "tipo": 84,
+    "peso": 27181,
+    "idOrigen": "22b4db23-27f5-4d3f-89e8-5d8d7db143ec",
+    "idDestino": "80a923a5-0173-44a4-b4af-2e4139fcf194"
+  },
+  {
+    "codigo": 204,
+    "tipo": 8,
+    "peso": 85279,
+    "idOrigen": "ea5b2345-8a52-4ba4-85d0-4c27d884be20",
+    "idDestino": "19687b7e-a7fa-4c3f-a763-33c3b4e677fa"
+  },
+  {
+    "codigo": 925,
+    "tipo": 4,
+    "peso": 46192,
+    "idOrigen": "edfc82a3-593f-4a0d-9c6c-472e124f671b",
+    "idDestino": "2e31f6cb-053c-492d-bd05-60c433a0cba5"
+  },
+  {
+    "codigo": 806,
+    "tipo": 66,
+    "peso": 91036,
+    "idOrigen": "70872b93-fa66-4467-bab7-8f41a701a01a",
+    "idDestino": "0c30e805-498a-4e4d-b9fe-b407a6a217b9"
+  },
+  {
+    "codigo": 113,
+    "tipo": 94,
+    "peso": 32190,
+    "idOrigen": "ee5a4d69-5ca5-40e6-8ab5-e89b35b180c8",
+    "idDestino": "825fa59a-bdda-4b8d-96f7-8ffa6f2de43a"
+  },
+  {
+    "codigo": 924,
+    "tipo": 6,
+    "peso": 3864,
+    "idOrigen": "35847dc2-3635-4b64-821d-5475c31da202",
+    "idDestino": "93d70679-0dbf-493f-bfd5-6653aaca8d1d"
+  },
+  {
+    "codigo": 635,
+    "tipo": 88,
+    "peso": 13574,
+    "idOrigen": "c5fb3c4b-00b4-4520-bee1-e5f6c3f9e46d",
+    "idDestino": "9fb09e83-7b62-4ba6-a036-588cf278727a"
+  },
+  {
+    "codigo": 198,
+    "tipo": 6,
+    "peso": 25352,
+    "idOrigen": "8052ba2b-64a6-44b1-9936-6c8b7af8e018",
+    "idDestino": "dfe9a394-3ab3-4623-a7a1-6e6c098835b5"
+  },
+  {
+    "codigo": 982,
+    "tipo": 67,
+    "peso": 23855,
+    "idOrigen": "7c6d5878-e72c-43ec-914b-bc62d5aca870",
+    "idDestino": "066604cd-73df-4fd0-b9b7-adef25ed09ab"
+  },
+  {
+    "codigo": 504,
+    "tipo": 66,
+    "peso": 18859,
+    "idOrigen": "c1ec2e76-538c-4726-8b94-f448347a2781",
+    "idDestino": "68162522-b2be-47eb-8f49-c3259b86aed1"
+  },
+  {
+    "codigo": 244,
+    "tipo": 30,
+    "peso": 97827,
+    "idOrigen": "45a315c1-b5a8-4224-bc39-7c7ffa61e209",
+    "idDestino": "e7a6013c-b3d1-4c4a-8516-f67f818a7d6a"
+  },
+  {
+    "codigo": 844,
+    "tipo": 54,
+    "peso": 60454,
+    "idOrigen": "4120b01d-2df4-4c23-b823-e3271d660933",
+    "idDestino": "e4eddbe7-a1c1-4bd6-bd80-8528f17deeaf"
+  },
+  {
+    "codigo": 334,
+    "tipo": 64,
+    "peso": 4922,
+    "idOrigen": "d63a9af4-c46a-4771-93a2-6254dcc18094",
+    "idDestino": "f7a72afc-8520-4a41-9c6d-90e76a1a77c4"
+  },
+  {
+    "codigo": 714,
+    "tipo": 26,
+    "peso": 34692,
+    "idOrigen": "8e60e509-a980-47d9-a41e-afadc63ec1a0",
+    "idDestino": "af26b2a0-a196-46b7-992b-af97c73e5982"
+  },
+  {
+    "codigo": 668,
+    "tipo": 72,
+    "peso": 38494,
+    "idOrigen": "00bcf12b-82a6-4f6f-ac74-0cb9a10db2d2",
+    "idDestino": "2712d232-d64f-4ecf-8cf2-572e6a09d15a"
+  },
+  {
+    "codigo": 863,
+    "tipo": 28,
+    "peso": 62019,
+    "idOrigen": "66e3f92c-06b0-461b-8910-d9f1f7e5ead4",
+    "idDestino": "ead6a9f5-0f60-49a4-9b35-1628c907fad9"
+  },
+  {
+    "codigo": 686,
+    "tipo": 36,
+    "peso": 20573,
+    "idOrigen": "4cb3fc51-803d-40ea-8b5d-0816910b4328",
+    "idDestino": "95b9395d-d27c-49fe-83d3-8c1fa10cf9f2"
+  },
+  {
+    "codigo": 592,
+    "tipo": 29,
+    "peso": 71421,
+    "idOrigen": "1edd15e5-852a-4fd0-8640-4313ad3ae7b7",
+    "idDestino": "9bf10d57-2545-4cac-a2a6-f00ff829b1f1"
+  },
+  {
+    "codigo": 962,
+    "tipo": 68,
+    "peso": 41900,
+    "idOrigen": "5d3eb40a-16f5-46b6-9616-2433e9e51f35",
+    "idDestino": "4dcf2b95-019d-42c4-bbcd-52a6e2939201"
+  },
+  {
+    "codigo": 270,
+    "tipo": 75,
+    "peso": 50878,
+    "idOrigen": "9af30499-28d6-4a4d-a5ec-ec4feded8723",
+    "idDestino": "931dcd72-db0c-42b0-b4fe-ee97b8fd93d1"
+  },
+  {
+    "codigo": 144,
+    "tipo": 60,
+    "peso": 9176,
+    "idOrigen": "c930b4eb-9578-4157-b091-0ff73e9148e1",
+    "idDestino": "0eb36757-fc71-48f5-962c-71e86921f279"
+  },
+  {
+    "codigo": 613,
+    "tipo": 27,
+    "peso": 15130,
+    "idOrigen": "c9c1c7dd-18b8-46c2-987d-cd9343c01637",
+    "idDestino": "e70e2697-522e-4b79-b340-dffc1263cecd"
+  },
+  {
+    "codigo": 741,
+    "tipo": 84,
+    "peso": 33232,
+    "idOrigen": "b691a3b6-be58-4b92-ae4f-8b2986f3b756",
+    "idDestino": "0f7dd323-1ee7-4d65-8509-249329798d29"
+  },
+  {
+    "codigo": 521,
+    "tipo": 11,
+    "peso": 90488,
+    "idOrigen": "be7bfcdb-998b-4f68-948c-610b26cf8400",
+    "idDestino": "fb6ab056-6fa1-4532-a0a8-9f7b1b4e2a4e"
+  },
+  {
+    "codigo": 144,
+    "tipo": 8,
+    "peso": 21945,
+    "idOrigen": "3a20f33a-7f2a-4a9f-a44e-f2357a15dda0",
+    "idDestino": "13333495-0dee-4d06-bc08-25b8a6cd1a68"
+  },
+  {
+    "codigo": 672,
+    "tipo": 17,
+    "peso": 2451,
+    "idOrigen": "0053f230-68ce-464c-b0d2-97976d4e28ec",
+    "idDestino": "3982aaa1-ce1d-4650-959a-e032fb7c1763"
+  },
+  {
+    "codigo": 476,
+    "tipo": 3,
+    "peso": 44905,
+    "idOrigen": "e1cce266-5693-4fd4-8d6f-953a7851b323",
+    "idDestino": "53365b8d-2961-46ec-9a21-7ebe3f868f8b"
+  },
+  {
+    "codigo": 336,
+    "tipo": 71,
+    "peso": 67164,
+    "idOrigen": "9c997789-b0f7-4687-a889-9200603ee5c8",
+    "idDestino": "06044334-08e5-442f-b033-0f6724938beb"
+  },
+  {
+    "codigo": 665,
+    "tipo": 89,
+    "peso": 56879,
+    "idOrigen": "3a93d727-71d0-4bcc-9d7c-6f8e671ddefc",
+    "idDestino": "f7dda056-ee1f-42ff-ac9d-eda61ec24597"
+  },
+  {
+    "codigo": 744,
+    "tipo": 53,
+    "peso": 29311,
+    "idOrigen": "74d7e32f-c5db-4f15-9398-e6461a44190b",
+    "idDestino": "208391e3-2192-4824-ad79-8b2a28c072d4"
+  },
+  {
+    "codigo": 800,
+    "tipo": 38,
+    "peso": 73814,
+    "idOrigen": "988dab2e-a827-44bb-84d5-c50329d8d14a",
+    "idDestino": "1902b97c-ae0a-4dbb-a2bc-9390ed0d3bc0"
+  },
+  {
+    "codigo": 168,
+    "tipo": 46,
+    "peso": 27552,
+    "idOrigen": "98f21393-16cf-4c14-a94d-5baac2170dbb",
+    "idDestino": "4bf5b8ce-449a-497c-a608-cb7bd6d6ab78"
+  },
+  {
+    "codigo": 542,
+    "tipo": 28,
+    "peso": 77779,
+    "idOrigen": "99543099-854d-43d0-988b-18f229a68698",
+    "idDestino": "74db3c32-db68-4289-9b5b-4959748840b2"
+  },
+  {
+    "codigo": 329,
+    "tipo": 1,
+    "peso": 76127,
+    "idOrigen": "4e4d5896-6427-4108-b609-6b7d50365c9a",
+    "idDestino": "57e93d9d-59a9-42cb-860e-8828d7c02dd3"
+  },
+  {
+    "codigo": 817,
+    "tipo": 4,
+    "peso": 59231,
+    "idOrigen": "c73c4677-fabe-4acf-83c2-92e7d4c802c7",
+    "idDestino": "0dd883c2-6114-4d45-95cf-146d66efa66c"
+  },
+  {
+    "codigo": 290,
+    "tipo": 71,
+    "peso": 15198,
+    "idOrigen": "df4b5047-c5f6-4131-849e-630eed6627ce",
+    "idDestino": "b169232a-54c4-470c-a0df-5b5c28f5a48c"
+  },
+  {
+    "codigo": 318,
+    "tipo": 61,
+    "peso": 17778,
+    "idOrigen": "661bdf82-9f43-4966-aa32-790f9eba200d",
+    "idDestino": "9b1da707-05ac-4ba2-b6d2-8cdbcf58004f"
+  },
+  {
+    "codigo": 369,
+    "tipo": 51,
+    "peso": 5822,
+    "idOrigen": "d5053b79-d5e3-4fef-a16c-c6b926cd34c8",
+    "idDestino": "5ddebde0-7e5b-495c-896c-8f084d97db8d"
+  },
+  {
+    "codigo": 981,
+    "tipo": 21,
+    "peso": 59968,
+    "idOrigen": "99f43bd3-b526-4244-8ce2-cf196e1a0489",
+    "idDestino": "c72e6110-0f27-4db0-9304-c0d07ad12103"
+  },
+  {
+    "codigo": 345,
+    "tipo": 91,
+    "peso": 88507,
+    "idOrigen": "78707228-3760-4e57-b765-8fa841c9ebbb",
+    "idDestino": "7dce8497-47e2-41ed-a216-39fb4b98406d"
+  },
+  {
+    "codigo": 904,
+    "tipo": 55,
+    "peso": 17684,
+    "idOrigen": "6549f9f5-8726-492c-9126-01ab69efc557",
+    "idDestino": "9cd91b05-e2bc-45ef-83b8-fd85135bae5e"
+  },
+  {
+    "codigo": 212,
+    "tipo": 56,
+    "peso": 86585,
+    "idOrigen": "42894908-fcb3-473c-9927-b1e08563d450",
+    "idDestino": "953aabb2-908b-44c1-9834-b6575e26bddd"
+  },
+  {
+    "codigo": 189,
+    "tipo": 71,
+    "peso": 80930,
+    "idOrigen": "9dce648d-f292-4fa4-94e5-2b10101867ce",
+    "idDestino": "7a5288ae-5bd3-49a6-8f98-3d93fd1b7fdf"
+  },
+  {
+    "codigo": 846,
+    "tipo": 60,
+    "peso": 24584,
+    "idOrigen": "a3360680-ad2b-4f9a-a787-396a42c80772",
+    "idDestino": "139a43e1-b962-4cb4-8b09-08fb11719911"
+  },
+  {
+    "codigo": 566,
+    "tipo": 61,
+    "peso": 44058,
+    "idOrigen": "cd710a07-68bf-4829-b353-bd81464cd12b",
+    "idDestino": "3b6563b9-8b4a-4119-9909-7ea42db548b0"
+  },
+  {
+    "codigo": 809,
+    "tipo": 82,
+    "peso": 422,
+    "idOrigen": "2fd5fb10-165c-4d2c-b4ea-54269380fb09",
+    "idDestino": "8e1b6f0b-c659-412f-b8cb-4df5bf0bfcf0"
+  },
+  {
+    "codigo": 663,
+    "tipo": 92,
+    "peso": 49660,
+    "idOrigen": "b875b57b-0430-435d-ab75-8872149a984e",
+    "idDestino": "cfa2d9d3-2639-400b-821f-55c36daf9c67"
+  },
+  {
+    "codigo": 588,
+    "tipo": 69,
+    "peso": 86246,
+    "idOrigen": "80be340c-a9de-4445-ac03-e13f8d562e21",
+    "idDestino": "fb47c417-f823-4b5b-9a14-721f17562446"
+  },
+  {
+    "codigo": 961,
+    "tipo": 90,
+    "peso": 8665,
+    "idOrigen": "f5548e05-941d-451f-9e23-f7a055794893",
+    "idDestino": "72aa0bae-0b61-4087-b6ed-8aea03b8d686"
+  },
+  {
+    "codigo": 508,
+    "tipo": 57,
+    "peso": 16407,
+    "idOrigen": "d3da5f4a-a290-4e1c-8078-805fc1a1570b",
+    "idDestino": "2e41b792-dcc2-47d7-a0d4-5d1ecf8e8812"
+  },
+  {
+    "codigo": 493,
+    "tipo": 50,
+    "peso": 90166,
+    "idOrigen": "011172a5-78c4-4a80-a0f1-7d8c5d7595c8",
+    "idDestino": "436a7402-66d9-405b-9818-4a48c0e5e834"
+  },
+  {
+    "codigo": 870,
+    "tipo": 91,
+    "peso": 57787,
+    "idOrigen": "42a7e29c-6390-4133-8fb0-6f88512b88b6",
+    "idDestino": "1ddd8ff2-5147-44e0-9fd9-e4413df9cc84"
+  },
+  {
+    "codigo": 788,
+    "tipo": 82,
+    "peso": 64559,
+    "idOrigen": "d965fcb2-8a7a-43a8-82f3-b0e212fcdbb5",
+    "idDestino": "3a6d9c0d-4b35-4e2a-b94f-5f8b5f9c0284"
+  },
+  {
+    "codigo": 631,
+    "tipo": 54,
+    "peso": 73888,
+    "idOrigen": "e3256d7a-375a-4e4d-b8cb-e574844e2995",
+    "idDestino": "2fcae492-6dca-46d3-9271-86c1534d0ca7"
+  },
+  {
+    "codigo": 593,
+    "tipo": 31,
+    "peso": 30614,
+    "idOrigen": "44f6968a-65b9-4357-a09d-ab72a88cdeae",
+    "idDestino": "bd840e19-bf1a-4ded-be4a-dd54cc287026"
+  },
+  {
+    "codigo": 269,
+    "tipo": 47,
+    "peso": 47383,
+    "idOrigen": "1a2e8c7f-3252-4874-99f0-4d57cf9ef780",
+    "idDestino": "7d1a95ad-2ead-4221-98f3-d4c18722a1fb"
+  },
+  {
+    "codigo": 878,
+    "tipo": 57,
+    "peso": 52491,
+    "idOrigen": "f94deedf-9d63-4b25-8307-07b281bc67a2",
+    "idDestino": "808f5613-69f3-4108-88fd-8cc7b1390124"
+  },
+  {
+    "codigo": 375,
+    "tipo": 42,
+    "peso": 92433,
+    "idOrigen": "80f19764-400d-44b0-8a1b-13fb517cb38a",
+    "idDestino": "9a80bf3d-0517-46c7-8f54-1751d033bea3"
+  },
+  {
+    "codigo": 806,
+    "tipo": 76,
+    "peso": 50524,
+    "idOrigen": "580f7025-139b-4b10-b39e-6487adfed86d",
+    "idDestino": "4c6067fc-d866-4d49-a78d-4c338f9f4272"
+  },
+  {
+    "codigo": 202,
+    "tipo": 82,
+    "peso": 6922,
+    "idOrigen": "fb8fbb53-fc48-46a7-9170-0c31b90baeaf",
+    "idDestino": "a42c3fe1-266b-4f1e-a971-5e374cc9d310"
+  },
+  {
+    "codigo": 538,
+    "tipo": 78,
+    "peso": 81830,
+    "idOrigen": "21e144b7-2f05-440c-97cc-5e26939a2b29",
+    "idDestino": "b7e0f1f4-fb71-4db5-95aa-a0b194ab7bc6"
+  },
+  {
+    "codigo": 293,
+    "tipo": 41,
+    "peso": 13039,
+    "idOrigen": "3f302e44-e9a8-4f15-a5c1-deed22942516",
+    "idDestino": "54c7f902-eac4-4aec-9a03-fa6934abadc6"
+  },
+  {
+    "codigo": 409,
+    "tipo": 3,
+    "peso": 24641,
+    "idOrigen": "41786c68-90a7-465e-be64-b5b392826cc1",
+    "idDestino": "915066db-f4a5-4600-a81d-ba6371b6ff44"
+  },
+  {
+    "codigo": 755,
+    "tipo": 8,
+    "peso": 85741,
+    "idOrigen": "4e0eb083-5970-4e20-ac38-52528dfc2494",
+    "idDestino": "22430013-8ad4-4580-a07a-aee304dc4471"
+  },
+  {
+    "codigo": 147,
+    "tipo": 12,
+    "peso": 8560,
+    "idOrigen": "99bad462-ec1f-4e64-bdf8-39cbc3429341",
+    "idDestino": "d6b78d06-aa61-4e75-be9e-9c8094865d43"
+  },
+  {
+    "codigo": 269,
+    "tipo": 20,
+    "peso": 24116,
+    "idOrigen": "2eab09c2-e0cc-4270-bc1b-c83d1c15a4f6",
+    "idDestino": "3c87b7d8-88af-4a61-b76d-8ec5008c3744"
+  },
+  {
+    "codigo": 468,
+    "tipo": 17,
+    "peso": 81150,
+    "idOrigen": "9c0b56f5-90c4-42b4-a372-08920c0df9cd",
+    "idDestino": "4f5c2bbc-a468-4ae8-b88b-0194c8e3a912"
+  },
+  {
+    "codigo": 211,
+    "tipo": 6,
+    "peso": 19871,
+    "idOrigen": "2c492faf-a705-4b04-b489-9f166859457e",
+    "idDestino": "b2321164-ba2a-4f08-aea1-43a694877acb"
+  },
+  {
+    "codigo": 438,
+    "tipo": 9,
+    "peso": 31561,
+    "idOrigen": "75df33b7-7a2e-4844-a60a-652679d6adf6",
+    "idDestino": "59ac917b-27b6-4596-8793-a7b08030699b"
+  },
+  {
+    "codigo": 930,
+    "tipo": 9,
+    "peso": 77530,
+    "idOrigen": "f4834e38-410f-4294-ac74-9592d4a90a0e",
+    "idDestino": "37f48c03-f78a-4ade-8a7b-d0ce6e0a9e52"
+  },
+  {
+    "codigo": 369,
+    "tipo": 9,
+    "peso": 11088,
+    "idOrigen": "75a93e89-80d6-44d6-97bf-7f3cacba0eb7",
+    "idDestino": "b56f636c-24ef-4fce-9fb2-6e7cce795b22"
+  },
+  {
+    "codigo": 827,
+    "tipo": 73,
+    "peso": 77274,
+    "idOrigen": "0ac72709-cbca-4497-8f9d-6e595a4439b6",
+    "idDestino": "1926123f-a31f-465f-a063-eda8503195ca"
+  },
+  {
+    "codigo": 146,
+    "tipo": 4,
+    "peso": 16214,
+    "idOrigen": "63599339-e827-4ca1-adcc-165514064c93",
+    "idDestino": "4bfad1c3-e030-42a7-a66e-b167c6c3d7bb"
+  },
+  {
+    "codigo": 462,
+    "tipo": 61,
+    "peso": 43069,
+    "idOrigen": "b7459b2e-4e58-4fa4-940b-9c0fb80e4058",
+    "idDestino": "389aaf94-7d6c-4a5c-b9dd-a15e181b34f7"
+  },
+  {
+    "codigo": 671,
+    "tipo": 25,
+    "peso": 76635,
+    "idOrigen": "4963aebf-d997-46ce-a651-9a4fb943ed02",
+    "idDestino": "e1a6ecd9-881c-4e90-8924-0cc2a513bd3f"
+  },
+  {
+    "codigo": 512,
+    "tipo": 93,
+    "peso": 30347,
+    "idOrigen": "e399b2e3-299f-464c-9ee4-86efa773f175",
+    "idDestino": "f284c718-e69b-41e0-be1a-f4533235f5e3"
+  },
+  {
+    "codigo": 505,
+    "tipo": 48,
+    "peso": 29851,
+    "idOrigen": "77ec826e-8c73-4fc9-8854-fdd03d7b820d",
+    "idDestino": "a32b8337-a730-4812-8a35-becbfa65c2df"
+  },
+  {
+    "codigo": 153,
+    "tipo": 60,
+    "peso": 44307,
+    "idOrigen": "da57a76f-a3f0-495b-b6d2-a022ad04974a",
+    "idDestino": "2681b468-a832-4b7d-829c-f4ae91750714"
+  },
+  {
+    "codigo": 541,
+    "tipo": 39,
+    "peso": 36127,
+    "idOrigen": "a6217411-ad8c-44f8-b253-d5fc821b6195",
+    "idDestino": "c410b9a9-475d-4f7f-9b2f-9d1422f978ef"
+  },
+  {
+    "codigo": 951,
+    "tipo": 82,
+    "peso": 4050,
+    "idOrigen": "4535760c-d00b-40f4-ad36-75238a25f3ef",
+    "idDestino": "9e80b8ab-091f-42b9-a730-d7387d283727"
+  },
+  {
+    "codigo": 825,
+    "tipo": 97,
+    "peso": 57218,
+    "idOrigen": "99731ba4-5b89-4804-b74a-c5ba532fe32c",
+    "idDestino": "4b19ceb6-74d6-442e-ab1a-886fac1a8915"
+  },
+  {
+    "codigo": 882,
+    "tipo": 22,
+    "peso": 9130,
+    "idOrigen": "419c5ea1-9f39-4af7-9e90-025d0cbc301e",
+    "idDestino": "1e6de169-d2d3-45f6-8045-db95d156855a"
+  },
+  {
+    "codigo": 683,
+    "tipo": 73,
+    "peso": 53944,
+    "idOrigen": "b435ea21-faf1-434c-8c6f-b260c84cc744",
+    "idDestino": "c3118ec2-46aa-46da-96b3-85ada10b8c24"
+  },
+  {
+    "codigo": 649,
+    "tipo": 21,
+    "peso": 70435,
+    "idOrigen": "fd94bfff-870e-477c-8946-3775810e72c7",
+    "idDestino": "b2412a6e-9461-4a59-99b4-bca8b081fa03"
+  },
+  {
+    "codigo": 494,
+    "tipo": 88,
+    "peso": 39874,
+    "idOrigen": "d5de9b8e-0f77-4283-ab0f-b25e41b90823",
+    "idDestino": "79d31746-fcde-452f-8d64-559915ed6808"
+  },
+  {
+    "codigo": 129,
+    "tipo": 58,
+    "peso": 24175,
+    "idOrigen": "30e70ea7-77dd-4bb8-b0f4-608e3787b69d",
+    "idDestino": "0951e0f5-33e4-4857-964e-6c59b129cbe5"
+  },
+  {
+    "codigo": 971,
+    "tipo": 98,
+    "peso": 40597,
+    "idOrigen": "3ad8d2a4-2b0f-4898-81cc-691ac36432fd",
+    "idDestino": "76eb1a4b-06a4-4d7a-bb10-c143db68d201"
+  },
+  {
+    "codigo": 527,
+    "tipo": 67,
+    "peso": 92048,
+    "idOrigen": "70624f15-4f9c-4fba-afcb-b7b64bdae60e",
+    "idDestino": "36ddafbb-4934-4255-a158-6a0350bf7d9f"
+  },
+  {
+    "codigo": 196,
+    "tipo": 28,
+    "peso": 72746,
+    "idOrigen": "e83ac997-8f2d-4bc8-a929-c39f1ffc20e7",
+    "idDestino": "969aae06-6d08-4a9e-908b-2e6a424c63cb"
+  },
+  {
+    "codigo": 740,
+    "tipo": 89,
+    "peso": 67651,
+    "idOrigen": "46649603-9a20-4877-a2b3-8d3d2c0d2fbb",
+    "idDestino": "2ccea2f0-c440-43b6-bca9-a823be4acc00"
+  },
+  {
+    "codigo": 495,
+    "tipo": 41,
+    "peso": 53456,
+    "idOrigen": "81c122e4-b2ca-4d40-a737-78b88a1e39c2",
+    "idDestino": "449db0f8-3153-446d-a22e-895d26e0ebe8"
+  },
+  {
+    "codigo": 101,
+    "tipo": 82,
+    "peso": 65749,
+    "idOrigen": "343f308b-043b-4a1e-861e-ce4a98c2c665",
+    "idDestino": "6c773d00-8e28-4098-af6c-b12b08643f1f"
+  },
+  {
+    "codigo": 207,
+    "tipo": 64,
+    "peso": 79940,
+    "idOrigen": "ec155525-4342-4738-987a-f05eb970ad33",
+    "idDestino": "396bd282-d203-4311-b545-2c866bd4462d"
+  },
+  {
+    "codigo": 535,
+    "tipo": 49,
+    "peso": 15979,
+    "idOrigen": "c3a32ea3-e6df-4c11-8030-2ba1c52cff5f",
+    "idDestino": "bf03f7ec-1ba3-4538-8b6d-7f89642c07c6"
+  },
+  {
+    "codigo": 603,
+    "tipo": 85,
+    "peso": 79916,
+    "idOrigen": "e1f45fcf-a172-4383-a7d2-426c1f4e3c75",
+    "idDestino": "96488f55-27f7-41d4-ade9-33da74aae1c4"
+  },
+  {
+    "codigo": 145,
+    "tipo": 26,
+    "peso": 2923,
+    "idOrigen": "1783b600-4db6-4d4c-b059-2a2ba7848a12",
+    "idDestino": "64959037-6ba5-452d-958e-17eab038348c"
+  },
+  {
+    "codigo": 970,
+    "tipo": 63,
+    "peso": 31176,
+    "idOrigen": "576b21b9-db82-4d56-85c7-e7836fc114ff",
+    "idDestino": "78ec83ab-4663-40df-b420-8e0549f0aa29"
+  },
+  {
+    "codigo": 333,
+    "tipo": 36,
+    "peso": 79219,
+    "idOrigen": "528bd4f3-7511-4d7f-b648-e0b474a7e21e",
+    "idDestino": "17a68acc-f9f1-4f55-8e94-d2d591e87df3"
+  },
+  {
+    "codigo": 954,
+    "tipo": 61,
+    "peso": 24548,
+    "idOrigen": "db85a092-59b6-4388-a09e-701f2321c89b",
+    "idDestino": "73871dfd-edf2-4192-98eb-9a88927798d3"
+  },
+  {
+    "codigo": 693,
+    "tipo": 22,
+    "peso": 48629,
+    "idOrigen": "b9e9b95b-def9-4d40-813a-859214527196",
+    "idDestino": "9f00f13e-dbdc-4df2-a1f2-74c8c1bc19d4"
+  },
+  {
+    "codigo": 961,
+    "tipo": 66,
+    "peso": 54876,
+    "idOrigen": "2a615893-3c43-44ac-ae65-194a6caa9135",
+    "idDestino": "88de9d18-50dd-480e-a271-b2cbe90ed619"
+  },
+  {
+    "codigo": 440,
+    "tipo": 13,
+    "peso": 59583,
+    "idOrigen": "4562ed93-1e5d-4333-8fed-f9939a8e72d3",
+    "idDestino": "d60a2b56-2c4b-4523-8460-e7294c410d11"
+  },
+  {
+    "codigo": 217,
+    "tipo": 23,
+    "peso": 82352,
+    "idOrigen": "4f2685a8-2608-448e-bb4c-0158317db226",
+    "idDestino": "f392ffa5-160b-44e2-9f37-afc140ca2083"
+  },
+  {
+    "codigo": 635,
+    "tipo": 90,
+    "peso": 62184,
+    "idOrigen": "88f37932-d380-42d9-b11e-79e4dfcb438c",
+    "idDestino": "113dbbf9-a78b-438e-b7be-a14c2710924f"
+  },
+  {
+    "codigo": 547,
+    "tipo": 40,
+    "peso": 89230,
+    "idOrigen": "3e0a979e-6797-4ea4-93d6-90b62635fbd7",
+    "idDestino": "92bfde8c-b6aa-4912-8417-0d7f116e3558"
+  },
+  {
+    "codigo": 648,
+    "tipo": 9,
+    "peso": 50017,
+    "idOrigen": "9816bb99-4bdb-434f-8851-0faa588346be",
+    "idDestino": "80d6a1d4-3a4c-4166-8323-54be57a6c5c4"
+  },
+  {
+    "codigo": 162,
+    "tipo": 53,
+    "peso": 20831,
+    "idOrigen": "e02ea7a9-38b7-430d-a73c-ae577f19d19c",
+    "idDestino": "4e11fc56-a239-46b2-9679-d615d5aa377d"
+  },
+  {
+    "codigo": 971,
+    "tipo": 51,
+    "peso": 32383,
+    "idOrigen": "dea1b307-8a32-4dd0-a7b6-35f708dd20fb",
+    "idDestino": "022f8ea0-27d3-4cf5-b87b-2fe609a84bad"
+  },
+  {
+    "codigo": 661,
+    "tipo": 70,
+    "peso": 48300,
+    "idOrigen": "5d25f937-d5e5-4bc6-af80-9cb0e48b55dd",
+    "idDestino": "5d761108-3015-4637-b4a8-895a18fb0911"
+  },
+  {
+    "codigo": 218,
+    "tipo": 1,
+    "peso": 49166,
+    "idOrigen": "43d4a531-4f61-4588-b0e5-b81c6638698a",
+    "idDestino": "12ea6c33-3e91-4de4-bcc5-1f9a4a70e932"
+  },
+  {
+    "codigo": 868,
+    "tipo": 46,
+    "peso": 98948,
+    "idOrigen": "6206c20a-8d55-48e1-bf6d-ca91249116c3",
+    "idDestino": "abff85aa-59f0-4095-8df6-d4182f25e5ce"
+  },
+  {
+    "codigo": 535,
+    "tipo": 76,
+    "peso": 93408,
+    "idOrigen": "ae721b2e-6c90-4a01-923e-6f4b77805346",
+    "idDestino": "a62656e6-3864-4d72-8fca-dfe9c7682dce"
+  },
+  {
+    "codigo": 785,
+    "tipo": 80,
+    "peso": 30039,
+    "idOrigen": "fcb31f04-17fe-412d-ae95-0fe631fec3ac",
+    "idDestino": "40655c9d-e0f0-44ca-89d1-f3290866b103"
+  },
+  {
+    "codigo": 605,
+    "tipo": 79,
+    "peso": 53991,
+    "idOrigen": "03222417-3c5e-4f3c-a578-5bc158bee803",
+    "idDestino": "cc7605ec-6fdb-4421-82eb-be4bd16c499f"
+  },
+  {
+    "codigo": 629,
+    "tipo": 44,
+    "peso": 94097,
+    "idOrigen": "f907a29d-9ec8-40e4-874e-767ae713c109",
+    "idDestino": "f4bada21-db80-40f1-a29d-e416652ef1f9"
+  },
+  {
+    "codigo": 876,
+    "tipo": 20,
+    "peso": 81424,
+    "idOrigen": "f1110f1a-a2b3-401c-ab17-44e2bfbb2938",
+    "idDestino": "decaa615-fe39-41b5-bf2a-af69eb9acbcc"
+  },
+  {
+    "codigo": 475,
+    "tipo": 80,
+    "peso": 85449,
+    "idOrigen": "d7c3683c-b741-4f13-9c4e-3ebfc834ca3d",
+    "idDestino": "47841ab0-6713-44aa-a719-a363ddbfeb07"
+  },
+  {
+    "codigo": 628,
+    "tipo": 5,
+    "peso": 41855,
+    "idOrigen": "9983a09d-9486-474d-bf68-5da13b2395c1",
+    "idDestino": "69a74a67-7373-404a-bc7a-2e0a6a7ca805"
+  },
+  {
+    "codigo": 967,
+    "tipo": 93,
+    "peso": 66227,
+    "idOrigen": "b1dd7fe7-ed2c-4f67-9ca3-41a39ad25be1",
+    "idDestino": "f6bc2ccf-4c02-40d7-ac70-0b9f872ba1f4"
+  },
+  {
+    "codigo": 375,
+    "tipo": 5,
+    "peso": 85570,
+    "idOrigen": "949dfccb-2eff-4950-be66-57c29aed2a8e",
+    "idDestino": "64371fe7-380e-4180-85bc-6b6ab153a274"
+  },
+  {
+    "codigo": 148,
+    "tipo": 99,
+    "peso": 10402,
+    "idOrigen": "d89cb13e-b0e3-488b-bcc8-8a7520c9fd58",
+    "idDestino": "e37e35e3-8220-4a7e-bfe1-e3233ca4504e"
+  },
+  {
+    "codigo": 112,
+    "tipo": 80,
+    "peso": 85805,
+    "idOrigen": "d6b0beba-46f1-4620-8885-4b248ab92d29",
+    "idDestino": "a64e88ee-dc73-4d45-9276-77ce68a3a902"
+  },
+  {
+    "codigo": 455,
+    "tipo": 37,
+    "peso": 95267,
+    "idOrigen": "4ab647e3-0010-41ea-a4be-a2ca4b38cd6b",
+    "idDestino": "c6c41032-a69f-4b79-a9f9-b6509743c60b"
+  },
+  {
+    "codigo": 504,
+    "tipo": 32,
+    "peso": 44922,
+    "idOrigen": "77d32572-93ec-46c7-8f2a-b485e95987a1",
+    "idDestino": "91182f08-e6ef-4e80-a736-42ee932ad862"
+  },
+  {
+    "codigo": 479,
+    "tipo": 46,
+    "peso": 92258,
+    "idOrigen": "29d3fcca-f947-4725-9bbc-1725fd28dde5",
+    "idDestino": "c3cbd9ea-d838-4919-942c-ef078ec1594d"
+  },
+  {
+    "codigo": 957,
+    "tipo": 40,
+    "peso": 23022,
+    "idOrigen": "0fc735f8-2f0f-46a6-98ec-5cad7a8f2f95",
+    "idDestino": "8ba2d489-f836-48dc-9dca-1c0d377f29a7"
+  },
+  {
+    "codigo": 441,
+    "tipo": 10,
+    "peso": 9721,
+    "idOrigen": "39159c35-f779-4188-9955-47d09307edc9",
+    "idDestino": "8f05e688-a5c5-41ae-a67a-47f4b650219d"
+  },
+  {
+    "codigo": 332,
+    "tipo": 7,
+    "peso": 62305,
+    "idOrigen": "7a6dc957-40ec-474d-bd47-18def208c6da",
+    "idDestino": "9299e83d-0837-4252-abd7-69c60cfc68a2"
+  },
+  {
+    "codigo": 621,
+    "tipo": 6,
+    "peso": 16315,
+    "idOrigen": "877df097-5d24-4c15-84b5-54d8d726b799",
+    "idDestino": "f768fb10-b1b2-404a-bc7d-d10ea3712324"
+  },
+  {
+    "codigo": 296,
+    "tipo": 16,
+    "peso": 29450,
+    "idOrigen": "8d9afadb-5a66-4154-875a-c44baca71b1b",
+    "idDestino": "b34c8b39-75e5-4c79-b0d2-8dcf8427c455"
+  },
+  {
+    "codigo": 987,
+    "tipo": 55,
+    "peso": 52447,
+    "idOrigen": "f7356c61-acbd-4fa2-ace9-36e9491c1d12",
+    "idDestino": "79cd53f2-d474-423f-8ae2-d8fd3aea309d"
+  },
+  {
+    "codigo": 858,
+    "tipo": 94,
+    "peso": 58099,
+    "idOrigen": "7a3b4a8b-d352-4c44-b958-75de8560ec21",
+    "idDestino": "dbc00350-5220-420a-8d8c-45467da96d6c"
+  },
+  {
+    "codigo": 312,
+    "tipo": 10,
+    "peso": 95816,
+    "idOrigen": "798e6857-ee97-41c2-94e3-ea520c9d46f3",
+    "idDestino": "c26e2410-d328-4dff-97f5-102e0ca566eb"
+  },
+  {
+    "codigo": 777,
+    "tipo": 83,
+    "peso": 52279,
+    "idOrigen": "d431e0aa-5ae2-4073-8d86-fd24b86a8db3",
+    "idDestino": "bb6df935-874e-4fd4-b811-e77ab3d9842f"
+  },
+  {
+    "codigo": 694,
+    "tipo": 28,
+    "peso": 97302,
+    "idOrigen": "dbe91f6f-e0ec-4cb0-b98d-16f574f48374",
+    "idDestino": "c5098057-5cc4-4b06-8420-181cacffe51e"
+  },
+  {
+    "codigo": 648,
+    "tipo": 41,
+    "peso": 99540,
+    "idOrigen": "613d65f7-71f3-4b64-8a51-5da5779c6192",
+    "idDestino": "2ce84936-f96a-47d6-a578-ee167e07ec34"
+  },
+  {
+    "codigo": 857,
+    "tipo": 79,
+    "peso": 87733,
+    "idOrigen": "ef22dd5c-e3a3-4be9-9817-4eb53cd3f81c",
+    "idDestino": "3d02595a-5b75-411f-868a-a3145b113859"
+  },
+  {
+    "codigo": 249,
+    "tipo": 88,
+    "peso": 70672,
+    "idOrigen": "f6ea6265-f346-469a-b026-4d9ff361a1de",
+    "idDestino": "3d32a1bb-5b94-495a-b8ed-0c54fcd35d15"
+  },
+  {
+    "codigo": 377,
+    "tipo": 61,
+    "peso": 21539,
+    "idOrigen": "44b9530a-5b95-4202-8300-164cbf71f322",
+    "idDestino": "7ac08ce8-8dee-48c3-8748-01b6f2c1f6b1"
+  },
+  {
+    "codigo": 310,
+    "tipo": 39,
+    "peso": 9810,
+    "idOrigen": "5e584028-bd60-4ccc-bdc0-b16b35e11c77",
+    "idDestino": "0570f930-33c4-42a1-87e7-a1fb7c590390"
+  },
+  {
+    "codigo": 400,
+    "tipo": 93,
+    "peso": 45532,
+    "idOrigen": "a8c33538-32e7-46a4-b425-17088865010b",
+    "idDestino": "9613dd89-16a5-4c96-a376-833f72fd5e88"
+  },
+  {
+    "codigo": 529,
+    "tipo": 92,
+    "peso": 69275,
+    "idOrigen": "f3cd5dc1-3c41-40ea-b634-f9c95df32f34",
+    "idDestino": "eda58cb6-ca8a-483e-98b0-9c31f53eaadc"
+  },
+  {
+    "codigo": 501,
+    "tipo": 67,
+    "peso": 98469,
+    "idOrigen": "a73b371b-8995-4f9e-83cb-933c44d640cb",
+    "idDestino": "ff319f7f-6d93-4186-b5b7-c02e6656e56e"
+  },
+  {
+    "codigo": 580,
+    "tipo": 33,
+    "peso": 14757,
+    "idOrigen": "b6af0597-a1cb-454e-b012-d4b0070e6b6f",
+    "idDestino": "566dc87b-bf93-4497-8c6e-be8651823086"
+  },
+  {
+    "codigo": 724,
+    "tipo": 6,
+    "peso": 71565,
+    "idOrigen": "84de593e-16dd-4ae9-9af2-4fae0b1335a7",
+    "idDestino": "cbce600d-bbb4-4b74-806f-128d1550349d"
+  },
+  {
+    "codigo": 508,
+    "tipo": 76,
+    "peso": 74411,
+    "idOrigen": "8c1c3ccb-d07e-422c-bd56-f8cb1946b7e2",
+    "idDestino": "4f67647e-3afa-43b6-abcb-a638e0299061"
+  },
+  {
+    "codigo": 825,
+    "tipo": 67,
+    "peso": 92122,
+    "idOrigen": "c2fa39cc-abe4-45e7-9f5c-db695c4051a2",
+    "idDestino": "f546f064-f635-4cfa-98d4-95d820e5c702"
+  },
+  {
+    "codigo": 810,
+    "tipo": 29,
+    "peso": 45421,
+    "idOrigen": "6c8c5f47-52e2-40ad-bdd9-fe0fc64312ef",
+    "idDestino": "5fa62965-8c78-4b71-97f9-3042df085fda"
+  },
+  {
+    "codigo": 715,
+    "tipo": 49,
+    "peso": 87839,
+    "idOrigen": "7ccf7dd8-9c58-41a5-b551-819cb5e61e2a",
+    "idDestino": "8abab863-d172-46ba-98f1-bb23916a87e4"
+  },
+  {
+    "codigo": 254,
+    "tipo": 76,
+    "peso": 49924,
+    "idOrigen": "7dd720c4-ca9a-4e2e-bfac-313538f8d332",
+    "idDestino": "b250f911-602e-4e87-b878-95e0236b86f2"
+  },
+  {
+    "codigo": 405,
+    "tipo": 43,
+    "peso": 57448,
+    "idOrigen": "bd0bcec9-4360-4155-a500-d3c769c74c50",
+    "idDestino": "0a0f0fb5-cb01-4ad9-975d-d1422997a6c2"
+  },
+  {
+    "codigo": 197,
+    "tipo": 81,
+    "peso": 96425,
+    "idOrigen": "559a56cf-7e79-4c27-b176-3d27b2e49824",
+    "idDestino": "2c9dae98-380e-4b1a-9679-500c4d20d6b1"
+  },
+  {
+    "codigo": 429,
+    "tipo": 72,
+    "peso": 94170,
+    "idOrigen": "91833d63-8659-4b7e-9752-ed7698d63c3e",
+    "idDestino": "c0ab2fd1-bea7-4db2-917e-efd11cd9c689"
+  },
+  {
+    "codigo": 805,
+    "tipo": 41,
+    "peso": 34258,
+    "idOrigen": "5f75029d-5644-4c09-82b7-2759060643d3",
+    "idDestino": "74daf850-c253-4495-b441-a5b65740e921"
+  },
+  {
+    "codigo": 693,
+    "tipo": 31,
+    "peso": 88340,
+    "idOrigen": "0f3582de-2b1d-4995-9968-7b8fa2e9f131",
+    "idDestino": "44ae7b3c-82e5-4938-9e66-4232627a9c2b"
+  },
+  {
+    "codigo": 346,
+    "tipo": 18,
+    "peso": 98652,
+    "idOrigen": "22eaf912-11b0-42d9-aaba-39d0acf4a743",
+    "idDestino": "94000f78-6024-4dc0-806b-fc414a2e8c07"
+  },
+  {
+    "codigo": 686,
+    "tipo": 35,
+    "peso": 71115,
+    "idOrigen": "b20949e4-e16e-4caf-99b8-02a0c21451fa",
+    "idDestino": "687d1e7f-0cea-4b36-a44a-0cd075c7d29d"
+  },
+  {
+    "codigo": 988,
+    "tipo": 33,
+    "peso": 89713,
+    "idOrigen": "3999a766-9033-41a4-8293-907f45cc824b",
+    "idDestino": "582adfc9-e634-4135-8e18-f5ca54a1137a"
+  },
+  {
+    "codigo": 482,
+    "tipo": 80,
+    "peso": 25433,
+    "idOrigen": "d1c17139-08b1-4c7a-ae7a-97b2f9f3f698",
+    "idDestino": "85f75260-d7c7-4c20-86fb-cad1c64063ce"
+  },
+  {
+    "codigo": 897,
+    "tipo": 47,
+    "peso": 92468,
+    "idOrigen": "1d908add-437d-4077-af4d-de999f4d1da3",
+    "idDestino": "b663ed2c-2c48-49ee-8bba-f4286828ff6c"
+  },
+  {
+    "codigo": 151,
+    "tipo": 46,
+    "peso": 3937,
+    "idOrigen": "1d4ba7ed-12f5-4d9b-be6f-3a909bb1da47",
+    "idDestino": "7c795fe9-d312-4bdf-8ccf-97b3be508a66"
+  },
+  {
+    "codigo": 211,
+    "tipo": 66,
+    "peso": 96476,
+    "idOrigen": "daf46325-07d1-4090-8088-0cc8bb107bda",
+    "idDestino": "cc030bed-4835-4dee-a4ad-c23b3a2a93f9"
+  },
+  {
+    "codigo": 610,
+    "tipo": 70,
+    "peso": 26385,
+    "idOrigen": "47462cf0-ba4f-4816-ace7-40daed69fe64",
+    "idDestino": "aa356195-d037-4e38-9d9c-564df582e47e"
+  },
+  {
+    "codigo": 935,
+    "tipo": 75,
+    "peso": 84323,
+    "idOrigen": "afdb5630-a1f9-4584-b33f-30dc3d7939c2",
+    "idDestino": "c135fbc1-b5c2-4b77-b9d0-25a7cabcb6a6"
+  },
+  {
+    "codigo": 288,
+    "tipo": 48,
+    "peso": 7868,
+    "idOrigen": "485f57bd-dc2e-4eba-bd37-5fafb01a0ea1",
+    "idDestino": "a66c2d33-3f04-42ed-aba3-06eefa845cac"
+  },
+  {
+    "codigo": 633,
+    "tipo": 28,
+    "peso": 4507,
+    "idOrigen": "895ed416-a50e-455e-a991-0ace0de04d8d",
+    "idDestino": "ef108c65-2b27-4d0e-a755-dea10a8c857f"
+  },
+  {
+    "codigo": 945,
+    "tipo": 83,
+    "peso": 55678,
+    "idOrigen": "e412a034-2cf1-4841-b27f-0d536caf1618",
+    "idDestino": "22a28dc2-9530-47a6-a6f2-f081ccc634f4"
+  },
+  {
+    "codigo": 933,
+    "tipo": 47,
+    "peso": 7257,
+    "idOrigen": "88c4d450-af9a-497a-90a0-54f3b0e40a53",
+    "idDestino": "7f0b63f6-7fb9-43d0-a387-6a12fe975213"
+  },
+  {
+    "codigo": 984,
+    "tipo": 27,
+    "peso": 5322,
+    "idOrigen": "81324f8d-62d4-48d5-9ada-7a6e9e38cd77",
+    "idDestino": "f682b236-1a10-48c0-86c6-3aaa5e0b3431"
+  },
+  {
+    "codigo": 448,
+    "tipo": 45,
+    "peso": 96292,
+    "idOrigen": "146bc04c-da9b-4ae7-b5ca-887ea87517af",
+    "idDestino": "d51e66e9-5ce2-4889-a57d-8ca9e687c4b7"
+  },
+  {
+    "codigo": 470,
+    "tipo": 23,
+    "peso": 76833,
+    "idOrigen": "b5c480ee-54b1-48ed-b439-633269118c6d",
+    "idDestino": "5bad941d-d212-4ff6-b9f7-12d317e9be7c"
+  },
+  {
+    "codigo": 223,
+    "tipo": 20,
+    "peso": 1628,
+    "idOrigen": "482b6aaa-7218-46a2-8527-83e413cfb622",
+    "idDestino": "69a512ea-9811-452d-b5bd-d0a83fed02f7"
+  },
+  {
+    "codigo": 866,
+    "tipo": 81,
+    "peso": 36595,
+    "idOrigen": "9860c6c1-083c-47f4-b198-6094b1fb5c17",
+    "idDestino": "14e5da00-c209-4ee6-bf5a-5002485da2bc"
+  },
+  {
+    "codigo": 662,
+    "tipo": 25,
+    "peso": 55238,
+    "idOrigen": "64754930-5c3b-49d9-bba2-2a3bb91ee0be",
+    "idDestino": "c3f06c7d-ea78-402c-97e7-9ce783a953e4"
+  },
+  {
+    "codigo": 467,
+    "tipo": 30,
+    "peso": 34977,
+    "idOrigen": "165cdf80-b652-4e09-8d62-199b6820a40b",
+    "idDestino": "dbd9b236-2026-49a0-b3a4-57510e4dcbdf"
+  },
+  {
+    "codigo": 918,
+    "tipo": 10,
+    "peso": 69442,
+    "idOrigen": "3fcbaae6-efe1-4558-88d8-22cab6f611f9",
+    "idDestino": "9993fe4c-3021-4886-9af2-7a90256c5e7d"
+  },
+  {
+    "codigo": 894,
+    "tipo": 4,
+    "peso": 69309,
+    "idOrigen": "91873e91-e5f3-4a62-ad98-d7e86bbc6d10",
+    "idDestino": "c8d1e76f-476b-42cd-9445-166eea5e6588"
+  },
+  {
+    "codigo": 732,
+    "tipo": 25,
+    "peso": 13628,
+    "idOrigen": "263030c8-5b57-45a0-a4a9-898f40ba4579",
+    "idDestino": "90275cf5-09f5-49ba-b3c6-979422656412"
+  },
+  {
+    "codigo": 737,
+    "tipo": 89,
+    "peso": 66959,
+    "idOrigen": "d9b9af65-e15c-4bb0-badf-c82c9ab65b42",
+    "idDestino": "4f7a26a1-05cd-473b-8897-313ce51f3a0b"
+  },
+  {
+    "codigo": 874,
+    "tipo": 37,
+    "peso": 67772,
+    "idOrigen": "b5589395-f38e-4fee-89e4-6f15a57dad3a",
+    "idDestino": "a924b131-2774-4108-9a42-1142f8a90c73"
+  },
+  {
+    "codigo": 934,
+    "tipo": 36,
+    "peso": 11382,
+    "idOrigen": "61af2d32-eb01-4de6-8531-cc3d46db99a6",
+    "idDestino": "8b14d7f9-d02b-4333-ac42-58def6e9cda1"
+  },
+  {
+    "codigo": 197,
+    "tipo": 35,
+    "peso": 76673,
+    "idOrigen": "1826b53a-226e-46e1-8d8c-2b4d8535eca0",
+    "idDestino": "d04835f4-e898-4deb-bbc9-37900807b266"
+  },
+  {
+    "codigo": 680,
+    "tipo": 67,
+    "peso": 24965,
+    "idOrigen": "5b4030ec-16d4-4220-ba26-2dcf8ba17dd8",
+    "idDestino": "e33cc16b-82a1-41a4-a2e4-4c43495c8b52"
+  },
+  {
+    "codigo": 509,
+    "tipo": 93,
+    "peso": 51594,
+    "idOrigen": "a0e18398-33f9-43c3-afff-a6793fc7133d",
+    "idDestino": "791d54dc-9c43-445f-a216-eaeaf337efe6"
+  },
+  {
+    "codigo": 125,
+    "tipo": 81,
+    "peso": 5739,
+    "idOrigen": "5c3226cc-f7e6-4cb1-af01-22c29722e3b1",
+    "idDestino": "cb14ab15-7e7c-48d1-96ed-d9515d844050"
+  },
+  {
+    "codigo": 926,
+    "tipo": 62,
+    "peso": 83431,
+    "idOrigen": "b90d9f37-b657-4288-8dbe-b15d3e875705",
+    "idDestino": "7c586626-c707-4e78-b621-deb39ab96c34"
+  },
+  {
+    "codigo": 414,
+    "tipo": 29,
+    "peso": 55016,
+    "idOrigen": "6ca37f2b-27d6-4a39-a2db-ed4d9a331b60",
+    "idDestino": "440936c0-71b4-4803-97a1-ec2c2388d1b2"
+  },
+  {
+    "codigo": 611,
+    "tipo": 90,
+    "peso": 30564,
+    "idOrigen": "7a57846f-89d6-4908-a31f-72371813edfe",
+    "idDestino": "4d8c053d-4c85-4d03-9298-615098cba15a"
+  },
+  {
+    "codigo": 297,
+    "tipo": 51,
+    "peso": 63694,
+    "idOrigen": "8739c50f-3a70-4b50-85af-215b355e8a95",
+    "idDestino": "b8b09a27-8fed-4d51-98c7-fe403fa3e99a"
+  },
+  {
+    "codigo": 415,
+    "tipo": 26,
+    "peso": 36855,
+    "idOrigen": "ad84ebdf-e335-4bf2-8666-172a90b34ca0",
+    "idDestino": "5e17d92e-d369-4c41-a551-d0a864b7944c"
+  },
+  {
+    "codigo": 630,
+    "tipo": 59,
+    "peso": 95798,
+    "idOrigen": "4f8a63d3-e14c-4f69-ab5d-09694a8bd77e",
+    "idDestino": "7a8c6568-cb16-457c-bca8-aefd29070591"
+  },
+  {
+    "codigo": 188,
+    "tipo": 17,
+    "peso": 32751,
+    "idOrigen": "66a6cc13-fb60-4d67-b970-926b9a8a55fc",
+    "idDestino": "4b3c3051-0f65-4ee9-adec-8abb63fda252"
+  },
+  {
+    "codigo": 645,
+    "tipo": 50,
+    "peso": 73149,
+    "idOrigen": "6c2350ed-21db-42b8-b65a-a8afbcd4629e",
+    "idDestino": "cda908cb-6675-461c-abf4-7a522f253e20"
+  },
+  {
+    "codigo": 891,
+    "tipo": 82,
+    "peso": 97441,
+    "idOrigen": "53f3b0dd-5f9d-45c8-a704-dff1116be50f",
+    "idDestino": "81b3fcef-3f2e-4813-b21d-7259e0e8f684"
+  },
+  {
+    "codigo": 894,
+    "tipo": 17,
+    "peso": 65782,
+    "idOrigen": "3645476e-5ea2-454d-8d92-ac49e536d5d8",
+    "idDestino": "3f532f61-eaf1-428b-a5ca-f1531c4a4f2e"
+  },
+  {
+    "codigo": 235,
+    "tipo": 90,
+    "peso": 91263,
+    "idOrigen": "052b247e-d82e-4ccd-baa8-494eedfe2c25",
+    "idDestino": "c05ab3cf-549f-4729-aa65-20e0951b7aa6"
+  },
+  {
+    "codigo": 792,
+    "tipo": 34,
+    "peso": 49678,
+    "idOrigen": "b9f50df5-fd22-4645-8df4-e5720a359b81",
+    "idDestino": "62006172-1fc7-43ab-8de6-36285fca63de"
+  },
+  {
+    "codigo": 432,
+    "tipo": 57,
+    "peso": 21296,
+    "idOrigen": "8a20e659-9419-4c2f-9e52-acf87bc9f6ca",
+    "idDestino": "3f33c62e-85e8-4fca-a174-586840d25d64"
+  },
+  {
+    "codigo": 873,
+    "tipo": 58,
+    "peso": 68776,
+    "idOrigen": "12ceb85e-7076-41ba-b17e-aac53c3aa517",
+    "idDestino": "88dd8c4b-10e8-43ba-b4d7-ea61a9b89682"
+  },
+  {
+    "codigo": 461,
+    "tipo": 78,
+    "peso": 81388,
+    "idOrigen": "ea5532c4-208a-445f-b4f9-df7b56413bf1",
+    "idDestino": "19b12542-f558-4875-887e-d69c858f11d9"
+  },
+  {
+    "codigo": 478,
+    "tipo": 67,
+    "peso": 2972,
+    "idOrigen": "a422ca37-52bb-4464-be59-4e3e2a1adf33",
+    "idDestino": "b42d936c-ec10-44cc-8dcb-626ee8a7fbad"
+  },
+  {
+    "codigo": 828,
+    "tipo": 81,
+    "peso": 84518,
+    "idOrigen": "30ad0387-2395-4112-895f-842e70bd7bd5",
+    "idDestino": "fda7e9ff-cfaf-40fd-82e0-42554ee27edf"
+  },
+  {
+    "codigo": 539,
+    "tipo": 49,
+    "peso": 70883,
+    "idOrigen": "7ff10d38-8384-42dd-abd9-34126b9a2ea0",
+    "idDestino": "928a6593-de83-4a4d-9965-1e0b9d8b1cde"
+  },
+  {
+    "codigo": 928,
+    "tipo": 97,
+    "peso": 46584,
+    "idOrigen": "24f833b0-1bf3-4953-ac8f-724a5591b337",
+    "idDestino": "548fbbd9-6d61-45f9-8a38-7d614ff9ce75"
+  },
+  {
+    "codigo": 257,
+    "tipo": 20,
+    "peso": 91216,
+    "idOrigen": "599b73df-41bc-4b46-892a-2d1cf723c4e6",
+    "idDestino": "3506d32e-55b6-4ec8-9788-f39df723c6f9"
+  },
+  {
+    "codigo": 836,
+    "tipo": 24,
+    "peso": 68170,
+    "idOrigen": "a9de5118-7429-45af-914e-bc20ef028624",
+    "idDestino": "6234acd8-2c0b-4237-98ea-84806bb1596f"
+  },
+  {
+    "codigo": 595,
+    "tipo": 89,
+    "peso": 37074,
+    "idOrigen": "8fa0da68-5bb5-40b9-a7c8-59d73ddf660d",
+    "idDestino": "9d2c3b63-b17f-471d-a58a-f5f82d800577"
+  },
+  {
+    "codigo": 713,
+    "tipo": 46,
+    "peso": 20142,
+    "idOrigen": "736a5f64-8f0a-48ae-9857-96d9652c24e8",
+    "idDestino": "b04a632f-e5eb-4f7f-b494-46fe7ac9fca9"
+  },
+  {
+    "codigo": 767,
+    "tipo": 9,
+    "peso": 32394,
+    "idOrigen": "cfa4a09a-2656-42ff-83fc-045371669fc0",
+    "idDestino": "e0028f7b-fb37-4f6b-aa7a-db2225cd05ea"
+  },
+  {
+    "codigo": 392,
+    "tipo": 41,
+    "peso": 69553,
+    "idOrigen": "60ff0c0b-032d-4092-b6dd-7db6e2566e0b",
+    "idDestino": "7230c426-4587-48d8-996e-1e2493a2ad89"
+  },
+  {
+    "codigo": 819,
+    "tipo": 43,
+    "peso": 10544,
+    "idOrigen": "1ddc285f-559d-4cf4-9076-19d0429a78c4",
+    "idDestino": "604bfd77-9185-44a7-abec-bb0581f0e1c0"
+  },
+  {
+    "codigo": 289,
+    "tipo": 60,
+    "peso": 23848,
+    "idOrigen": "2f104e13-a41f-4630-877c-a44fb4311f7c",
+    "idDestino": "14a3cbd9-2eca-40b4-b28e-b7a54b091142"
+  },
+  {
+    "codigo": 568,
+    "tipo": 31,
+    "peso": 19614,
+    "idOrigen": "b491a618-f819-469a-81ad-f543fc9bb636",
+    "idDestino": "0d713f7a-09c4-453c-ad17-b6137b9a78db"
+  },
+  {
+    "codigo": 106,
+    "tipo": 32,
+    "peso": 93625,
+    "idOrigen": "4788109a-beac-4021-8ca9-be14d7953060",
+    "idDestino": "14a54eb2-3bec-42c5-acdb-4254ca2fa959"
+  },
+  {
+    "codigo": 658,
+    "tipo": 84,
+    "peso": 42618,
+    "idOrigen": "9ba3c025-1e52-445b-8f46-b8a4d35d74b1",
+    "idDestino": "15f39560-ce60-4756-aef1-f096e84f2a31"
+  },
+  {
+    "codigo": 172,
+    "tipo": 19,
+    "peso": 21601,
+    "idOrigen": "f39c2ec3-9087-4345-a826-007d4a984fbe",
+    "idDestino": "ab683372-d9cf-4c66-a855-da5efe6e8f15"
+  },
+  {
+    "codigo": 826,
+    "tipo": 22,
+    "peso": 69796,
+    "idOrigen": "c38e7d07-1ea4-4a25-b229-c60f831bca2f",
+    "idDestino": "151fd443-c321-4410-b64d-90a854b8c44d"
+  },
+  {
+    "codigo": 824,
+    "tipo": 55,
+    "peso": 51393,
+    "idOrigen": "4108249d-7465-40d4-867a-94b0c60996e5",
+    "idDestino": "11a70573-bb62-4d07-9420-82b6cb199ba7"
+  },
+  {
+    "codigo": 577,
+    "tipo": 52,
+    "peso": 14063,
+    "idOrigen": "d8944368-af01-41e1-8412-ce7d078a4f48",
+    "idDestino": "4da4657b-0764-4668-b965-0abfb597f784"
+  },
+  {
+    "codigo": 112,
+    "tipo": 62,
+    "peso": 52964,
+    "idOrigen": "4c276cb4-59ad-49cf-a328-429f1aad9843",
+    "idDestino": "f2d41333-c55c-4ae9-acf9-7f3673f37c21"
+  },
+  {
+    "codigo": 630,
+    "tipo": 36,
+    "peso": 16894,
+    "idOrigen": "0347de73-aab2-4c59-9473-177bccb316bf",
+    "idDestino": "642b34cb-446c-464c-9365-06d82eead5cb"
+  },
+  {
+    "codigo": 715,
+    "tipo": 70,
+    "peso": 44598,
+    "idOrigen": "caf735dd-4b29-4fdf-86fa-2eaeb63bfb63",
+    "idDestino": "1644d135-1e2b-4e60-8463-3cc2bdec6afc"
+  },
+  {
+    "codigo": 975,
+    "tipo": 9,
+    "peso": 61714,
+    "idOrigen": "99743911-f79d-4dd7-8ab0-6748686538ff",
+    "idDestino": "c684377f-c3b6-45c1-a546-371133dd2ef2"
+  },
+  {
+    "codigo": 308,
+    "tipo": 66,
+    "peso": 74896,
+    "idOrigen": "fcba9fe2-42e8-4338-9f6b-4f82128af2d5",
+    "idDestino": "7b9802a7-2ced-4e1b-812d-46c23ca88caa"
+  },
+  {
+    "codigo": 341,
+    "tipo": 76,
+    "peso": 9341,
+    "idOrigen": "e48714e0-6e85-459c-8e77-ca9cc0e61532",
+    "idDestino": "bceb9d5c-9cf5-4b80-91d1-e966d5908d00"
+  },
+  {
+    "codigo": 704,
+    "tipo": 4,
+    "peso": 6930,
+    "idOrigen": "6e21082a-4a88-4333-a7c5-6575bf9c9828",
+    "idDestino": "d1f0ea70-60da-4544-9d69-4431e421be61"
+  },
+  {
+    "codigo": 682,
+    "tipo": 45,
+    "peso": 34068,
+    "idOrigen": "a70d9457-c6b6-429a-b7d5-fc1207078f9d",
+    "idDestino": "0b7a9556-875a-416c-b9d0-5aebac975e50"
+  },
+  {
+    "codigo": 641,
+    "tipo": 42,
+    "peso": 88972,
+    "idOrigen": "54dd5182-c055-4aa6-be3d-6e1ddb9e2e82",
+    "idDestino": "2e016a13-107e-4f45-861e-69ab9547dd88"
+  },
+  {
+    "codigo": 109,
+    "tipo": 87,
+    "peso": 64321,
+    "idOrigen": "4020c7c4-75a9-4219-a1a5-7455eb3571d2",
+    "idDestino": "17ff5fb6-0912-47c3-bf69-246440e6a64e"
+  },
+  {
+    "codigo": 132,
+    "tipo": 88,
+    "peso": 70544,
+    "idOrigen": "6659dfba-f954-404b-a98a-4575d5fff803",
+    "idDestino": "a2b1b524-c047-4e24-aa65-7e859c34fb75"
+  },
+  {
+    "codigo": 234,
+    "tipo": 3,
+    "peso": 74200,
+    "idOrigen": "24366ed4-fa5b-4881-a09f-10cec8a58090",
+    "idDestino": "092e5885-a13e-4b95-bd0a-32d522f692b7"
+  },
+  {
+    "codigo": 926,
+    "tipo": 76,
+    "peso": 21598,
+    "idOrigen": "0e15e9b3-6064-4d3a-b490-6dbaf1ddfb21",
+    "idDestino": "9e1ed44a-9ee4-4ce5-99e0-b4681883c46f"
+  },
+  {
+    "codigo": 248,
+    "tipo": 30,
+    "peso": 82472,
+    "idOrigen": "dae3f0bf-b964-4922-896b-3054d6ffcef6",
+    "idDestino": "d32ff8fc-9717-4bc4-ac1a-4dab657499b2"
+  },
+  {
+    "codigo": 261,
+    "tipo": 56,
+    "peso": 99387,
+    "idOrigen": "73bb8947-c82b-4d70-bbd1-3027f8629ef8",
+    "idDestino": "08679ffc-a3d9-4b75-8d0a-1d806ae7e4dd"
+  },
+  {
+    "codigo": 450,
+    "tipo": 90,
+    "peso": 37914,
+    "idOrigen": "64448c56-8dfd-49db-b6f5-5addd43b03cf",
+    "idDestino": "d681569a-e3d1-4efb-8501-d29416fc0379"
+  },
+  {
+    "codigo": 363,
+    "tipo": 89,
+    "peso": 62370,
+    "idOrigen": "85af9ba1-b33c-4620-afd1-24e05a8abf45",
+    "idDestino": "97a6e03d-73b6-424f-a857-473003c5b7a1"
+  },
+  {
+    "codigo": 731,
+    "tipo": 70,
+    "peso": 22551,
+    "idOrigen": "428734d3-fd15-49f3-89c2-63ad307355f6",
+    "idDestino": "b4c16912-5bc1-49d1-b273-aba6a50dc658"
+  },
+  {
+    "codigo": 369,
+    "tipo": 42,
+    "peso": 35952,
+    "idOrigen": "b28e7e40-98ae-4bb9-b89e-a1cf83e5c467",
+    "idDestino": "bac2071c-4bd0-40d2-95ce-ac5f3ac3ff07"
+  },
+  {
+    "codigo": 267,
+    "tipo": 25,
+    "peso": 25567,
+    "idOrigen": "8ea40805-39a7-4ea8-ae4f-127e687e3f83",
+    "idDestino": "5adb28de-9fe9-4c95-bedb-fe00f301fbb6"
+  },
+  {
+    "codigo": 929,
+    "tipo": 34,
+    "peso": 16690,
+    "idOrigen": "274c29c8-78f4-410b-b4ad-48a35d16ac4c",
+    "idDestino": "211e59f3-5921-4cab-85bc-5155980e5cdc"
+  },
+  {
+    "codigo": 766,
+    "tipo": 87,
+    "peso": 1707,
+    "idOrigen": "e463bbc6-c350-475c-a29d-2bef1092310b",
+    "idDestino": "e780b819-4613-44a1-8de4-ee8eb02a39c1"
+  },
+  {
+    "codigo": 966,
+    "tipo": 93,
+    "peso": 39162,
+    "idOrigen": "66b49d3e-5b12-4aa9-b83c-f8f11c8f58ae",
+    "idDestino": "5da95010-180f-460b-89a8-615e4ba5b4cf"
+  },
+  {
+    "codigo": 204,
+    "tipo": 58,
+    "peso": 47857,
+    "idOrigen": "4b2db03f-7c05-432f-acc5-8cb15ff312ca",
+    "idDestino": "567e54ee-1f74-4495-84c4-eadc358ad700"
+  },
+  {
+    "codigo": 829,
+    "tipo": 30,
+    "peso": 13609,
+    "idOrigen": "562a5963-6d87-4779-8f67-274cd745c339",
+    "idDestino": "4ce70c07-6a89-4ca6-9de3-f9178aa5cb79"
+  },
+  {
+    "codigo": 685,
+    "tipo": 2,
+    "peso": 14131,
+    "idOrigen": "c35c23a7-ecc8-4acb-99d0-6379a9a33c5c",
+    "idDestino": "20e9de0c-495e-4758-a3a3-44b7737ea73b"
+  },
+  {
+    "codigo": 874,
+    "tipo": 31,
+    "peso": 91820,
+    "idOrigen": "d5851c49-d355-485e-97e4-0db8ab59bfc2",
+    "idDestino": "55af5fef-6f1d-4211-b7a9-df85b4005313"
+  },
+  {
+    "codigo": 480,
+    "tipo": 7,
+    "peso": 94728,
+    "idOrigen": "13f17854-2d75-4014-a017-202840848002",
+    "idDestino": "61403d5f-fa5c-4baa-b788-9364c090e603"
+  },
+  {
+    "codigo": 768,
+    "tipo": 61,
+    "peso": 29894,
+    "idOrigen": "b9eb999d-f9b3-42e1-a60b-98ac4202df5b",
+    "idDestino": "4c28dd1f-8dc7-4940-869f-94a9365ef854"
+  },
+  {
+    "codigo": 836,
+    "tipo": 24,
+    "peso": 65320,
+    "idOrigen": "8afa5959-1a88-4899-90b0-efd35b693678",
+    "idDestino": "7240736d-97b1-472e-b254-91aec3b0a294"
+  },
+  {
+    "codigo": 453,
+    "tipo": 19,
+    "peso": 60671,
+    "idOrigen": "cd9758f7-6fea-41a8-8af4-66669be5cbc8",
+    "idDestino": "7ea2caf7-0d0a-4d43-b5c0-11ced387fa25"
+  },
+  {
+    "codigo": 786,
+    "tipo": 73,
+    "peso": 75833,
+    "idOrigen": "c1028448-d8ab-475e-ae8b-ff3cacc3dfce",
+    "idDestino": "af14ad4e-0b96-4804-b079-6605b65f372a"
+  },
+  {
+    "codigo": 155,
+    "tipo": 97,
+    "peso": 13700,
+    "idOrigen": "fcd2b419-6e4d-43c3-a21c-4b0520fb8625",
+    "idDestino": "7d1b60f9-c979-4110-8b90-f2df28c932a2"
+  },
+  {
+    "codigo": 297,
+    "tipo": 80,
+    "peso": 60609,
+    "idOrigen": "3b63a11b-eeeb-4925-8126-84e381fd4145",
+    "idDestino": "98c8453b-08ab-4026-876d-d622f47000ff"
+  },
+  {
+    "codigo": 533,
+    "tipo": 6,
+    "peso": 68569,
+    "idOrigen": "ad5c53af-317e-4f2d-8b1f-32972d3bbecb",
+    "idDestino": "70cd8f9f-3735-4013-a23c-f56e5f3f84f8"
+  },
+  {
+    "codigo": 489,
+    "tipo": 6,
+    "peso": 29660,
+    "idOrigen": "8eb39a97-d173-441c-b7dd-fe47f42cb8e8",
+    "idDestino": "3826d488-f25b-46cd-b505-c17b7db884a2"
+  },
+  {
+    "codigo": 883,
+    "tipo": 64,
+    "peso": 14663,
+    "idOrigen": "f75528c3-f019-474e-a39c-b9d2a46fa106",
+    "idDestino": "f6d58813-dca1-434b-8c75-4dff28af4fd7"
+  },
+  {
+    "codigo": 859,
+    "tipo": 48,
+    "peso": 11256,
+    "idOrigen": "07e117c0-8180-4675-b484-8406b7b81f49",
+    "idDestino": "2ae7ca26-6bd8-4cff-9026-0210e6cc47cd"
+  },
+  {
+    "codigo": 331,
+    "tipo": 46,
+    "peso": 68662,
+    "idOrigen": "b4e22e44-7fa4-4fea-a8ac-6729c94b1710",
+    "idDestino": "e3be5376-67e4-4027-a01b-40534279dd9b"
+  },
+  {
+    "codigo": 826,
+    "tipo": 87,
+    "peso": 17506,
+    "idOrigen": "02c3f2be-2c15-4cbb-8f22-c68834f4a722",
+    "idDestino": "6b7461be-4694-4d8c-86a7-4d52e3be6924"
+  },
+  {
+    "codigo": 195,
+    "tipo": 67,
+    "peso": 70579,
+    "idOrigen": "b3b1476b-8bef-42a3-bb1f-99a8284b51da",
+    "idDestino": "08947a09-f3bc-4d78-9248-9c249cc49899"
+  },
+  {
+    "codigo": 599,
+    "tipo": 69,
+    "peso": 63589,
+    "idOrigen": "e4f28a2e-e8e3-453b-b0f8-fe186d874498",
+    "idDestino": "166bfeab-6cc7-4a17-af5a-cf441fd72b46"
+  },
+  {
+    "codigo": 800,
+    "tipo": 70,
+    "peso": 75292,
+    "idOrigen": "a2c8c51f-4544-4f32-baab-f543d8dafae1",
+    "idDestino": "aed6107e-dc38-444f-a50c-e9d0ca4f8ba4"
+  },
+  {
+    "codigo": 435,
+    "tipo": 85,
+    "peso": 45557,
+    "idOrigen": "3bd7845f-31e2-4292-b659-5fc056367dd1",
+    "idDestino": "f9184173-e028-42c3-8e05-c5d4077e55fb"
+  },
+  {
+    "codigo": 875,
+    "tipo": 34,
+    "peso": 46504,
+    "idOrigen": "59daedd2-889a-43f6-a0e7-deae4cfdce56",
+    "idDestino": "f4b70864-e652-46cd-98ba-fcdc16f9923e"
+  },
+  {
+    "codigo": 399,
+    "tipo": 93,
+    "peso": 41172,
+    "idOrigen": "57918861-57a0-4f21-9bf7-e26c51d8165a",
+    "idDestino": "f2e4e630-5298-4748-a734-c3bc7b76e003"
+  },
+  {
+    "codigo": 317,
+    "tipo": 53,
+    "peso": 30455,
+    "idOrigen": "e91b90d2-f8c6-4471-8cb9-c4c41e1b54cb",
+    "idDestino": "12b7a023-6c09-4ba3-8c4e-6c1556ea3acc"
+  },
+  {
+    "codigo": 644,
+    "tipo": 31,
+    "peso": 32429,
+    "idOrigen": "f7299ba0-b823-4d65-b8ee-9098ea104021",
+    "idDestino": "f91ee62a-711f-444d-aa0e-76af0e419a98"
+  },
+  {
+    "codigo": 986,
+    "tipo": 11,
+    "peso": 70077,
+    "idOrigen": "b7de11e1-edfe-4d25-8878-780bb7ef461d",
+    "idDestino": "538dbe94-60f7-40aa-b2d8-b439c23049b8"
+  },
+  {
+    "codigo": 657,
+    "tipo": 32,
+    "peso": 73183,
+    "idOrigen": "071573bb-aa63-4d2a-8344-d11ccacb239f",
+    "idDestino": "cf20fa22-ad02-42be-8282-533b85f70b83"
+  },
+  {
+    "codigo": 715,
+    "tipo": 82,
+    "peso": 94213,
+    "idOrigen": "ff358cdb-4aed-453d-b708-30fa1a244bc8",
+    "idDestino": "8ec8aceb-1830-4992-91fb-0c26f4930e25"
+  },
+  {
+    "codigo": 985,
+    "tipo": 71,
+    "peso": 86270,
+    "idOrigen": "8743ab0f-9d19-42b8-a8cd-34418c895c40",
+    "idDestino": "b38089b7-1f5d-44ed-87bf-56f607993d9c"
+  },
+  {
+    "codigo": 198,
+    "tipo": 94,
+    "peso": 72077,
+    "idOrigen": "35535b81-3459-4ee0-bb95-2212f1edac75",
+    "idDestino": "58bf53d7-d5ae-49dd-98fd-66fe9528a218"
+  },
+  {
+    "codigo": 179,
+    "tipo": 48,
+    "peso": 50592,
+    "idOrigen": "7ef8e76d-26b8-4e51-bfff-e7534022bdfc",
+    "idDestino": "bad33310-7754-49fc-a2c1-4f4ce3bc3cf1"
+  },
+  {
+    "codigo": 797,
+    "tipo": 47,
+    "peso": 19387,
+    "idOrigen": "bbf1ff9a-3264-4073-8a29-5601f67f5e41",
+    "idDestino": "1a7f5fdc-dc84-40a6-84cd-2156c14fb3c2"
+  },
+  {
+    "codigo": 582,
+    "tipo": 22,
+    "peso": 68944,
+    "idOrigen": "263d787c-ed61-4d50-813c-961772e93f78",
+    "idDestino": "4c0c54a8-c33b-4dd6-9d74-1f5937509ca6"
+  },
+  {
+    "codigo": 772,
+    "tipo": 99,
+    "peso": 42998,
+    "idOrigen": "0c5480de-c4cf-4307-94ed-cf45efc7dc97",
+    "idDestino": "ee1fc6c0-956c-4c0f-9a5b-bdd904d51fb2"
+  },
+  {
+    "codigo": 762,
+    "tipo": 36,
+    "peso": 13536,
+    "idOrigen": "ba4f3d5d-8b14-49d3-b089-25741e3b69ba",
+    "idDestino": "49c8ca6d-13c8-4a8d-9be4-925c34f622e3"
+  },
+  {
+    "codigo": 339,
+    "tipo": 40,
+    "peso": 41990,
+    "idOrigen": "6322a657-d978-452b-9c69-280efc759d26",
+    "idDestino": "91dcd7f3-6c74-448e-930c-b511f2868094"
+  },
+  {
+    "codigo": 678,
+    "tipo": 30,
+    "peso": 62261,
+    "idOrigen": "97c1ce38-0f69-447b-be37-e632c495f7e1",
+    "idDestino": "9019de01-3123-4f01-9446-4661defd510b"
+  },
+  {
+    "codigo": 419,
+    "tipo": 57,
+    "peso": 6366,
+    "idOrigen": "1a4aef44-95bb-426b-99c9-581cdcc1b338",
+    "idDestino": "484c354a-b728-4702-bf57-04ae5db382d5"
+  },
+  {
+    "codigo": 973,
+    "tipo": 80,
+    "peso": 88026,
+    "idOrigen": "2c1e673a-9df3-4f20-b320-1fd8aecb0bb4",
+    "idDestino": "c9ac411f-5c76-4a6c-9e41-771c9b2af065"
+  }
+]
