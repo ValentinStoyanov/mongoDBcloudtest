@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
+	<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <h1>MongoDB insercion de 1000000 datos</h1>
 <button type="button">Iniciar prueba</button>
-<button type="button">Borrar todo</button>
+<button onclick="borrado()">Borrar todo</button>
 <p id="demo" onclick="myFunction()">Click me to change my text color.</p>
 </html>
 
@@ -10,5 +11,69 @@
 <script>
 function myFunction() {
   document.getElementById("demo").style.color = "red";
+}
+
+
+function borrado(){
+	
+	alert("borrando")
+	
+	$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/camion/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/carga/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/conductor/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/coordenada/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/origendestino/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/propietario/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/remolque/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+		$.ajax({
+	    type:"POST", 
+	    url:"http://localhost:8080/viaje/deleteAll", 
+	    success:function(datos){ 
+	         console.log(datos.promedio)
+	     },
+	})
+	
 }
 </script>
