@@ -44,6 +44,8 @@
 
 function i_all(){
 	
+	var ajaxTime= new Date().getTime();
+	
 	i_camion()
 	i_carga()
 	i_conductor()
@@ -52,6 +54,10 @@ function i_all(){
 	i_propietario()
 	i_remolque()
 	i_viaje()
+	
+	var totalTime = new Date().getTime()-ajaxTime;
+	
+	console.log(totalTime)
 }
 
 
@@ -61,7 +67,7 @@ function i_camion() {
 	fetch("camion.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/camion/create",
@@ -87,7 +93,7 @@ function i_carga() {
 	fetch("carga.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/carga/create",
@@ -113,7 +119,7 @@ function i_conductor() {
 	fetch("conductor.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/conductor/create",
@@ -140,7 +146,7 @@ function i_coordenada() {
 	fetch("coordenada.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	  
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/coordenada/create",
@@ -167,7 +173,7 @@ function i_origendestino() {
 	fetch("origendestino.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/origendestino/create",
@@ -193,7 +199,7 @@ function i_propietario() {
 	fetch("propietario.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/propietario/create",
@@ -220,7 +226,7 @@ function i_remolque() {
 	fetch("remolque.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	  
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/remolque/create",
@@ -247,7 +253,7 @@ function i_viaje() {
 	fetch("viaje.json")
 	.then(response => response.json())
 	.then(result => {
-	    console.log(result)
+	    
 	    
 	    var settings = {
 			  "url": "http://localhost:8080/viaje/create",
