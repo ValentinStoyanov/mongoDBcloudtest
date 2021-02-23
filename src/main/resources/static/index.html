@@ -11,13 +11,13 @@
 
 <p>Insertar por collection</p>
 
-<button onclick="a()">Camion</button>
-<button onclick="a()">Carga</button>
-<button onclick="a()">Conductor</button>
-<button onclick="a()">Coordenada</button>
-<button onclick="a()">OrigenDestino</button>
-<button onclick="a()">Propietario</button>
-<button onclick="a()">Remolque</button>
+<button onclick="i_camion()">Camion</button>
+<button onclick="i_carga()">Carga</button>
+<button onclick="i_conductor()">Conductor</button>
+<button onclick="i_coordenada()">Coordenada</button>
+<button onclick="i_origendestino()">OrigenDestino</button>
+<button onclick="i_propietario()">Propietario</button>
+<button onclick="i_remolque()">Remolque</button>
 <button onclick="i_viaje()">Viaje</button> <br />
 
 <p>Borrar todo</p>
@@ -42,21 +42,207 @@
 <script>
 
 
-
-
 function i_all(){
 	
-	
-	
- 	 
- 	 
+	i_camion()
+	i_carga()
+	i_conductor()
+	i_coordenada()
+	i_origendestino()
+	i_propietario()
+	i_remolque()
+	i_viaje()
 }
 
 
+function i_camion() {
+	   
+	
+	fetch("camion.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/camion/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+function i_carga() {
+	   
+	
+	fetch("carga.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/carga/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+function i_conductor() {
+	   
+	
+	fetch("conductor.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/conductor/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+
+function i_coordenada() {
+	   
+	
+	fetch("coordenada.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/coordenada/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+
+function i_origendestino() {
+	   
+	
+	fetch("origendestino.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/origendestino/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+
+function i_propietario() {
+	
+	fetch("propietario.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/propietario/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
+
+
+function i_remolque() {
+	   
+	
+	fetch("remolque.json")
+	.then(response => response.json())
+	.then(result => {
+	    console.log(result)
+	    
+	    var settings = {
+			  "url": "http://localhost:8080/remolque/create",
+			  "method": "POST",
+			  "timeout": 0,
+			  "headers": {
+			    "Content-Type": "application/json"
+			  },
+			  "data": JSON.stringify(result),
+			};
+
+			$.ajax(settings).done(function (response) {
+			  console.log(response);
+			});
+	    
+	});
+	
+}
 
 
 function i_viaje() {
-	alert("Insertando")   
+	   
 	
 	fetch("viaje.json")
 	.then(response => response.json())
@@ -76,7 +262,6 @@ function i_viaje() {
 			$.ajax(settings).done(function (response) {
 			  console.log(response);
 			});
-	    
 	    
 	});
 	
