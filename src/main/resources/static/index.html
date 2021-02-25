@@ -44,7 +44,7 @@
 
 function i_all(){
 	
-	var ajaxTime= new Date().getTime();
+	
 	
 	i_camion()
 	i_carga()
@@ -55,16 +55,17 @@ function i_all(){
 	i_remolque()
 	i_viaje()
 	
-	var totalTime = new Date().getTime()-ajaxTime;
 	
-	console.log(totalTime)
+	
+
 }
 
 
 function i_camion() {
 	   
+	var ajaxTime= new Date().getTime();
 	
-	fetch("camionextensive.json")
+	fetch("camion.json")
 	.then(response => response.json())
 	.then(result => {
 	    
@@ -80,7 +81,9 @@ function i_camion() {
 			};
 
 			$.ajax(settings).done(function (response) {
-			  console.log(response);
+				var totalTime = new Date().getTime()-ajaxTime;
+				console.log(response)
+			  console.log("Time to insert camion.json: "+totalTime);
 			});
 	    
 	});
@@ -89,7 +92,7 @@ function i_camion() {
 
 function i_carga() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("carga.json")
 	.then(response => response.json())
 	.then(result => {
@@ -106,7 +109,9 @@ function i_carga() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert carga.json: "+totalTime);
 			});
 	    
 	});
@@ -115,7 +120,7 @@ function i_carga() {
 
 function i_conductor() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("conductor.json")
 	.then(response => response.json())
 	.then(result => {
@@ -132,7 +137,9 @@ function i_conductor() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert conductor.json: "+totalTime);
 			});
 	    
 	});
@@ -142,7 +149,7 @@ function i_conductor() {
 
 function i_coordenada() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("coordenada.json")
 	.then(response => response.json())
 	.then(result => {
@@ -159,7 +166,9 @@ function i_coordenada() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert coordenada.json: "+totalTime);
 			});
 	    
 	});
@@ -169,7 +178,7 @@ function i_coordenada() {
 
 function i_origendestino() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("origendestino.json")
 	.then(response => response.json())
 	.then(result => {
@@ -186,7 +195,9 @@ function i_origendestino() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert origendestino.json: "+totalTime);
 			});
 	    
 	});
@@ -195,7 +206,7 @@ function i_origendestino() {
 
 
 function i_propietario() {
-	
+	var ajaxTime= new Date().getTime();
 	fetch("propietario.json")
 	.then(response => response.json())
 	.then(result => {
@@ -212,7 +223,9 @@ function i_propietario() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert propietario.json: "+totalTime);
 			});
 	    
 	});
@@ -222,7 +235,7 @@ function i_propietario() {
 
 function i_remolque() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("remolque.json")
 	.then(response => response.json())
 	.then(result => {
@@ -239,7 +252,9 @@ function i_remolque() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert remolque.json: "+totalTime);
 			});
 	    
 	});
@@ -249,7 +264,7 @@ function i_remolque() {
 
 function i_viaje() {
 	   
-	
+	var ajaxTime= new Date().getTime();
 	fetch("viaje.json")
 	.then(response => response.json())
 	.then(result => {
@@ -266,7 +281,9 @@ function i_viaje() {
 			};
 
 			$.ajax(settings).done(function (response) {
+				var totalTime = new Date().getTime()-ajaxTime;
 			  console.log(response);
+			  console.log("Time to insert viaje.json: "+totalTime);
 			});
 	    
 	});
