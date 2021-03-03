@@ -1,11 +1,13 @@
 package com.model;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection= "Coordenada")
 public class Coordenada {
 
-
+	
+	private String id;
 	private String latitud;
 	private String longitud;
 	private String altitud;

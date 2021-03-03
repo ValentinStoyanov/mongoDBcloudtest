@@ -1,11 +1,14 @@
 package com.model;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection="Conductor")
 public class Conductor {
 
 
+	
+	private String id;
 	private String dni;
 	private String nombre;
 	private String apellidos;

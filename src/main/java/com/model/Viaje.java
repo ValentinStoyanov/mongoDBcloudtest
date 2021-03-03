@@ -1,10 +1,14 @@
 package com.model;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "Viaje")
 public class Viaje {
 
+	
+	
+	private String id;
 	private String idConductor;
 	private String idCamion;
 	private String idRemolque;

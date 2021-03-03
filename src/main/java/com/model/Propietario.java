@@ -1,11 +1,13 @@
 package com.model;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "Propietario")
 public class Propietario {
 
-
+	
+	private String id;
 	private String dni;
 	private String nombreFiscal;
 	private String nombreComercial;
