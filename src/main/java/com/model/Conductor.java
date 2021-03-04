@@ -12,14 +12,14 @@ public class Conductor {
 	private String dni;
 	private String nombre;
 	private String apellidos;
-	private String permisoConducir;
+	private String permisosConducir;
 	
-	public Conductor(String dni, String nombre, String apellidos, String permisoConducir) {
+	public Conductor(String dni, String nombre, String apellidos, String permisosConducir) {
 		super();
 		this.dni = dni;
 		this.nombre = nombre;
 		this.apellidos = apellidos;
-		this.permisoConducir = permisoConducir;
+		this.permisosConducir = permisosConducir;
 	}
 
 	public String getDni() {
@@ -47,10 +47,10 @@ public class Conductor {
 	}
 
 	public String getPermisoConducir() {
-		return permisoConducir;
+		return permisosConducir;
 	}
 
 	public void setPermisoConducir(String permisoConducir) {
-		this.permisoConducir = permisoConducir;
+		this.permisosConducir = permisoConducir;
 	}
 }
