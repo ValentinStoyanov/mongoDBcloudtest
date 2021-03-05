@@ -4,33 +4,27 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 
-@Document(collection = "Camion")
+@Document(collection = "camiones")
 public class Camion {
 	
 	
 	private String id;
-	private String numeroBastidor;
+	private String numero_bastidor;
 	private String matricula;
 	private String marca;
 	private String modelo;
 	private String tipo;
 	
-	public Camion(String numeroBastidor, String matricula, String marca, String modelo, String tipo) {
+	public Camion(String numero_bastidor, String matricula, String marca, String modelo, String tipo) {
 		super();
-		this.numeroBastidor = numeroBastidor;
+		this.numero_bastidor = numero_bastidor;
 		this.matricula = matricula;
 		this.marca = marca;
 		this.modelo = modelo;
 		this.tipo = tipo;
 	}
 
-	public String getNumeroBastidor() {
-		return numeroBastidor;
-	}
 
-	public void setNumeroBastidor(String numeroBastidor) {
-		this.numeroBastidor = numeroBastidor;
-	}
 
 	public String getMatricula() {
 		return matricula;
@@ -62,6 +56,18 @@ public class Camion {
 
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
+	}
+
+
+
+	public String getNumero_bastidor() {
+		return numero_bastidor;
+	}
+
+
+
+	public void setNumero_bastidor(String numero_bastidor) {
+		this.numero_bastidor = numero_bastidor;
 	}
 	
 
