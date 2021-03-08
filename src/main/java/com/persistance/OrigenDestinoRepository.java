@@ -10,4 +10,5 @@ import com.model.OrigenDestino;
 @Repository
 public interface OrigenDestinoRepository extends MongoRepository<OrigenDestino, String> {
 
+	OrigenDestino findByDireccion(String direccion);
 }

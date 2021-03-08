@@ -8,18 +8,18 @@ public class Conductor {
 
 
 	
-	public Conductor(String dni, String nombre, String apellidos, String permisos_conducir) {
+	public Conductor(String dni, String nombre, String apellidos, String permisosconducir) {
 		super();
 		this.dni = dni;
 		this.nombre = nombre;
 		this.apellidos = apellidos;
-		this.permisos_conducir = permisos_conducir;
+		this.permisosconducir = permisosconducir;
 	}
 	private String id;
 	private String dni;
 	private String nombre;
 	private String apellidos;
-	private String permisos_conducir;
+	private String permisosconducir;
 	public String getDni() {
 		return dni;
 	}
@@ -38,11 +38,11 @@ public class Conductor {
 	public void setApellidos(String apellidos) {
 		this.apellidos = apellidos;
 	}
-	public String getPermisos_conducir() {
-		return permisos_conducir;
+	public String getPermisosconducir() {
+		return permisosconducir;
 	}
-	public void setPermisos_conducir(String permisos_conducir) {
-		this.permisos_conducir = permisos_conducir;
+	public void setPermisos_conducir(String permisosconducir) {
+		this.permisosconducir = permisosconducir;
 	}
 	
 	

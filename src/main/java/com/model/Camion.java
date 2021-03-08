@@ -9,15 +9,15 @@ public class Camion {
 	
 	
 	private String id;
-	private String numero_bastidor;
+	private String numerobastidor;
 	private String matricula;
 	private String marca;
 	private String modelo;
 	private String tipo;
 	
-	public Camion(String numero_bastidor, String matricula, String marca, String modelo, String tipo) {
+	public Camion(String numerobastidor, String matricula, String marca, String modelo, String tipo) {
 		super();
-		this.numero_bastidor = numero_bastidor;
+		this.numerobastidor = numerobastidor;
 		this.matricula = matricula;
 		this.marca = marca;
 		this.modelo = modelo;
@@ -60,14 +60,14 @@ public class Camion {
 
 
 
-	public String getNumero_bastidor() {
-		return numero_bastidor;
+	public String getNumerobastidor() {
+		return numerobastidor;
 	}
 
 
 
-	public void setNumero_bastidor(String numero_bastidor) {
-		this.numero_bastidor = numero_bastidor;
+	public void setNumero_bastidor(String numerobastidor) {
+		this.numerobastidor = numerobastidor;
 	}
 	
 

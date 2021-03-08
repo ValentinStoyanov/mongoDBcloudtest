@@ -7,26 +7,19 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class OrigenDestino {
 	
 	
-	public OrigenDestino(String id_propietario, String direccion, String ciudad, String provincia,
-			String id_coordenadas) {
-		super();
-		this.id_propietario = id_propietario;
-		this.direccion = direccion;
-		this.ciudad = ciudad;
-		this.provincia = provincia;
-		this.id_coordenadas = id_coordenadas;
-	}
+
 	private String id;
-	private String id_propietario;
+	private String idpropietario;
 	private String direccion;
 	private String ciudad;
 	private String provincia;
-	private String id_coordenadas;
-	public String getId_propietario() {
-		return id_propietario;
+	private String idcoordenadas;
+	
+	public String getIdpropietario() {
+		return idpropietario;
 	}
-	public void setId_propietario(String id_propietario) {
-		this.id_propietario = id_propietario;
+	public void setIdpropietario(String idpropietario) {
+		this.idpropietario = idpropietario;
 	}
 	public String getDireccion() {
 		return direccion;
@@ -46,12 +39,11 @@ public class OrigenDestino {
 	public void setProvincia(String provincia) {
 		this.provincia = provincia;
 	}
-	public String getId_coordenadas() {
-		return id_coordenadas;
+	public String getIdcoordenadas() {
+		return idcoordenadas;
 	}
-	public void setId_coordenadas(String id_coordenadas) {
-		this.id_coordenadas = id_coordenadas;
+	public void setIdcoordenadas(String idcoordenadas) {
+		this.idcoordenadas = idcoordenadas;
 	}
-	
 	
 }

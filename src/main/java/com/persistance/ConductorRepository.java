@@ -10,4 +10,6 @@ import com.model.Conductor;
 @Repository
 public interface ConductorRepository extends MongoRepository<Conductor, String> {
 
+	Conductor findByDni(String dni);
+	
 }

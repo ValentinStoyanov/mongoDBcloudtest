@@ -7,5 +7,7 @@ import com.model.Camion;
 
 @Repository
 public interface CamionRepository extends MongoRepository<Camion, String> {
+	
+	Camion findByMatricula (String matricula);
 
 }

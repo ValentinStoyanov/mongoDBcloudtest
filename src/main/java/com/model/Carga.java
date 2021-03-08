@@ -7,20 +7,21 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Carga {
 
 	
-	public Carga(String codigo, String tipo, String peso, String id_origen, String id_destino) {
+
+	public Carga(String codigo, String tipo, String peso, String idorigen, String iddestino) {
 		super();
 		this.codigo = codigo;
 		this.tipo = tipo;
 		this.peso = peso;
-		this.id_origen = id_origen;
-		this.id_destino = id_destino;
+		this.idorigen = idorigen;
+		this.iddestino = iddestino;
 	}
 	private String id;
 	private String codigo;
 	private String tipo;
 	private String peso;
-	private String id_origen;
-	private String id_destino;
+	private String idorigen;
+	private String iddestino;
 	public String getCodigo() {
 		return codigo;
 	}
@@ -39,19 +40,18 @@ public class Carga {
 	public void setPeso(String peso) {
 		this.peso = peso;
 	}
-	public String getId_origen() {
-		return id_origen;
+	public String getIdorigen() {
+		return idorigen;
 	}
-	public void setId_origen(String id_origen) {
-		this.id_origen = id_origen;
+	public void setIdorigen(String idorigen) {
+		this.idorigen = idorigen;
 	}
-	public String getId_destino() {
-		return id_destino;
+	public String getIddestino() {
+		return iddestino;
 	}
-	public void setId_destino(String id_destino) {
-		this.id_destino = id_destino;
+	public void setIddestino(String iddestino) {
+		this.iddestino = iddestino;
 	}
-	
 	
 	
 }

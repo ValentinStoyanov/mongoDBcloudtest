@@ -7,28 +7,28 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Remolque {
 	
 	
-	public Remolque(String numero_bastidor, String matricula, String marca, String modelo, String tipo,
-			String id_carga) {
+	public Remolque(String numerobastidor, String matricula, String marca, String modelo, String tipo,
+			String idcarga) {
 		super();
-		this.numero_bastidor = numero_bastidor;
+		this.numerobastidor = numerobastidor;
 		this.matricula = matricula;
 		this.marca = marca;
 		this.modelo = modelo;
 		this.tipo = tipo;
-		this.id_carga = id_carga;
+		this.idcarga = idcarga;
 	}
 	private String id;
-	private String numero_bastidor;
+	private String numerobastidor;
 	private String matricula;
 	private String marca;
 	private String modelo;
 	private String tipo;
-	private String id_carga;
-	public String getNumero_bastidor() {
-		return numero_bastidor;
+	private String idcarga;
+	public String getNumerobastidor() {
+		return numerobastidor;
 	}
-	public void setNumero_bastidor(String numero_bastidor) {
-		this.numero_bastidor = numero_bastidor;
+	public void setNumerobastidor(String numero_bastidor) {
+		this.numerobastidor = numero_bastidor;
 	}
 	public String getMatricula() {
 		return matricula;
@@ -54,11 +54,11 @@ public class Remolque {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
-	public String getId_carga() {
-		return id_carga;
+	public String getIdcarga() {
+		return idcarga;
 	}
-	public void setId_carga(String id_carga) {
-		this.id_carga = id_carga;
+	public void setIdcarga(String idcarga) {
+		this.idcarga = idcarga;
 	}
 	
 	

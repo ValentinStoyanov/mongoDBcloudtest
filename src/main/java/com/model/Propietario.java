@@ -6,21 +6,21 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "propietarios")
 public class Propietario {
 
-	
-	public Propietario(String dni, String nombre_fiscal, String nombre_comercial, String nombre_propietario,
+
+	public Propietario(String dni, String nombrefiscal, String nombrecomercial, String nombrepropietario,
 			String telefono) {
 		super();
 		this.dni = dni;
-		this.nombre_fiscal = nombre_fiscal;
-		this.nombre_comercial = nombre_comercial;
-		this.nombre_propietario = nombre_propietario;
+		this.nombrefiscal = nombrefiscal;
+		this.nombrecomercial = nombrecomercial;
+		this.nombrepropietario = nombrepropietario;
 		this.telefono = telefono;
 	}
 	private String id;
 	private String dni;
-	private String nombre_fiscal;
-	private String nombre_comercial;
-	private String nombre_propietario;
+	private String nombrefiscal;
+	private String nombrecomercial;
+	private String nombrepropietario;
 	private String telefono;
 	public String getDni() {
 		return dni;
@@ -28,23 +28,23 @@ public class Propietario {
 	public void setDni(String dni) {
 		this.dni = dni;
 	}
-	public String getNombre_fiscal() {
-		return nombre_fiscal;
+	public String getNombrefiscal() {
+		return nombrefiscal;
 	}
-	public void setNombre_fiscal(String nombre_fiscal) {
-		this.nombre_fiscal = nombre_fiscal;
+	public void setNombrefiscal(String nombrefiscal) {
+		this.nombrefiscal = nombrefiscal;
 	}
-	public String getNombre_comercial() {
-		return nombre_comercial;
+	public String getNombrecomercial() {
+		return nombrecomercial;
 	}
-	public void setNombre_comercial(String nombre_comercial) {
-		this.nombre_comercial = nombre_comercial;
+	public void setNombrecomercial(String nombrecomercial) {
+		this.nombrecomercial = nombrecomercial;
 	}
-	public String getNombre_propietario() {
-		return nombre_propietario;
+	public String getNombrepropietario() {
+		return nombrepropietario;
 	}
-	public void setNombre_propietario(String nombre_propietario) {
-		this.nombre_propietario = nombre_propietario;
+	public void setNombrepropietario(String nombrepropietario) {
+		this.nombrepropietario = nombrepropietario;
 	}
 	public String getTelefono() {
 		return telefono;
