@@ -12,5 +12,6 @@ import com.model.Viaje;
 public interface ViajeRepository extends MongoRepository<Viaje, String> {
 
 	Viaje findByIdconductor (String idconductor);
+	Viaje findByIdremolque (String idremolque);
 	
 }

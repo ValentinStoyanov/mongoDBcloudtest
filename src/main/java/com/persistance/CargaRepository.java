@@ -9,5 +9,6 @@ import com.model.Carga;
 @Repository
 public interface CargaRepository extends MongoRepository<Carga, String>{
 
-	Carga findByCodigo(String codigo);
+	Carga findByCodigo(int codigo);
+
 }

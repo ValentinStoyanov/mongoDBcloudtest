@@ -12,5 +12,7 @@ import com.model.Remolque;
 public interface RemolqueRepository extends MongoRepository<Remolque, String> {
 	
 	Remolque findByMatricula (String matricula);
+	
+	Remolque findByIdcarga (int idcarga );
 
 }

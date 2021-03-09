@@ -8,7 +8,7 @@ public class Remolque {
 	
 	
 	public Remolque(String numerobastidor, String matricula, String marca, String modelo, String tipo,
-			String idcarga) {
+			int idcarga) {
 		super();
 		this.numerobastidor = numerobastidor;
 		this.matricula = matricula;
@@ -23,7 +23,7 @@ public class Remolque {
 	private String marca;
 	private String modelo;
 	private String tipo;
-	private String idcarga;
+	private int idcarga;
 	public String getNumerobastidor() {
 		return numerobastidor;
 	}
@@ -54,10 +54,10 @@ public class Remolque {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
-	public String getIdcarga() {
+	public int getIdcarga() {
 		return idcarga;
 	}
-	public void setIdcarga(String idcarga) {
+	public void setIdcarga(int idcarga) {
 		this.idcarga = idcarga;
 	}
 	
