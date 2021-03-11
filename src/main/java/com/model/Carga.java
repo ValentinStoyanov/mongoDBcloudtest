@@ -8,7 +8,7 @@ public class Carga {
 
 	
 
-	public Carga(int codigo, String tipo, String peso, String idorigen, String iddestino) {
+	public Carga(int codigo, String tipo, int peso, String idorigen, String iddestino) {
 		super();
 		this.codigo = codigo;
 		this.tipo = tipo;
@@ -19,7 +19,7 @@ public class Carga {
 	private String id;
 	private int codigo;
 	private String tipo;
-	private String peso;
+	private int peso;
 	private String idorigen;
 	private String iddestino;
 	
@@ -30,10 +30,10 @@ public class Carga {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
-	public String getPeso() {
+	public int getPeso() {
 		return peso;
 	}
-	public void setPeso(String peso) {
+	public void setPeso(int peso) {
 		this.peso = peso;
 	}
 	public String getIdorigen() {

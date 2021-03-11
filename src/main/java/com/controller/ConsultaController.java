@@ -1,5 +1,6 @@
 package com.controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -43,6 +44,41 @@ public class ConsultaController {
 	
 	@Autowired
 	private OrigenDestinoRepository orepository;
+	
+	@GetMapping(value="cargas")
+	public List<ConsultaModelo> consulta_grande(@RequestParam int max, @RequestParam String marca) {
+		
+		
+		
+		
+		
+		List<Carga> listacargas = this.cargaRepository.findByPesoGreaterThan(max);
+		
+		List<Remolque> listaremolque= this.remolqueRepository.findByMarca(marca);
+		
+		Carga carga_aux;
+		
+		Remolque r_aux;
+		
+		List<ConsultaModelo> cs = new ArrayList();
+		
+		for(int i = 0; i <listacargas.size(); i++) {
+			
+			carga_aux =listacargas.remove(i);
+			
+			for(int j = 0; j< listaremolque.size();j++) {
+				if(listaremolque.get(j).getIdcarga()==carga_aux.getCodigo()) {
+					r_aux = listaremolque.remove(j);
+					
+					cs.add(new ConsultaModelo(carga_aux.getCodigo(),r_aux.getMarca(),r_aux.getMatricula()));
+					
+				}	
+			}
+		}		
+		
+		
+		return cs;
+	}
 	
 	
 	@GetMapping(value="getViaje")
