@@ -2,9 +2,11 @@ package com.controller;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -45,12 +47,10 @@ public class ConsultaController {
 	@Autowired
 	private OrigenDestinoRepository orepository;
 	
-	@GetMapping(value="cargas")
+	
+	
+	@PostMapping(value="cargas")
 	public List<ConsultaModelo> consulta_grande(@RequestParam int max, @RequestParam String marca) {
-		
-		
-		
-		
 		
 		List<Carga> listacargas = this.cargaRepository.findByPesoGreaterThan(max);
 		
@@ -62,6 +62,16 @@ public class ConsultaController {
 		
 		List<ConsultaModelo> cs = new ArrayList();
 		
+		ConsultaModelo cons ;
+		
+		OrigenDestino origen ;
+		OrigenDestino destino ;
+		Viaje viaje ;
+		Optional<Camion> camion ;
+		Conductor conductor;
+		
+		
+		
 		for(int i = 0; i <listacargas.size(); i++) {
 			
 			carga_aux =listacargas.remove(i);
@@ -70,7 +80,25 @@ public class ConsultaController {
 				if(listaremolque.get(j).getIdcarga()==carga_aux.getCodigo()) {
 					r_aux = listaremolque.remove(j);
 					
-					cs.add(new ConsultaModelo(carga_aux.getCodigo(),r_aux.getMarca(),r_aux.getMatricula()));
+					
+					origen = this.orepository.findByDireccion(carga_aux.getIdorigen());
+					destino = this.orepository.findByDireccion(carga_aux.getIddestino());
+					
+					
+					cons = new ConsultaModelo();
+					
+					cons.setCarga_codigo(carga_aux.getCodigo());
+					cons.setCarga_peso(carga_aux.getPeso());
+					cons.setCarga_tipo(carga_aux.getTipo());
+					cons.setDestino(destino.getDireccion());
+					cons.setOrigen(origen.getDireccion());
+					cons.setMarca_remolque(r_aux.getMarca());
+					
+					
+					
+					cs.add(cons);
+					
+					
 					
 				}	
 			}
@@ -80,6 +108,8 @@ public class ConsultaController {
 		return cs;
 	}
 	
+	
+	/*
 	
 	@GetMapping(value="getViaje")
     public String getConductor(@RequestParam String dni){
@@ -149,5 +179,5 @@ public class ConsultaController {
 		
 		return resultado;
 	}
-	
+	*/
 }

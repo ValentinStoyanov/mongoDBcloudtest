@@ -21,6 +21,10 @@ public class Viaje {
 		this.idremolque = idremolque;
 	}
 	
+	public Viaje() {
+		
+	}
+	
 	
 	public String getIdconductor() {
 		return idconductor;
