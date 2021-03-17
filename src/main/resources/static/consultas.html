@@ -62,7 +62,7 @@ body {
    <input type="button" onclick="CreateTableFromJSON()" value="Ejecutar consulta" />
     <p id="showData"></p>
     
-    <div class="container">
+    <div class="container" id="TestsDiv" style="display:none">
   <!-- Table structure here -->
   <table id="our-table">
     <thead>
@@ -89,6 +89,8 @@ body {
 
 function CreateTableFromJSON() {
     
+	var T = document.getElementById("TestsDiv");
+    T.style.display = "block";  // <-- Set it to block
 	
 	
 	var carga_maxima = document.getElementsByName("carga_maxima")[0].value;
