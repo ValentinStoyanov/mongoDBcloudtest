@@ -73,6 +73,8 @@ body {
         <th>Origen</th>
         <th>Destino</th>
         <th>Marca_remolque</th>
+        <th>Matricula_camion</th>
+        <th>Matricula_Remolque</th>
       </tr>
     </thead>
     <tbody id="table-body">
@@ -97,7 +99,7 @@ function CreateTableFromJSON() {
 	
 	var marca = document.getElementsByName("marca")[0].value;
 	
-	var url = "http://localhost:8080/consulta/cargas?max="+carga_maxima+"&marca="+marca;
+	var url = "http://localhost:8080/consulta/cargascomplejo?max="+carga_maxima+"&marca="+marca;
 	
 	var settings = {
 			  "url": url,
@@ -111,12 +113,14 @@ function CreateTableFromJSON() {
 			  for (var i in response){
 				//Keep in mind we are using "Template Litterals to create rows"
 				var row = `<tr>
-										<td>${response[i].cargacodigo}</td>
-										<td>${response[i].cargapeso}</td>
-										<td>${response[i].cargatipo}</td>
+										<td>${response[i].carga_codigo}</td>
+										<td>${response[i].carga_peso}</td>
+										<td>${response[i].carga_tipo}</td>
 										<td>${response[i].origen}</td>
 										<td>${response[i].destino}</td>
-				        <td>${response[i].marcaremolque}</td>
+										<td>${response[i].marca_remolque}</td>
+										<td>${response[i].matricula_camion}</td>
+				        <td>${response[i].matricula_remolque}</td>
 				        `
 				var table = $('#table-body')
 				table.append(row)

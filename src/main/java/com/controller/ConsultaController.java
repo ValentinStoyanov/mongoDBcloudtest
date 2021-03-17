@@ -47,24 +47,7 @@ public class ConsultaController {
 	@Autowired
 	private OrigenDestinoRepository orepository;
 	
-	
-	
-	@PostMapping(value="pruebas")
-	public List<String> consulta_prueba(){
 		
-		List<Carga> listacargas = this.cargaRepository.findByPesoGreaterThan(9999);
-		
-		List<String> ls =  new ArrayList();
-		
-		for(int i = 0; i < listacargas.size(); i++) {
-			ls.add(listacargas.remove(0).getTipo());
-		}
-		
-		return ls;
-		
-		
-	}
-	
 	
 	@PostMapping(value="cargascomplejo")
 	public List<ConsultaModeloCompleja> consulta_grande_compleja(@RequestParam int max, @RequestParam String marca) {
@@ -83,7 +66,7 @@ public class ConsultaController {
 		
 		OrigenDestino origen ;
 		OrigenDestino destino ;
-		Viaje viaje ;
+		List<Viaje> viaje ;
 		Optional<Camion> camion ;
 		Conductor conductor;
 		
@@ -109,8 +92,8 @@ public class ConsultaController {
 					cons.setDestino(destino.getDireccion());
 					cons.setOrigen(origen.getDireccion());
 					cons.setMarca_remolque(r_aux.getMarca());
-					cons.setMatricula_camion(viaje.getIdcamion());
-					cons.setMatricula_remolque(viaje.getIdremolque());
+					cons.setMatricula_camion(viaje.get(0).getIdcamion());
+					cons.setMatricula_remolque(viaje.get(0).getIdremolque());
 					
 					
 					
