@@ -13,12 +13,12 @@ public class ConsultaModelo {
 
 
 	
-	private  int carga_codigo;
-	private int carga_peso;
-	private String carga_tipo;
+	private  int cargacodigo;
+	private int cargapeso;
+	private String cargatipo;
 	private String origen;
 	private String destino;
-	private String marca_remolque;
+	private String marcaremolque;
 	
 	
 	public ConsultaModelo() {
@@ -26,33 +26,33 @@ public class ConsultaModelo {
 	}
 
 
-	public int getCarga_codigo() {
-		return carga_codigo;
+	public int getCargacodigo() {
+		return cargacodigo;
 	}
 
 
-	public void setCarga_codigo(int carga_codigo) {
-		this.carga_codigo = carga_codigo;
+	public void setCargacodigo(int cargacodigo) {
+		this.cargacodigo = cargacodigo;
 	}
 
 
-	public int getCarga_peso() {
-		return carga_peso;
+	public int getCargapeso() {
+		return cargapeso;
 	}
 
 
-	public void setCarga_peso(int carga_peso) {
-		this.carga_peso = carga_peso;
+	public void setCargapeso(int cargapeso) {
+		this.cargapeso = cargapeso;
 	}
 
 
-	public String getCarga_tipo() {
-		return carga_tipo;
+	public String getCargatipo() {
+		return cargatipo;
 	}
 
 
-	public void setCarga_tipo(String carga_tipo) {
-		this.carga_tipo = carga_tipo;
+	public void setCargatipo(String cargatipo) {
+		this.cargatipo = cargatipo;
 	}
 
 
@@ -76,18 +76,14 @@ public class ConsultaModelo {
 	}
 
 
-	public String getMarca_remolque() {
-		return marca_remolque;
+	public String getMarcaremolque() {
+		return marcaremolque;
 	}
 
 
-	public void setMarca_remolque(String marca_remolque) {
-		this.marca_remolque = marca_remolque;
+	public void setMarcaremolque(String marcaremolque) {
+		this.marcaremolque = marcaremolque;
 	}
-	
-	
-	
 
-	
 	
 }

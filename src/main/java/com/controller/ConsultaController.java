@@ -49,6 +49,85 @@ public class ConsultaController {
 	
 	
 	
+	@PostMapping(value="pruebas")
+	public List<String> consulta_prueba(){
+		
+		List<Carga> listacargas = this.cargaRepository.findByPesoGreaterThan(9999);
+		
+		List<String> ls =  new ArrayList();
+		
+		for(int i = 0; i < listacargas.size(); i++) {
+			ls.add(listacargas.remove(0).getTipo());
+		}
+		
+		return ls;
+		
+		
+	}
+	
+	
+	@PostMapping(value="cargascomplejo")
+	public List<ConsultaModeloCompleja> consulta_grande_compleja(@RequestParam int max, @RequestParam String marca) {
+		
+		List<Carga> listacargas = this.cargaRepository.findByPesoGreaterThan(max);
+		
+		List<Remolque> listaremolque= this.remolqueRepository.findByMarca(marca);
+		
+		Carga carga_aux;
+		
+		Remolque r_aux;
+		
+		List<ConsultaModeloCompleja> cs = new ArrayList();
+		
+		ConsultaModeloCompleja cons ;
+		
+		OrigenDestino origen ;
+		OrigenDestino destino ;
+		Viaje viaje ;
+		Optional<Camion> camion ;
+		Conductor conductor;
+		
+		
+		for(int i = 0; i <listacargas.size(); i++) {
+			
+			carga_aux =listacargas.remove(i);
+			
+			for(int j = 0; j< listaremolque.size();j++) {
+				if(listaremolque.get(j).getIdcarga()==carga_aux.getCodigo()) {
+					r_aux = listaremolque.remove(j);
+					
+					
+					origen = this.orepository.findByDireccion(carga_aux.getIdorigen());
+					destino = this.orepository.findByDireccion(carga_aux.getIddestino());
+					viaje = this.viajeRepository.findByIdremolque(r_aux.getMatricula());
+					
+					cons = new ConsultaModeloCompleja();
+					
+					cons.setCarga_codigo(carga_aux.getCodigo());
+					cons.setCarga_peso(carga_aux.getPeso());
+					cons.setCarga_tipo(carga_aux.getTipo());
+					cons.setDestino(destino.getDireccion());
+					cons.setOrigen(origen.getDireccion());
+					cons.setMarca_remolque(r_aux.getMarca());
+					cons.setMatricula_camion(viaje.getIdcamion());
+					cons.setMatricula_remolque(viaje.getIdremolque());
+					
+					
+					
+					cs.add(cons);
+					
+					
+					
+				}	
+			}
+		}		
+		
+		
+		return cs;
+	}
+	
+	
+	
 	@PostMapping(value="cargas")
 	public List<ConsultaModelo> consulta_grande(@RequestParam int max, @RequestParam String marca) {
 		
@@ -87,12 +166,12 @@ public class ConsultaController {
 					
 					cons = new ConsultaModelo();
 					
-					cons.setCarga_codigo(carga_aux.getCodigo());
-					cons.setCarga_peso(carga_aux.getPeso());
-					cons.setCarga_tipo(carga_aux.getTipo());
+					cons.setCargacodigo(carga_aux.getCodigo());
+					cons.setCargapeso(carga_aux.getPeso());
+					cons.setCargatipo(carga_aux.getTipo());
 					cons.setDestino(destino.getDireccion());
 					cons.setOrigen(origen.getDireccion());
-					cons.setMarca_remolque(r_aux.getMarca());
+					cons.setMarcaremolque(r_aux.getMarca());
 					
 					
 					
