@@ -14,5 +14,7 @@ public interface CargaRepository extends MongoRepository<Carga, String>{
 	Carga findByCodigo(int codigo);
 	
 	List<Carga> findByPesoGreaterThan(int peso);
+	
+	List<Carga> findByCodigoGreaterThanOrderByCodigo(int codigo);
 
 }

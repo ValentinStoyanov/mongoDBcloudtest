@@ -13,11 +13,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.model.Camion;
 import com.model.Carga;
+import com.model.CargaRemolque;
 import com.model.Conductor;
 import com.model.OrigenDestino;
 import com.model.Remolque;
 import com.model.Viaje;
 import com.persistance.CamionRepository;
+import com.persistance.CargaRemolqueRepository;
 import com.persistance.CargaRepository;
 import com.persistance.ConductorRepository;
 import com.persistance.OrigenDestinoRepository;
@@ -47,6 +49,43 @@ public class ConsultaController {
 	@Autowired
 	private OrigenDestinoRepository orepository;
 	
+	@Autowired
+	private CargaRemolqueRepository crrepository;
+	
+	
+	@PostMapping(value="insertar2tablas")
+	public List<CargaRemolque> insertar2tablas() {
+		
+		List<Carga> lista_cargas = this.cargaRepository.findByCodigoGreaterThanOrderByCodigo(-1);
+		
+		List<Remolque> lista_remolque = this.remolqueRepository.findByIdcargaGreaterThanOrderByIdcarga(-1);
+		
+		List<CargaRemolque> lista_final = new ArrayList();
+		
+		// numerobastidor,  matricula,  marca,  modelo, tipocarga,  idcarga,  codigo,  tiporemolque,  peso,  idorigen, iddestino
+		
+		
+		for(int i = 0; i < lista_cargas.size();i++) {
+			
+			lista_final.add(new CargaRemolque(lista_remolque.get(i).getNumerobastidor(),
+					lista_remolque.get(i).getMatricula(),
+					lista_remolque.get(i).getMarca(),
+					lista_remolque.get(i).getModelo(),
+					lista_cargas.get(i).getTipo(),
+					lista_remolque.get(i).getIdcarga(),
+					lista_cargas.get(i).getCodigo(),
+					lista_remolque.get(i).getTipo(),
+					lista_cargas.get(i).getPeso(),
+					lista_cargas.get(i).getIdorigen(),
+					lista_cargas.get(i).getIddestino()));	
+		}
+		
+	
+		return crrepository.saveAll(lista_final);
+	
+		
+		
+	}
 		
 	
 	@PostMapping(value="cargascomplejo")
