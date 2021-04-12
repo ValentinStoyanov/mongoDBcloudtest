@@ -44,25 +44,25 @@ body {
 
 <div class="topnav">
   <a href="index.html">Home</a>
-  <a href="insertar.html">Insertar</a>
-  <a href="borrar.html">Borrar</a>
-  <a  href="consultas.html">Consulta 2 tablas</a>
-  <a class="active" href="consulta3tablas.html">Consulta 3 tablas</a>
+  <a href="insertar.html">Insert</a>
+  <a href="borrar.html">Delete</a>
+  <a  href="consultas.html">Query 1</a>
+  <a class="active" href="consulta3tablas.html">Query 2</a>
 </div>
 
 <div style="padding-left:16px">
   <h2>MongoDB</h2>
-  <p>Consultas</p>
+  <p>Query</p>
 </div>
-<label for="carga_maxima">Carga maxima:</label>
+<label for="carga_maxima">Maximun load: </label>
 <input type="text" name="carga_maxima" />
-<label for="marca">Marca remolque:</label>
+<label for="marca">Trailer brand: </label>
 <input type="text" name="marca" />
 
    <input type="button" onclick="CreateTableFromJSON()" value="Ejecutar consulta" />
     <p id="showData"></p>
     
-    <div class="container" id="TestsDiv" style="display:none">
+    <div class="container" id="TestsDiv" style="display:none"  >
   <!-- Table structure here -->
   <table id="our-table">
     <thead>
@@ -94,6 +94,7 @@ function CreateTableFromJSON() {
 	var T = document.getElementById("TestsDiv");
     T.style.display = "block";  // <-- Set it to block
 	
+    var ajaxTime= new Date().getTime();
 	
 	var carga_maxima = document.getElementsByName("carga_maxima")[0].value;
 	
@@ -109,6 +110,13 @@ function CreateTableFromJSON() {
 
 			$.ajax(settings).done(function (response) {
 			  console.log(response);
+			  
+			  var totalTime = new Date().getTime()-ajaxTime;
+			  
+ 			  console.log("Time to perform query "+totalTime);
+			  
+			  ajaxTime= new Date().getTime();
+			  
 			  
 			  for (var i in response){
 				//Keep in mind we are using "Template Litterals to create rows"
@@ -132,6 +140,11 @@ function CreateTableFromJSON() {
 				        "pagingType": "full_numbers"
 				    } );
 				} );	
+				
+
+				totalTime = new Date().getTime()-ajaxTime;
+				
+				console.log("Time to format query "+totalTime);
 			  
 			});
 			

@@ -38,10 +38,10 @@ body {
 
 <div class="topnav">
   <a href="index.html" >Home</a>
-  <a href="insertar.html">Insertar</a>
-  <a class="active" href="borrar.html">Borrar</a>
-  <a href="consultas.html">Consulta 2 Tablas</a>
-  <a href="consulta3tablas.html">Consulta 3 tablas</a>
+  <a href="insertar.html">Insert</a>
+  <a class="active" href="borrar.html">Delete</a>
+  <a href="consultas.html">Query 1</a>
+  <a href="consulta3tablas.html">Query 2</a>
 </div>
 
 <div style="padding-left:16px">
@@ -51,11 +51,11 @@ body {
 
 <div style="padding-left:16px">
 
-<p>Borrar todo</p>
+<p>Delete all</p>
 
-<button onclick="borrado()">Borrar todo</button>
+<button onclick="borrado()">Start</button>
 
-<p>Borrar por collection</p>
+<p>Delete by collection</p>
 
 <button onclick="b_camion()">Camion</button>
 <button onclick="b_carga()">Carga</button>
@@ -75,7 +75,7 @@ body {
 <script>
 
 function b_viaje() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -87,7 +87,7 @@ function b_viaje() {
 }
 
 function b_remolque() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -99,7 +99,7 @@ function b_remolque() {
 }
 
 function b_propietario() {
-	alert("borrando")
+
 	
 	$.ajax({
 	    type:"POST", 
@@ -111,7 +111,7 @@ function b_propietario() {
 }
 
 function b_origendestino() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -123,7 +123,7 @@ function b_origendestino() {
 }
 
 function b_coordenada() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -136,7 +136,7 @@ function b_coordenada() {
 
 
 function b_conductor() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -149,7 +149,7 @@ function b_conductor() {
 
 
 function b_carga() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -162,7 +162,7 @@ function b_carga() {
 
 
 function b_camion() {
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
@@ -176,7 +176,7 @@ function b_camion() {
 
 function borrado(){
 	
-	alert("borrando")
+	
 	
 	$.ajax({
 	    type:"POST", 
