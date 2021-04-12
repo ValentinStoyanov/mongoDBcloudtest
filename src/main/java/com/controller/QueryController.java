@@ -27,24 +27,24 @@ import com.persistance.TrailerRepository;
 import com.persistance.TravelRepository;
 
 @RestController
-@RequestMapping("consulta")
+@RequestMapping("querycontroller")
 public class QueryController {
 
 	
 	@Autowired
-	private TravelRepository viajeRepository;
+	private TravelRepository travelRepository;
 	
 	@Autowired
-	private DriverRepository conductorRepository; 
+	private DriverRepository driverRepository; 
 	
 	@Autowired
-	private TruckRepository camionRepository;
+	private TruckRepository truckRepository;
 	
 	@Autowired
-	private TrailerRepository remolqueRepository;
+	private TrailerRepository trailerRepository;
 	
 	@Autowired
-	private LoadRepository cargaRepository;
+	private LoadRepository loadRepository;
 	
 	@Autowired
 	private OriginDestinyRepository orepository;
@@ -54,12 +54,12 @@ public class QueryController {
 	
 		
 	
-	@PostMapping(value="cargascomplejo")
-	public List<Query2Class> consulta_grande_compleja(@RequestParam int max, @RequestParam String brand) {
+	@PostMapping(value="query2")
+	public List<Query2Class> query2(@RequestParam int max, @RequestParam String brand) {
 		
-		List<Load> listacargas = this.cargaRepository.findByLoadGreaterThan(max);
+		List<Load> listacargas = this.loadRepository.findByLoadGreaterThan(max);
 		
-		List<Trailer> listaremolque= this.remolqueRepository.findByBrand(brand);
+		List<Trailer> listaremolque= this.trailerRepository.findByBrand(brand);
 		
 		Load carga_aux;
 		
@@ -87,7 +87,7 @@ public class QueryController {
 					
 					origen = this.orepository.findByAddress(carga_aux.getIdorigin());
 					destino = this.orepository.findByAddress(carga_aux.getIddestiny());
-					viaje = this.viajeRepository.findByIdtrailer(r_aux.getRegistrationtag());
+					viaje = this.travelRepository.findByIdtrailer(r_aux.getRegistrationtag());
 					
 					cons = new Query2Class();
 					
@@ -116,12 +116,12 @@ public class QueryController {
 	
 	
 	
-	@PostMapping(value="cargas")
-	public List<Query1Class> consulta_grande(@RequestParam int max, @RequestParam String brand) {
+	@PostMapping(value="query1")
+	public List<Query1Class> query1(@RequestParam int max, @RequestParam String brand) {
 		
-		List<Load> loads_list = this.cargaRepository.findByLoadGreaterThan(max);
+		List<Load> loads_list = this.loadRepository.findByLoadGreaterThan(max);
 		
-		List<Trailer> trailer_list= this.remolqueRepository.findByBrand(brand);
+		List<Trailer> trailer_list= this.trailerRepository.findByBrand(brand);
 		
 		Load load_aux;
 		
