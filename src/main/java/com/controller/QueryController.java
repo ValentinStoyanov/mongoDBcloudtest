@@ -13,13 +13,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.model.Truck;
 import com.model.Load;
-import com.model.CargaRemolque;
 import com.model.Driver;
 import com.model.OriginDestiny;
 import com.model.Trailer;
 import com.model.Travel;
 import com.persistance.TruckRepository;
-import com.persistance.CargaRemolqueRepository;
 import com.persistance.LoadRepository;
 import com.persistance.DriverRepository;
 import com.persistance.OriginDestinyRepository;
@@ -48,9 +46,6 @@ public class QueryController {
 	
 	@Autowired
 	private OriginDestinyRepository orepository;
-	
-	@Autowired
-	private CargaRemolqueRepository crrepository;
 	
 		
 	
